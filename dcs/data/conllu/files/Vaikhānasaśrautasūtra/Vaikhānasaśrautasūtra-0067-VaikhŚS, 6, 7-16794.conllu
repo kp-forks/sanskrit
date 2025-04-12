@@ -3,35 +3,35 @@
 ## chapter: VaikhŚS, 6, 7
 ## chapter_id: 16794
 # text = āśrāvya pratyāśrāvite samidho yajeti prathamaṃ prayājaṃ saṃpreṣyati yaja yajety uttarān
-# sent_id = 728833
+# sent_id = 733212
 # sent_counter = 1
 # sent_subcounter = 
 1	āśrāvya	āśrāvay	VERB	_	VerbForm=Conv	_	_	_	LemmaId=199702|OccId=5803083|Unsandhied=āśrāvya
 2	pratyāśrāvite	pratyāśrāvay	VERB	_	Case=Loc|Gender=Masc|Number=Sing|VerbForm=Part	_	_	_	LemmaId=162816|OccId=5803084|Unsandhied=pratyāśrāvite
-3	samidho	samidh	NOUN	_	Case=Acc|Gender=Fem|Number=Plur	_	_	_	LemmaId=30129|OccId=5803085|Unsandhied=samidhaḥ
+3	samidho	samidh	NOUN	_	Case=Acc|Gender=Fem|Number=Plur	_	_	_	LemmaId=30129|OccId=5803085|Unsandhied=samidhaḥ|IsMantra=True
 4-5	yajeti	_	_	_	_	_	_	_	_
-4	yaja	yaj	VERB	_	Tense=Pres|Mood=Imp|Person=2|Number=Sing	_	_	_	LemmaId=157422|OccId=5803086|Unsandhied=yaja
+4	yaja	yaj	VERB	_	Tense=Pres|Mood=Imp|Person=2|Number=Sing	_	_	_	LemmaId=157422|OccId=5803086|Unsandhied=yaja|IsMantra=True
 5	iti	iti	PART	_		_	_	_	LemmaId=63331|OccId=5803087|Unsandhied=iti
 6	prathamaṃ	prathama	ADJ	_	Case=Acc|Gender=Masc|Number=Sing	_	_	_	LemmaId=140448|OccId=5803088|Unsandhied=prathamam
 7	prayājaṃ	prayāja	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	_	_	_	LemmaId=154529|OccId=5803089|Unsandhied=prayājam
 8	saṃpreṣyati	saṃpreṣ	VERB	_	Tense=Pres|Mood=Ind|Person=3|Number=Sing	_	_	_	LemmaId=209165|OccId=5803090|Unsandhied=saṃpreṣyati
-9	yaja	yaj	VERB	_	Tense=Pres|Mood=Imp|Person=2|Number=Sing	_	_	_	LemmaId=157422|OccId=5803091|Unsandhied=yaja
+9	yaja	yaj	VERB	_	Tense=Pres|Mood=Imp|Person=2|Number=Sing	_	_	_	LemmaId=157422|OccId=5803091|Unsandhied=yaja|IsMantra=True
 10-11	yajety	_	_	_	_	_	_	_	_
-10	yaja	yaj	VERB	_	Tense=Pres|Mood=Imp|Person=2|Number=Sing	_	_	_	LemmaId=157422|OccId=5803092|Unsandhied=yaja
+10	yaja	yaj	VERB	_	Tense=Pres|Mood=Imp|Person=2|Number=Sing	_	_	_	LemmaId=157422|OccId=5803092|Unsandhied=yaja|IsMantra=True
 11	iti	iti	PART	_		_	_	_	LemmaId=63331|OccId=5803093|Unsandhied=iti
 12	uttarān	uttara	ADJ	_	Case=Acc|Gender=Masc|Number=Plur	_	_	_	LemmaId=55672|OccId=5803094|Unsandhied=uttarān|Punctuation=fullStop
 
 # text = yajamānaś caturhotāraṃ vyākhyāya vasantam ṛtūṇāṃ prīṇāmīty etaiḥ prayājānāṃ hutaṃ hutam anumantrayate
-# sent_id = 728834
+# sent_id = 733213
 # sent_counter = 2
 # sent_subcounter = 
 1	yajamānaś	yaj	VERB	_	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part	_	_	_	LemmaId=157422|OccId=5803095|Unsandhied=yajamānaḥ
 2	caturhotāraṃ	caturhotṛ	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	_	_	_	LemmaId=164246|OccId=5803096|Unsandhied=caturhotāram
 3	vyākhyāya	vyākhyā	VERB	_	VerbForm=Conv	_	_	_	LemmaId=164616|OccId=5803097|Unsandhied=vyākhyāya
-4	vasantam	vasanta	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	_	_	_	LemmaId=75210|OccId=5803098|Unsandhied=vasantam
-5	ṛtūṇāṃ	ṛtu	NOUN	_	Case=Gen|Gender=Masc|Number=Plur	_	_	_	LemmaId=38726|OccId=5803155|Unsandhied=ṛtūṇām
+4	vasantam	vasanta	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	_	_	_	LemmaId=75210|OccId=5803098|Unsandhied=vasantam|IsMantra=True
+5	ṛtūṇāṃ	ṛtu	NOUN	_	Case=Gen|Gender=Masc|Number=Plur	_	_	_	LemmaId=38726|OccId=5803155|Unsandhied=ṛtūṇām|IsMantra=True
 6-7	prīṇāmīty	_	_	_	_	_	_	_	_
-6	prīṇāmi	prī	VERB	_	Tense=Pres|Mood=Ind|Person=1|Number=Sing	_	_	_	LemmaId=159834|OccId=5803099|Unsandhied=prīṇāmi
+6	prīṇāmi	prī	VERB	_	Tense=Pres|Mood=Ind|Person=1|Number=Sing	_	_	_	LemmaId=159834|OccId=5803099|Unsandhied=prīṇāmi|IsMantra=True
 7	iti	iti	PART	_		_	_	_	LemmaId=63331|OccId=5803100|Unsandhied=iti
 8	etaiḥ	etad	PRON	_	Case=Ins|Gender=Neut|Number=Plur	_	_	_	LemmaId=163744|OccId=5803101|Unsandhied=etaiḥ
 9	prayājānāṃ	prayāja	NOUN	_	Case=Gen|Gender=Masc|Number=Plur	_	_	_	LemmaId=154529|OccId=5803102|Unsandhied=prayājānām
@@ -40,7 +40,7 @@
 12	anumantrayate	anumantray	VERB	_	Tense=Pres|Mood=Ind|Person=3|Number=Sing	_	_	_	LemmaId=157960|OccId=5803105|Unsandhied=anumantrayate|Punctuation=fullStop
 
 # text = adhvaryuḥ samidhaḥ purastāj juhuyāt tanūnapātaṃ dakṣiṇata iḍaḥ paścāt
-# sent_id = 728835
+# sent_id = 733214
 # sent_counter = 3
 # sent_subcounter = 
 1	adhvaryuḥ	adhvaryu	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=9748|OccId=5803106|Unsandhied=adhvaryuḥ
@@ -53,7 +53,7 @@
 8	paścāt	paścāt	ADV	_		_	_	_	LemmaId=92800|OccId=5803113|Unsandhied=paścāt|Punctuation=fullStop
 
 # text = ardham aupabhṛtam ājyaṃ juhvām ānīya barhir uttarato madhye svāhākāram
-# sent_id = 728836
+# sent_id = 733215
 # sent_counter = 4
 # sent_subcounter = 
 1	ardham	ardha	ADJ	_	Case=Acc|Gender=Neut|Number=Sing	_	_	_	LemmaId=53321|OccId=5803114|Unsandhied=ardham
@@ -69,7 +69,7 @@
 10	kāram	kṛ	VERB	_	VerbForm=Conv	_	_	_	LemmaId=156168|OccId=5803123|Unsandhied=kāram|Punctuation=fullStop
 
 # text = udaṅṅ atyākramya prayājaśeṣeṇa havīṃṣy abhighārayati yad anupūrvāṇi pradīyante
-# sent_id = 728837
+# sent_id = 733216
 # sent_counter = 5
 # sent_subcounter = 
 1	udaṅṅ	udañc	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=166381|OccId=5803124|Unsandhied=udaṅ
@@ -84,7 +84,7 @@
 9	pradīyante	pradā	VERB	_	Tense=Pres|Mood=Ind|Voice=Pass|Person=3|Number=Plur	_	_	_	LemmaId=162876|OccId=5803132|Unsandhied=pradīyante|Punctuation=fullStop
 
 # text = dhruvām abhighāryāgneyam abhighārayaty upabhṛtam antataḥ
-# sent_id = 728838
+# sent_id = 733217
 # sent_counter = 6
 # sent_subcounter = 
 1	dhruvām	dhruvā	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	_	_	_	LemmaId=43251|OccId=5803133|Unsandhied=dhruvām
@@ -96,7 +96,7 @@
 6	antataḥ	antatas	ADV	_		_	_	_	LemmaId=11671|OccId=5803138|Unsandhied=antatas
 
 # text = ājyabhāgāv ājyahaviṣkau prabāhug jyotiṣy uttarārdhe 'gnaye dakṣiṇārdhe somāya
-# sent_id = 728839
+# sent_id = 733218
 # sent_counter = 7
 # sent_subcounter = 
 1	ājyabhāgāv	ājyabhāga	NOUN	_	Case=Nom|Gender=Masc|Number=Dual	_	_	_	LemmaId=212353|OccId=5803139|Unsandhied=ājyabhāgau
@@ -115,7 +115,7 @@
 11	somāya	soma	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	_	_	_	LemmaId=100106|OccId=5803149|Unsandhied=somāya|Punctuation=fullStop
 
 # text = tāv antareṇetarā āhutīr juhoti
-# sent_id = 728840
+# sent_id = 733219
 # sent_counter = 8
 # sent_subcounter = 
 1	tāv	tad	PRON	_	Case=Acc|Gender=Masc|Number=Dual	_	_	_	LemmaId=37875|OccId=5803150|Unsandhied=tau

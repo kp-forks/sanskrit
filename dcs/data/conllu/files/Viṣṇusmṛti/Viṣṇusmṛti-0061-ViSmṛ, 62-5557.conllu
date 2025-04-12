@@ -3,7 +3,7 @@
 ## chapter: ViSmṛ, 62
 ## chapter_id: 5557
 # text = atha dvijātīnāṃ kanīnikāmūle prājāpatyaṃ nāma tīrtham
-# sent_id = 442899
+# sent_id = 443191
 # sent_counter = 1
 # sent_subcounter = 1
 1	atha	atha	ADV	_		_	_	_	LemmaId=7467|OccId=2378038|Unsandhied=atha|UnsandhiedReconstructed=True
@@ -16,7 +16,7 @@
 7	tīrtham	tīrtha	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=82616|OccId=2378044|Unsandhied=tīrtham|UnsandhiedReconstructed=True|Punctuation=fullStop
 
 # text = aṅguṣṭhamūle brāhmam
-# sent_id = 442900
+# sent_id = 443192
 # sent_counter = 2
 # sent_subcounter = 1
 1-2	aṅguṣṭhamūle	_	_	_	_	_	_	_	_
@@ -25,7 +25,7 @@
 3	brāhmam	brāhma	ADJ	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=149737|OccId=2378047|Unsandhied=brāhmam|UnsandhiedReconstructed=True
 
 # text = aṅgulyagre daivam
-# sent_id = 442901
+# sent_id = 443193
 # sent_counter = 3
 # sent_subcounter = 1
 1-2	aṅgulyagre	_	_	_	_	_	_	_	_
@@ -34,7 +34,7 @@
 3	daivam	daiva	ADJ	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=89891|OccId=2378050|Unsandhied=daivam|UnsandhiedReconstructed=True
 
 # text = tarjanīmūle pitryam
-# sent_id = 442902
+# sent_id = 443194
 # sent_counter = 4
 # sent_subcounter = 1
 1-2	tarjanīmūle	_	_	_	_	_	_	_	_
@@ -43,37 +43,47 @@
 3	pitryam	pitrya	ADJ	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=95027|OccId=2378053|Unsandhied=pitryam|UnsandhiedReconstructed=True
 
 # text = anagnyuṣṇābhir aphenilābhiḥ aśūdraikakarāvarjitābhir akṣārābhir adbhiḥ śucau deśe svāsīno 'ntarjānu prāṅmukhaś codaṅmukho vā tanmanāḥ sumanāścācāmet
-# sent_id = 442903
+# sent_id = 443195
 # sent_counter = 5
 # sent_subcounter = 1
-1-2	anagnyuṣṇābhir	_	_	_	_	_	_	_	_
-1	anagni	anagni	ADJ	_	Case=Cpd	_	_	_	LemmaId=9772|OccId=2378054|Unsandhied=anagni|UnsandhiedReconstructed=True
-2	uṣṇābhiḥ	uṣṇa	ADJ	_	Case=Ins|Gender=Fem|Number=Plur	_	_	_	LemmaId=38219|OccId=2378055|Unsandhied=uṣṇābhiḥ|UnsandhiedReconstructed=True
-3	aphenilābhiḥ	aphenila	ADJ	_	Case=Ins|Gender=Fem|Number=Plur	_	_	_	LemmaId=203418|OccId=2378056|Unsandhied=aphenilābhiḥ|UnsandhiedReconstructed=True
-4	aśūdraikakarāvarjitābhir	akṣāra	ADJ	_	Case=Ins|Gender=Fem|Number=Plur	_	_	_	LemmaId=5514|OccId=2378057|Unsandhied=akṣārābhiḥ|UnsandhiedReconstructed=True
-5	akṣārābhir	ap	NOUN	_	Case=Ins|Gender=Fem|Number=Plur	_	_	_	LemmaId=167009|OccId=5498605|Unsandhied=adbhiḥ
-6	adbhiḥ	śuci	ADJ	_	Case=Loc|Gender=Masc|Number=Sing	_	_	_	LemmaId=126317|OccId=2378059|Unsandhied=śucau|UnsandhiedReconstructed=True
-7	śucau	deśa	NOUN	_	Case=Loc|Gender=Masc|Number=Sing	_	_	_	LemmaId=87204|OccId=2378060|Unsandhied=deśe|UnsandhiedReconstructed=True
-8-9	deśe	_	_	_	_	_	_	_	_
-8	su	su	ADV	_		_	_	_	LemmaId=204329|OccId=2378061|Unsandhied=su|UnsandhiedReconstructed=True
-9	āsīnaḥ	ās	VERB	_	Case=Nom|Gender=Masc|Number=Sing|VerbForm=Part	_	_	_	LemmaId=156126|OccId=2378062|Unsandhied=āsīnaḥ|UnsandhiedReconstructed=True
-10	svāsīno	antarjānu	ADV	_		_	_	_	LemmaId=11800|OccId=2378063|Unsandhied=antarjānu|UnsandhiedReconstructed=True
-11-12	'ntarjānu	_	_	_	_	_	_	_	_
-11	prāc	prāñc	ADJ	_	Case=Cpd	_	_	_	LemmaId=166382|OccId=5498606|Unsandhied=prāc
-12	mukhaḥ	mukha	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=136827|OccId=5498607|Unsandhied=mukhaḥ
-13-15	prāṅmukhaś	_	_	_	_	_	_	_	_
-13	ca	ca	CONJ	_		_	_	_	LemmaId=157144|OccId=5498608|Unsandhied=ca
-14	udak	udañc	ADJ	_	Case=Cpd	_	_	_	LemmaId=166381|OccId=5498609|Unsandhied=udak
-15	mukhaḥ	mukha	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=136827|OccId=5498610|Unsandhied=mukhaḥ
-16	codaṅmukho	vā	CONJ	_		_	_	_	LemmaId=75765|OccId=2378067|Unsandhied=vā|UnsandhiedReconstructed=True
-17	vā	tanmanas	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=96115|OccId=2378068|Unsandhied=tanmanāḥ|UnsandhiedReconstructed=True
-18-20	tanmanāḥ	_	_	_	_	_	_	_	_
-18	sumanāḥ	sumanas	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=108342|OccId=2378069|Unsandhied=sumanāḥ|UnsandhiedReconstructed=True
-19	ca	ca	CONJ	_		_	_	_	LemmaId=157144|OccId=2378070|Unsandhied=ca|UnsandhiedReconstructed=True
-20	ācāmet	ācam	VERB	_	Tense=Pres|Mood=Opt|Person=3|Number=Sing	_	_	_	LemmaId=159737|OccId=2378071|Unsandhied=ācāmet|Punctuation=fullStop
+1-3	anagnyuṣṇābhir	_	_	_	_	_	_	_	_
+1	an	an	PART	_		_	_	_	LemmaId=213304|OccId=5842617|Unsandhied=an
+2	agni	agni	NOUN	_	Case=Cpd	_	_	_	LemmaId=5705|OccId=5842618|Unsandhied=agni
+3	uṣṇābhiḥ	uṣṇa	ADJ	_	Case=Ins|Gender=Fem|Number=Plur	_	_	_	LemmaId=38219|OccId=5842619|Unsandhied=uṣṇābhiḥ
+4-5	aphenilābhiḥ	_	_	_	_	_	_	_	_
+4	a	a	PART	_		_	_	_	LemmaId=213048|OccId=5842620|Unsandhied=a
+5	phenilābhiḥ	phenila	ADJ	_	Case=Ins|Gender=Fem|Number=Plur	_	_	_	LemmaId=154173|OccId=5842621|Unsandhied=phenilābhiḥ
+6-11	aśūdraikakarāvarjitābhir	_	_	_	_	_	_	_	_
+6	a	a	PART	_		_	_	_	LemmaId=213048|OccId=5842622|Unsandhied=a
+7	śūdra	śūdra	NOUN	_	Case=Cpd	_	_	_	LemmaId=127190|OccId=5842623|Unsandhied=śūdra
+8	eka	eka	NUM	_	Case=Cpd	_	_	_	LemmaId=39102|OccId=5842624|Unsandhied=eka
+9	kara	kara	NOUN	_	Case=Cpd	_	_	_	LemmaId=2230|OccId=5842625|Unsandhied=kara
+10	a	a	PART	_		_	_	_	LemmaId=213048|OccId=5842626|Unsandhied=a
+11	varjitābhiḥ	varjay	VERB	_	Case=Ins|Gender=Fem|Number=Plur|VerbForm=Part	_	_	_	LemmaId=157900|OccId=5842627|Unsandhied=varjitābhiḥ
+12	akṣārābhir	akṣāra	ADJ	_	Case=Ins|Gender=Fem|Number=Plur	_	_	_	LemmaId=5514|OccId=2378057|Unsandhied=akṣārābhiḥ|UnsandhiedReconstructed=True
+13	adbhiḥ	ap	NOUN	_	Case=Ins|Gender=Fem|Number=Plur	_	_	_	LemmaId=167009|OccId=5498605|Unsandhied=adbhiḥ
+14	śucau	śuci	ADJ	_	Case=Loc|Gender=Masc|Number=Sing	_	_	_	LemmaId=126317|OccId=2378059|Unsandhied=śucau|UnsandhiedReconstructed=True
+15	deśe	deśa	NOUN	_	Case=Loc|Gender=Masc|Number=Sing	_	_	_	LemmaId=87204|OccId=2378060|Unsandhied=deśe|UnsandhiedReconstructed=True
+16-17	svāsīno	_	_	_	_	_	_	_	_
+16	su	su	ADV	_		_	_	_	LemmaId=204329|OccId=2378061|Unsandhied=su|UnsandhiedReconstructed=True
+17	āsīnaḥ	ās	VERB	_	Case=Nom|Gender=Masc|Number=Sing|VerbForm=Part	_	_	_	LemmaId=156126|OccId=2378062|Unsandhied=āsīnaḥ|UnsandhiedReconstructed=True
+18	'ntarjānu	antarjānu	ADV	_		_	_	_	LemmaId=11800|OccId=2378063|Unsandhied=antarjānu|UnsandhiedReconstructed=True
+19-20	prāṅmukhaś	_	_	_	_	_	_	_	_
+19	prāc	prāñc	ADJ	_	Case=Cpd	_	_	_	LemmaId=166382|OccId=5498606|Unsandhied=prāc
+20	mukhaḥ	mukha	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=136827|OccId=5498607|Unsandhied=mukhaḥ
+21-23	codaṅmukho	_	_	_	_	_	_	_	_
+21	ca	ca	CONJ	_		_	_	_	LemmaId=157144|OccId=5498608|Unsandhied=ca
+22	udak	udañc	ADJ	_	Case=Cpd	_	_	_	LemmaId=166381|OccId=5498609|Unsandhied=udak
+23	mukhaḥ	mukha	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=136827|OccId=5498610|Unsandhied=mukhaḥ
+24	vā	vā	CONJ	_		_	_	_	LemmaId=75765|OccId=2378067|Unsandhied=vā|UnsandhiedReconstructed=True
+25	tanmanāḥ	tanmanas	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=96115|OccId=2378068|Unsandhied=tanmanāḥ|UnsandhiedReconstructed=True
+26-28	sumanāścācāmet	_	_	_	_	_	_	_	_
+26	sumanāḥ	sumanas	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=108342|OccId=2378069|Unsandhied=sumanāḥ|UnsandhiedReconstructed=True
+27	ca	ca	CONJ	_		_	_	_	LemmaId=157144|OccId=2378070|Unsandhied=ca|UnsandhiedReconstructed=True
+28	ācāmet	ācam	VERB	_	Tense=Pres|Mood=Opt|Person=3|Number=Sing	_	_	_	LemmaId=159737|OccId=2378071|Unsandhied=ācāmet|Punctuation=fullStop
 
 # text = brāhmeṇa tīrthena trir ācāmet
-# sent_id = 442904
+# sent_id = 443196
 # sent_counter = 6
 # sent_subcounter = 1
 1	brāhmeṇa	brāhma	ADJ	_	Case=Ins|Gender=Neut|Number=Sing	_	_	_	LemmaId=149737|OccId=2378072|Unsandhied=brāhmena|UnsandhiedReconstructed=True
@@ -82,14 +92,14 @@
 4	ācāmet	ācam	VERB	_	Tense=Pres|Mood=Opt|Person=3|Number=Sing	_	_	_	LemmaId=159737|OccId=2378075|Unsandhied=ācāmet
 
 # text = dviḥ pramṛjyāt
-# sent_id = 442905
+# sent_id = 443197
 # sent_counter = 7
 # sent_subcounter = 1
 1	dviḥ	dvis	ADV	_		_	_	_	LemmaId=91383|OccId=2378076|Unsandhied=dvis|UnsandhiedReconstructed=True
 2	pramṛjyāt	pramṛj	VERB	_	Tense=Pres|Mood=Opt|Person=3|Number=Sing	_	_	_	LemmaId=162966|OccId=2378077|Unsandhied=pramṛjyāt
 
 # text = khānyadbhir mūrdhānaṃ hṛdayaṃ spṛśet
-# sent_id = 442906
+# sent_id = 443198
 # sent_counter = 8
 # sent_subcounter = 1
 1-2	khānyadbhir	_	_	_	_	_	_	_	_
@@ -100,7 +110,7 @@
 5	spṛśet	spṛś	VERB	_	Tense=Pres|Mood=Opt|Person=3|Number=Sing	_	_	_	LemmaId=157624|OccId=2378082|Unsandhied=spṛśet|Punctuation=fullStop
 
 # text = hṛtkaṇṭhatālugābhiśca yathāsaṃkhyaṃ dvijātayaḥ
-# sent_id = 442907
+# sent_id = 443199
 # sent_counter = 9
 # sent_subcounter = 1
 1-5	hṛtkaṇṭhatālugābhiśca	_	_	_	_	_	_	_	_
@@ -113,7 +123,7 @@
 7	dvijātayaḥ	dvijāti	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	_	_	_	LemmaId=91009|OccId=2378089|Unsandhied=dvijātayaḥ|UnsandhiedReconstructed=True
 
 # text = śudhyeran strī ca śūdraśca sakṛt spṛṣṭābhir antataḥ
-# sent_id = 442908
+# sent_id = 443200
 # sent_counter = 9
 # sent_subcounter = 2
 1	śudhyeran	śudh	VERB	_	Tense=Pres|Mood=Opt|Voice=Pass|Person=3|Number=Plur	_	_	_	LemmaId=158830|OccId=2378090|Unsandhied=śudhyeran

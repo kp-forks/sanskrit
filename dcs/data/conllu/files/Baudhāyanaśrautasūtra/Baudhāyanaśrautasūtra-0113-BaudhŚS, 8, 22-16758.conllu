@@ -3,7 +3,7 @@
 ## chapter: BaudhŚS, 8, 22
 ## chapter_id: 16758
 # text = athāraṇyor agnīn samārohyodavasāya mathitvāgnīn vihṛtyāgneyam aṣṭākapālam udavasānīyām iṣṭiṃ nirvapati
-# sent_id = 658454
+# sent_id = 660847
 # sent_counter = 1
 # sent_subcounter = 
 1-2	athāraṇyor	_	_	_	_	_	_	_	_
@@ -25,7 +25,7 @@
 13	nirvapati	nirvap	VERB	_	Tense=Pres|Mood=Ind|Person=3|Number=Sing	_	_	_	LemmaId=161438|OccId=5798022|Unsandhied=nirvapati|Punctuation=fullStop
 
 # text = śrapayitvāsādayati
-# sent_id = 658455
+# sent_id = 660848
 # sent_counter = 2
 # sent_subcounter = 
 1-2	śrapayitvāsādayati	_	_	_	_	_	_	_	_
@@ -33,7 +33,7 @@
 2	āsādayati	āsāday	VERB	_	Tense=Pres|Mood=Ind|Person=3|Number=Sing	_	_	_	LemmaId=159999|OccId=5798024|Unsandhied=āsādayati|Punctuation=fullStop
 
 # text = tasyāḥ pañcadaśa sāmidhenyaḥ
-# sent_id = 658456
+# sent_id = 660849
 # sent_counter = 3
 # sent_subcounter = 
 1	tasyāḥ	tad	PRON	_	Case=Gen|Gender=Fem|Number=Sing	_	_	_	LemmaId=37875|OccId=5798025|Unsandhied=tasyāḥ
@@ -41,43 +41,43 @@
 3	sāmidhenyaḥ	sāmidhenī	NOUN	_	Case=Nom|Gender=Fem|Number=Plur	_	_	_	LemmaId=112748|OccId=5798027|Unsandhied=sāmidhenyaḥ|Punctuation=comma
 
 # text = pañca prayājāḥ
-# sent_id = 658457
+# sent_id = 660850
 # sent_counter = 4
 # sent_subcounter = 
 1	pañca	pañcan	NUM	_	Case=Nom|Gender=Masc|Number=Plur	_	_	_	LemmaId=165692|OccId=5798028|Unsandhied=pañca
 2	prayājāḥ	prayāja	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	_	_	_	LemmaId=154529|OccId=5798029|Unsandhied=prayājāḥ|Punctuation=fullStop
 
 # text = vārtraghnāv ājyabhāgau
-# sent_id = 658458
+# sent_id = 660851
 # sent_counter = 5
 # sent_subcounter = 
 1	vārtraghnāv	vārtraghna	ADJ	_	Case=Nom|Gender=Masc|Number=Dual	_	_	_	LemmaId=46696|OccId=5798030|Unsandhied=vārtraghnau
 2	ājyabhāgau	ājyabhāga	NOUN	_	Case=Nom|Gender=Masc|Number=Dual	_	_	_	LemmaId=212353|OccId=5798031|Unsandhied=ājyabhāgau|Punctuation=fullStop
 
 # text = atha haviṣo 'gne tam adyādhā hy agna iti
-# sent_id = 658459
+# sent_id = 660852
 # sent_counter = 6
 # sent_subcounter = 
 1	atha	atha	ADV	_		_	_	_	LemmaId=7467|OccId=5798032|Unsandhied=atha
 2	haviṣo	havis	NOUN	_	Case=Gen|Gender=Neut|Number=Sing	_	_	_	LemmaId=109386|OccId=5798033|Unsandhied=haviṣaḥ
-3	'gne	agni	NOUN	_	Case=Voc|Gender=Masc|Number=Sing	_	_	_	LemmaId=5705|OccId=5798034|Unsandhied=agne
-4	tam	tad	PRON	_	Case=Acc|Gender=Masc|Number=Sing	_	_	_	LemmaId=37875|OccId=5798035|Unsandhied=tam
+3	'gne	agni	NOUN	_	Case=Voc|Gender=Masc|Number=Sing	_	_	_	LemmaId=5705|OccId=5798034|Unsandhied=agne|IsMantra=True
+4	tam	tad	PRON	_	Case=Acc|Gender=Masc|Number=Sing	_	_	_	LemmaId=37875|OccId=5798035|Unsandhied=tam|IsMantra=True
 5-6	adyādhā	_	_	_	_	_	_	_	_
-5	adya	adya	ADV	_		_	_	_	LemmaId=7682|OccId=5798036|Unsandhied=adya
-6	adhāḥ	dhā	VERB	_	Tense=Past|Mood=Ind|Formation=root|Person=2|Number=Sing	_	_	_	LemmaId=157327|OccId=5798037|Unsandhied=adhāḥ
-7	hy	hi	PART	_		_	_	_	LemmaId=109879|OccId=5798038|Unsandhied=hi
-8	agna	agni	NOUN	_	Case=Voc|Gender=Masc|Number=Sing	_	_	_	LemmaId=5705|OccId=5798039|Unsandhied=agne
+5	adya	adya	ADV	_		_	_	_	LemmaId=7682|OccId=5798036|Unsandhied=adya|IsMantra=True
+6	adhāḥ	dhā	VERB	_	Tense=Past|Mood=Ind|Formation=root|Person=2|Number=Sing	_	_	_	LemmaId=157327|OccId=5798037|Unsandhied=adhāḥ|IsMantra=True
+7	hy	hi	PART	_		_	_	_	LemmaId=109879|OccId=5798038|Unsandhied=hi|IsMantra=True
+8	agna	agni	NOUN	_	Case=Voc|Gender=Masc|Number=Sing	_	_	_	LemmaId=5705|OccId=5798039|Unsandhied=agne|IsMantra=True
 9	iti	iti	PART	_		_	_	_	LemmaId=63331|OccId=5798040|Unsandhied=iti|Punctuation=fullStop
 
 # text = triṣṭubhau saṃyājye
-# sent_id = 658460
+# sent_id = 660853
 # sent_counter = 7
 # sent_subcounter = 
 1	triṣṭubhau	triṣṭubh	NOUN	_	Case=Nom|Gender=Fem|Number=Dual	_	_	_	LemmaId=84308|OccId=5798041|Unsandhied=triṣṭubhau
 2	saṃyājye	saṃyājyā	NOUN	_	Case=Nom|Gender=Fem|Number=Dual	_	_	_	LemmaId=42129|OccId=5798042|Unsandhied=saṃyājye|Punctuation=fullStop
 
 # text = anvāhāryam āsādyānaḍvāhaṃ dadāti
-# sent_id = 658461
+# sent_id = 660854
 # sent_counter = 8
 # sent_subcounter = 
 1	anvāhāryam	anvāhārya	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	_	_	_	LemmaId=20628|OccId=5798043|Unsandhied=anvāhāryam
@@ -87,7 +87,7 @@
 4	dadāti	dā	VERB	_	Tense=Pres|Mood=Ind|Person=3|Number=Sing	_	_	_	LemmaId=157372|OccId=5798046|Unsandhied=dadāti|Punctuation=fullStop
 
 # text = sā prasiddheṣṭiḥ saṃtiṣṭhate
-# sent_id = 658462
+# sent_id = 660855
 # sent_counter = 9
 # sent_subcounter = 
 1	sā	tad	PRON	_	Case=Nom|Gender=Fem|Number=Sing	_	_	_	LemmaId=37875|OccId=5798047|Unsandhied=sā
@@ -97,7 +97,7 @@
 4	saṃtiṣṭhate	saṃsthā	VERB	_	Tense=Pres|Mood=Ind|Person=3|Number=Sing	_	_	_	LemmaId=164822|OccId=5798050|Unsandhied=saṃtiṣṭhate|Punctuation=fullStop
 
 # text = athāraṇyor agnīn samārohyodavasāya mathitvāgnīn vihṛtya pūrvāṇi devikāhavīṃṣi nirvapaty anumatyai caruṃ rākāyai caruṃ dhātre puroḍāśaṃ dvādaśakapālam iti
-# sent_id = 658463
+# sent_id = 660856
 # sent_counter = 10
 # sent_subcounter = 
 1-2	athāraṇyor	_	_	_	_	_	_	_	_
@@ -128,7 +128,7 @@
 21	iti	iti	PART	_		_	_	_	LemmaId=63331|OccId=5798071|Unsandhied=iti|Punctuation=fullStop
 
 # text = anvāhāryam āsādya vatsatarīṃ dadāti
-# sent_id = 658464
+# sent_id = 660857
 # sent_counter = 11
 # sent_subcounter = 
 1	anvāhāryam	anvāhārya	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	_	_	_	LemmaId=20628|OccId=5798072|Unsandhied=anvāhāryam
@@ -137,7 +137,7 @@
 4	dadāti	dā	VERB	_	Tense=Pres|Mood=Ind|Person=3|Number=Sing	_	_	_	LemmaId=157372|OccId=5798075|Unsandhied=dadāti|Punctuation=fullStop
 
 # text = sā prasiddheṣṭiḥ saṃtiṣṭhate
-# sent_id = 658465
+# sent_id = 660858
 # sent_counter = 12
 # sent_subcounter = 
 1	sā	tad	PRON	_	Case=Nom|Gender=Fem|Number=Sing	_	_	_	LemmaId=37875|OccId=5798076|Unsandhied=sā
@@ -147,7 +147,7 @@
 4	saṃtiṣṭhate	saṃsthā	VERB	_	Tense=Pres|Mood=Ind|Person=3|Number=Sing	_	_	_	LemmaId=164822|OccId=5798079|Unsandhied=saṃtiṣṭhate|Punctuation=fullStop
 
 # text = atha tadānīm eva pṛṣṭhyāṃ stīrtvāpaḥ praṇīyottarāṇi devikāhavīṃṣi nirvapati sinīvālyai caruṃ kuhvai caruṃ dhātra eva puroḍāśaṃ dvādaśakapālam iti
-# sent_id = 658466
+# sent_id = 660859
 # sent_counter = 13
 # sent_subcounter = 
 1	atha	atha	ADV	_		_	_	_	LemmaId=7467|OccId=5798080|Unsandhied=atha
@@ -177,7 +177,7 @@
 21	iti	iti	PART	_		_	_	_	LemmaId=63331|OccId=5798098|Unsandhied=iti|Punctuation=fullStop
 
 # text = anvāhāryam āsādya vatsataraṃ dadāti
-# sent_id = 658467
+# sent_id = 660860
 # sent_counter = 14
 # sent_subcounter = 
 1	anvāhāryam	anvāhārya	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	_	_	_	LemmaId=20628|OccId=5798099|Unsandhied=anvāhāryam
@@ -186,7 +186,7 @@
 4	dadāti	dā	VERB	_	Tense=Pres|Mood=Ind|Person=3|Number=Sing	_	_	_	LemmaId=157372|OccId=5798102|Unsandhied=dadāti|Punctuation=fullStop
 
 # text = sā prasiddheṣṭiḥ saṃtiṣṭhate
-# sent_id = 658468
+# sent_id = 660861
 # sent_counter = 15
 # sent_subcounter = 
 1	sā	tad	PRON	_	Case=Nom|Gender=Fem|Number=Sing	_	_	_	LemmaId=37875|OccId=5798103|Unsandhied=sā
@@ -196,7 +196,7 @@
 4	saṃtiṣṭhate	saṃsthā	VERB	_	Tense=Pres|Mood=Ind|Person=3|Number=Sing	_	_	_	LemmaId=164822|OccId=5798106|Unsandhied=saṃtiṣṭhate|Punctuation=fullStop
 
 # text = athāraṇyor agnīn samārohya svāny agnyāyatanāny adhyavasāya mathitvāgnīn vihṛtya sāyaṃprātaragnihotre pratijuhoti
-# sent_id = 658469
+# sent_id = 660862
 # sent_counter = 16
 # sent_subcounter = 
 1-2	athāraṇyor	_	_	_	_	_	_	_	_
@@ -220,7 +220,7 @@
 15	pratijuhoti	pratihu	VERB	_	Tense=Pres|Mood=Ind|Person=3|Number=Sing	_	_	_	LemmaId=162712|OccId=5798118|Unsandhied=pratijuhoti|Punctuation=fullStop
 
 # text = saṃtiṣṭhate 'gniṣṭomaḥ saṃtiṣṭhate 'gniṣṭomaḥ
-# sent_id = 658470
+# sent_id = 660863
 # sent_counter = 17
 # sent_subcounter = 
 1	saṃtiṣṭhate	saṃsthā	VERB	_	Tense=Pres|Mood=Ind|Person=3|Number=Sing	_	_	_	LemmaId=164822|OccId=5798119|Unsandhied=saṃtiṣṭhate

@@ -2,292 +2,244 @@
 ## text_id: 468
 ## chapter: AVP, 10, 9
 ## chapter_id: 14731
-# text = ye 'psv antar agnayaḥ praviṣṭā mroko manohā khano nirdāha ātmadūṣis tanadūṣiḥ
-# sent_id = 634657
-# sent_counter = 1
-# sent_subcounter = 1
-1	ye	yad	PRON	_	Case=Nom|Gender=Masc|Number=Plur	_	_	_	LemmaId=37877|OccId=5399578|Unsandhied=ye
-2	'psv	ap	NOUN	_	Case=Loc|Gender=Fem|Number=Plur	_	_	_	LemmaId=167009|OccId=5399579|Unsandhied=apsu
-3	antar	antar	ADV	_		_	_	_	LemmaId=167614|OccId=5399580|Unsandhied=antar
-4	agnayaḥ	agni	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	_	_	_	LemmaId=5705|OccId=5399581|Unsandhied=agnayaḥ
-5	praviṣṭā	praviś	VERB	_	Case=Nom|Gender=Masc|Number=Plur|VerbForm=Part	_	_	_	LemmaId=163055|OccId=5399582|Unsandhied=praviṣṭāḥ
-6	mroko	mroka	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=72729|OccId=5399583|Unsandhied=mrokaḥ
-7-8	manohā	_	_	_	_	_	_	_	_
-7	manaḥ	manas	NOUN	_	Case=Cpd	_	_	_	LemmaId=36096|OccId=5399584|Unsandhied=manaḥ
-8	hā	han	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=166068|OccId=5399585|Unsandhied=hā
-9	khano	khana	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=128774|OccId=5399586|Unsandhied=khanaḥ
-10	nirdāha	nirdāha	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=27767|OccId=5399587|Unsandhied=nirdāhaḥ
-11-12	ātmadūṣis	_	_	_	_	_	_	_	_
-11	ātma	ātman	NOUN	_	Case=Cpd	_	_	_	LemmaId=57749|OccId=5399588|Unsandhied=ātma
-12	dūṣiḥ	dūṣi	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=86096|OccId=5399589|Unsandhied=dūṣiḥ
-13-14	tanadūṣiḥ	_	_	_	_	_	_	_	_
-13	tana	tana	NOUN	_	Case=Cpd	_	_	_	LemmaId=96140|OccId=5399590|Unsandhied=tana
-14	dūṣiḥ	dūṣi	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=86096|OccId=5399591|Unsandhied=dūṣiḥ|Punctuation=comma
+# text = ye apsu antar agnayaḥ praviṣṭāḥ mrokaḥ manaḥ hā khanaḥ nirdāhaḥ ātma dūṣiḥ tana dūṣiḥ idam tān ati sṛjāmi
+# sent_id = 637051_1
+1	ye	yad	PRON	_	Case=Nom|Gender=Masc|Number=Plur	4	det	_	LemmaId=37877|OccId=5399578|Unsandhied=ye|Annotator=Ol
+2	apsu	ap	NOUN	_	Case=Loc|Gender=Fem|Number=Plur	5	obl:goal	_	LemmaId=167009|OccId=5399579|Unsandhied=apsu|Annotator=Ol
+3	antar	antar	ADV	_	_	2	case	_	LemmaId=167614|OccId=5399580|Unsandhied=antar|Annotator=Ol
+4	agnayaḥ	agni	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	5	nsubj	_	LemmaId=5705|OccId=5399581|Unsandhied=agnayaḥ|Annotator=Ol
+5	praviṣṭāḥ	praviś	VERB	_	Case=Nom|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	16	acl:rel	_	LemmaId=163055|OccId=5399582|Unsandhied=praviṣṭāḥ|Annotator=Ol
+6	mrokaḥ	mroka	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	4	nmod:appos	_	LemmaId=72729|OccId=5399583|Unsandhied=mrokaḥ|Annotator=Ol
+7	manaḥ	manas	NOUN	_	Case=Cpd|Gender=Neut	8	obj	_	LemmaId=36096|OccId=5399584|Unsandhied=manaḥ|Annotator=Ol
+8	hā	han	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	6	conj	_	LemmaId=166068|OccId=5399585|Unsandhied=hā|Annotator=Ol
+9	khanaḥ	khana	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	6	conj	_	LemmaId=128774|OccId=5399586|Unsandhied=khanaḥ|Annotator=Ol
+10	nirdāhaḥ	nirdāha	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	6	conj	_	LemmaId=27767|OccId=5399587|Unsandhied=nirdāhaḥ|Annotator=Ol
+11	ātma	ātman	NOUN	_	Case=Cpd|Gender=Masc	12	obj	_	LemmaId=57749|OccId=5399588|Unsandhied=ātma|Annotator=Ol
+12	dūṣiḥ	dūṣi	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	6	conj	_	LemmaId=86096|OccId=5399589|Unsandhied=dūṣiḥ|Annotator=Ol
+13	tana	tana	NOUN	_	Case=Cpd|Gender=Neut	14	obj	_	LemmaId=96140|OccId=5399590|Unsandhied=tana|Annotator=Ol
+14	dūṣiḥ	dūṣi	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	6	conj	_	LemmaId=86096|OccId=5399591|Unsandhied=dūṣiḥ|Annotator=Ol|Punctuation=comma
+15	idam	idam	PRON	_	Case=Acc|Gender=Neut|Number=Sing	18	advmod	_	LemmaId=37876|OccId=5399592|Unsandhied=idam|Annotator=Ol
+16	tān	tad	PRON	_	Case=Acc|Gender=Masc|Number=Plur	18	obj	_	LemmaId=37875|OccId=5399593|Unsandhied=tān|Annotator=Ol
+17	ati	ati	ADP	_	_	18	advmod	_	LemmaId=167215|OccId=5399594|Unsandhied=ati|Annotator=Ol
+18	sṛjāmi	sṛj	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres	0	root	_	LemmaId=157522|OccId=5399595|Unsandhied=sṛjāmi|Annotator=Ol|Punctuation=fullStop
 
-# text = idaṃ tān ati sṛjāmi nir eno nir anṛtaṃ sṛjāmi
-# sent_id = 634658
-# sent_counter = 1
-# sent_subcounter = 2
-1	idaṃ	idam	PRON	_	Case=Acc|Gender=Neut|Number=Sing	_	_	_	LemmaId=37876|OccId=5399592|Unsandhied=idam
-2	tān	tad	PRON	_	Case=Acc|Gender=Masc|Number=Plur	_	_	_	LemmaId=37875|OccId=5399593|Unsandhied=tān
-3	ati	ati	ADP	_		_	_	_	LemmaId=167215|OccId=5399594|Unsandhied=ati
-4	sṛjāmi	sṛj	VERB	_	Tense=Pres|Mood=Ind|Person=1|Number=Sing	_	_	_	LemmaId=157522|OccId=5399595|Unsandhied=sṛjāmi|Punctuation=fullStop
-5	nir	niḥ	ADP	_		_	_	_	LemmaId=169772|OccId=5399596|Unsandhied=niḥ
-6	eno	enas	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	_	_	_	LemmaId=39712|OccId=5399597|Unsandhied=enaḥ
-7	nir	niḥ	ADP	_		_	_	_	LemmaId=169772|OccId=5399598|Unsandhied=niḥ
-8	anṛtaṃ	anṛta	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	_	_	_	LemmaId=11571|OccId=5399599|Unsandhied=anṛtam
-9	sṛjāmi	sṛj	VERB	_	Tense=Pres|Mood=Ind|Person=1|Number=Sing	_	_	_	LemmaId=157522|OccId=5399600|Unsandhied=sṛjāmi|Punctuation=fullStop
+# text = niḥ enaḥ niḥ anṛtam sṛjāmi
+# sent_id = 637051_2
+1	niḥ	niḥ	ADP	_	_	2	orphan	_	LemmaId=169772|OccId=5399596|Unsandhied=niḥ|Annotator=Ol
+2	enaḥ	enas	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	0	root	_	LemmaId=39712|OccId=5399597|Unsandhied=enaḥ|Annotator=Ol
+3	niḥ	niḥ	ADP	_	_	5	advmod	_	LemmaId=169772|OccId=5399598|Unsandhied=niḥ|Annotator=Ol
+4	anṛtam	anṛta	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	5	obj	_	LemmaId=11571|OccId=5399599|Unsandhied=anṛtam|Annotator=Ol
+5	sṛjāmi	sṛj	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres	2	conj	_	LemmaId=157522|OccId=5399600|Unsandhied=sṛjāmi|Annotator=Ol|Punctuation=fullStop
 
-# text = abhūtyāsatvāya nir duḥṣvapnyaṃ sṛjāmi
-# sent_id = 634659
-# sent_counter = 2
-# sent_subcounter = 1
-1	nir	niḥ	ADP	_		_	_	_	LemmaId=169772|OccId=5399603|Unsandhied=niḥ
-2	duḥṣvapnyaṃ	duḥṣvapnya	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	_	_	_	LemmaId=85060|OccId=5399604|Unsandhied=duḥṣvapnyam
-3	sṛjāmi	sṛj	VERB	_	Tense=Pres|Mood=Ind|Person=1|Number=Sing	_	_	_	LemmaId=157522|OccId=5399605|Unsandhied=sṛjāmi|Punctuation=fullStop
+# text = niḥ duḥṣvapnyam sṛjāmi
+# sent_id = 637052_1
+1	niḥ	niḥ	ADP	_	_	3	advmod	_	LemmaId=169772|OccId=5399603|Unsandhied=niḥ|Annotator=Ol
+2	duḥṣvapnyam	duḥṣvapnya	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	3	obj	_	LemmaId=85060|OccId=5399604|Unsandhied=duḥṣvapnyam|Annotator=Ol
+3	sṛjāmi	sṛj	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres	0	root	_	LemmaId=157522|OccId=5399605|Unsandhied=sṛjāmi|Annotator=Ol|Punctuation=fullStop
 
-# text = vasiṣṭhārundhatī mā pātāṃ prajāpateḥ prastaro bṛhaspateḥ keśāḥ
-# sent_id = 634660
-# sent_counter = 2
-# sent_subcounter = 2
-1-2	vasiṣṭhārundhatī	_	_	_	_	_	_	_	_
-1	vasiṣṭha	vasiṣṭha	NOUN	_	Case=Cpd	_	_	_	LemmaId=75287|OccId=5399606|Unsandhied=vasiṣṭha
-2	arundhatī	arundhatī	NOUN	_	Case=Nom|Gender=Fem|Number=Dual	_	_	_	LemmaId=32805|OccId=5399607|Unsandhied=arundhatī
-3	mā	mad	PRON	_	Case=Acc|Number=Sing	_	_	_	LemmaId=37879|OccId=5399608|Unsandhied=mā
-4	pātāṃ	pā	VERB	_	Tense=Pres|Mood=Imp|Person=3|Number=Dual	_	_	_	LemmaId=157846|OccId=5399609|Unsandhied=pātām|Punctuation=comma
-5	prajāpateḥ	prajāpati	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	_	_	_	LemmaId=151290|OccId=5399610|Unsandhied=prajāpateḥ
-6	prastaro	prastara	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=155771|OccId=5399611|Unsandhied=prastaraḥ
-7	bṛhaspateḥ	bṛhaspati	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	_	_	_	LemmaId=148726|OccId=5399612|Unsandhied=bṛhaspateḥ
-8	keśāḥ	keśa	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	_	_	_	LemmaId=4545|OccId=5399613|Unsandhied=keśāḥ|Punctuation=fullStop
+# text = vasiṣṭha arundhatī mā pātām prajāpateḥ prastaraḥ bṛhaspateḥ keśāḥ
+# sent_id = 637053_1
+1	vasiṣṭha	vasiṣṭha	NOUN	_	Case=Cpd|Gender=Masc	2	compound:coord	_	LemmaId=75287|OccId=5399606|Unsandhied=vasiṣṭha|Annotator=Ol
+2	arundhatī	arundhatī	NOUN	_	Case=Nom|Gender=Fem|Number=Dual	4	nsubj	_	LemmaId=32805|OccId=5399607|Unsandhied=arundhatī|Annotator=Ol
+3	mā	mad	PRON	_	Case=Acc|Number=Sing	4	obj	_	LemmaId=37879|OccId=5399608|Unsandhied=mā|Annotator=Ol
+4	pātām	pā	VERB	_	Mood=Imp|Number=Dual|Person=3|Tense=Pres	0	root	_	LemmaId=157846|OccId=5399609|Unsandhied=pātām|Annotator=Ol|Punctuation=comma
+5	prajāpateḥ	prajāpati	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	6	nmod	_	LemmaId=151290|OccId=5399610|Unsandhied=prajāpateḥ|Annotator=Ol
+6	prastaraḥ	prastara	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	2	conj	_	LemmaId=155771|OccId=5399611|Unsandhied=prastaraḥ|Annotator=Ol
+7	bṛhaspateḥ	bṛhaspati	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	8	nmod	_	LemmaId=148726|OccId=5399612|Unsandhied=bṛhaspateḥ|Annotator=Ol
+8	keśāḥ	keśa	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	2	conj	_	LemmaId=4545|OccId=5399613|Unsandhied=keśāḥ|Annotator=Ol|Punctuation=fullStop
 
-# text = adabdhaṃ cakṣuḥ suśrutau karṇāv akṣitau me prāṇāpānau
-# sent_id = 634661
-# sent_counter = 3
-# sent_subcounter = 1
-1-2	adabdhaṃ	_	_	_	_	_	_	_	_
-1	a	a	PART	_		_	_	_	LemmaId=213048|OccId=5520616|Unsandhied=a
-2	dabdham	dabh	VERB	_	Case=Nom|Gender=Neut|Number=Sing|VerbForm=Part	_	_	_	LemmaId=160126|OccId=5520617|Unsandhied=dabdham
-3	cakṣuḥ	cakṣus	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=161797|OccId=5399615|Unsandhied=cakṣuḥ|Punctuation=fullStop
-4-5	suśrutau	_	_	_	_	_	_	_	_
-4	su	su	ADV	_		_	_	_	LemmaId=204329|OccId=5399616|Unsandhied=su
-5	śrutau	śrut	ADJ	_	Case=Nom|Gender=Masc|Number=Dual	_	_	_	LemmaId=218859|OccId=5399617|Unsandhied=śrutau
-6	karṇāv	karṇa	NOUN	_	Case=Nom|Gender=Masc|Number=Dual	_	_	_	LemmaId=2744|OccId=5399618|Unsandhied=karṇau|Punctuation=fullStop
-7-8	akṣitau	_	_	_	_	_	_	_	_
-7	a	a	PART	_		_	_	_	LemmaId=213048|OccId=5399628|Unsandhied=a
-8	kṣitau	kṣi	VERB	_	Case=Nom|Gender=Masc|Number=Dual|VerbForm=Part	_	_	_	LemmaId=156197|OccId=5399629|Unsandhied=kṣitau
-9	me	mad	PRON	_	Case=Gen|Number=Sing	_	_	_	LemmaId=37879|OccId=5399619|Unsandhied=me
-10-11	prāṇāpānau	_	_	_	_	_	_	_	_
-10	prāṇa	prāṇa	NOUN	_	Case=Cpd	_	_	_	LemmaId=156090|OccId=5399620|Unsandhied=prāṇa
-11	apānau	apāna	NOUN	_	Case=Nom|Gender=Masc|Number=Dual	_	_	_	LemmaId=21299|OccId=5399621|Unsandhied=apānau|Punctuation=fullStop
+# text = a dabdham cakṣuḥ
+# sent_id = 637054_1
+1	a	a	PART	_	_	2	advmod	_	LemmaId=213048|OccId=5520616|Unsandhied=a|Annotator=Ol
+2	dabdham	dabh	VERB	_	Case=Nom|Gender=Neut|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	LemmaId=160126|OccId=5520617|Unsandhied=dabdham|Annotator=Ol
+3	cakṣuḥ	cakṣus	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	2	nsubj	_	LemmaId=161797|OccId=5399615|Unsandhied=cakṣuḥ|Annotator=Ol|Punctuation=fullStop
 
-# text = hṛdayā jarasaṃ mā mā hāsīr madhya mā riṣam
-# sent_id = 634662
-# sent_counter = 3
-# sent_subcounter = 2
-1-2	hṛdayā	_	_	_	_	_	_	_	_
-1	hṛdaya	hṛdaya	NOUN	_	Case=Voc|Gender=Neut|Number=Sing	_	_	_	LemmaId=110583|OccId=5399632|Unsandhied=hṛdaya
-2	ā	ā	ADP	_		_	_	_	LemmaId=213041|OccId=5399633|Unsandhied=ā
-3	jarasaṃ	jaras	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	_	_	_	LemmaId=87958|OccId=5399622|Unsandhied=jarasam
-4	mā	mā	PART	_		_	_	_	LemmaId=170120|OccId=5520618|Unsandhied=mā
-5	mā	mad	PRON	_	Case=Acc|Number=Sing	_	_	_	LemmaId=37879|OccId=5520619|Unsandhied=mā
-6	hāsīr	hā	VERB	_	Tense=Past|Mood=Jus|Person=2|Number=Sing	_	_	_	LemmaId=157412|OccId=5399634|Unsandhied=hāsīḥ|Punctuation=fullStop
-7	madhya	madhya	NOUN	_	Case=Voc|Gender=Neut|Number=Sing	_	_	_	LemmaId=35810|OccId=5399625|Unsandhied=madhya
-8	mā	mā	PART	_		_	_	_	LemmaId=170120|OccId=5399626|Unsandhied=mā
-9	riṣam	riṣ	VERB	_	Tense=Past|Mood=Jus|Person=1|Number=Sing	_	_	_	LemmaId=158006|OccId=5399627|Unsandhied=riṣam|Punctuation=fullStop
+# text = su śrutau karṇau
+# sent_id = 637054_2
+1	su	su	ADV	_	_	2	advmod	_	LemmaId=204329|OccId=5399616|Unsandhied=su|Annotator=Ol
+2	śrutau	śrut	ADJ	_	Case=Nom|Gender=Masc|Number=Dual	0	root	_	LemmaId=218859|OccId=5399617|Unsandhied=śrutau|Annotator=Ol
+3	karṇau	karṇa	NOUN	_	Case=Nom|Gender=Masc|Number=Dual	2	nsubj	_	LemmaId=2744|OccId=5399618|Unsandhied=karṇau|Annotator=Ol|Punctuation=fullStop
 
-# text = āpo mā śundhantu duṣkṛtād duritā yāni cakṛma
-# sent_id = 634663
-# sent_counter = 4
-# sent_subcounter = 1
-1	āpo	ap	NOUN	_	Case=Nom|Gender=Fem|Number=Plur	_	_	_	LemmaId=167009|OccId=5400925|Unsandhied=āpaḥ
-2	mā	mad	PRON	_	Case=Acc|Number=Sing	_	_	_	LemmaId=37879|OccId=5400926|Unsandhied=mā
-3	śundhantu	śudh	VERB	_	Tense=Pres|Mood=Imp|Person=3|Number=Plur	_	_	_	LemmaId=158830|OccId=5400927|Unsandhied=śundhantu
-4	duṣkṛtād	duṣkṛta	NOUN	_	Case=Abl|Gender=Neut|Number=Sing	_	_	_	LemmaId=85916|OccId=5400928|Unsandhied=duṣkṛtāt|Punctuation=comma
-5	duritā	durita	NOUN	_	Case=Acc|Gender=Neut|Number=Plur	_	_	_	LemmaId=85426|OccId=5400929|Unsandhied=duritā
-6	yāni	yad	PRON	_	Case=Acc|Gender=Neut|Number=Plur	_	_	_	LemmaId=37877|OccId=5400930|Unsandhied=yāni
-7	cakṛma	kṛ	VERB	_	Tense=Past|Mood=Ind|Person=1|Number=Plur	_	_	_	LemmaId=156168|OccId=5400931|Unsandhied=cakṛma|Punctuation=fullStop
+# text = a kṣitau me prāṇa apānau
+# sent_id = 637054_3
+1	a	a	PART	_	_	2	advmod	_	LemmaId=213048|OccId=5399628|Unsandhied=a|Annotator=Ol
+2	kṣitau	kṣi	VERB	_	Case=Nom|Gender=Masc|Number=Dual|Tense=Past|VerbForm=Part	0	root	_	LemmaId=156197|OccId=5399629|Unsandhied=kṣitau|Annotator=Ol
+3	me	mad	PRON	_	Case=Gen|Number=Sing	5	nmod	_	LemmaId=37879|OccId=5399619|Unsandhied=me|Annotator=Ol
+4	prāṇa	prāṇa	NOUN	_	Case=Cpd|Gender=Masc	5	compound:coord	_	LemmaId=156090|OccId=5399620|Unsandhied=prāṇa|Annotator=Ol
+5	apānau	apāna	NOUN	_	Case=Nom|Gender=Masc|Number=Dual	2	nsubj	_	LemmaId=21299|OccId=5399621|Unsandhied=apānau|Annotator=Ol|Punctuation=fullStop
 
-# text = ayāma śuddhā ud itas tanūbhiḥ
-# sent_id = 634664
-# sent_counter = 4
-# sent_subcounter = 2
-1	ayāma	i	VERB	_	Tense=Pres|Mood=Sub|Person=1|Number=Plur	_	_	_	LemmaId=156127|OccId=5400932|Unsandhied=ayāma
-2	śuddhā	śudh	VERB	_	Case=Nom|Gender=Masc|Number=Plur|VerbForm=Part	_	_	_	LemmaId=158830|OccId=5400933|Unsandhied=śuddhāḥ
-3	ud	ud	ADP	_		_	_	_	LemmaId=214859|OccId=5400977|Unsandhied=ud
-4	itas	itas	ADV	_		_	_	_	LemmaId=63327|OccId=5400978|Unsandhied=itas
-5	tanūbhiḥ	tanū	NOUN	_	Case=Ins|Gender=Fem|Number=Plur	_	_	_	LemmaId=96222|OccId=5400934|Unsandhied=tanūbhiḥ|Punctuation=fullStop
+# text = hṛdaya ā jarasam mā mā hāsīḥ
+# sent_id = 637055_1
+1	hṛdaya	hṛdaya	NOUN	_	Case=Voc|Gender=Neut|Number=Sing	6	vocative	_	LemmaId=110583|OccId=5399632|Unsandhied=hṛdaya|Annotator=Ol
+2	ā	ā	ADP	_	_	3	case	_	LemmaId=213041|OccId=5399633|Unsandhied=ā|Annotator=Ol
+3	jarasam	jaras	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	6	obl:temp	_	LemmaId=87958|OccId=5399622|Unsandhied=jarasam|Annotator=Ol
+4	mā	mā	PART	_	_	6	advmod	_	LemmaId=170120|OccId=5520618|Unsandhied=mā|Annotator=Ol
+5	mā	mad	PRON	_	Case=Acc|Number=Sing	6	obj	_	LemmaId=37879|OccId=5520619|Unsandhied=mā|Annotator=Ol
+6	hāsīḥ	hā	VERB	_	Mood=Jus|Number=Sing|Person=2|Tense=Past	0	root	_	LemmaId=157412|OccId=5399634|Unsandhied=hāsīḥ|Annotator=Ol|Punctuation=fullStop
 
-# text = vaiśvānaro raśmibhir naḥ punātu vātaḥ prāṇeneṣiro nabhobhiḥ
-# sent_id = 634665
-# sent_counter = 5
-# sent_subcounter = 1
-1	vaiśvānaro	vaiśvānara	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=120452|OccId=5400935|Unsandhied=vaiśvānaraḥ
-2	raśmibhir	raśmi	NOUN	_	Case=Ins|Gender=Masc|Number=Plur	_	_	_	LemmaId=69540|OccId=5400936|Unsandhied=raśmibhiḥ
-3	naḥ	mad	PRON	_	Case=Acc|Number=Plur	_	_	_	LemmaId=37879|OccId=5400937|Unsandhied=naḥ
-4	punātu	pū	VERB	_	Tense=Pres|Mood=Imp|Person=3|Number=Sing	_	_	_	LemmaId=157392|OccId=5400938|Unsandhied=punātu|Punctuation=comma
-5	vātaḥ	vāta	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=75767|OccId=5400939|Unsandhied=vātaḥ
-6-7	prāṇeneṣiro	_	_	_	_	_	_	_	_
-6	prāṇena	prāṇa	NOUN	_	Case=Ins|Gender=Masc|Number=Sing	_	_	_	LemmaId=156090|OccId=5400940|Unsandhied=prāṇena
-7	iṣiraḥ	iṣira	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=63914|OccId=5400941|Unsandhied=iṣiraḥ
-8	nabhobhiḥ	nabhas	NOUN	_	Case=Ins|Gender=Neut|Number=Plur	_	_	_	LemmaId=44077|OccId=5520620|Unsandhied=nabhobhiḥ|Punctuation=fullStop
+# text = madhya mā riṣam
+# sent_id = 637055_2
+1	madhya	madhya	NOUN	_	Case=Voc|Gender=Neut|Number=Sing	3	vocative	_	LemmaId=35810|OccId=5399625|Unsandhied=madhya|Annotator=Ol
+2	mā	mā	PART	_	_	3	advmod	_	LemmaId=170120|OccId=5399626|Unsandhied=mā|Annotator=Ol
+3	riṣam	riṣ	VERB	_	Mood=Jus|Number=Sing|Person=1|Tense=Past	0	root	_	LemmaId=158006|OccId=5399627|Unsandhied=riṣam|Annotator=Ol|Punctuation=fullStop
 
-# text = dyāvāpṛthivī payasā payasvatī ṛtāvarī yajñiye mā punītām
-# sent_id = 634666
-# sent_counter = 5
-# sent_subcounter = 2
-1-2	dyāvāpṛthivī	_	_	_	_	_	_	_	_
-1	dyāvā	div	NOUN	_	Case=Cpd	_	_	_	LemmaId=168377|OccId=5400975|Unsandhied=dyāvā
-2	pṛthivī	pṛthivī	NOUN	_	Case=Nom|Gender=Fem|Number=Dual	_	_	_	LemmaId=150027|OccId=5400976|Unsandhied=pṛthivī
-3	payasā	payas	NOUN	_	Case=Ins|Gender=Neut|Number=Sing	_	_	_	LemmaId=16120|OccId=5400943|Unsandhied=payasā
-4	payasvatī	payasvat	ADJ	_	Case=Nom|Gender=Fem|Number=Dual	_	_	_	LemmaId=16129|OccId=5400944|Unsandhied=payasvatī
-5	ṛtāvarī	ṛtāvan	ADJ	_	Case=Nom|Gender=Fem|Number=Dual	_	_	_	LemmaId=218691|OccId=5400945|Unsandhied=ṛtāvarī
-6	yajñiye	yajñiya	ADJ	_	Case=Nom|Gender=Fem|Number=Dual	_	_	_	LemmaId=73160|OccId=5400946|Unsandhied=yajñiye
-7	mā	mad	PRON	_	Case=Acc|Number=Sing	_	_	_	LemmaId=37879|OccId=5400947|Unsandhied=mā
-8	punītām	pū	VERB	_	Tense=Pres|Mood=Imp|Person=3|Number=Sing	_	_	_	LemmaId=157392|OccId=5400948|Unsandhied=punītām|Punctuation=fullStop
+# text = āpaḥ mā śundhantu duṣkṛtāt duritā yāni cakṛma
+# sent_id = 637056_1
+1	āpaḥ	ap	NOUN	_	Case=Nom|Gender=Fem|Number=Plur	3	nsubj	_	LemmaId=167009|OccId=5400925|Unsandhied=āpaḥ|Annotator=Ol
+2	mā	mad	PRON	_	Case=Acc|Number=Sing	3	obj	_	LemmaId=37879|OccId=5400926|Unsandhied=mā|Annotator=Ol
+3	śundhantu	śudh	VERB	_	Mood=Imp|Number=Plur|Person=3|Tense=Pres	0	root	_	LemmaId=158830|OccId=5400927|Unsandhied=śundhantu|Annotator=Ol
+4	duṣkṛtāt	duṣkṛta	NOUN	_	Case=Abl|Gender=Neut|Number=Sing	3	obl:source	_	LemmaId=85916|OccId=5400928|Unsandhied=duṣkṛtāt|Annotator=Ol|Punctuation=comma
+5	duritā	durita	NOUN	_	Case=Acc|Gender=Neut|Number=Plur	7	obj	_	LemmaId=85426|OccId=5400929|Unsandhied=duritā|Annotator=Ol
+6	yāni	yad	PRON	_	Case=Acc|Gender=Neut|Number=Plur	5	det	_	LemmaId=37877|OccId=5400930|Unsandhied=yāni|Annotator=Ol
+7	cakṛma	kṛ	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Past	4	conj	_	LemmaId=156168|OccId=5400931|Unsandhied=cakṛma|Annotator=Ol|Punctuation=fullStop
 
-# text = punantu māgnayo gārhapatyāḥ punantu mā dhiṣṇyā devahūtāḥ
-# sent_id = 634667
-# sent_counter = 6
-# sent_subcounter = 1
-1	punantu	pū	VERB	_	Tense=Pres|Mood=Imp|Person=3|Number=Plur	_	_	_	LemmaId=157392|OccId=5400949|Unsandhied=punantu
-2-3	māgnayo	_	_	_	_	_	_	_	_
-2	mā	mad	PRON	_	Case=Acc|Number=Sing	_	_	_	LemmaId=37879|OccId=5400950|Unsandhied=mā
-3	agnayaḥ	agni	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	_	_	_	LemmaId=5705|OccId=5400951|Unsandhied=agnayaḥ
-4	gārhapatyāḥ	gārhapatya	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	_	_	_	LemmaId=123947|OccId=5400952|Unsandhied=gārhapatyāḥ|Punctuation=fullStop
-5	punantu	pū	VERB	_	Tense=Pres|Mood=Imp|Person=3|Number=Plur	_	_	_	LemmaId=157392|OccId=5400953|Unsandhied=punantu
-6	mā	mad	PRON	_	Case=Acc|Number=Sing	_	_	_	LemmaId=37879|OccId=5400954|Unsandhied=mā
-7	dhiṣṇyā	dhiṣṇya	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	_	_	_	LemmaId=42649|OccId=5520625|Unsandhied=dhiṣṇyāḥ
-8-9	devahūtāḥ	_	_	_	_	_	_	_	_
-8	deva	deva	NOUN	_	Case=Cpd	_	_	_	LemmaId=86559|OccId=5400955|Unsandhied=deva
-9	hūtāḥ	hvā	VERB	_	Case=Nom|Gender=Masc|Number=Plur|VerbForm=Part	_	_	_	LemmaId=157561|OccId=5400956|Unsandhied=hūtāḥ|Punctuation=fullStop
+# text = ayāma śuddhāḥ ud itas tanūbhiḥ
+# sent_id = 637057_1
+1	ayāma	i	VERB	_	Mood=Sub|Number=Plur|Person=1|Tense=Pres	0	root	_	LemmaId=156127|OccId=5400932|Unsandhied=ayāma|Annotator=Ol
+2	śuddhāḥ	śudh	VERB	_	Case=Nom|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	1	advcl	_	LemmaId=158830|OccId=5400933|Unsandhied=śuddhāḥ|Annotator=Ol
+3	ud	ud	ADP	_	_	1	advmod	_	LemmaId=214859|OccId=5400977|Unsandhied=ud|Annotator=Ol
+4	itas	itas	ADV	_	_	1	advmod	_	LemmaId=63327|OccId=5400978|Unsandhied=itas|Annotator=Ol
+5	tanūbhiḥ	tanū	NOUN	_	Case=Ins|Gender=Fem|Number=Plur	1	obl:soc	_	LemmaId=96222|OccId=5400934|Unsandhied=tanūbhiḥ|Annotator=Ol|Punctuation=fullStop
 
-# text = punantu mā śakvarīḥ somapṛṣṭhāḥ pavamānāso ajriṇaḥ
-# sent_id = 634668
-# sent_counter = 6
-# sent_subcounter = 2
-1	punantu	pū	VERB	_	Tense=Pres|Mood=Imp|Person=3|Number=Plur	_	_	_	LemmaId=157392|OccId=5400957|Unsandhied=punantu
-2	mā	mad	PRON	_	Case=Acc|Number=Sing	_	_	_	LemmaId=37879|OccId=5400958|Unsandhied=mā
-3	śakvarīḥ	śakvan	ADJ	_	Case=Nom|Gender=Fem|Number=Plur	_	_	_	LemmaId=222770|OccId=5400959|Unsandhied=śakvarīḥ
-4-5	somapṛṣṭhāḥ	_	_	_	_	_	_	_	_
-4	soma	soma	NOUN	_	Case=Cpd	_	_	_	LemmaId=100106|OccId=5400960|Unsandhied=soma
-5	pṛṣṭhāḥ	pṛṣṭha	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	_	_	_	LemmaId=150091|OccId=5400961|Unsandhied=pṛṣṭhāḥ
-6	pavamānāso	pū	VERB	_	Case=Nom|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part	_	_	_	LemmaId=157392|OccId=5400962|Unsandhied=pavamānāsaḥ
+# text = vaiśvānaraḥ raśmibhiḥ naḥ punātu vātaḥ prāṇena iṣiraḥ nabhobhiḥ
+# sent_id = 637058_1
+1	vaiśvānaraḥ	vaiśvānara	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	LemmaId=120452|OccId=5400935|Unsandhied=vaiśvānaraḥ|Annotator=Ol
+2	raśmibhiḥ	raśmi	NOUN	_	Case=Ins|Gender=Masc|Number=Plur	4	obl:instr	_	LemmaId=69540|OccId=5400936|Unsandhied=raśmibhiḥ|Annotator=Ol
+3	naḥ	mad	PRON	_	Case=Acc|Number=Plur	4	obj	_	LemmaId=37879|OccId=5400937|Unsandhied=naḥ|Annotator=Ol
+4	punātu	pū	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres	0	root	_	LemmaId=157392|OccId=5400938|Unsandhied=punātu|Annotator=Ol|Punctuation=comma
+5	vātaḥ	vāta	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	4	conj	_	LemmaId=75767|OccId=5400939|Unsandhied=vātaḥ|Annotator=Ol
+6	prāṇena	prāṇa	NOUN	_	Case=Ins|Gender=Masc|Number=Sing	5	orphan	_	LemmaId=156090|OccId=5400940|Unsandhied=prāṇena|Annotator=Ol
+7	iṣiraḥ	iṣira	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	5	amod	_	LemmaId=63914|OccId=5400941|Unsandhied=iṣiraḥ|Annotator=Ol
+8	nabhobhiḥ	nabhas	NOUN	_	Case=Ins|Gender=Neut|Number=Plur	6	conj	_	LemmaId=44077|OccId=5520620|Unsandhied=nabhobhiḥ|Annotator=Ol|Punctuation=fullStop
 
-# text = yaḥ potā sa punātu mā bṛhadbhir deva savitaḥ
-# sent_id = 634669
-# sent_counter = 7
-# sent_subcounter = 1
-1	yaḥ	yad	PRON	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=37877|OccId=5400963|Unsandhied=yaḥ
-2	potā	potṛ	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=150991|OccId=5400964|Unsandhied=potā|Punctuation=comma
-3	sa	tad	PRON	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=37875|OccId=5400965|Unsandhied=sa
-4	punātu	pū	VERB	_	Tense=Pres|Mood=Imp|Person=3|Number=Sing	_	_	_	LemmaId=157392|OccId=5400966|Unsandhied=punātu
-5	mā	mad	PRON	_	Case=Acc|Number=Sing	_	_	_	LemmaId=37879|OccId=5400967|Unsandhied=mā
-6	bṛhadbhir	bṛhat	ADJ	_	Case=Ins|Gender=Neut|Number=Plur	_	_	_	LemmaId=149085|OccId=5520621|Unsandhied=bṛhadbhiḥ
-7	deva	deva	NOUN	_	Case=Voc|Gender=Masc|Number=Sing	_	_	_	LemmaId=86559|OccId=5400969|Unsandhied=deva
-8	savitaḥ	savitṛ	NOUN	_	Case=Voc|Gender=Masc|Number=Sing	_	_	_	LemmaId=105325|OccId=5400970|Unsandhied=savitar|Punctuation=comma
+# text = dyāvā pṛthivī payasā payasvatī ṛtāvarī yajñiye mā punītām
+# sent_id = 637059_1
+1	dyāvā	div	NOUN	_	Case=Cpd|Gender=Masc	2	compound:coord	_	LemmaId=168377|OccId=5400975|Unsandhied=dyāvā|Annotator=Ol
+2	pṛthivī	pṛthivī	NOUN	_	Case=Nom|Gender=Fem|Number=Dual	8	nsubj	_	LemmaId=150027|OccId=5400976|Unsandhied=pṛthivī|Annotator=Ol
+3	payasā	payas	NOUN	_	Case=Ins|Gender=Neut|Number=Sing	8	obl:instr	_	LemmaId=16120|OccId=5400943|Unsandhied=payasā|Annotator=Ol
+4	payasvatī	payasvat	ADJ	_	Case=Nom|Gender=Fem|Number=Dual	2	amod	_	LemmaId=16129|OccId=5400944|Unsandhied=payasvatī|Annotator=Ol
+5	ṛtāvarī	ṛtāvan	ADJ	_	Case=Nom|Gender=Fem|Number=Dual	4	conj	_	LemmaId=218691|OccId=5400945|Unsandhied=ṛtāvarī|Annotator=Ol
+6	yajñiye	yajñiya	ADJ	_	Case=Nom|Gender=Fem|Number=Dual	4	conj	_	LemmaId=73160|OccId=5400946|Unsandhied=yajñiye|Annotator=Ol
+7	mā	mad	PRON	_	Case=Acc|Number=Sing	8	obj	_	LemmaId=37879|OccId=5400947|Unsandhied=mā|Annotator=Ol
+8	punītām	pū	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres	0	root	_	LemmaId=157392|OccId=5400948|Unsandhied=punītām|Annotator=Ol|Punctuation=fullStop
 
-# text = varṣiṣṭhair dyām ivopari
-# sent_id = 634670
-# sent_counter = 7
-# sent_subcounter = 2
-1	varṣiṣṭhair	varṣiṣṭha	ADJ	_	Case=Ins|Gender=Neut|Number=Plur	_	_	_	LemmaId=74908|OccId=5400971|Unsandhied=varṣiṣṭhaiḥ
-2	dyām	div	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	_	_	_	LemmaId=168377|OccId=5400972|Unsandhied=dyām
-3-4	ivopari	_	_	_	_	_	_	_	_
-3	iva	iva	PART	_		_	_	_	LemmaId=63807|OccId=5400973|Unsandhied=iva
-4	upari	upari	ADV	_		_	_	_	LemmaId=45415|OccId=5400974|Unsandhied=upari|Punctuation=fullStop
+# text = punantu mā agnayaḥ gārhapatyāḥ
+# sent_id = 637060_1
+1	punantu	pū	VERB	_	Mood=Imp|Number=Plur|Person=3|Tense=Pres	0	root	_	LemmaId=157392|OccId=5400949|Unsandhied=punantu|Annotator=Ol
+2	mā	mad	PRON	_	Case=Acc|Number=Sing	1	obj	_	LemmaId=37879|OccId=5400950|Unsandhied=mā|Annotator=Ol
+3	agnayaḥ	agni	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	1	nsubj	_	LemmaId=5705|OccId=5400951|Unsandhied=agnayaḥ|Annotator=Ol
+4	gārhapatyāḥ	gārhapatya	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	3	appos	_	LemmaId=123947|OccId=5400952|Unsandhied=gārhapatyāḥ|Annotator=Ol|Punctuation=fullStop
 
-# text = brahmasavaiḥ punātu mā rājasavaiḥ punātu mā
-# sent_id = 634671
-# sent_counter = 8
-# sent_subcounter = 1
-1-2	brahmasavaiḥ	_	_	_	_	_	_	_	_
-1	brahma	brahman	NOUN	_	Case=Cpd	_	_	_	LemmaId=149177|OccId=5400979|Unsandhied=brahma
-2	savaiḥ	sava	NOUN	_	Case=Ins|Gender=Masc|Number=Plur	_	_	_	LemmaId=105292|OccId=5400980|Unsandhied=savaiḥ
-3	punātu	pū	VERB	_	Tense=Pres|Mood=Imp|Person=3|Number=Sing	_	_	_	LemmaId=157392|OccId=5400981|Unsandhied=punātu
-4	mā	mad	PRON	_	Case=Acc|Number=Sing	_	_	_	LemmaId=37879|OccId=5400982|Unsandhied=mā|Punctuation=fullStop
-5-6	rājasavaiḥ	_	_	_	_	_	_	_	_
-5	rāja	rājan	NOUN	_	Case=Cpd	_	_	_	LemmaId=70467|OccId=5400983|Unsandhied=rāja
-6	savaiḥ	sava	NOUN	_	Case=Ins|Gender=Masc|Number=Plur	_	_	_	LemmaId=105292|OccId=5400984|Unsandhied=savaiḥ
-7	punātu	pū	VERB	_	Tense=Pres|Mood=Imp|Person=3|Number=Sing	_	_	_	LemmaId=157392|OccId=5400985|Unsandhied=punātu
-8	mā	mad	PRON	_	Case=Acc|Number=Sing	_	_	_	LemmaId=37879|OccId=5400986|Unsandhied=mā|Punctuation=fullStop
+# text = punantu mā dhiṣṇyāḥ deva hūtāḥ
+# sent_id = 637060_2
+1	punantu	pū	VERB	_	Mood=Imp|Number=Plur|Person=3|Tense=Pres	0	root	_	LemmaId=157392|OccId=5400953|Unsandhied=punantu|Annotator=Ol
+2	mā	mad	PRON	_	Case=Acc|Number=Sing	1	obj	_	LemmaId=37879|OccId=5400954|Unsandhied=mā|Annotator=Ol
+3	dhiṣṇyāḥ	dhiṣṇya	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	1	nsubj	_	LemmaId=42649|OccId=5520625|Unsandhied=dhiṣṇyāḥ|Annotator=Ol
+4	deva	deva	NOUN	_	Case=Cpd|Gender=Masc	5	obl:agent	_	LemmaId=86559|OccId=5400955|Unsandhied=deva|Annotator=Ol
+5	hūtāḥ	hvā	VERB	_	Case=Nom|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	3	acl	_	LemmaId=157561|OccId=5400956|Unsandhied=hūtāḥ|Annotator=Ol|Punctuation=fullStop
 
-# text = śataṃ pavitrā vitatā tiraścā tebhir mā devaḥ savitā punātu
-# sent_id = 634672
-# sent_counter = 8
-# sent_subcounter = 2
-1	śataṃ	śata	NUM	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=116433|OccId=5400987|Unsandhied=śatam
-2	pavitrā	pavitra	NOUN	_	Case=Nom|Gender=Neut|Number=Plur	_	_	_	LemmaId=92634|OccId=5520622|Unsandhied=pavitrā
-3	vitatā	vitan	VERB	_	Case=Nom|Gender=Neut|Number=Plur|VerbForm=Part	_	_	_	LemmaId=163317|OccId=5400989|Unsandhied=vitatā
-4	tiraścā	tiryañc	ADJ	_	Case=Ins|Gender=Neut|Number=Sing	_	_	_	LemmaId=170555|OccId=5400990|Unsandhied=tiraścā|Punctuation=fullStop
-5	tebhir	tad	PRON	_	Case=Ins|Gender=Neut|Number=Plur	_	_	_	LemmaId=37875|OccId=5400991|Unsandhied=tebhiḥ
-6	mā	mad	PRON	_	Case=Acc|Number=Sing	_	_	_	LemmaId=37879|OccId=5400992|Unsandhied=mā
-7	devaḥ	deva	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=86559|OccId=5400993|Unsandhied=devaḥ
-8	savitā	savitṛ	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=105325|OccId=5400994|Unsandhied=savitā
-9	punātu	pū	VERB	_	Tense=Pres|Mood=Imp|Person=3|Number=Sing	_	_	_	LemmaId=157392|OccId=5400995|Unsandhied=punātu|Punctuation=fullStop
+# text = punantu mā śakvarīḥ soma pṛṣṭhāḥ
+# sent_id = 637061_1
+1	punantu	pū	VERB	_	Mood=Imp|Number=Plur|Person=3|Tense=Pres	0	root	_	LemmaId=157392|OccId=5400957|Unsandhied=punantu|Annotator=Ol
+2	mā	mad	PRON	_	Case=Acc|Number=Sing	1	obj	_	LemmaId=37879|OccId=5400958|Unsandhied=mā|Annotator=Ol
+3	śakvarīḥ	śakvan	ADJ	_	Case=Nom|Gender=Fem|Number=Plur	1	nsubj	_	LemmaId=222770|OccId=5400959|Unsandhied=śakvarīḥ|Annotator=Ol
+4	soma	soma	NOUN	_	Case=Cpd|Gender=Masc	5	nmod	_	LemmaId=100106|OccId=5400960|Unsandhied=soma|Annotator=Ol
+5	pṛṣṭhāḥ	pṛṣṭha	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	3	acl	_	LemmaId=150091|OccId=5400961|Unsandhied=pṛṣṭhāḥ|Annotator=Ol
 
-# text = śataṃ ca mā pavitāraḥ punantu sahasraṃ ca prasravaṇeṣv āpaḥ
-# sent_id = 634673
-# sent_counter = 9
-# sent_subcounter = 1
-1	śataṃ	śata	NUM	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=116433|OccId=5400996|Unsandhied=śatam
-2	ca	ca	CONJ	_		_	_	_	LemmaId=157144|OccId=5400997|Unsandhied=ca
-3	mā	mad	PRON	_	Case=Acc|Number=Sing	_	_	_	LemmaId=37879|OccId=5400998|Unsandhied=mā
-4	pavitāraḥ	pavitṛ	ADJ	_	Case=Nom|Gender=Masc|Number=Plur	_	_	_	LemmaId=218376|OccId=5400999|Unsandhied=pavitāraḥ
-5	punantu	pū	VERB	_	Tense=Pres|Mood=Imp|Person=3|Number=Plur	_	_	_	LemmaId=157392|OccId=5401000|Unsandhied=punantu|Punctuation=comma
-6	sahasraṃ	sahasra	NUM	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=111378|OccId=5401001|Unsandhied=sahasram
-7	ca	ca	CONJ	_		_	_	_	LemmaId=157144|OccId=5401002|Unsandhied=ca
-8	prasravaṇeṣv	prasravaṇa	NOUN	_	Case=Loc|Gender=Neut|Number=Plur	_	_	_	LemmaId=155790|OccId=5401003|Unsandhied=prasravaṇeṣu
-9	āpaḥ	ap	NOUN	_	Case=Voc|Gender=Fem|Number=Plur	_	_	_	LemmaId=167009|OccId=5401004|Unsandhied=āpaḥ|Punctuation=fullStop
+# text = yaḥ potā sa punātu mā bṛhadbhiḥ deva savitar varṣiṣṭhaiḥ dyām iva upari
+# sent_id = 637062_1
+1	yaḥ	yad	PRON	_	Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	LemmaId=37877|OccId=5400963|Unsandhied=yaḥ|Annotator=Ol
+2	potā	potṛ	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	3	acl:rel	_	LemmaId=150991|OccId=5400964|Unsandhied=potā|Annotator=Ol|Punctuation=comma
+3	sa	tad	PRON	_	Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	LemmaId=37875|OccId=5400965|Unsandhied=sa|Annotator=Ol
+4	punātu	pū	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres	0	root	_	LemmaId=157392|OccId=5400966|Unsandhied=punātu|Annotator=Ol
+5	mā	mad	PRON	_	Case=Acc|Number=Sing	4	obj	_	LemmaId=37879|OccId=5400967|Unsandhied=mā|Annotator=Ol
+6	bṛhadbhiḥ	bṛhat	ADJ	_	Case=Ins|Gender=Neut|Number=Plur	4	obl	_	LemmaId=149085|OccId=5520621|Unsandhied=bṛhadbhiḥ|Annotator=Ol
+7	deva	deva	NOUN	_	Case=Voc|Gender=Masc|Number=Sing	8	nmod:appos	_	LemmaId=86559|OccId=5400969|Unsandhied=deva|Annotator=Ol
+8	savitar	savitṛ	NOUN	_	Case=Voc|Gender=Masc|Number=Sing	4	vocative	_	LemmaId=105325|OccId=5400970|Unsandhied=savitar|Annotator=Ol|Punctuation=comma
+9	varṣiṣṭhaiḥ	varṣiṣṭha	ADJ	_	Case=Ins|Gender=Neut|Number=Plur	10	orphan	_	LemmaId=74908|OccId=5400971|Unsandhied=varṣiṣṭhaiḥ|Annotator=Ol
+10	dyām	div	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	4	advcl:manner	_	LemmaId=168377|OccId=5400972|Unsandhied=dyām|Annotator=Ol
+11	iva	iva	PART	_	_	10	mark:sim	_	LemmaId=63807|OccId=5400973|Unsandhied=iva|Annotator=Ol
+12	upari	upari	ADV	_	_	10	orphan	_	LemmaId=45415|OccId=5400974|Unsandhied=upari|Annotator=Ol|Punctuation=fullStop
 
-# text = āpa iva pūto 'smy agnir iva suvarcāḥ sūrya iva sucakṣāḥ
-# sent_id = 634674
-# sent_counter = 9
-# sent_subcounter = 2
-1	āpa	ap	NOUN	_	Case=Nom|Gender=Fem|Number=Plur	_	_	_	LemmaId=167009|OccId=5401005|Unsandhied=āpaḥ
-2	iva	iva	PART	_		_	_	_	LemmaId=63807|OccId=5401006|Unsandhied=iva
-3	pūto	pū	VERB	_	Case=Nom|Gender=Masc|Number=Sing|VerbForm=Part	_	_	_	LemmaId=157392|OccId=5401007|Unsandhied=pūtaḥ
-4	'smy	as	VERB	_	Tense=Pres|Mood=Ind|Person=1|Number=Sing	_	_	_	LemmaId=156122|OccId=5401008|Unsandhied=asmi|Punctuation=comma
-5	agnir	agni	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=5705|OccId=5401009|Unsandhied=agniḥ
-6	iva	iva	PART	_		_	_	_	LemmaId=63807|OccId=5401010|Unsandhied=iva
-7-8	suvarcāḥ	_	_	_	_	_	_	_	_
-7	su	su	ADV	_		_	_	_	LemmaId=204329|OccId=5401011|Unsandhied=su
-8	varcāḥ	varcas	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=69437|OccId=5401012|Unsandhied=varcāḥ|Punctuation=comma
-9	sūrya	sūrya	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=99310|OccId=5401013|Unsandhied=sūryaḥ
-10	iva	iva	PART	_		_	_	_	LemmaId=63807|OccId=5401014|Unsandhied=iva
-11-12	sucakṣāḥ	_	_	_	_	_	_	_	_
-11	su	su	ADV	_		_	_	_	LemmaId=204329|OccId=5401015|Unsandhied=su
-12	cakṣāḥ	cakṣas	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=161787|OccId=5401016|Unsandhied=cakṣāḥ|Punctuation=fullStop
+# text = brahma savaiḥ punātu mā
+# sent_id = 637064_1
+1	brahma	brahman	NOUN	_	Case=Cpd|Gender=Masc	2	nmod	_	LemmaId=149177|OccId=5400979|Unsandhied=brahma|Annotator=Ol
+2	savaiḥ	sava	NOUN	_	Case=Ins|Gender=Masc|Number=Plur	3	obl	_	LemmaId=105292|OccId=5400980|Unsandhied=savaiḥ|Annotator=Ol
+3	punātu	pū	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres	0	root	_	LemmaId=157392|OccId=5400981|Unsandhied=punātu|Annotator=Ol
+4	mā	mad	PRON	_	Case=Acc|Number=Sing	3	obj	_	LemmaId=37879|OccId=5400982|Unsandhied=mā|Annotator=Ol|Punctuation=fullStop
 
-# text = urūṇasāv asutṛpā udumbalau yamasya dūtau carato janāṁ anu
-# sent_id = 634675
-# sent_counter = 10
-# sent_subcounter = 1
-1-2	urūṇasāv	_	_	_	_	_	_	_	_
-1	uru	uru	ADJ	_	Case=Cpd	_	_	_	LemmaId=37940|OccId=5520623|Unsandhied=uru
-2	nasau	nasā	NOUN	_	Case=Nom|Gender=Masc|Number=Dual	_	_	_	LemmaId=32960|OccId=5520624|Unsandhied=nasau
-3-4	asutṛpā	_	_	_	_	_	_	_	_
-3	asu	asu	NOUN	_	Case=Cpd	_	_	_	LemmaId=61036|OccId=5520626|Unsandhied=asu
-4	tṛpā	tṛp	ADJ	_	Case=Nom|Gender=Masc|Number=Dual	_	_	_	LemmaId=224789|OccId=5520627|Unsandhied=tṛpā
-5	udumbalau	udumbala	ADJ	_	Case=Nom|Gender=Masc|Number=Dual	_	_	_	LemmaId=56563|OccId=5401019|Unsandhied=udumbalau
-6	yamasya	yama	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	_	_	_	LemmaId=73816|OccId=5401020|Unsandhied=yamasya
-7	dūtau	dūta	NOUN	_	Case=Nom|Gender=Masc|Number=Dual	_	_	_	LemmaId=86123|OccId=5401021|Unsandhied=dūtau
-8	carato	car	VERB	_	Tense=Pres|Mood=Ind|Person=3|Number=Dual	_	_	_	LemmaId=156249|OccId=5401022|Unsandhied=carataḥ
-9	janāṁ	jana	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	_	_	_	LemmaId=87452|OccId=5401023|Unsandhied=janāṁ
-10	anu	anu	ADP	_		_	_	_	LemmaId=166836|OccId=5401024|Unsandhied=anu|Punctuation=fullStop
+# text = rāja savaiḥ punātu mā
+# sent_id = 637064_2
+1	rāja	rājan	NOUN	_	Case=Cpd|Gender=Masc	2	nmod	_	LemmaId=70467|OccId=5400983|Unsandhied=rāja|Annotator=Ol
+2	savaiḥ	sava	NOUN	_	Case=Ins|Gender=Masc|Number=Plur	3	obl	_	LemmaId=105292|OccId=5400984|Unsandhied=savaiḥ|Annotator=Ol
+3	punātu	pū	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres	0	root	_	LemmaId=157392|OccId=5400985|Unsandhied=punātu|Annotator=Ol
+4	mā	mad	PRON	_	Case=Acc|Number=Sing	3	obj	_	LemmaId=37879|OccId=5400986|Unsandhied=mā|Annotator=Ol|Punctuation=fullStop
 
-# text = tāv asmabhyaṃ dṛśaye sūryāya punar dātām asum adyeha bhadram
-# sent_id = 634676
-# sent_counter = 10
-# sent_subcounter = 2
-1	tāv	tad	PRON	_	Case=Nom|Gender=Masc|Number=Dual	_	_	_	LemmaId=37875|OccId=5401025|Unsandhied=tau
-2	asmabhyaṃ	mad	PRON	_	Case=Dat|Number=Plur	_	_	_	LemmaId=37879|OccId=5401026|Unsandhied=asmabhyam
-3	dṛśaye	dṛś	VERB	_	VerbForm=Inf	_	_	_	LemmaId=157766|OccId=5401027|Unsandhied=dṛśaye
-4	sūryāya	sūrya	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	_	_	_	LemmaId=99310|OccId=5401028|Unsandhied=sūryāya
-5	punar	punar	ADV	_		_	_	_	LemmaId=143659|OccId=5401029|Unsandhied=punar
-6	dātām	dā	VERB	_	Tense=Past|Mood=Imp|Person=3|Number=Dual	_	_	_	LemmaId=157372|OccId=5401030|Unsandhied=dātām
-7	asum	asu	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	_	_	_	LemmaId=61036|OccId=5401031|Unsandhied=asum
-8-9	adyeha	_	_	_	_	_	_	_	_
-8	adya	adya	ADV	_		_	_	_	LemmaId=7682|OccId=5401032|Unsandhied=adya
-9	iha	iha	ADV	_		_	_	_	LemmaId=63959|OccId=5401033|Unsandhied=iha
-10	bhadram	bhadra	ADJ	_	Case=Acc|Gender=Masc|Number=Sing	_	_	_	LemmaId=48731|OccId=5401034|Unsandhied=bhadram|Punctuation=fullStop
+# text = śatam pavitrā vitatā tiraścā
+# sent_id = 637065_1
+1	śatam	śata	NUM	_	Case=Nom|Gender=Neut|Number=Sing	2	nummod	_	LemmaId=116433|OccId=5400987|Unsandhied=śatam|Annotator=Ol
+2	pavitrā	pavitra	NOUN	_	Case=Nom|Gender=Neut|Number=Plur	3	nsubj	_	LemmaId=92634|OccId=5520622|Unsandhied=pavitrā|Annotator=Ol
+3	vitatā	vitan	VERB	_	Case=Nom|Gender=Neut|Number=Plur|Tense=Past|VerbForm=Part	0	root	_	LemmaId=163317|OccId=5400989|Unsandhied=vitatā|Annotator=Ol
+4	tiraścā	tiryañc	ADJ	_	Case=Ins|Gender=Neut|Number=Sing	3	advmod	_	LemmaId=170555|OccId=5400990|Unsandhied=tiraścā|Annotator=Ol|Punctuation=fullStop
+
+# text = tebhiḥ mā devaḥ savitā punātu
+# sent_id = 637065_2
+1	tebhiḥ	tad	PRON	_	Case=Ins|Gender=Neut|Number=Plur	5	obl:instr	_	LemmaId=37875|OccId=5400991|Unsandhied=tebhiḥ|Annotator=Ol
+2	mā	mad	PRON	_	Case=Acc|Number=Sing	5	obj	_	LemmaId=37879|OccId=5400992|Unsandhied=mā|Annotator=Ol
+3	devaḥ	deva	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	4	nmod:appos	_	LemmaId=86559|OccId=5400993|Unsandhied=devaḥ|Annotator=Ol
+4	savitā	savitṛ	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	5	nsubj	_	LemmaId=105325|OccId=5400994|Unsandhied=savitā|Annotator=Ol
+5	punātu	pū	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres	0	root	_	LemmaId=157392|OccId=5400995|Unsandhied=punātu|Annotator=Ol|Punctuation=fullStop
+
+# text = śatam ca mā pavitāraḥ punantu sahasram ca prasravaṇeṣu āpaḥ
+# sent_id = 637066_1
+1	śatam	śata	NUM	_	Case=Nom|Gender=Neut|Number=Sing	4	nummod	_	LemmaId=116433|OccId=5400996|Unsandhied=śatam|Annotator=Ol
+2	ca	ca	CONJ	_	_	1	cc	_	LemmaId=157144|OccId=5400997|Unsandhied=ca|Annotator=Ol
+3	mā	mad	PRON	_	Case=Acc|Number=Sing	5	obj	_	LemmaId=37879|OccId=5400998|Unsandhied=mā|Annotator=Ol
+4	pavitāraḥ	pavitṛ	ADJ	_	Case=Nom|Gender=Masc|Number=Plur	5	nsubj	_	LemmaId=218376|OccId=5400999|Unsandhied=pavitāraḥ|Annotator=Ol
+5	punantu	pū	VERB	_	Mood=Imp|Number=Plur|Person=3|Tense=Pres	0	root	_	LemmaId=157392|OccId=5401000|Unsandhied=punantu|Annotator=Ol|Punctuation=comma
+6	sahasram	sahasra	NUM	_	Case=Nom|Gender=Neut|Number=Sing	1	conj	_	LemmaId=111378|OccId=5401001|Unsandhied=sahasram|Annotator=Ol
+7	ca	ca	CONJ	_	_	6	cc	_	LemmaId=157144|OccId=5401002|Unsandhied=ca|Annotator=Ol
+8	prasravaṇeṣu	prasravaṇa	NOUN	_	Case=Loc|Gender=Neut|Number=Plur	5	obl	_	LemmaId=155790|OccId=5401003|Unsandhied=prasravaṇeṣu|Annotator=Ol
+9	āpaḥ	ap	NOUN	_	Case=Voc|Gender=Fem|Number=Plur	5	vocative	_	LemmaId=167009|OccId=5401004|Unsandhied=āpaḥ|Annotator=Ol|Punctuation=fullStop
+
+# text = āpaḥ iva pūtaḥ asmi agniḥ iva su varcāḥ sūryaḥ iva su cakṣāḥ
+# sent_id = 637067_1
+1	āpaḥ	ap	NOUN	_	Case=Nom|Gender=Fem|Number=Plur	3	obl	_	LemmaId=167009|OccId=5401005|Unsandhied=āpaḥ|Annotator=Ol
+2	iva	iva	PART	_	_	1	case:sim	_	LemmaId=63807|OccId=5401006|Unsandhied=iva|Annotator=Ol
+3	pūtaḥ	pū	VERB	_	Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	LemmaId=157392|OccId=5401007|Unsandhied=pūtaḥ|Annotator=Ol
+4	asmi	as	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres	3	aux	_	LemmaId=156122|OccId=5401008|Unsandhied=asmi|Annotator=Ol|Punctuation=comma
+5	agniḥ	agni	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	8	obl	_	LemmaId=5705|OccId=5401009|Unsandhied=agniḥ|Annotator=Ol
+6	iva	iva	PART	_	_	5	case:sim	_	LemmaId=63807|OccId=5401010|Unsandhied=iva|Annotator=Ol
+7	su	su	ADV	_	_	8	amod	_	LemmaId=204329|OccId=5401011|Unsandhied=su|Annotator=Ol
+8	varcāḥ	varcas	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	3	conj	_	LemmaId=69437|OccId=5401012|Unsandhied=varcāḥ|Annotator=Ol|Punctuation=comma
+9	sūryaḥ	sūrya	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	12	obl	_	LemmaId=99310|OccId=5401013|Unsandhied=sūryaḥ|Annotator=Ol
+10	iva	iva	PART	_	_	9	case:sim	_	LemmaId=63807|OccId=5401014|Unsandhied=iva|Annotator=Ol
+11	su	su	ADV	_	_	12	amod	_	LemmaId=204329|OccId=5401015|Unsandhied=su|Annotator=Ol
+12	cakṣāḥ	cakṣas	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	3	conj	_	LemmaId=161787|OccId=5401016|Unsandhied=cakṣāḥ|Annotator=Ol|Punctuation=fullStop
+
+# text = uru nasau asu tṛpā udumbalau yamasya dūtau carataḥ janāṁ anu
+# sent_id = 637068_1
+1	uru	uru	ADJ	_	Case=Cpd	2	amod	_	LemmaId=37940|OccId=5520623|Unsandhied=uru|Annotator=Ol
+2	nasau	nasā	NOUN	_	Case=Nom|Gender=Masc|Number=Dual	7	acl	_	LemmaId=32960|OccId=5520624|Unsandhied=nasau|Annotator=Ol
+3	asu	asu	NOUN	_	Case=Cpd|Gender=Masc	4	obj	_	LemmaId=61036|OccId=5520626|Unsandhied=asu|Annotator=Ol
+4	tṛpā	tṛp	ADJ	_	Case=Nom|Gender=Masc|Number=Dual	2	conj	_	LemmaId=224789|OccId=5520627|Unsandhied=tṛpā|Annotator=Ol
+5	udumbalau	udumbala	ADJ	_	Case=Nom|Gender=Masc|Number=Dual	2	conj	_	LemmaId=56563|OccId=5401019|Unsandhied=udumbalau|Annotator=Ol
+6	yamasya	yama	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	7	nmod	_	LemmaId=73816|OccId=5401020|Unsandhied=yamasya|Annotator=Ol
+7	dūtau	dūta	NOUN	_	Case=Nom|Gender=Masc|Number=Dual	8	nsubj	_	LemmaId=86123|OccId=5401021|Unsandhied=dūtau|Annotator=Ol
+8	carataḥ	car	VERB	_	Mood=Ind|Number=Dual|Person=3|Tense=Pres	0	root	_	LemmaId=156249|OccId=5401022|Unsandhied=carataḥ|Annotator=Ol
+9	janāṁ	jana	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	8	obl:path	_	LemmaId=87452|OccId=5401023|Unsandhied=janāṁ|Annotator=Ol
+10	anu	anu	ADP	_	_	9	case	_	LemmaId=166836|OccId=5401024|Unsandhied=anu|Annotator=Ol|Punctuation=fullStop
+
+# text = tau asmabhyam dṛśaye sūryāya punar dātām asum adya iha bhadram
+# sent_id = 637069_1
+1	tau	tad	PRON	_	Case=Nom|Gender=Masc|Number=Dual	6	nsubj	_	LemmaId=37875|OccId=5401025|Unsandhied=tau|Annotator=Ol
+2	asmabhyam	mad	PRON	_	Case=Dat|Number=Plur	6	iobj	_	LemmaId=37879|OccId=5401026|Unsandhied=asmabhyam|Annotator=Ol
+3	dṛśaye	dṛś	VERB	_	VerbForm=Inf	6	advcl:fin	_	LemmaId=157766|OccId=5401027|Unsandhied=dṛśaye|Annotator=Ol
+4	sūryāya	sūrya	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	3	obj	_	LemmaId=99310|OccId=5401028|Unsandhied=sūryāya|Annotator=Ol
+5	punar	punar	ADV	_	_	6	advmod	_	LemmaId=143659|OccId=5401029|Unsandhied=punar|Annotator=Ol
+6	dātām	dā	VERB	_	Mood=Imp|Number=Dual|Person=3|Tense=Past	0	root	_	LemmaId=157372|OccId=5401030|Unsandhied=dātām|Annotator=Ol
+7	asum	asu	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	6	obj	_	LemmaId=61036|OccId=5401031|Unsandhied=asum|Annotator=Ol
+8	adya	adya	ADV	_	_	6	advmod	_	LemmaId=7682|OccId=5401032|Unsandhied=adya|Annotator=Ol
+9	iha	iha	ADV	_	_	6	advmod	_	LemmaId=63959|OccId=5401033|Unsandhied=iha|Annotator=Ol
+10	bhadram	bhadra	ADJ	_	Case=Acc|Gender=Masc|Number=Sing	7	amod	_	LemmaId=48731|OccId=5401034|Unsandhied=bhadram|Annotator=Ol|Punctuation=fullStop
 

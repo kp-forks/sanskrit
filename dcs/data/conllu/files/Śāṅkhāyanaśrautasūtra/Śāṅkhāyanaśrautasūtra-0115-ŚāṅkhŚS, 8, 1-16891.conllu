@@ -3,7 +3,7 @@
 ## chapter: ŚāṅkhŚS, 8, 1
 ## chapter_id: 16891
 # text = yathā madhyandināyaivam ūrdhvaṃ madhyandināt prasarpanti
-# sent_id = 724913
+# sent_id = 729292
 # sent_counter = 1
 # sent_subcounter = 
 1	yathā	yathā	PART	_		_	_	_	LemmaId=73250|OccId=5815295|Unsandhied=yathā
@@ -15,7 +15,7 @@
 6	prasarpanti	prasṛp	VERB	_	Tense=Pres|Mood=Ind|Person=3|Number=Plur	_	_	_	LemmaId=163118|OccId=5815300|Unsandhied=prasarpanti|Punctuation=fullStop
 
 # text = ādau tṛtīyasavanasyādityagraheṇa caranti
-# sent_id = 724914
+# sent_id = 729293
 # sent_counter = 2
 # sent_subcounter = 
 1	ādau	ādi	NOUN	_	Case=Loc|Gender=Masc|Number=Sing	_	_	_	LemmaId=57973|OccId=5815301|Unsandhied=ādau
@@ -26,7 +26,7 @@
 5	caranti	car	VERB	_	Tense=Pres|Mood=Ind|Person=3|Number=Plur	_	_	_	LemmaId=156249|OccId=5815305|Unsandhied=caranti|Punctuation=fullStop
 
 # text = ādityebhya ity uktaḥ
-# sent_id = 724915
+# sent_id = 729294
 # sent_counter = 3
 # sent_subcounter = 
 1	ādityebhya	āditya	NOUN	_	Case=Dat|Gender=Masc|Number=Plur	_	_	_	LemmaId=58039|OccId=5815306|Unsandhied=ādityebhyaḥ
@@ -34,36 +34,36 @@
 3	uktaḥ	vac	VERB	_	Case=Nom|Gender=Masc|Number=Sing|VerbForm=Part	_	_	_	LemmaId=157264|OccId=5815308|Unsandhied=uktaḥ|Punctuation=fullStop
 
 # text = ādityānām avaseti puronuvākyā
-# sent_id = 724916
+# sent_id = 729295
 # sent_counter = 4
 # sent_subcounter = 
-1	ādityānām	āditya	NOUN	_	Case=Gen|Gender=Masc|Number=Plur	_	_	_	LemmaId=58039|OccId=5815309|Unsandhied=ādityānām
+1	ādityānām	āditya	NOUN	_	Case=Gen|Gender=Masc|Number=Plur	_	_	_	LemmaId=58039|OccId=5815309|Unsandhied=ādityānām|IsMantra=True
 2-3	avaseti	_	_	_	_	_	_	_	_
-2	avasā	avas	NOUN	_	Case=Ins|Gender=Neut|Number=Sing	_	_	_	LemmaId=54634|OccId=5815310|Unsandhied=avasā
+2	avasā	avas	NOUN	_	Case=Ins|Gender=Neut|Number=Sing	_	_	_	LemmaId=54634|OccId=5815310|Unsandhied=avasā|IsMantra=True
 3	iti	iti	PART	_		_	_	_	LemmaId=63331|OccId=5815311|Unsandhied=iti
 4	puronuvākyā	puronuvākyā	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	_	_	_	LemmaId=144588|OccId=5815312|Unsandhied=puronuvākyā|Punctuation=fullStop
 
 # text = hotā yakṣad ādityān iti praiṣaḥ
-# sent_id = 724917
+# sent_id = 729296
 # sent_counter = 5
 # sent_subcounter = 
-1	hotā	hotṛ	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=111085|OccId=5815313|Unsandhied=hotā
-2	yakṣad	yaj	VERB	_	Tense=Past|Mood=Sub|Person=3|Number=Sing	_	_	_	LemmaId=157422|OccId=5815314|Unsandhied=yakṣat
-3	ādityān	āditya	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	_	_	_	LemmaId=58039|OccId=5815315|Unsandhied=ādityān
+1	hotā	hotṛ	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=111085|OccId=5815313|Unsandhied=hotā|IsMantra=True
+2	yakṣad	yaj	VERB	_	Tense=Past|Mood=Sub|Person=3|Number=Sing	_	_	_	LemmaId=157422|OccId=5815314|Unsandhied=yakṣat|IsMantra=True
+3	ādityān	āditya	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	_	_	_	LemmaId=58039|OccId=5815315|Unsandhied=ādityān|IsMantra=True
 4	iti	iti	PART	_		_	_	_	LemmaId=63331|OccId=5815316|Unsandhied=iti
 5	praiṣaḥ	praiṣa	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=153989|OccId=5815317|Unsandhied=praiṣaḥ|Punctuation=fullStop
 
 # text = ādityāso aditir iti yajati
-# sent_id = 724918
+# sent_id = 729297
 # sent_counter = 6
 # sent_subcounter = 
-1	ādityāso	āditya	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	_	_	_	LemmaId=58039|OccId=5815340|Unsandhied=ādityāsaḥ
-2	aditir	aditi	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	_	_	_	LemmaId=7571|OccId=5815318|Unsandhied=aditiḥ
+1	ādityāso	āditya	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	_	_	_	LemmaId=58039|OccId=5815340|Unsandhied=ādityāsaḥ|IsMantra=True
+2	aditir	aditi	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	_	_	_	LemmaId=7571|OccId=5815318|Unsandhied=aditiḥ|IsMantra=True
 3	iti	iti	PART	_		_	_	_	LemmaId=63331|OccId=5815319|Unsandhied=iti
 4	yajati	yaj	VERB	_	Tense=Pres|Mood=Ind|Person=3|Number=Sing	_	_	_	LemmaId=157422|OccId=5815320|Unsandhied=yajati|Punctuation=fullStop
 
 # text = nāhutim anvīkṣate na bhakṣayati
-# sent_id = 724919
+# sent_id = 729298
 # sent_counter = 7
 # sent_subcounter = 
 1-2	nāhutim	_	_	_	_	_	_	_	_
@@ -74,7 +74,7 @@
 5	bhakṣayati	bhakṣay	VERB	_	Tense=Pres|Mood=Ind|Person=3|Number=Sing	_	_	_	LemmaId=159849|OccId=5815325|Unsandhied=bhakṣayati|Punctuation=fullStop
 
 # text = sāvitragrahe ca
-# sent_id = 724920
+# sent_id = 729299
 # sent_counter = 8
 # sent_subcounter = 
 1-2	sāvitragrahe	_	_	_	_	_	_	_	_
@@ -83,7 +83,7 @@
 3	ca	ca	CONJ	_		_	_	_	LemmaId=157144|OccId=5815328|Unsandhied=ca|Punctuation=fullStop
 
 # text = ārbhaveṇa stute pavamānena manotādīḍāntaṃ paśukarma kṛtvātaḥ puroḍāśaiḥ savanīyaiś caranti
-# sent_id = 724921
+# sent_id = 729300
 # sent_counter = 9
 # sent_subcounter = 
 1	ārbhaveṇa	ārbhava	ADJ	_	Case=Ins|Gender=Neut|Number=Sing	_	_	_	LemmaId=59601|OccId=5815329|Unsandhied=ārbhaveṇa

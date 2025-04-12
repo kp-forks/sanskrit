@@ -3,7 +3,7 @@
 ## chapter: BaudhŚS, 16, 7
 ## chapter_id: 16438
 # text = tasmin saṃsthite samiddhārā yanti
-# sent_id = 658629
+# sent_id = 661022
 # sent_counter = 1
 # sent_subcounter = 
 1	tasmin	tad	PRON	_	Case=Loc|Gender=Masc|Number=Sing	_	_	_	LemmaId=37875|OccId=5735476|Unsandhied=tasmin
@@ -14,7 +14,7 @@
 5	yanti	i	VERB	_	Tense=Pres|Mood=Ind|Person=3|Number=Plur	_	_	_	LemmaId=156127|OccId=5735480|Unsandhied=yanti|Punctuation=fullStop
 
 # text = āhṛtya samidha āgnīdhrīye saṃnyasyanti
-# sent_id = 658630
+# sent_id = 661023
 # sent_counter = 2
 # sent_subcounter = 
 1	āhṛtya	āhṛ	VERB	_	VerbForm=Conv	_	_	_	LemmaId=160039|OccId=5735481|Unsandhied=āhṛtya
@@ -23,7 +23,7 @@
 4	saṃnyasyanti	saṃnyas	VERB	_	Tense=Pres|Mood=Ind|Person=3|Number=Plur	_	_	_	LemmaId=165011|OccId=5735484|Unsandhied=saṃnyasyanti|Punctuation=fullStop
 
 # text = teṣu samanvārabdheṣv āhavanīye sruvāhutiṃ juhoti prajāpataye svāheti manasā
-# sent_id = 658631
+# sent_id = 661024
 # sent_counter = 3
 # sent_subcounter = 
 1	teṣu	tad	PRON	_	Case=Loc|Gender=Masc|Number=Plur	_	_	_	LemmaId=37875|OccId=5735485|Unsandhied=teṣu
@@ -33,14 +33,14 @@
 4	sruva	sruva	NOUN	_	Case=Cpd	_	_	_	LemmaId=114287|OccId=5735488|Unsandhied=sruva
 5	āhutim	āhuti	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	_	_	_	LemmaId=63117|OccId=5735489|Unsandhied=āhutim
 6	juhoti	hu	VERB	_	Tense=Pres|Mood=Ind|Person=3|Number=Sing	_	_	_	LemmaId=157629|OccId=5735490|Unsandhied=juhoti|Punctuation=comma
-7	prajāpataye	prajāpati	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	_	_	_	LemmaId=151290|OccId=5735491|Unsandhied=prajāpataye
+7	prajāpataye	prajāpati	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	_	_	_	LemmaId=151290|OccId=5735491|Unsandhied=prajāpataye|IsMantra=True
 8-9	svāheti	_	_	_	_	_	_	_	_
-8	svāhā	svāhā	INTJ	_		_	_	_	LemmaId=121803|OccId=5735492|Unsandhied=svāhā
+8	svāhā	svāhā	INTJ	_		_	_	_	LemmaId=121803|OccId=5735492|Unsandhied=svāhā|IsMantra=True
 9	iti	iti	PART	_		_	_	_	LemmaId=63331|OccId=5735493|Unsandhied=iti|Punctuation=comma
 10	manasā	manas	NOUN	_	Case=Ins|Gender=Neut|Number=Sing	_	_	_	LemmaId=36096|OccId=5735494|Unsandhied=manasā|Punctuation=fullStop
 
 # text = atha sadaḥ prasarpanti tūṣṇīṃstomāya
-# sent_id = 658632
+# sent_id = 661025
 # sent_counter = 4
 # sent_subcounter = 
 1	atha	atha	ADV	_		_	_	_	LemmaId=7467|OccId=5735495|Unsandhied=atha
@@ -49,7 +49,7 @@
 4	tūṣṇīṃstomāya	tūṣṇīṃstoma	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	_	_	_	LemmaId=225613|OccId=5735583|Unsandhied=tūṣṇīṃstomāya|Punctuation=fullStop
 
 # text = samprasṛptān viditvādhvaryur manasaiva prāṅ drutvā manasemāṃ pātraṃ kṛtvā manasānyaṃ grahaṃ prajāpataye gṛhṇāti upayāmagṛhīto 'si prajāpataye tvā juṣṭaṃ gṛhṇāmīti
-# sent_id = 658633
+# sent_id = 661026
 # sent_counter = 5
 # sent_subcounter = 
 1	samprasṛptān	samprasṛp	VERB	_	Case=Acc|Gender=Masc|Number=Plur|VerbForm=Part	_	_	_	LemmaId=165550|OccId=5735587|Unsandhied=samprasṛptān
@@ -73,18 +73,18 @@
 15	prajāpataye	prajāpati	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	_	_	_	LemmaId=151290|OccId=5735511|Unsandhied=prajāpataye
 16	gṛhṇāti	grah	VERB	_	Tense=Pres|Mood=Ind|Person=3|Number=Sing	_	_	_	LemmaId=156232|OccId=5735512|Unsandhied=gṛhṇāti|Punctuation=comma
 17-18	upayāmagṛhīto	_	_	_	_	_	_	_	_
-17	upayāma	upayāma	NOUN	_	Case=Cpd	_	_	_	LemmaId=45361|OccId=5735513|Unsandhied=upayāma
-18	gṛhītaḥ	grah	VERB	_	Case=Nom|Gender=Masc|Number=Sing|VerbForm=Part	_	_	_	LemmaId=156232|OccId=5735514|Unsandhied=gṛhītaḥ
-19	'si	as	VERB	_	Tense=Pres|Mood=Ind|Person=2|Number=Sing	_	_	_	LemmaId=156122|OccId=5735515|Unsandhied=asi
-20	prajāpataye	prajāpati	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	_	_	_	LemmaId=151290|OccId=5735516|Unsandhied=prajāpataye
-21	tvā	tvad	PRON	_	Case=Acc|Number=Sing	_	_	_	LemmaId=37880|OccId=5735517|Unsandhied=tvā
-22	juṣṭaṃ	juṣ	VERB	_	Case=Acc|Gender=Masc|Number=Sing|VerbForm=Part	_	_	_	LemmaId=157147|OccId=5735518|Unsandhied=juṣṭam
+17	upayāma	upayāma	NOUN	_	Case=Cpd	_	_	_	LemmaId=45361|OccId=5735513|Unsandhied=upayāma|IsMantra=True
+18	gṛhītaḥ	grah	VERB	_	Case=Nom|Gender=Masc|Number=Sing|VerbForm=Part	_	_	_	LemmaId=156232|OccId=5735514|Unsandhied=gṛhītaḥ|IsMantra=True
+19	'si	as	VERB	_	Tense=Pres|Mood=Ind|Person=2|Number=Sing	_	_	_	LemmaId=156122|OccId=5735515|Unsandhied=asi|IsMantra=True
+20	prajāpataye	prajāpati	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	_	_	_	LemmaId=151290|OccId=5735516|Unsandhied=prajāpataye|IsMantra=True
+21	tvā	tvad	PRON	_	Case=Acc|Number=Sing	_	_	_	LemmaId=37880|OccId=5735517|Unsandhied=tvā|IsMantra=True
+22	juṣṭaṃ	juṣ	VERB	_	Case=Acc|Gender=Masc|Number=Sing|VerbForm=Part	_	_	_	LemmaId=157147|OccId=5735518|Unsandhied=juṣṭam|IsMantra=True
 23-24	gṛhṇāmīti	_	_	_	_	_	_	_	_
-23	gṛhṇāmi	grah	VERB	_	Tense=Pres|Mood=Ind|Person=1|Number=Sing	_	_	_	LemmaId=156232|OccId=5735519|Unsandhied=gṛhṇāmi
+23	gṛhṇāmi	grah	VERB	_	Tense=Pres|Mood=Ind|Person=1|Number=Sing	_	_	_	LemmaId=156232|OccId=5735519|Unsandhied=gṛhṇāmi|IsMantra=True
 24	iti	iti	PART	_		_	_	_	LemmaId=63331|OccId=5735520|Unsandhied=iti|Punctuation=fullStop
 
 # text = yad idaṃ kiṃ ca tad iti manasā parimṛjya sādayati eṣa te yoniḥ prajāpataye tveti
-# sent_id = 658634
+# sent_id = 661027
 # sent_counter = 6
 # sent_subcounter = 
 1	yad	yad	PRON	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=37877|OccId=5735521|Unsandhied=yat
@@ -96,16 +96,16 @@
 7	manasā	manas	NOUN	_	Case=Ins|Gender=Neut|Number=Sing	_	_	_	LemmaId=36096|OccId=5735527|Unsandhied=manasā
 8	parimṛjya	parimṛj	VERB	_	VerbForm=Conv	_	_	_	LemmaId=162119|OccId=5735528|Unsandhied=parimṛjya|Punctuation=comma
 9	sādayati	sāday	VERB	_	Tense=Pres|Mood=Ind|Person=3|Number=Sing	_	_	_	LemmaId=157586|OccId=5735529|Unsandhied=sādayati|Punctuation=comma
-10	eṣa	etad	PRON	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=163744|OccId=5735530|Unsandhied=eṣa
-11	te	tvad	PRON	_	Case=Gen|Number=Sing	_	_	_	LemmaId=37880|OccId=5735531|Unsandhied=te
-12	yoniḥ	yoni	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	_	_	_	LemmaId=65252|OccId=5735532|Unsandhied=yoniḥ
+10	eṣa	etad	PRON	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=163744|OccId=5735530|Unsandhied=eṣa|IsMantra=True
+11	te	tvad	PRON	_	Case=Gen|Number=Sing	_	_	_	LemmaId=37880|OccId=5735531|Unsandhied=te|IsMantra=True
+12	yoniḥ	yoni	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	_	_	_	LemmaId=65252|OccId=5735532|Unsandhied=yoniḥ|IsMantra=True
 13	prajāpataye	prajāpati	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	_	_	_	LemmaId=151290|OccId=5735533|Unsandhied=prajāpataye
 14-15	tveti	_	_	_	_	_	_	_	_
 14	tvā	tvad	PRON	_	Case=Acc|Number=Sing	_	_	_	LemmaId=37880|OccId=5735534|Unsandhied=tvā
 15	iti	iti	PART	_		_	_	_	LemmaId=63331|OccId=5735535|Unsandhied=iti|Punctuation=fullStop
 
 # text = athāpa upaspṛśya barhiṣī ādāya vācaṃyamaḥ pratyaṅ drutvā manasaiva stotram upākaroti
-# sent_id = 658635
+# sent_id = 661028
 # sent_counter = 7
 # sent_subcounter = 
 1-2	athāpa	_	_	_	_	_	_	_	_
@@ -124,21 +124,21 @@
 12	upākaroti	upākṛ	VERB	_	Tense=Pres|Mood=Ind|Person=3|Number=Sing	_	_	_	LemmaId=160663|OccId=5735545|Unsandhied=upākaroti|Punctuation=fullStop
 
 # text = manasā prasauti
-# sent_id = 658636
+# sent_id = 661029
 # sent_counter = 8
 # sent_subcounter = 
 1	manasā	manas	NOUN	_	Case=Ins|Gender=Neut|Number=Sing	_	_	_	LemmaId=36096|OccId=5735546|Unsandhied=manasā
 2	prasauti	prasū	VERB	_	Tense=Pres|Mood=Ind|Person=3|Number=Sing	_	_	_	LemmaId=163114|OccId=5735547|Unsandhied=prasauti|Punctuation=fullStop
 
 # text = manasā prastauti
-# sent_id = 658637
+# sent_id = 661030
 # sent_counter = 9
 # sent_subcounter = 
 1	manasā	manas	NOUN	_	Case=Ins|Gender=Neut|Number=Sing	_	_	_	LemmaId=36096|OccId=5735548|Unsandhied=manasā
 2	prastauti	prastu	VERB	_	Tense=Pres|Mood=Ind|Person=3|Number=Sing	_	_	_	LemmaId=163121|OccId=5735549|Unsandhied=prastauti|Punctuation=fullStop
 
 # text = manasodgāyati
-# sent_id = 658638
+# sent_id = 661031
 # sent_counter = 10
 # sent_subcounter = 
 1-2	manasodgāyati	_	_	_	_	_	_	_	_
@@ -146,14 +146,14 @@
 2	udgāyati	udgā	VERB	_	Tense=Pres|Mood=Ind|Person=3|Number=Sing	_	_	_	LemmaId=160217|OccId=5735551|Unsandhied=udgāyati|Punctuation=fullStop
 
 # text = manasā pratiharati
-# sent_id = 658639
+# sent_id = 661032
 # sent_counter = 11
 # sent_subcounter = 
 1	manasā	manas	NOUN	_	Case=Ins|Gender=Neut|Number=Sing	_	_	_	LemmaId=36096|OccId=5735552|Unsandhied=manasā
 2	pratiharati	pratihṛ	VERB	_	Tense=Pres|Mood=Ind|Person=3|Number=Sing	_	_	_	LemmaId=162713|OccId=5735553|Unsandhied=pratiharati|Punctuation=fullStop
 
 # text = manasā hotre eṣottameti prāhuḥ
-# sent_id = 658640
+# sent_id = 661033
 # sent_counter = 12
 # sent_subcounter = 
 1	manasā	manas	NOUN	_	Case=Ins|Gender=Neut|Number=Sing	_	_	_	LemmaId=36096|OccId=5735554|Unsandhied=manasā
@@ -165,7 +165,7 @@
 6	prāhuḥ	prāh	VERB	_	Tense=Past|Mood=Ind|Person=3|Number=Plur	_	_	_	LemmaId=163182|OccId=5735559|Unsandhied=prāhuḥ|Punctuation=fullStop
 
 # text = manasā hotāhvayate
-# sent_id = 658641
+# sent_id = 661034
 # sent_counter = 13
 # sent_subcounter = 
 1	manasā	manas	NOUN	_	Case=Ins|Gender=Neut|Number=Sing	_	_	_	LemmaId=36096|OccId=5735560|Unsandhied=manasā
@@ -174,7 +174,7 @@
 3	āhvayate	āhvā	VERB	_	Tense=Pres|Mood=Ind|Person=3|Number=Sing	_	_	_	LemmaId=160044|OccId=5735562|Unsandhied=āhvayate|Punctuation=fullStop
 
 # text = manasādhvaryuḥ pratyāhvayate
-# sent_id = 658642
+# sent_id = 661035
 # sent_counter = 14
 # sent_subcounter = 
 1-2	manasādhvaryuḥ	_	_	_	_	_	_	_	_
@@ -183,21 +183,21 @@
 3	pratyāhvayate	pratyāhve	VERB	_	Tense=Pres|Mood=Ind|Person=3|Number=Sing	_	_	_	LemmaId=162824|OccId=5735586|Unsandhied=pratyāhvayate|Punctuation=fullStop
 
 # text = manasā śaṃsati
-# sent_id = 658643
+# sent_id = 661036
 # sent_counter = 15
 # sent_subcounter = 
 1	manasā	manas	NOUN	_	Case=Ins|Gender=Neut|Number=Sing	_	_	_	LemmaId=36096|OccId=5735565|Unsandhied=manasā
 2	śaṃsati	śaṃs	VERB	_	Tense=Pres|Mood=Ind|Person=3|Number=Sing	_	_	_	LemmaId=157408|OccId=5735566|Unsandhied=śaṃsati|Punctuation=fullStop
 
 # text = manasā pratigṛṇāti
-# sent_id = 658644
+# sent_id = 661037
 # sent_counter = 16
 # sent_subcounter = 
 1	manasā	manas	NOUN	_	Case=Ins|Gender=Neut|Number=Sing	_	_	_	LemmaId=36096|OccId=5735567|Unsandhied=manasā
 2	pratigṛṇāti	pratigṛ	VERB	_	Tense=Pres|Mood=Ind|Person=3|Number=Sing	_	_	_	LemmaId=162459|OccId=5735568|Unsandhied=pratigṛṇāti|Punctuation=fullStop
 
 # text = yadaitasya mānasasya śastrasya pāram ety atha hotoccaiś caturhotṝn vyācaṣṭe
-# sent_id = 658645
+# sent_id = 661038
 # sent_counter = 17
 # sent_subcounter = 
 1-2	yadaitasya	_	_	_	_	_	_	_	_
@@ -215,7 +215,7 @@
 11	vyācaṣṭe	vyācakṣ	VERB	_	Tense=Pres|Mood=Ind|Person=3|Number=Sing	_	_	_	LemmaId=164621|OccId=5735579|Unsandhied=vyācaṣṭe|Punctuation=fullStop
 
 # text = tasmā adhvaryuḥ pratigṛṇāti
-# sent_id = 658646
+# sent_id = 661039
 # sent_counter = 18
 # sent_subcounter = 
 1	tasmā	tad	PRON	_	Case=Dat|Gender=Masc|Number=Sing	_	_	_	LemmaId=37875|OccId=5735580|Unsandhied=tasmai

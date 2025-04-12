@@ -3,7 +3,7 @@
 ## chapter: BaudhŚS, 6, 33
 ## chapter_id: 16658
 # text = atha vasatīvarīḥ parihariṣyann āha vyapakrāmata mā vo 'bhiparihāriṣam iti
-# sent_id = 657106
+# sent_id = 659499
 # sent_counter = 1
 # sent_subcounter = 
 1	atha	atha	ADV	_		_	_	_	LemmaId=7467|OccId=5780394|Unsandhied=atha
@@ -17,7 +17,7 @@
 9	iti	iti	PART	_		_	_	_	LemmaId=63331|OccId=5780401|Unsandhied=iti|Punctuation=fullStop
 
 # text = yajamānāyatane yajamāna upaviśati
-# sent_id = 657107
+# sent_id = 659500
 # sent_counter = 2
 # sent_subcounter = 
 1-2	yajamānāyatane	_	_	_	_	_	_	_	_
@@ -27,7 +27,7 @@
 4	upaviśati	upaviś	VERB	_	Tense=Pres|Mood=Ind|Person=3|Number=Sing	_	_	_	LemmaId=160546|OccId=5780405|Unsandhied=upaviśati|Punctuation=comma
 
 # text = jaghanena gārhapatyaṃ patnī
-# sent_id = 657108
+# sent_id = 659501
 # sent_counter = 3
 # sent_subcounter = 
 1	jaghanena	jaghanena	ADV	_		_	_	_	LemmaId=222851|OccId=5780406|Unsandhied=jaghanena
@@ -35,7 +35,7 @@
 3	patnī	patnī	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	_	_	_	LemmaId=15670|OccId=5780408|Unsandhied=patnī|Punctuation=fullStop
 
 # text = athainā ādāya dakṣiṇayā dvāropanirhṛtya savye 'ṃse nidhāya dakṣiṇena sadaḥ parītya dakṣiṇena mārjālīyaṃ dhiṣṇiyaṃ paryāhṛtya dakṣiṇato yūpena saṃspṛṣṭāḥ sādayatīndrāgniyor bhāgadheyī stheti
-# sent_id = 657109
+# sent_id = 659502
 # sent_counter = 4
 # sent_subcounter = 
 1-2	athainā	_	_	_	_	_	_	_	_
@@ -60,16 +60,16 @@
 18	yūpena	yūpa	NOUN	_	Case=Ins|Gender=Masc|Number=Sing	_	_	_	LemmaId=64966|OccId=5780424|Unsandhied=yūpena
 19	saṃspṛṣṭāḥ	saṃspṛś	VERB	_	Case=Acc|Gender=Fem|Number=Plur|VerbForm=Part	_	_	_	LemmaId=164827|OccId=5780425|Unsandhied=saṃspṛṣṭāḥ
 20-22	sādayatīndrāgniyor	_	_	_	_	_	_	_	_
-20	sādayati	sāday	VERB	_	Tense=Pres|Mood=Ind|Person=3|Number=Sing	_	_	_	LemmaId=157586|OccId=5780500|Unsandhied=sādayati
-21	indra	indra	NOUN	_	Case=Cpd	_	_	_	LemmaId=63463|OccId=5780501|Unsandhied=indra
-22	agnyoḥ	agni	NOUN	_	Case=Gen|Gender=Masc|Number=Dual	_	_	_	LemmaId=5705|OccId=5780502|Unsandhied=agnyoḥ
-23	bhāgadheyī	bhāgadheya	ADJ	_	Case=Nom|Gender=Fem|Number=Plur	_	_	_	LemmaId=49498|OccId=5780495|Unsandhied=bhāgadheyīḥ
+20	sādayati	sāday	VERB	_	Tense=Pres|Mood=Ind|Person=3|Number=Sing	_	_	_	LemmaId=157586|OccId=5780500|Unsandhied=sādayati|IsMantra=True
+21	indra	indra	NOUN	_	Case=Cpd	_	_	_	LemmaId=63463|OccId=5780501|Unsandhied=indra|IsMantra=True
+22	agnyoḥ	agni	NOUN	_	Case=Gen|Gender=Masc|Number=Dual	_	_	_	LemmaId=5705|OccId=5780502|Unsandhied=agnyoḥ|IsMantra=True
+23	bhāgadheyī	bhāgadheya	ADJ	_	Case=Nom|Gender=Fem|Number=Plur	_	_	_	LemmaId=49498|OccId=5780495|Unsandhied=bhāgadheyīḥ|IsMantra=True
 24-25	stheti	_	_	_	_	_	_	_	_
-24	stha	as	VERB	_	Tense=Pres|Mood=Ind|Person=2|Number=Plur	_	_	_	LemmaId=156122|OccId=5780426|Unsandhied=stha
+24	stha	as	VERB	_	Tense=Pres|Mood=Ind|Person=2|Number=Plur	_	_	_	LemmaId=156122|OccId=5780426|Unsandhied=stha|IsMantra=True
 25	iti	iti	PART	_		_	_	_	LemmaId=63331|OccId=5780427|Unsandhied=iti|Punctuation=fullStop
 
 # text = athainā ādāyodaṅṅ āvṛtya dakṣiṇe 'ṃse nidhāyaitenaiva yathetam etya jaghanena gārhapatyam aupasadāyāṃ vedyāṃ saṃspṛṣṭāḥ sādayati mitrāvaruṇayor bhāgadheyī stheti
-# sent_id = 657110
+# sent_id = 659503
 # sent_counter = 5
 # sent_subcounter = 
 1-2	athainā	_	_	_	_	_	_	_	_
@@ -93,14 +93,14 @@
 16	vedyāṃ	vedi	NOUN	_	Case=Loc|Gender=Fem|Number=Sing	_	_	_	LemmaId=143092|OccId=5780443|Unsandhied=vedyām
 17	saṃspṛṣṭāḥ	saṃspṛś	VERB	_	Case=Acc|Gender=Fem|Number=Plur|VerbForm=Part	_	_	_	LemmaId=164827|OccId=5780444|Unsandhied=saṃspṛṣṭāḥ
 18	sādayati	sāday	VERB	_	Tense=Pres|Mood=Ind|Person=3|Number=Sing	_	_	_	LemmaId=157586|OccId=5780445|Unsandhied=sādayati|Punctuation=comma
-19	mitrāvaruṇayor	mitrāvaruṇa	NOUN	_	Case=Gen|Gender=Masc|Number=Dual	_	_	_	LemmaId=135865|OccId=5780446|Unsandhied=mitrāvaruṇayoḥ
-20	bhāgadheyī	bhāgadheya	ADJ	_	Case=Nom|Gender=Fem|Number=Plur	_	_	_	LemmaId=49498|OccId=5780496|Unsandhied=bhāgadheyīḥ
+19	mitrāvaruṇayor	mitrāvaruṇa	NOUN	_	Case=Gen|Gender=Masc|Number=Dual	_	_	_	LemmaId=135865|OccId=5780446|Unsandhied=mitrāvaruṇayoḥ|IsMantra=True
+20	bhāgadheyī	bhāgadheya	ADJ	_	Case=Nom|Gender=Fem|Number=Plur	_	_	_	LemmaId=49498|OccId=5780496|Unsandhied=bhāgadheyīḥ|IsMantra=True
 21-22	stheti	_	_	_	_	_	_	_	_
-21	stha	as	VERB	_	Tense=Pres|Mood=Ind|Person=2|Number=Plur	_	_	_	LemmaId=156122|OccId=5780447|Unsandhied=stha
+21	stha	as	VERB	_	Tense=Pres|Mood=Ind|Person=2|Number=Plur	_	_	_	LemmaId=156122|OccId=5780447|Unsandhied=stha|IsMantra=True
 22	iti	iti	PART	_		_	_	_	LemmaId=63331|OccId=5780448|Unsandhied=iti|Punctuation=fullStop
 
 # text = athainā ādāya pūrvayā dvāropanirhṛtya dakṣiṇa evāṃse nidhāyottareṇa sadaḥ parītyottareṇāgnīdhrīyaṃ dhiṣṇiyaṃ paryāhṛtyottarato yūpena saṃspṛṣṭāḥ sādayati viśveṣāṃ devānāṃ bhāgadheyī stheti
-# sent_id = 657111
+# sent_id = 659504
 # sent_counter = 6
 # sent_subcounter = 
 1-2	athainā	_	_	_	_	_	_	_	_
@@ -130,15 +130,15 @@
 19	yūpena	yūpa	NOUN	_	Case=Ins|Gender=Masc|Number=Sing	_	_	_	LemmaId=64966|OccId=5780465|Unsandhied=yūpena
 20	saṃspṛṣṭāḥ	saṃspṛś	VERB	_	Case=Acc|Gender=Fem|Number=Plur|VerbForm=Part	_	_	_	LemmaId=164827|OccId=5780466|Unsandhied=saṃspṛṣṭāḥ
 21	sādayati	sāday	VERB	_	Tense=Pres|Mood=Ind|Person=3|Number=Sing	_	_	_	LemmaId=157586|OccId=5780467|Unsandhied=sādayati|Punctuation=comma
-22	viśveṣāṃ	viśva	ADJ	_	Case=Gen|Gender=Masc|Number=Plur	_	_	_	LemmaId=139262|OccId=5780468|Unsandhied=viśveṣām
-23	devānāṃ	deva	NOUN	_	Case=Gen|Gender=Masc|Number=Plur	_	_	_	LemmaId=86559|OccId=5780469|Unsandhied=devānām
-24	bhāgadheyī	bhāgadheya	ADJ	_	Case=Nom|Gender=Fem|Number=Plur	_	_	_	LemmaId=49498|OccId=5780499|Unsandhied=bhāgadheyīḥ
+22	viśveṣāṃ	viśva	ADJ	_	Case=Gen|Gender=Masc|Number=Plur	_	_	_	LemmaId=139262|OccId=5780468|Unsandhied=viśveṣām|IsMantra=True
+23	devānāṃ	deva	NOUN	_	Case=Gen|Gender=Masc|Number=Plur	_	_	_	LemmaId=86559|OccId=5780469|Unsandhied=devānām|IsMantra=True
+24	bhāgadheyī	bhāgadheya	ADJ	_	Case=Nom|Gender=Fem|Number=Plur	_	_	_	LemmaId=49498|OccId=5780499|Unsandhied=bhāgadheyīḥ|IsMantra=True
 25-26	stheti	_	_	_	_	_	_	_	_
-25	stha	as	VERB	_	Tense=Pres|Mood=Ind|Person=2|Number=Plur	_	_	_	LemmaId=156122|OccId=5780470|Unsandhied=stha
+25	stha	as	VERB	_	Tense=Pres|Mood=Ind|Person=2|Number=Plur	_	_	_	LemmaId=156122|OccId=5780470|Unsandhied=stha|IsMantra=True
 26	iti	iti	PART	_		_	_	_	LemmaId=63331|OccId=5780471|Unsandhied=iti|Punctuation=fullStop
 
 # text = athainā ādāya pradakṣiṇam āvṛtya savye 'ṃse nidhāyaitenaiva yathetam etya jaghanenāgnīdhrīyaṃ dhiṣṇiyaṃ saṃspṛṣṭāḥ sādayati yajñe jāgṛteti
-# sent_id = 657112
+# sent_id = 659505
 # sent_counter = 7
 # sent_subcounter = 
 1-2	athainā	_	_	_	_	_	_	_	_
@@ -161,8 +161,8 @@
 15	dhiṣṇiyaṃ	dhiṣṇya	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	_	_	_	LemmaId=42649|OccId=5780486|Unsandhied=dhiṣṇiyam
 16	saṃspṛṣṭāḥ	saṃspṛś	VERB	_	Case=Acc|Gender=Fem|Number=Plur|VerbForm=Part	_	_	_	LemmaId=164827|OccId=5780487|Unsandhied=saṃspṛṣṭāḥ
 17	sādayati	sāday	VERB	_	Tense=Pres|Mood=Ind|Person=3|Number=Sing	_	_	_	LemmaId=157586|OccId=5780488|Unsandhied=sādayati
-18	yajñe	yajña	NOUN	_	Case=Loc|Gender=Masc|Number=Sing	_	_	_	LemmaId=72936|OccId=5780489|Unsandhied=yajñe
+18	yajñe	yajña	NOUN	_	Case=Loc|Gender=Masc|Number=Sing	_	_	_	LemmaId=72936|OccId=5780489|Unsandhied=yajñe|IsMantra=True
 19-20	jāgṛteti	_	_	_	_	_	_	_	_
-19	jāgṛta	jāgṛ	VERB	_	Tense=Pres|Mood=Imp|Person=2|Number=Plur	_	_	_	LemmaId=157737|OccId=5780490|Unsandhied=jāgṛta
+19	jāgṛta	jāgṛ	VERB	_	Tense=Pres|Mood=Imp|Person=2|Number=Plur	_	_	_	LemmaId=157737|OccId=5780490|Unsandhied=jāgṛta|IsMantra=True
 20	iti	iti	PART	_		_	_	_	LemmaId=63331|OccId=5780491|Unsandhied=iti|Punctuation=fullStop
 

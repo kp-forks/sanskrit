@@ -3,12 +3,12 @@
 ## chapter: ŚāṅkhŚS, 7, 3
 ## chapter_id: 16843
 # text = aitu vasuḥ purūvasur ity aindravāyavaṃ pratigṛhyorau dakṣiṇe nidhāyānapidhānam anavekṣaṇaṃ ca dvidevatyānām ā śeṣasyāvanayanāt
-# sent_id = 724558
+# sent_id = 728937
 # sent_counter = 1
 # sent_subcounter = 
-1	aitu	e	VERB	_	Tense=Pres|Mood=Imp|Person=3|Number=Sing	_	_	_	LemmaId=160774|OccId=5808593|Unsandhied=aitu
-2	vasuḥ	vasu	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=75313|OccId=5808594|Unsandhied=vasuḥ
-3	purūvasur	purūvasu	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=144071|OccId=5808595|Unsandhied=purūvasuḥ
+1	aitu	e	VERB	_	Tense=Pres|Mood=Imp|Person=3|Number=Sing	_	_	_	LemmaId=160774|OccId=5808593|Unsandhied=aitu|IsMantra=True
+2	vasuḥ	vasu	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=75313|OccId=5808594|Unsandhied=vasuḥ|IsMantra=True
+3	purūvasur	purūvasu	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=144071|OccId=5808595|Unsandhied=purūvasuḥ|IsMantra=True
 4	ity	iti	PART	_		_	_	_	LemmaId=63331|OccId=5808596|Unsandhied=iti
 5-6	aindravāyavaṃ	_	_	_	_	_	_	_	_
 5	aindra	aindra	ADJ	_	Case=Cpd	_	_	_	LemmaId=39926|OccId=5808597|Unsandhied=aindra
@@ -34,7 +34,7 @@
 20	avanayanāt	avanayana	NOUN	_	Case=Abl|Gender=Neut|Number=Sing	_	_	_	LemmaId=54291|OccId=5808606|Unsandhied=avanayanāt|Punctuation=fullStop
 
 # text = aitu vasur vidadvasur iti maitrāvaruṇaṃ pratigṛhya dakṣiṇenaindravāyavaṃ hṛtvā dakṣiṇataḥ paścān nidadhāti
-# sent_id = 724559
+# sent_id = 728938
 # sent_counter = 2
 # sent_subcounter = 
 1	aitu	e	VERB	_	Tense=Pres|Mood=Imp|Person=3|Number=Sing	_	_	_	LemmaId=160774|OccId=5808607|Unsandhied=aitu
@@ -53,14 +53,14 @@
 13	nidadhāti	nidhā	VERB	_	Tense=Pres|Mood=Ind|Person=3|Number=Sing	_	_	_	LemmaId=161295|OccId=5808619|Unsandhied=nidadhāti|Punctuation=fullStop
 
 # text = aitu vasuḥ saṃyadvasur ity āśvinaṃ pratigṛhya dakṣiṇena pūrvau hṛtvottarataḥpaścān nidadhāti
-# sent_id = 724560
+# sent_id = 728939
 # sent_counter = 3
 # sent_subcounter = 
-1	aitu	e	VERB	_	Tense=Pres|Mood=Imp|Person=3|Number=Sing	_	_	_	LemmaId=160774|OccId=5808620|Unsandhied=aitu
-2	vasuḥ	vasu	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=75313|OccId=5808621|Unsandhied=vasuḥ
+1	aitu	e	VERB	_	Tense=Pres|Mood=Imp|Person=3|Number=Sing	_	_	_	LemmaId=160774|OccId=5808620|Unsandhied=aitu|IsMantra=True
+2	vasuḥ	vasu	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=75313|OccId=5808621|Unsandhied=vasuḥ|IsMantra=True
 3-4	saṃyadvasur	_	_	_	_	_	_	_	_
-3	saṃyat	saṃyat	ADJ	_	Case=Cpd	_	_	_	LemmaId=42130|OccId=5808651|Unsandhied=saṃyat
-4	vasuḥ	vasu	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=75316|OccId=5808652|Unsandhied=vasuḥ
+3	saṃyat	saṃyat	ADJ	_	Case=Cpd	_	_	_	LemmaId=42130|OccId=5808651|Unsandhied=saṃyat|IsMantra=True
+4	vasuḥ	vasu	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=75316|OccId=5808652|Unsandhied=vasuḥ|IsMantra=True
 5	ity	iti	PART	_		_	_	_	LemmaId=63331|OccId=5808622|Unsandhied=iti
 6	āśvinaṃ	āśvina	ADJ	_	Case=Acc|Gender=Masc|Number=Sing	_	_	_	LemmaId=62821|OccId=5808623|Unsandhied=āśvinam
 7	pratigṛhya	pratigrah	VERB	_	VerbForm=Conv	_	_	_	LemmaId=162460|OccId=5808624|Unsandhied=pratigṛhya
@@ -73,14 +73,14 @@
 13	nidadhāti	nidhā	VERB	_	Tense=Pres|Mood=Ind|Person=3|Number=Sing	_	_	_	LemmaId=161295|OccId=5808630|Unsandhied=nidadhāti|Punctuation=fullStop
 
 # text = somasyāgne vīhīty anuvaṣaṭkāraḥ sarvāsu somayājyāsu dvidevatyartuyājān parihāpyādityagrahasāvitragrahau pātnīvataṃ ca
-# sent_id = 724561
+# sent_id = 728940
 # sent_counter = 4
 # sent_subcounter = 
 1-2	somasyāgne	_	_	_	_	_	_	_	_
-1	somasya	soma	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	_	_	_	LemmaId=100106|OccId=5808631|Unsandhied=somasya
-2	agne	agni	NOUN	_	Case=Voc|Gender=Masc|Number=Sing	_	_	_	LemmaId=5705|OccId=5808632|Unsandhied=agne
+1	somasya	soma	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	_	_	_	LemmaId=100106|OccId=5808631|Unsandhied=somasya|IsMantra=True
+2	agne	agni	NOUN	_	Case=Voc|Gender=Masc|Number=Sing	_	_	_	LemmaId=5705|OccId=5808632|Unsandhied=agne|IsMantra=True
 3-4	vīhīty	_	_	_	_	_	_	_	_
-3	vīhi	vī	VERB	_	Tense=Pres|Mood=Imp|Person=2|Number=Sing	_	_	_	LemmaId=158477|OccId=5808633|Unsandhied=vīhi
+3	vīhi	vī	VERB	_	Tense=Pres|Mood=Imp|Person=2|Number=Sing	_	_	_	LemmaId=158477|OccId=5808633|Unsandhied=vīhi|IsMantra=True
 4	iti	iti	PART	_		_	_	_	LemmaId=63331|OccId=5808634|Unsandhied=iti
 5	anuvaṣaṭkāraḥ	anuvaṣaṭkāra	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=11297|OccId=5808635|Unsandhied=anuvaṣaṭkāraḥ
 6	sarvāsu	sarva	PRON	_	Case=Loc|Gender=Fem|Number=Plur	_	_	_	LemmaId=104444|OccId=5808636|Unsandhied=sarvāsu
@@ -101,7 +101,7 @@
 18	ca	ca	CONJ	_		_	_	_	LemmaId=157144|OccId=5808645|Unsandhied=ca|Punctuation=fullStop
 
 # text = upāṃśu vā pātnīvatasya
-# sent_id = 724562
+# sent_id = 728941
 # sent_counter = 5
 # sent_subcounter = 
 1	upāṃśu	upāṃśu	ADV	_		_	_	_	LemmaId=45935|OccId=5808646|Unsandhied=upāṃśu

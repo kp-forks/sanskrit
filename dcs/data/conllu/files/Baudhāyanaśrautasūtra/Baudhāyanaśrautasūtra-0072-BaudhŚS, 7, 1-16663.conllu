@@ -3,7 +3,7 @@
 ## chapter: BaudhŚS, 7, 1
 ## chapter_id: 16663
 # text = athāto mahārātra eva budhyante
-# sent_id = 657123
+# sent_id = 659516
 # sent_counter = 1
 # sent_subcounter = 
 1-2	athāto	_	_	_	_	_	_	_	_
@@ -14,7 +14,7 @@
 5	budhyante	budh	VERB	_	Tense=Pres|Mood=Ind|Person=3|Number=Plur	_	_	_	LemmaId=157933|OccId=5780713|Unsandhied=budhyante|Punctuation=fullStop
 
 # text = saṃbodhayanty etān ṛtvijo 'dhvaryuṃ hotāraṃ brahmāṇam udgātāraṃ pratiprasthātāraṃ prastotāraṃ praśāstāraṃ brāhmaṇācchaṃsinam acchāvākaṃ neṣṭāraṃ potāraṃ sadasyam unnetāram āgnīdhraṃ grāvastutaṃ subrahmaṇyaṃ pratihartāraṃ ye cānye parikarmiṇo bhavanti
-# sent_id = 657124
+# sent_id = 659517
 # sent_counter = 2
 # sent_subcounter = 
 1	saṃbodhayanty	sambodhay	VERB	_	Tense=Pres|Mood=Ind|Person=3|Number=Plur	_	_	_	LemmaId=165572|OccId=5780714|Unsandhied=saṃbodhayanti
@@ -45,7 +45,7 @@
 25	bhavanti	bhū	VERB	_	Tense=Pres|Mood=Ind|Person=3|Number=Plur	_	_	_	LemmaId=157250|OccId=5780738|Unsandhied=bhavanti|Punctuation=fullStop
 
 # text = te hastapādān prakṣālyāgnīdhre yajamānam upasaṃgacchante
-# sent_id = 657125
+# sent_id = 659518
 # sent_counter = 3
 # sent_subcounter = 
 1	te	tad	PRON	_	Case=Nom|Gender=Masc|Number=Plur	_	_	_	LemmaId=37875|OccId=5780739|Unsandhied=te
@@ -53,13 +53,13 @@
 2	hasta	hasta	NOUN	_	Case=Cpd	_	_	_	LemmaId=166517|OccId=5780740|Unsandhied=hasta
 3	pādān	pāda	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	_	_	_	LemmaId=93551|OccId=5780741|Unsandhied=pādān
 4-5	prakṣālyāgnīdhre	_	_	_	_	_	_	_	_
-4	prakṣālya	prakṣālay	VERB	_	VerbForm=Conv	_	_	_	LemmaId=162351|OccId=5780742|Unsandhied=prakṣālya
-5	āgnīdhre	āgnīdhra	NOUN	_	Case=Loc|Gender=Neut|Number=Sing	_	_	_	LemmaId=62115|OccId=5780743|Unsandhied=āgnīdhre
-6	yajamānam	yaj	VERB	_	Case=Acc|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part	_	_	_	LemmaId=157422|OccId=5780744|Unsandhied=yajamānam
+4	prakṣālya	prakṣālay	VERB	_	VerbForm=Conv	_	_	_	LemmaId=162351|OccId=5780742|Unsandhied=prakṣālya|IsMantra=True
+5	āgnīdhre	āgnīdhra	NOUN	_	Case=Loc|Gender=Neut|Number=Sing	_	_	_	LemmaId=62115|OccId=5780743|Unsandhied=āgnīdhre|IsMantra=True
+6	yajamānam	yaj	VERB	_	Case=Acc|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part	_	_	_	LemmaId=157422|OccId=5780744|Unsandhied=yajamānam|IsMantra=True
 7	upasaṃgacchante	upasaṃgam	VERB	_	Tense=Pres|Mood=Ind|Person=3|Number=Plur	_	_	_	LemmaId=160593|OccId=5780745|Unsandhied=upasaṃgacchante|Punctuation=fullStop
 
 # text = athādhvaryur hastau saṃmṛśate karmaṇe vāṃ devebhyaḥ śakeyam iti
-# sent_id = 657126
+# sent_id = 659519
 # sent_counter = 4
 # sent_subcounter = 
 1-2	athādhvaryur	_	_	_	_	_	_	_	_
@@ -74,7 +74,7 @@
 9	iti	iti	PART	_		_	_	_	LemmaId=63331|OccId=5780754|Unsandhied=iti|Punctuation=fullStop
 
 # text = athātraiva tiṣṭhan saṃpraiṣam āhonnetar grāvṇo vāyavyāni droṇakalaśe daśāpavitre samavadhāya dakṣiṇasya havirdhānasya puro 'kṣaṃ saṃsādayāgnīd ājyam adhiśraya pratiprasthātaḥ srucaḥ saṃmṛḍḍhy ājyenodehi pṛṣadājyāya dadhy āhareti
-# sent_id = 657127
+# sent_id = 659520
 # sent_counter = 5
 # sent_subcounter = 
 1-3	athātraiva	_	_	_	_	_	_	_	_
@@ -100,12 +100,12 @@
 18	agnīdh	agnīdh	NOUN	_	Case=Voc|Gender=Masc|Number=Sing	_	_	_	LemmaId=5907|OccId=5780772|Unsandhied=agnīdh
 19	ājyam	ājya	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	_	_	_	LemmaId=57582|OccId=5780773|Unsandhied=ājyam
 20	adhiśraya	adhiśri	VERB	_	Tense=Pres|Mood=Imp|Person=2|Number=Sing	_	_	_	LemmaId=157337|OccId=5780774|Unsandhied=adhiśraya|Punctuation=comma
-21	pratiprasthātaḥ	pratiprasthātṛ	NOUN	_	Case=Voc|Gender=Masc|Number=Sing	_	_	_	LemmaId=137962|OccId=5780775|Unsandhied=pratiprasthātar
-22	srucaḥ	sruc	NOUN	_	Case=Acc|Gender=Fem|Number=Plur	_	_	_	LemmaId=114333|OccId=5780776|Unsandhied=srucaḥ
-23	saṃmṛḍḍhy	sammṛj	VERB	_	Tense=Pres|Mood=Imp|Person=2|Number=Sing	_	_	_	LemmaId=165599|OccId=5780777|Unsandhied=saṃmṛḍḍhi|Punctuation=comma
+21	pratiprasthātaḥ	pratiprasthātṛ	NOUN	_	Case=Voc|Gender=Masc|Number=Sing	_	_	_	LemmaId=137962|OccId=5780775|Unsandhied=pratiprasthātar|IsMantra=True
+22	srucaḥ	sruc	NOUN	_	Case=Acc|Gender=Fem|Number=Plur	_	_	_	LemmaId=114333|OccId=5780776|Unsandhied=srucaḥ|IsMantra=True
+23	saṃmṛḍḍhy	sammṛj	VERB	_	Tense=Pres|Mood=Imp|Person=2|Number=Sing	_	_	_	LemmaId=165599|OccId=5780777|Unsandhied=saṃmṛḍḍhi|Punctuation=comma|IsMantra=True
 24-25	ājyenodehi	_	_	_	_	_	_	_	_
-24	ājyena	ājya	NOUN	_	Case=Ins|Gender=Neut|Number=Sing	_	_	_	LemmaId=57582|OccId=5780778|Unsandhied=ājyena
-25	udehi	ude	VERB	_	Tense=Pres|Mood=Imp|Person=2|Number=Sing	_	_	_	LemmaId=160206|OccId=5780779|Unsandhied=udehi
+24	ājyena	ājya	NOUN	_	Case=Ins|Gender=Neut|Number=Sing	_	_	_	LemmaId=57582|OccId=5780778|Unsandhied=ājyena|IsMantra=True
+25	udehi	ude	VERB	_	Tense=Pres|Mood=Imp|Person=2|Number=Sing	_	_	_	LemmaId=160206|OccId=5780779|Unsandhied=udehi|IsMantra=True
 26	pṛṣadājyāya	pṛṣadājya	NOUN	_	Case=Dat|Gender=Neut|Number=Sing	_	_	_	LemmaId=150083|OccId=5780780|Unsandhied=pṛṣadājyāya
 27	dadhy	dadhi	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	_	_	_	LemmaId=100937|OccId=5780781|Unsandhied=dadhi
 28-29	āhareti	_	_	_	_	_	_	_	_
@@ -113,7 +113,7 @@
 29	iti	iti	PART	_		_	_	_	LemmaId=63331|OccId=5780783|Unsandhied=iti|Punctuation=fullStop
 
 # text = yathāsaṃpraiṣaṃ te kurvanti
-# sent_id = 657128
+# sent_id = 659521
 # sent_counter = 6
 # sent_subcounter = 
 1	yathāsaṃpraiṣaṃ	yathāsaṃpraiṣam	ADV	_		_	_	_	LemmaId=225736|OccId=5780784|Unsandhied=yathāsaṃpraiṣam
@@ -121,7 +121,7 @@
 3	kurvanti	kṛ	VERB	_	Tense=Pres|Mood=Ind|Person=3|Number=Plur	_	_	_	LemmaId=156168|OccId=5780786|Unsandhied=kurvanti|Punctuation=fullStop
 
 # text = athādhvaryur āgneyyarcāgnīdhram abhimṛśaty agnir mūrdhā diva iti
-# sent_id = 657129
+# sent_id = 659522
 # sent_counter = 7
 # sent_subcounter = 
 1-2	athādhvaryur	_	_	_	_	_	_	_	_
@@ -132,58 +132,58 @@
 4	ṛcā	ṛc	NOUN	_	Case=Ins|Gender=Fem|Number=Sing	_	_	_	LemmaId=38865|OccId=5780790|Unsandhied=ṛcā
 5	āgnīdhram	āgnīdhra	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	_	_	_	LemmaId=62115|OccId=5780791|Unsandhied=āgnīdhram
 6	abhimṛśaty	abhimṛś	VERB	_	Tense=Pres|Mood=Ind|Person=3|Number=Sing	_	_	_	LemmaId=158894|OccId=5780792|Unsandhied=abhimṛśati
-7	agnir	agni	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=5705|OccId=5780793|Unsandhied=agniḥ
-8	mūrdhā	mūrdhan	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=136454|OccId=5780794|Unsandhied=mūrdhā
-9	diva	div	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	_	_	_	LemmaId=168377|OccId=5780795|Unsandhied=divaḥ
+7	agnir	agni	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=5705|OccId=5780793|Unsandhied=agniḥ|IsMantra=True
+8	mūrdhā	mūrdhan	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=136454|OccId=5780794|Unsandhied=mūrdhā|IsMantra=True
+9	diva	div	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	_	_	_	LemmaId=168377|OccId=5780795|Unsandhied=divaḥ|IsMantra=True
 10	iti	iti	PART	_		_	_	_	LemmaId=63331|OccId=5780796|Unsandhied=iti|Punctuation=comma
 
 # text = vaiṣṇavyā havirdhānaṃ viṣṇo tvaṃ no antama iti
-# sent_id = 657130
+# sent_id = 659523
 # sent_counter = 8
 # sent_subcounter = 
 1	vaiṣṇavyā	vaiṣṇava	ADJ	_	Case=Ins|Gender=Fem|Number=Sing	_	_	_	LemmaId=120873|OccId=5780797|Unsandhied=vaiṣṇavyā
 2	havirdhānaṃ	havirdhāna	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	_	_	_	LemmaId=109343|OccId=5780798|Unsandhied=havirdhānam|Punctuation=comma
-3	viṣṇo	viṣṇu	NOUN	_	Case=Voc|Gender=Masc|Number=Sing	_	_	_	LemmaId=139532|OccId=5780799|Unsandhied=viṣṇo
-4	tvaṃ	tvad	PRON	_	Case=Nom|Number=Sing	_	_	_	LemmaId=37880|OccId=5780800|Unsandhied=tvam
-5	no	mad	PRON	_	Case=Dat|Number=Plur	_	_	_	LemmaId=37879|OccId=5780852|Unsandhied=naḥ
-6	antama	antama	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=11700|OccId=5780801|Unsandhied=antamaḥ
+3	viṣṇo	viṣṇu	NOUN	_	Case=Voc|Gender=Masc|Number=Sing	_	_	_	LemmaId=139532|OccId=5780799|Unsandhied=viṣṇo|IsMantra=True
+4	tvaṃ	tvad	PRON	_	Case=Nom|Number=Sing	_	_	_	LemmaId=37880|OccId=5780800|Unsandhied=tvam|IsMantra=True
+5	no	mad	PRON	_	Case=Dat|Number=Plur	_	_	_	LemmaId=37879|OccId=5780852|Unsandhied=naḥ|IsMantra=True
+6	antama	antama	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=11700|OccId=5780801|Unsandhied=antamaḥ|IsMantra=True
 7	iti	iti	PART	_		_	_	_	LemmaId=63331|OccId=5780802|Unsandhied=iti|Punctuation=comma
 
 # text = āgneyyā sruco 'yam agniḥ sahasriṇa iti
-# sent_id = 657131
+# sent_id = 659524
 # sent_counter = 9
 # sent_subcounter = 
 1	āgneyyā	āgneya	ADJ	_	Case=Ins|Gender=Fem|Number=Sing	_	_	_	LemmaId=62121|OccId=5780803|Unsandhied=āgneyyā
 2	sruco	sruc	NOUN	_	Case=Acc|Gender=Fem|Number=Plur	_	_	_	LemmaId=114333|OccId=5780804|Unsandhied=srucaḥ|Punctuation=comma
-3	'yam	idam	PRON	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=37876|OccId=5780805|Unsandhied=ayam
-4	agniḥ	agni	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=5705|OccId=5780806|Unsandhied=agniḥ
-5	sahasriṇa	sahasrin	ADJ	_	Case=Gen|Gender=Neut|Number=Sing	_	_	_	LemmaId=111645|OccId=5780807|Unsandhied=sahasriṇaḥ
+3	'yam	idam	PRON	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=37876|OccId=5780805|Unsandhied=ayam|IsMantra=True
+4	agniḥ	agni	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=5705|OccId=5780806|Unsandhied=agniḥ|IsMantra=True
+5	sahasriṇa	sahasrin	ADJ	_	Case=Gen|Gender=Neut|Number=Sing	_	_	_	LemmaId=111645|OccId=5780807|Unsandhied=sahasriṇaḥ|IsMantra=True
 6	iti	iti	PART	_		_	_	_	LemmaId=63331|OccId=5780808|Unsandhied=iti|Punctuation=comma
 
 # text = vāyavyayā vāyavyāni vāyo śataṃ harīṇām iti
-# sent_id = 657132
+# sent_id = 659525
 # sent_counter = 10
 # sent_subcounter = 
 1	vāyavyayā	vāyavya	ADJ	_	Case=Ins|Gender=Fem|Number=Sing	_	_	_	LemmaId=170263|OccId=5780809|Unsandhied=vāyavyayā
 2	vāyavyāni	vāyavya	NOUN	_	Case=Acc|Gender=Neut|Number=Plur	_	_	_	LemmaId=225053|OccId=5780810|Unsandhied=vāyavyāni|Punctuation=comma
-3	vāyo	vāyu	NOUN	_	Case=Voc|Gender=Masc|Number=Sing	_	_	_	LemmaId=76933|OccId=5780811|Unsandhied=vāyo
-4	śataṃ	śata	NUM	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=116433|OccId=5780812|Unsandhied=śatam
-5	harīṇām	hari	NOUN	_	Case=Gen|Gender=Masc|Number=Plur	_	_	_	LemmaId=108715|OccId=5780813|Unsandhied=harīṇām
+3	vāyo	vāyu	NOUN	_	Case=Voc|Gender=Masc|Number=Sing	_	_	_	LemmaId=76933|OccId=5780811|Unsandhied=vāyo|IsMantra=True
+4	śataṃ	śata	NUM	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=116433|OccId=5780812|Unsandhied=śatam|IsMantra=True
+5	harīṇām	hari	NOUN	_	Case=Gen|Gender=Masc|Number=Plur	_	_	_	LemmaId=108715|OccId=5780813|Unsandhied=harīṇām|IsMantra=True
 6	iti	iti	PART	_		_	_	_	LemmaId=63331|OccId=5780814|Unsandhied=iti|Punctuation=comma
 
 # text = aindryā sada indraṃ viśvā avīvṛdhann iti
-# sent_id = 657133
+# sent_id = 659526
 # sent_counter = 11
 # sent_subcounter = 
 1	aindryā	aindra	ADJ	_	Case=Ins|Gender=Fem|Number=Sing	_	_	_	LemmaId=39926|OccId=5780815|Unsandhied=aindryā
 2	sada	sadas	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	_	_	_	LemmaId=17082|OccId=5780816|Unsandhied=sadaḥ|Punctuation=comma
-3	indraṃ	indra	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	_	_	_	LemmaId=63463|OccId=5780817|Unsandhied=indram
-4	viśvā	viśva	ADJ	_	Case=Nom|Gender=Fem|Number=Plur	_	_	_	LemmaId=139262|OccId=5780818|Unsandhied=viśvāḥ
-5	avīvṛdhann	vṛdh	VERB	_	Tense=Past|Mood=Ind|Formation=red|Person=3|Number=Plur	_	_	_	LemmaId=157334|OccId=5780819|Unsandhied=avīvṛdhan
+3	indraṃ	indra	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	_	_	_	LemmaId=63463|OccId=5780817|Unsandhied=indram|IsMantra=True
+4	viśvā	viśva	ADJ	_	Case=Nom|Gender=Fem|Number=Plur	_	_	_	LemmaId=139262|OccId=5780818|Unsandhied=viśvāḥ|IsMantra=True
+5	avīvṛdhann	vṛdh	VERB	_	Tense=Past|Mood=Ind|Formation=red|Person=3|Number=Plur	_	_	_	LemmaId=157334|OccId=5780819|Unsandhied=avīvṛdhan|IsMantra=True
 6	iti	iti	PART	_		_	_	_	LemmaId=63331|OccId=5780820|Unsandhied=iti|Punctuation=fullStop
 
 # text = atha pṛṣadājyavanty ājyāni gṛhītvā prokṣaṇībhir upottiṣṭhati
-# sent_id = 657134
+# sent_id = 659527
 # sent_counter = 12
 # sent_subcounter = 
 1	atha	atha	ADV	_		_	_	_	LemmaId=7467|OccId=5780821|Unsandhied=atha
@@ -194,28 +194,28 @@
 6	upottiṣṭhati	upotthā	VERB	_	Tense=Pres|Mood=Ind|Person=3|Number=Sing	_	_	_	LemmaId=160741|OccId=5780826|Unsandhied=upottiṣṭhati|Punctuation=fullStop
 
 # text = idhmaṃ prokṣati
-# sent_id = 657135
+# sent_id = 659528
 # sent_counter = 13
 # sent_subcounter = 
 1	idhmaṃ	idhma	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	_	_	_	LemmaId=63700|OccId=5780827|Unsandhied=idhmam
 2	prokṣati	prokṣ	VERB	_	Tense=Pres|Mood=Ind|Person=3|Number=Sing	_	_	_	LemmaId=163190|OccId=5780828|Unsandhied=prokṣati|Punctuation=fullStop
 
 # text = vediṃ prokṣati
-# sent_id = 657136
+# sent_id = 659529
 # sent_counter = 14
 # sent_subcounter = 
 1	vediṃ	vedi	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	_	_	_	LemmaId=143092|OccId=5780829|Unsandhied=vedim
 2	prokṣati	prokṣ	VERB	_	Tense=Pres|Mood=Ind|Person=3|Number=Sing	_	_	_	LemmaId=163190|OccId=5780830|Unsandhied=prokṣati|Punctuation=fullStop
 
 # text = barhiḥ prokṣati
-# sent_id = 657137
+# sent_id = 659530
 # sent_counter = 15
 # sent_subcounter = 
 1	barhiḥ	barhis	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	_	_	_	LemmaId=154308|OccId=5780831|Unsandhied=barhiḥ
 2	prokṣati	prokṣ	VERB	_	Tense=Pres|Mood=Ind|Person=3|Number=Sing	_	_	_	LemmaId=163190|OccId=5780832|Unsandhied=prokṣati|Punctuation=fullStop
 
 # text = barhirāsannaṃ prokṣyopaninīya purastāt prastaraṃ gṛhṇāti
-# sent_id = 657138
+# sent_id = 659531
 # sent_counter = 16
 # sent_subcounter = 
 1-2	barhirāsannaṃ	_	_	_	_	_	_	_	_
@@ -229,7 +229,7 @@
 7	gṛhṇāti	grah	VERB	_	Tense=Pres|Mood=Ind|Person=3|Number=Sing	_	_	_	LemmaId=156232|OccId=5780839|Unsandhied=gṛhṇāti|Punctuation=fullStop
 
 # text = ekavidhaṃ barhi stīrtvā prastarapāṇiḥ prāṅ abhisṛpyaudumbarān mahāparidhīn paridadhāti nityena paridhānena
-# sent_id = 657139
+# sent_id = 659532
 # sent_counter = 17
 # sent_subcounter = 
 1	ekavidhaṃ	ekavidha	ADJ	_	Case=Acc|Gender=Neut|Number=Sing	_	_	_	LemmaId=39395|OccId=5780840|Unsandhied=ekavidham
@@ -250,7 +250,7 @@
 13	paridhānena	paridhāna	NOUN	_	Case=Ins|Gender=Neut|Number=Sing	_	_	_	LemmaId=19133|OccId=5780851|Unsandhied=paridhānena|Punctuation=fullStop
 
 # text = athainān yogena yunakti
-# sent_id = 657140
+# sent_id = 659533
 # sent_counter = 18
 # sent_subcounter = 
 1-2	athainān	_	_	_	_	_	_	_	_
@@ -260,60 +260,60 @@
 4	yunakti	yuj	VERB	_	Tense=Pres|Mood=Ind|Person=3|Number=Sing	_	_	_	LemmaId=157298|OccId=5780936|Unsandhied=yunakti|Punctuation=fullStop
 
 # text = yunajmi te pṛthivīṃ jyotiṣā saheti madhyamam
-# sent_id = 657141
+# sent_id = 659534
 # sent_counter = 19
 # sent_subcounter = 
-1	yunajmi	yuj	VERB	_	Tense=Pres|Mood=Ind|Person=1|Number=Sing	_	_	_	LemmaId=157298|OccId=5780937|Unsandhied=yunajmi
-2	te	tvad	PRON	_	Case=Gen|Number=Sing	_	_	_	LemmaId=37880|OccId=5780938|Unsandhied=te
-3	pṛthivīṃ	pṛthivī	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	_	_	_	LemmaId=150027|OccId=5780939|Unsandhied=pṛthivīm
-4	jyotiṣā	jyotis	NOUN	_	Case=Ins|Gender=Neut|Number=Sing	_	_	_	LemmaId=95369|OccId=5780940|Unsandhied=jyotiṣā
+1	yunajmi	yuj	VERB	_	Tense=Pres|Mood=Ind|Person=1|Number=Sing	_	_	_	LemmaId=157298|OccId=5780937|Unsandhied=yunajmi|IsMantra=True
+2	te	tvad	PRON	_	Case=Gen|Number=Sing	_	_	_	LemmaId=37880|OccId=5780938|Unsandhied=te|IsMantra=True
+3	pṛthivīṃ	pṛthivī	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	_	_	_	LemmaId=150027|OccId=5780939|Unsandhied=pṛthivīm|IsMantra=True
+4	jyotiṣā	jyotis	NOUN	_	Case=Ins|Gender=Neut|Number=Sing	_	_	_	LemmaId=95369|OccId=5780940|Unsandhied=jyotiṣā|IsMantra=True
 5-6	saheti	_	_	_	_	_	_	_	_
-5	saha	saha	ADV	_		_	_	_	LemmaId=105774|OccId=5780941|Unsandhied=saha
+5	saha	saha	ADV	_		_	_	_	LemmaId=105774|OccId=5780941|Unsandhied=saha|IsMantra=True
 6	iti	iti	PART	_		_	_	_	LemmaId=63331|OccId=5780942|Unsandhied=iti|Punctuation=comma
 7	madhyamam	madhyama	ADJ	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=35895|OccId=5780943|Unsandhied=madhyamam|Punctuation=fullStop
 
 # text = yunajmi vāyum antarikṣeṇa te saheti dakṣiṇam
-# sent_id = 657142
+# sent_id = 659535
 # sent_counter = 20
 # sent_subcounter = 
-1	yunajmi	yuj	VERB	_	Tense=Pres|Mood=Ind|Person=1|Number=Sing	_	_	_	LemmaId=157298|OccId=5780944|Unsandhied=yunajmi
-2	vāyum	vāyu	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	_	_	_	LemmaId=76933|OccId=5780945|Unsandhied=vāyum
-3	antarikṣeṇa	antarikṣa	NOUN	_	Case=Ins|Gender=Neut|Number=Sing	_	_	_	LemmaId=11898|OccId=5780946|Unsandhied=antarikṣeṇa
-4	te	tvad	PRON	_	Case=Gen|Number=Sing	_	_	_	LemmaId=37880|OccId=5780947|Unsandhied=te
+1	yunajmi	yuj	VERB	_	Tense=Pres|Mood=Ind|Person=1|Number=Sing	_	_	_	LemmaId=157298|OccId=5780944|Unsandhied=yunajmi|IsMantra=True
+2	vāyum	vāyu	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	_	_	_	LemmaId=76933|OccId=5780945|Unsandhied=vāyum|IsMantra=True
+3	antarikṣeṇa	antarikṣa	NOUN	_	Case=Ins|Gender=Neut|Number=Sing	_	_	_	LemmaId=11898|OccId=5780946|Unsandhied=antarikṣeṇa|IsMantra=True
+4	te	tvad	PRON	_	Case=Gen|Number=Sing	_	_	_	LemmaId=37880|OccId=5780947|Unsandhied=te|IsMantra=True
 5-6	saheti	_	_	_	_	_	_	_	_
-5	saha	saha	ADV	_		_	_	_	LemmaId=105774|OccId=5780948|Unsandhied=saha
+5	saha	saha	ADV	_		_	_	_	LemmaId=105774|OccId=5780948|Unsandhied=saha|IsMantra=True
 6	iti	iti	PART	_		_	_	_	LemmaId=63331|OccId=5780949|Unsandhied=iti
 7	dakṣiṇam	dakṣiṇa	ADJ	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=100605|OccId=5780950|Unsandhied=dakṣiṇam|Punctuation=fullStop
 
 # text = yunajmi vācaṃ saha sūryeṇa ta iti uttaram
-# sent_id = 657143
+# sent_id = 659536
 # sent_counter = 21
 # sent_subcounter = 
-1	yunajmi	yuj	VERB	_	Tense=Pres|Mood=Ind|Person=1|Number=Sing	_	_	_	LemmaId=157298|OccId=5780951|Unsandhied=yunajmi
-2	vācaṃ	vāc	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	_	_	_	LemmaId=76023|OccId=5780952|Unsandhied=vācam
-3	saha	saha	ADV	_		_	_	_	LemmaId=105774|OccId=5780953|Unsandhied=saha
-4	sūryeṇa	sūrya	NOUN	_	Case=Ins|Gender=Masc|Number=Sing	_	_	_	LemmaId=99310|OccId=5780954|Unsandhied=sūryeṇa
-5	ta	tvad	PRON	_	Case=Gen|Number=Sing	_	_	_	LemmaId=37880|OccId=5780955|Unsandhied=te
+1	yunajmi	yuj	VERB	_	Tense=Pres|Mood=Ind|Person=1|Number=Sing	_	_	_	LemmaId=157298|OccId=5780951|Unsandhied=yunajmi|IsMantra=True
+2	vācaṃ	vāc	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	_	_	_	LemmaId=76023|OccId=5780952|Unsandhied=vācam|IsMantra=True
+3	saha	saha	ADV	_		_	_	_	LemmaId=105774|OccId=5780953|Unsandhied=saha|IsMantra=True
+4	sūryeṇa	sūrya	NOUN	_	Case=Ins|Gender=Masc|Number=Sing	_	_	_	LemmaId=99310|OccId=5780954|Unsandhied=sūryeṇa|IsMantra=True
+5	ta	tvad	PRON	_	Case=Gen|Number=Sing	_	_	_	LemmaId=37880|OccId=5780955|Unsandhied=te|IsMantra=True
 6	iti	iti	PART	_		_	_	_	LemmaId=63331|OccId=5780956|Unsandhied=iti
 7	uttaram	uttara	ADJ	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=55672|OccId=5780957|Unsandhied=uttaram|Punctuation=fullStop
 
 # text = atha srucaḥ sannā abhimṛśati yunajmi tisro vipṛcaḥ sūryasya ta iti
-# sent_id = 657144
+# sent_id = 659537
 # sent_counter = 22
 # sent_subcounter = 
 1	atha	atha	ADV	_		_	_	_	LemmaId=7467|OccId=5780958|Unsandhied=atha
 2	srucaḥ	sruc	NOUN	_	Case=Acc|Gender=Fem|Number=Plur	_	_	_	LemmaId=114333|OccId=5780959|Unsandhied=srucaḥ
 3	sannā	sad	VERB	_	Case=Acc|Gender=Fem|Number=Plur|VerbForm=Part	_	_	_	LemmaId=157285|OccId=5780960|Unsandhied=sannāḥ
 4	abhimṛśati	abhimṛś	VERB	_	Tense=Pres|Mood=Ind|Person=3|Number=Sing	_	_	_	LemmaId=158894|OccId=5780961|Unsandhied=abhimṛśati|Punctuation=comma
-5	yunajmi	yuj	VERB	_	Tense=Pres|Mood=Ind|Person=1|Number=Sing	_	_	_	LemmaId=157298|OccId=5780962|Unsandhied=yunajmi
-6	tisro	tri	NUM	_	Case=Acc|Gender=Fem|Number=Plur	_	_	_	LemmaId=166282|OccId=5780963|Unsandhied=tisraḥ
-7	vipṛcaḥ	vipṛc	ADJ	_	Case=Acc|Gender=Fem|Number=Plur	_	_	_	LemmaId=122371|OccId=5780964|Unsandhied=vipṛcaḥ
-8	sūryasya	sūrya	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	_	_	_	LemmaId=99310|OccId=5780965|Unsandhied=sūryasya
-9	ta	tvad	PRON	_	Case=Gen|Number=Sing	_	_	_	LemmaId=37880|OccId=5780966|Unsandhied=te
+5	yunajmi	yuj	VERB	_	Tense=Pres|Mood=Ind|Person=1|Number=Sing	_	_	_	LemmaId=157298|OccId=5780962|Unsandhied=yunajmi|IsMantra=True
+6	tisro	tri	NUM	_	Case=Acc|Gender=Fem|Number=Plur	_	_	_	LemmaId=166282|OccId=5780963|Unsandhied=tisraḥ|IsMantra=True
+7	vipṛcaḥ	vipṛc	ADJ	_	Case=Acc|Gender=Fem|Number=Plur	_	_	_	LemmaId=122371|OccId=5780964|Unsandhied=vipṛcaḥ|IsMantra=True
+8	sūryasya	sūrya	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	_	_	_	LemmaId=99310|OccId=5780965|Unsandhied=sūryasya|IsMantra=True
+9	ta	tvad	PRON	_	Case=Gen|Number=Sing	_	_	_	LemmaId=37880|OccId=5780966|Unsandhied=te|IsMantra=True
 10	iti	iti	PART	_		_	_	_	LemmaId=63331|OccId=5780967|Unsandhied=iti|Punctuation=fullStop
 
 # text = athāpa upaspṛśyāhaihi yajamāneti
-# sent_id = 657145
+# sent_id = 659538
 # sent_counter = 23
 # sent_subcounter = 
 1-2	athāpa	_	_	_	_	_	_	_	_
@@ -328,7 +328,7 @@
 7	iti	iti	PART	_		_	_	_	LemmaId=63331|OccId=5780972|Unsandhied=iti|Punctuation=fullStop
 
 # text = pūrvayā dvārā havirdhānaṃ prapādyāthaitac carma phalakayoḥ prācīnagrīvam uttaralomopastṛṇāti yajña pratitiṣṭheti vā tūṣṇīṃ vā
-# sent_id = 657146
+# sent_id = 659539
 # sent_counter = 24
 # sent_subcounter = 
 1	pūrvayā	pūrva	PRON	_	Case=Ins|Gender=Fem|Number=Sing	_	_	_	LemmaId=145625|OccId=5780973|Unsandhied=pūrvayā
@@ -347,16 +347,16 @@
 11	uttara	uttara	ADJ	_	Case=Cpd	_	_	_	LemmaId=55672|OccId=5780983|Unsandhied=uttara
 12	loma	loman	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	_	_	_	LemmaId=67138|OccId=5780984|Unsandhied=loma
 13	upastṛṇāti	upastṛ	VERB	_	Tense=Pres|Mood=Ind|Person=3|Number=Sing	_	_	_	LemmaId=160643|OccId=5780985|Unsandhied=upastṛṇāti|Punctuation=comma
-14	yajña	yajña	NOUN	_	Case=Voc|Gender=Masc|Number=Sing	_	_	_	LemmaId=72936|OccId=5780986|Unsandhied=yajña
+14	yajña	yajña	NOUN	_	Case=Voc|Gender=Masc|Number=Sing	_	_	_	LemmaId=72936|OccId=5780986|Unsandhied=yajña|IsMantra=True
 15-16	pratitiṣṭheti	_	_	_	_	_	_	_	_
-15	pratitiṣṭha	pratiṣṭhā	VERB	_	Tense=Pres|Mood=Imp|Person=2|Number=Sing	_	_	_	LemmaId=162663|OccId=5780987|Unsandhied=pratitiṣṭha
+15	pratitiṣṭha	pratiṣṭhā	VERB	_	Tense=Pres|Mood=Imp|Person=2|Number=Sing	_	_	_	LemmaId=162663|OccId=5780987|Unsandhied=pratitiṣṭha|IsMantra=True
 16	iti	iti	PART	_		_	_	_	LemmaId=63331|OccId=5780988|Unsandhied=iti|Punctuation=comma
 17	vā	vā	CONJ	_		_	_	_	LemmaId=75765|OccId=5780989|Unsandhied=vā
 18	tūṣṇīṃ	tūṣṇīm	ADV	_		_	_	_	LemmaId=83169|OccId=5780990|Unsandhied=tūṣṇīm
 19	vā	vā	CONJ	_		_	_	_	LemmaId=75765|OccId=5780991|Unsandhied=vā|Punctuation=fullStop
 
 # text = tasmin saṃmukhān grāvṇaḥ kṛtvā dakṣiṇasya havirdhānasyāntareṇeṣe rājānam upāvaharati hṛde tvā manase tvā soma rājann ehy avaroheti dvābhyām
-# sent_id = 657147
+# sent_id = 659540
 # sent_counter = 25
 # sent_subcounter = 
 1	tasmin	tad	PRON	_	Case=Loc|Gender=Neut|Number=Sing	_	_	_	LemmaId=37875|OccId=5780992|Unsandhied=tasmin
@@ -370,20 +370,20 @@
 8	īṣe	īṣā	NOUN	_	Case=Acc|Gender=Fem|Number=Dual	_	_	_	LemmaId=64160|OccId=5780999|Unsandhied=īṣe
 9	rājānam	rājan	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	_	_	_	LemmaId=70467|OccId=5781000|Unsandhied=rājānam
 10	upāvaharati	upāvahṛ	VERB	_	Tense=Pres|Mood=Ind|Person=3|Number=Sing	_	_	_	LemmaId=160710|OccId=5781001|Unsandhied=upāvaharati|Punctuation=comma
-11	hṛde	hṛd	NOUN	_	Case=Dat|Gender=Neut|Number=Sing	_	_	_	LemmaId=110524|OccId=5781002|Unsandhied=hṛde
-12	tvā	tvad	PRON	_	Case=Acc|Number=Sing	_	_	_	LemmaId=37880|OccId=5781003|Unsandhied=tvā
-13	manase	manas	NOUN	_	Case=Dat|Gender=Neut|Number=Sing	_	_	_	LemmaId=36096|OccId=5781004|Unsandhied=manase
-14	tvā	tvad	PRON	_	Case=Acc|Number=Sing	_	_	_	LemmaId=37880|OccId=5781005|Unsandhied=tvā
-15	soma	soma	NOUN	_	Case=Voc|Gender=Masc|Number=Sing	_	_	_	LemmaId=100106|OccId=5781006|Unsandhied=soma
-16	rājann	rājan	NOUN	_	Case=Voc|Gender=Masc|Number=Sing	_	_	_	LemmaId=70467|OccId=5781007|Unsandhied=rājan
-17	ehy	e	VERB	_	Tense=Pres|Mood=Imp|Person=2|Number=Sing	_	_	_	LemmaId=160774|OccId=5781008|Unsandhied=ehi
+11	hṛde	hṛd	NOUN	_	Case=Dat|Gender=Neut|Number=Sing	_	_	_	LemmaId=110524|OccId=5781002|Unsandhied=hṛde|IsMantra=True
+12	tvā	tvad	PRON	_	Case=Acc|Number=Sing	_	_	_	LemmaId=37880|OccId=5781003|Unsandhied=tvā|IsMantra=True
+13	manase	manas	NOUN	_	Case=Dat|Gender=Neut|Number=Sing	_	_	_	LemmaId=36096|OccId=5781004|Unsandhied=manase|IsMantra=True
+14	tvā	tvad	PRON	_	Case=Acc|Number=Sing	_	_	_	LemmaId=37880|OccId=5781005|Unsandhied=tvā|IsMantra=True
+15	soma	soma	NOUN	_	Case=Voc|Gender=Masc|Number=Sing	_	_	_	LemmaId=100106|OccId=5781006|Unsandhied=soma|IsMantra=True
+16	rājann	rājan	NOUN	_	Case=Voc|Gender=Masc|Number=Sing	_	_	_	LemmaId=70467|OccId=5781007|Unsandhied=rājan|IsMantra=True
+17	ehy	e	VERB	_	Tense=Pres|Mood=Imp|Person=2|Number=Sing	_	_	_	LemmaId=160774|OccId=5781008|Unsandhied=ehi|IsMantra=True
 18-19	avaroheti	_	_	_	_	_	_	_	_
-18	avaroha	avaruh	VERB	_	Tense=Pres|Mood=Imp|Person=2|Number=Sing	_	_	_	LemmaId=159613|OccId=5781009|Unsandhied=avaroha
+18	avaroha	avaruh	VERB	_	Tense=Pres|Mood=Imp|Person=2|Number=Sing	_	_	_	LemmaId=159613|OccId=5781009|Unsandhied=avaroha|IsMantra=True
 19	iti	iti	PART	_		_	_	_	LemmaId=63331|OccId=5781010|Unsandhied=iti
 20	dvābhyām	dvi	NUM	_	Case=Ins|Gender=Fem|Number=Dual	_	_	_	LemmaId=166283|OccId=5781011|Unsandhied=dvābhyām|Punctuation=fullStop
 
 # text = athainam udgātṛbhyaḥ prāhuḥ
-# sent_id = 657148
+# sent_id = 659541
 # sent_counter = 26
 # sent_subcounter = 
 1-2	athainam	_	_	_	_	_	_	_	_
@@ -393,7 +393,7 @@
 4	prāhuḥ	prāh	VERB	_	Tense=Past|Mood=Ind|Person=3|Number=Plur	_	_	_	LemmaId=163182|OccId=5781015|Unsandhied=prāhuḥ|Punctuation=fullStop
 
 # text = tasmiṃs tac ceṣṭanti yat te viduḥ
-# sent_id = 657149
+# sent_id = 659542
 # sent_counter = 27
 # sent_subcounter = 
 1	tasmiṃs	tad	PRON	_	Case=Loc|Gender=Neut|Number=Sing	_	_	_	LemmaId=37875|OccId=5781016|Unsandhied=tasmin
@@ -404,7 +404,7 @@
 6	viduḥ	vid	VERB	_	Tense=Past|Mood=Ind|Person=3|Number=Plur	_	_	_	LemmaId=158058|OccId=5781021|Unsandhied=viduḥ|Punctuation=fullStop
 
 # text = athāpa upaspṛśyāhaihi yajamāneti
-# sent_id = 657150
+# sent_id = 659543
 # sent_counter = 28
 # sent_subcounter = 
 1-2	athāpa	_	_	_	_	_	_	_	_
@@ -419,7 +419,7 @@
 7	iti	iti	PART	_		_	_	_	LemmaId=63331|OccId=5781026|Unsandhied=iti|Punctuation=fullStop
 
 # text = āgnīdhraṃ drutvā sruci caturgṛhītaṃ gṛhītvā pañcahotāraṃ manasānudrutyāgnīdhre juhoty anvārabdhe yajamāne svāheti
-# sent_id = 657151
+# sent_id = 659544
 # sent_counter = 29
 # sent_subcounter = 
 1	āgnīdhraṃ	āgnīdhra	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	_	_	_	LemmaId=62115|OccId=5781027|Unsandhied=āgnīdhram
@@ -436,11 +436,11 @@
 11	anvārabdhe	anvārabh	VERB	_	Case=Loc|Gender=Masc|Number=Sing|VerbForm=Part	_	_	_	LemmaId=158317|OccId=5781037|Unsandhied=anvārabdhe
 12	yajamāne	yaj	VERB	_	Case=Loc|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part	_	_	_	LemmaId=157422|OccId=5781038|Unsandhied=yajamāne
 13-14	svāheti	_	_	_	_	_	_	_	_
-13	svāhā	svāhā	INTJ	_		_	_	_	LemmaId=121803|OccId=5781039|Unsandhied=svāhā
+13	svāhā	svāhā	INTJ	_		_	_	_	LemmaId=121803|OccId=5781039|Unsandhied=svāhā|IsMantra=True
 14	iti	iti	PART	_		_	_	_	LemmaId=63331|OccId=5781040|Unsandhied=iti|Punctuation=fullStop
 
 # text = aparaṃ caturgṛhītaṃ gṛhītvāgnīdhra evāsanyāṃ juhoty āsanyān mā mantrāt pāhi kasyāś cid abhiśastyāḥ svāheti
-# sent_id = 657152
+# sent_id = 659545
 # sent_counter = 30
 # sent_subcounter = 
 1	aparaṃ	apara	PRON	_	Case=Acc|Gender=Neut|Number=Sing	_	_	_	LemmaId=166280|OccId=5781041|Unsandhied=aparam
@@ -452,19 +452,19 @@
 5	eva	eva	PART	_		_	_	_	LemmaId=39754|OccId=5781045|Unsandhied=eva
 6	āsanyām	āsanya	ADJ	_	Case=Acc|Gender=Fem|Number=Sing	_	_	_	LemmaId=62885|OccId=5781046|Unsandhied=āsanyām
 7	juhoty	hu	VERB	_	Tense=Pres|Mood=Ind|Person=3|Number=Sing	_	_	_	LemmaId=157629|OccId=5781047|Unsandhied=juhoti|Punctuation=comma
-8	āsanyān	āsanya	ADJ	_	Case=Abl|Gender=Masc|Number=Sing	_	_	_	LemmaId=62885|OccId=5781048|Unsandhied=āsanyāt
-9	mā	mad	PRON	_	Case=Acc|Number=Sing	_	_	_	LemmaId=37879|OccId=5781049|Unsandhied=mā
-10	mantrāt	mantra	NOUN	_	Case=Abl|Gender=Masc|Number=Sing	_	_	_	LemmaId=36369|OccId=5781050|Unsandhied=mantrāt
-11	pāhi	pā	VERB	_	Tense=Pres|Mood=Imp|Person=2|Number=Sing	_	_	_	LemmaId=157846|OccId=5781051|Unsandhied=pāhi
-12	kasyāś	ka	PRON	_	Case=Abl|Gender=Fem|Number=Sing	_	_	_	LemmaId=37878|OccId=5781052|Unsandhied=kasyāḥ
-13	cid	cit	PART	_		_	_	_	LemmaId=217142|OccId=5781053|Unsandhied=cit
-14	abhiśastyāḥ	abhiśasti	NOUN	_	Case=Abl|Gender=Fem|Number=Sing	_	_	_	LemmaId=30985|OccId=5781054|Unsandhied=abhiśastyāḥ
+8	āsanyān	āsanya	ADJ	_	Case=Abl|Gender=Masc|Number=Sing	_	_	_	LemmaId=62885|OccId=5781048|Unsandhied=āsanyāt|IsMantra=True
+9	mā	mad	PRON	_	Case=Acc|Number=Sing	_	_	_	LemmaId=37879|OccId=5781049|Unsandhied=mā|IsMantra=True
+10	mantrāt	mantra	NOUN	_	Case=Abl|Gender=Masc|Number=Sing	_	_	_	LemmaId=36369|OccId=5781050|Unsandhied=mantrāt|IsMantra=True
+11	pāhi	pā	VERB	_	Tense=Pres|Mood=Imp|Person=2|Number=Sing	_	_	_	LemmaId=157846|OccId=5781051|Unsandhied=pāhi|IsMantra=True
+12	kasyāś	ka	PRON	_	Case=Abl|Gender=Fem|Number=Sing	_	_	_	LemmaId=37878|OccId=5781052|Unsandhied=kasyāḥ|IsMantra=True
+13	cid	cit	PART	_		_	_	_	LemmaId=217142|OccId=5781053|Unsandhied=cit|IsMantra=True
+14	abhiśastyāḥ	abhiśasti	NOUN	_	Case=Abl|Gender=Fem|Number=Sing	_	_	_	LemmaId=30985|OccId=5781054|Unsandhied=abhiśastyāḥ|IsMantra=True
 15-16	svāheti	_	_	_	_	_	_	_	_
-15	svāhā	svāhā	INTJ	_		_	_	_	LemmaId=121803|OccId=5781055|Unsandhied=svāhā
+15	svāhā	svāhā	INTJ	_		_	_	_	LemmaId=121803|OccId=5781055|Unsandhied=svāhā|IsMantra=True
 16	iti	iti	PART	_		_	_	_	LemmaId=63331|OccId=5781056|Unsandhied=iti|Punctuation=fullStop
 
 # text = athāhavanīye ghṛtānuṣiktaṃ śakalam abhyādadhāti tūṣṇīm
-# sent_id = 657153
+# sent_id = 659546
 # sent_counter = 31
 # sent_subcounter = 
 1-2	athāhavanīye	_	_	_	_	_	_	_	_
@@ -478,7 +478,7 @@
 7	tūṣṇīm	tūṣṇīm	ADV	_		_	_	_	LemmaId=83169|OccId=5781063|Unsandhied=tūṣṇīm|Punctuation=fullStop
 
 # text = athātraiva tiṣṭhan saṃpraiṣam āha
-# sent_id = 657154
+# sent_id = 659547
 # sent_counter = 32
 # sent_subcounter = 
 1-3	athātraiva	_	_	_	_	_	_	_	_

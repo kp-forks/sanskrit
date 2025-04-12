@@ -2,44 +2,36 @@
 ## text_id: 468
 ## chapter: AVP, 4, 8
 ## chapter_id: 11290
-# text = agnī rakṣohā tigmas tigmaśṛṅga ṛṣir ārṣeyaḥ kaviḥ kavitamaḥ
-# sent_id = 633528
-# sent_counter = 1
-# sent_subcounter = 1
-1	agnī	agni	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=5705|OccId=5186753|Unsandhied=agniḥ
-2-3	rakṣohā	_	_	_	_	_	_	_	_
-2	rakṣaḥ	rakṣas	NOUN	_	Case=Cpd	_	_	_	LemmaId=65418|OccId=5186754|Unsandhied=rakṣaḥ
-3	hā	han	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=166068|OccId=5186755|Unsandhied=hā
-4	tigmas	tigma	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=82146|OccId=5186756|Unsandhied=tigmaḥ
-5-6	tigmaśṛṅga	_	_	_	_	_	_	_	_
-5	tigma	tigma	ADJ	_	Case=Cpd	_	_	_	LemmaId=82146|OccId=5186757|Unsandhied=tigma
-6	śṛṅgaḥ	śṛṅga	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=127269|OccId=5186758|Unsandhied=śṛṅgaḥ
-7	ṛṣir	ṛṣi	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=39042|OccId=5186759|Unsandhied=ṛṣiḥ
-8	ārṣeyaḥ	ārṣeya	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=62212|OccId=5186760|Unsandhied=ārṣeyaḥ
-9	kaviḥ	kavi	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=12894|OccId=5186761|Unsandhied=kaviḥ
-10	kavitamaḥ	kavitama	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=12900|OccId=5186762|Unsandhied=kavitamaḥ|Punctuation=comma
+# text = agniḥ rakṣaḥ hā tigmaḥ tigma śṛṅgaḥ ṛṣiḥ ārṣeyaḥ kaviḥ kavitamaḥ apa agha śaṃsam nudatām sahatām arātim
+# sent_id = 635922_1
+1	agniḥ	agni	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	14	nsubj	_	LemmaId=5705|OccId=5186753|Unsandhied=agniḥ|Annotator=Ol
+2	rakṣaḥ	rakṣas	NOUN	_	Case=Cpd|Gender=Neut	3	obj	_	LemmaId=65418|OccId=5186754|Unsandhied=rakṣaḥ|Annotator=Ol
+3	hā	han	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	1	acl	_	LemmaId=166068|OccId=5186755|Unsandhied=hā|Annotator=Ol
+4	tigmaḥ	tigma	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	1	amod	_	LemmaId=82146|OccId=5186756|Unsandhied=tigmaḥ|Annotator=Ol
+5	tigma	tigma	ADJ	_	Case=Cpd	6	amod	_	LemmaId=82146|OccId=5186757|Unsandhied=tigma|Annotator=Ol
+6	śṛṅgaḥ	śṛṅga	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	3	conj	_	LemmaId=127269|OccId=5186758|Unsandhied=śṛṅgaḥ|Annotator=Ol
+7	ṛṣiḥ	ṛṣi	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	1	nmod:appos	_	LemmaId=39042|OccId=5186759|Unsandhied=ṛṣiḥ|Annotator=Ol
+8	ārṣeyaḥ	ārṣeya	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	7	amod	_	LemmaId=62212|OccId=5186760|Unsandhied=ārṣeyaḥ|Annotator=Ol
+9	kaviḥ	kavi	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	7	conj	_	LemmaId=12894|OccId=5186761|Unsandhied=kaviḥ|Annotator=Ol
+10	kavitamaḥ	kavitama	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	9	amod	_	LemmaId=12900|OccId=5186762|Unsandhied=kavitamaḥ|Annotator=Ol|Punctuation=comma
+11	apa	apa	ADP	_	_	14	advmod	_	LemmaId=216268|OccId=5196919|Unsandhied=apa|Annotator=Ol
+12	agha	agha	ADJ	_	Case=Cpd	13	obj	_	LemmaId=6035|OccId=5196920|Unsandhied=agha|Annotator=Ol
+13	śaṃsam	śaṃsa	ADJ	_	Case=Acc|Gender=Masc|Number=Sing	14	obj	_	LemmaId=116300|OccId=5196921|Unsandhied=śaṃsam|Annotator=Ol
+14	nudatām	nud	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres	0	root	_	LemmaId=157386|OccId=5186763|Unsandhied=nudatām|Annotator=Ol|Punctuation=fullStop
+15	sahatām	sah	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres	14	conj	_	LemmaId=158840|OccId=5186764|Unsandhied=sahatām|Annotator=Ol
+16	arātim	arāti	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	15	obj	_	LemmaId=32649|OccId=5186765|Unsandhied=arātim|Annotator=Ol|Punctuation=fullStop
 
-# text = apāghaśaṃsaṃ nudatāṃ sahatām arātiṃ pratyak pratiharaṇenāghāyate aghaṃ prati harāmaḥ
-# sent_id = 633529
-# sent_counter = 1
-# sent_subcounter = 2
-1-3	apāghaśaṃsaṃ	_	_	_	_	_	_	_	_
-1	apa	apa	ADP	_		_	_	_	LemmaId=216268|OccId=5196919|Unsandhied=apa
-2	agha	agha	ADJ	_	Case=Cpd	_	_	_	LemmaId=6035|OccId=5196920|Unsandhied=agha
-3	śaṃsam	śaṃsa	ADJ	_	Case=Acc|Gender=Masc|Number=Sing	_	_	_	LemmaId=116300|OccId=5196921|Unsandhied=śaṃsam
-4	nudatāṃ	nud	VERB	_	Tense=Pres|Mood=Imp|Person=3|Number=Sing	_	_	_	LemmaId=157386|OccId=5186763|Unsandhied=nudatām|Punctuation=fullStop
-5	sahatām	sah	VERB	_	Tense=Pres|Mood=Imp|Person=3|Number=Sing	_	_	_	LemmaId=158840|OccId=5186764|Unsandhied=sahatām
-6	arātiṃ	arāti	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	_	_	_	LemmaId=32649|OccId=5186765|Unsandhied=arātim|Punctuation=fullStop
-7	pratyak	pratyañc	ADJ	_	Case=Acc|Gender=Neut|Number=Sing	_	_	_	LemmaId=166384|OccId=5186766|Unsandhied=pratyak
-8-9	pratiharaṇenāghāyate	_	_	_	_	_	_	_	_
-8	pratiharaṇena	pratiharaṇa	NOUN	_	Case=Ins|Gender=Neut|Number=Sing	_	_	_	LemmaId=139896|OccId=5196922|Unsandhied=pratiharaṇena
-9	aghāyate	aghāy	VERB	_	Case=Dat|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part	_	_	_	LemmaId=157192|OccId=5196923|Unsandhied=aghāyate
-10	aghaṃ	agha	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	_	_	_	LemmaId=6036|OccId=5186767|Unsandhied=agham
-11	prati	prati	ADP	_		_	_	_	LemmaId=151755|OccId=5186768|Unsandhied=prati
-12	harāmaḥ	hṛ	VERB	_	Tense=Pres|Mood=Ind|Person=1|Number=Plur	_	_	_	LemmaId=157558|OccId=5186769|Unsandhied=harāmaḥ|Punctuation=fullStop
+# text = pratyak pratiharaṇena aghāyate agham prati harāmaḥ
+# sent_id = 635922_2
+1	pratyak	pratyañc	ADJ	_	Case=Acc|Gender=Neut|Number=Sing	6	xcomp	_	LemmaId=166384|OccId=5186766|Unsandhied=pratyak|Annotator=Ol
+2	pratiharaṇena	pratiharaṇa	NOUN	_	Case=Ins|Gender=Neut|Number=Sing	6	obl:instr	_	LemmaId=139896|OccId=5196922|Unsandhied=pratiharaṇena|Annotator=Ol
+3	aghāyate	aghāy	VERB	_	Case=Dat|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part	6	obl:goal	_	LemmaId=157192|OccId=5196923|Unsandhied=aghāyate|Annotator=Ol
+4	agham	agha	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	6	obj	_	LemmaId=6036|OccId=5186767|Unsandhied=agham|Annotator=Ol
+5	prati	prati	ADP	_	_	6	advmod	_	LemmaId=151755|OccId=5186768|Unsandhied=prati|Annotator=Ol
+6	harāmaḥ	hṛ	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres	0	root	_	LemmaId=157558|OccId=5186769|Unsandhied=harāmaḥ|Annotator=Ol|Punctuation=fullStop
 
 # text = indro rakṣohā
-# sent_id = 633530
+# sent_id = 635923
 # sent_counter = 2
 # sent_subcounter = 1
 1	indro	indra	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=63463|OccId=5186770|Unsandhied=indraḥ
@@ -48,7 +40,7 @@
 3	hā	han	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=166068|OccId=5186772|Unsandhied=hā|Punctuation=fullStop
 
 # text = somo rakṣohā
-# sent_id = 633531
+# sent_id = 635924
 # sent_counter = 3
 # sent_subcounter = 1
 1	somo	soma	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=100106|OccId=5186773|Unsandhied=somaḥ
@@ -57,7 +49,7 @@
 3	hā	han	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=166068|OccId=5186775|Unsandhied=hā|Punctuation=fullStop
 
 # text = varuṇo rakṣohā
-# sent_id = 633532
+# sent_id = 635925
 # sent_counter = 4
 # sent_subcounter = 1
 1	varuṇo	varuṇa	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=69074|OccId=5186776|Unsandhied=varuṇaḥ
@@ -66,7 +58,7 @@
 3	hā	han	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=166068|OccId=5186778|Unsandhied=hā|Punctuation=fullStop
 
 # text = vāyū rakṣohā
-# sent_id = 633533
+# sent_id = 635926
 # sent_counter = 5
 # sent_subcounter = 1
 1	vāyū	vāyu	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=76933|OccId=5186779|Unsandhied=vāyuḥ
@@ -75,7 +67,7 @@
 3	hā	han	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=166068|OccId=5186781|Unsandhied=hā|Punctuation=fullStop
 
 # text = tvaṣṭā rakṣohā
-# sent_id = 633534
+# sent_id = 635927
 # sent_counter = 6
 # sent_subcounter = 1
 1	tvaṣṭā	tvaṣṭṛ	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=100483|OccId=5186782|Unsandhied=tvaṣṭā
@@ -84,7 +76,7 @@
 3	hā	han	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=166068|OccId=5186784|Unsandhied=hā|Punctuation=fullStop
 
 # text = dhātā rakṣohā
-# sent_id = 633535
+# sent_id = 635928
 # sent_counter = 7
 # sent_subcounter = 1
 1	dhātā	dhātṛ	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=42337|OccId=5186785|Unsandhied=dhātā
@@ -93,7 +85,7 @@
 3	hā	han	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=166068|OccId=5186787|Unsandhied=hā|Punctuation=fullStop
 
 # text = savitā rakṣohā
-# sent_id = 633536
+# sent_id = 635929
 # sent_counter = 8
 # sent_subcounter = 1
 1	savitā	savitṛ	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=105325|OccId=5186788|Unsandhied=savitā
@@ -102,7 +94,7 @@
 3	hā	han	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=166068|OccId=5186790|Unsandhied=hā|Punctuation=fullStop
 
 # text = sūryo rakṣohā
-# sent_id = 633537
+# sent_id = 635930
 # sent_counter = 9
 # sent_subcounter = 1
 1	sūryo	sūrya	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=99310|OccId=5186791|Unsandhied=sūryaḥ
@@ -111,7 +103,7 @@
 3	hā	han	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=166068|OccId=5186793|Unsandhied=hā|Punctuation=fullStop
 
 # text = candramā rakṣohā
-# sent_id = 633538
+# sent_id = 635931
 # sent_counter = 10
 # sent_subcounter = 1
 1	candramā	candramas	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=167043|OccId=5186794|Unsandhied=candramāḥ
@@ -120,7 +112,7 @@
 3	hā	han	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=166068|OccId=5186796|Unsandhied=hā|Punctuation=fullStop
 
 # text = bṛhaspatī rakṣohā
-# sent_id = 633539
+# sent_id = 635932
 # sent_counter = 11
 # sent_subcounter = 1
 1	bṛhaspatī	bṛhaspati	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=148726|OccId=5186797|Unsandhied=bṛhaspatiḥ
@@ -129,7 +121,7 @@
 3	hā	han	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=166068|OccId=5186799|Unsandhied=hā|Punctuation=fullStop
 
 # text = prajāpatī rakṣohā
-# sent_id = 633540
+# sent_id = 635933
 # sent_counter = 12
 # sent_subcounter = 1
 1	prajāpatī	prajāpati	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=151290|OccId=5186800|Unsandhied=prajāpatiḥ
@@ -138,7 +130,7 @@
 3	hā	han	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=166068|OccId=5186802|Unsandhied=hā|Punctuation=fullStop
 
 # text = parameṣṭhī rakṣohā tigmas tigmaśṛṅga ṛṣir ārṣeyaḥ kaviḥ kavitamaḥ
-# sent_id = 633541
+# sent_id = 635934
 # sent_counter = 13
 # sent_subcounter = 1
 1	parameṣṭhī	parameṣṭhin	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=16494|OccId=5186803|Unsandhied=parameṣṭhī
@@ -155,7 +147,7 @@
 10	kavitamaḥ	kavitama	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=12900|OccId=5186812|Unsandhied=kavitamaḥ|Punctuation=comma
 
 # text = apāghaśaṃsaṃ nudatāṃ sahatām arātiṃ pratyak pratiharaṇenāghāyate aghaṃ prati harāmaḥ
-# sent_id = 633542
+# sent_id = 635935
 # sent_counter = 13
 # sent_subcounter = 2
 1-3	apāghaśaṃsaṃ	_	_	_	_	_	_	_	_

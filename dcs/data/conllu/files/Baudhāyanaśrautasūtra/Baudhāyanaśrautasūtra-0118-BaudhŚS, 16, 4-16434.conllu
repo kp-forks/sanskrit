@@ -3,14 +3,14 @@
 ## chapter: BaudhŚS, 16, 4
 ## chapter_id: 16434
 # text = tasya mīmāṃsā
-# sent_id = 658569
+# sent_id = 660962
 # sent_counter = 1
 # sent_subcounter = 
 1	tasya	tad	PRON	_	Case=Gen|Gender=Neut|Number=Sing	_	_	_	LemmaId=37875|OccId=5734019|Unsandhied=tasya
 2	mīmāṃsā	mīmāṃsā	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	_	_	_	LemmaId=133303|OccId=5734020|Unsandhied=mīmāṃsā|Punctuation=fullStop
 
 # text = gārhapatye 'nupraharet pratiṣṭhākāmānām āgnīdhre prajākāmānāṃ śāmitre paśukāmānām āhavanīye svargakāmānām iti
-# sent_id = 658570
+# sent_id = 660963
 # sent_counter = 2
 # sent_subcounter = 
 1	gārhapatye	gārhapatya	NOUN	_	Case=Loc|Gender=Masc|Number=Sing	_	_	_	LemmaId=123947|OccId=5734021|Unsandhied=gārhapatye
@@ -33,7 +33,7 @@
 14	iti	iti	PART	_		_	_	_	LemmaId=63331|OccId=5734034|Unsandhied=iti|Punctuation=fullStop
 
 # text = anādṛtya tad āhavanīya evānupraharati bhavataṃ naḥ samanasāv iti
-# sent_id = 658571
+# sent_id = 660964
 # sent_counter = 3
 # sent_subcounter = 
 1-2	anādṛtya	_	_	_	_	_	_	_	_
@@ -44,26 +44,26 @@
 5-6	evānupraharati	_	_	_	_	_	_	_	_
 5	eva	eva	PART	_		_	_	_	LemmaId=39754|OccId=5734037|Unsandhied=eva
 6	anupraharati	anuprahṛ	VERB	_	Tense=Pres|Mood=Ind|Person=3|Number=Sing	_	_	_	LemmaId=157918|OccId=5734038|Unsandhied=anupraharati|Punctuation=comma
-7	bhavataṃ	bhū	VERB	_	Tense=Pres|Mood=Imp|Person=2|Number=Dual	_	_	_	LemmaId=157250|OccId=5734039|Unsandhied=bhavatam
-8	naḥ	mad	PRON	_	Case=Dat|Number=Plur	_	_	_	LemmaId=37879|OccId=5734040|Unsandhied=naḥ
-9	samanasāv	samanas	ADJ	_	Case=Nom|Gender=Masc|Number=Dual	_	_	_	LemmaId=29440|OccId=5734041|Unsandhied=samanasau
+7	bhavataṃ	bhū	VERB	_	Tense=Pres|Mood=Imp|Person=2|Number=Dual	_	_	_	LemmaId=157250|OccId=5734039|Unsandhied=bhavatam|IsMantra=True
+8	naḥ	mad	PRON	_	Case=Dat|Number=Plur	_	_	_	LemmaId=37879|OccId=5734040|Unsandhied=naḥ|IsMantra=True
+9	samanasāv	samanas	ADJ	_	Case=Nom|Gender=Masc|Number=Dual	_	_	_	LemmaId=29440|OccId=5734041|Unsandhied=samanasau|IsMantra=True
 10	iti	iti	PART	_		_	_	_	LemmaId=63331|OccId=5734042|Unsandhied=iti|Punctuation=fullStop
 
 # text = prahṛtyābhijuhoti agnāv agniś carati praviṣṭa iti
-# sent_id = 658572
+# sent_id = 660965
 # sent_counter = 4
 # sent_subcounter = 
 1-2	prahṛtyābhijuhoti	_	_	_	_	_	_	_	_
 1	prahṛtya	prahṛ	VERB	_	VerbForm=Conv	_	_	_	LemmaId=163146|OccId=5734043|Unsandhied=prahṛtya
 2	abhijuhoti	abhihu	VERB	_	Tense=Pres|Mood=Ind|Person=3|Number=Sing	_	_	_	LemmaId=159212|OccId=5734044|Unsandhied=abhijuhoti|Punctuation=comma
-3	agnāv	agni	NOUN	_	Case=Loc|Gender=Masc|Number=Sing	_	_	_	LemmaId=5705|OccId=5734045|Unsandhied=agnau
-4	agniś	agni	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=5705|OccId=5734046|Unsandhied=agniḥ
-5	carati	car	VERB	_	Tense=Pres|Mood=Ind|Person=3|Number=Sing	_	_	_	LemmaId=156249|OccId=5734047|Unsandhied=carati
-6	praviṣṭa	praviś	VERB	_	Case=Nom|Gender=Masc|Number=Sing|VerbForm=Part	_	_	_	LemmaId=163055|OccId=5734048|Unsandhied=praviṣṭaḥ
+3	agnāv	agni	NOUN	_	Case=Loc|Gender=Masc|Number=Sing	_	_	_	LemmaId=5705|OccId=5734045|Unsandhied=agnau|IsMantra=True
+4	agniś	agni	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=5705|OccId=5734046|Unsandhied=agniḥ|IsMantra=True
+5	carati	car	VERB	_	Tense=Pres|Mood=Ind|Person=3|Number=Sing	_	_	_	LemmaId=156249|OccId=5734047|Unsandhied=carati|IsMantra=True
+6	praviṣṭa	praviś	VERB	_	Case=Nom|Gender=Masc|Number=Sing|VerbForm=Part	_	_	_	LemmaId=163055|OccId=5734048|Unsandhied=praviṣṭaḥ|IsMantra=True
 7	iti	iti	PART	_		_	_	_	LemmaId=63331|OccId=5734049|Unsandhied=iti|Punctuation=fullStop
 
 # text = etāvad evaitad ahaḥ śilpaṃ kriyate
-# sent_id = 658573
+# sent_id = 660966
 # sent_counter = 5
 # sent_subcounter = 
 1	etāvad	etāvat	ADJ	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=39687|OccId=5734050|Unsandhied=etāvat
@@ -75,7 +75,7 @@
 6	kriyate	kṛ	VERB	_	Tense=Pres|Mood=Ind|Voice=Pass|Person=3|Number=Sing	_	_	_	LemmaId=156168|OccId=5734055|Unsandhied=kriyate|Punctuation=fullStop
 
 # text = ahīnasaṃtatiṃ karoti
-# sent_id = 658574
+# sent_id = 660967
 # sent_counter = 6
 # sent_subcounter = 
 1-2	ahīnasaṃtatiṃ	_	_	_	_	_	_	_	_
@@ -84,7 +84,7 @@
 3	karoti	kṛ	VERB	_	Tense=Pres|Mood=Ind|Person=3|Number=Sing	_	_	_	LemmaId=156168|OccId=5734058|Unsandhied=karoti|Punctuation=fullStop
 
 # text = atha śvo bhūte tāyate triṇava ukthyaḥ śākvarasāmā
-# sent_id = 658575
+# sent_id = 660968
 # sent_counter = 7
 # sent_subcounter = 
 1	atha	atha	ADV	_		_	_	_	LemmaId=7467|OccId=5734059|Unsandhied=atha
@@ -98,14 +98,14 @@
 8	sāmā	sāman	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=112582|OccId=5734066|Unsandhied=sāmā|Punctuation=fullStop
 
 # text = aindro 'tigrāhyaḥ
-# sent_id = 658576
+# sent_id = 660969
 # sent_counter = 8
 # sent_subcounter = 
 1	aindro	aindra	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=39926|OccId=5734067|Unsandhied=aindraḥ
 2	'tigrāhyaḥ	atigrāhya	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=7151|OccId=5734068|Unsandhied=atigrāhyaḥ|Punctuation=fullStop
 
 # text = adbhir etad ahar avakāmiśrābhir adhvaryur māhendrasya stotram upākaroti
-# sent_id = 658577
+# sent_id = 660970
 # sent_counter = 9
 # sent_subcounter = 
 1	adbhir	ap	NOUN	_	Case=Ins|Gender=Fem|Number=Plur	_	_	_	LemmaId=167009|OccId=5734069|Unsandhied=adbhiḥ
@@ -120,14 +120,14 @@
 9	upākaroti	upākṛ	VERB	_	Tense=Pres|Mood=Ind|Person=3|Number=Sing	_	_	_	LemmaId=160663|OccId=5734077|Unsandhied=upākaroti|Punctuation=fullStop
 
 # text = tāsāṃ mīmāṃsā
-# sent_id = 658578
+# sent_id = 660971
 # sent_counter = 10
 # sent_subcounter = 
 1	tāsāṃ	tad	PRON	_	Case=Gen|Gender=Fem|Number=Plur	_	_	_	LemmaId=37875|OccId=5734078|Unsandhied=tāsām
 2	mīmāṃsā	mīmāṃsā	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	_	_	_	LemmaId=133303|OccId=5734079|Unsandhied=mīmāṃsā|Punctuation=fullStop
 
 # text = cātvāle 'vanayed āstāve ninayet prokṣaṇīḥ kurvīta puroḍāśīyāni piṣṭāni saṃyauyād iti
-# sent_id = 658579
+# sent_id = 660972
 # sent_counter = 11
 # sent_subcounter = 
 1	cātvāle	cātvāla	NOUN	_	Case=Loc|Gender=Masc|Number=Sing	_	_	_	LemmaId=50949|OccId=5734080|Unsandhied=cātvāle
@@ -142,7 +142,7 @@
 10	iti	iti	PART	_		_	_	_	LemmaId=63331|OccId=5734088|Unsandhied=iti|Punctuation=fullStop
 
 # text = anādṛtya tad udgātṛṣv adhīnā evaināḥ kuryāt
-# sent_id = 658580
+# sent_id = 660973
 # sent_counter = 12
 # sent_subcounter = 
 1-2	anādṛtya	_	_	_	_	_	_	_	_
@@ -157,7 +157,7 @@
 8	kuryāt	kṛ	VERB	_	Tense=Pres|Mood=Opt|Person=3|Number=Sing	_	_	_	LemmaId=156168|OccId=5734094|Unsandhied=kuryāt|Punctuation=fullStop
 
 # text = udgātāro haitābhir araṇyegeyānāṃ sāmnāṃ śucaṃ śamayanto manyante
-# sent_id = 658581
+# sent_id = 660974
 # sent_counter = 13
 # sent_subcounter = 
 1	udgātāro	udgātṛ	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	_	_	_	LemmaId=56600|OccId=5734095|Unsandhied=udgātāraḥ
@@ -171,7 +171,7 @@
 8	manyante	man	VERB	_	Tense=Pres|Mood=Ind|Person=3|Number=Plur	_	_	_	LemmaId=157294|OccId=5734102|Unsandhied=manyante|Punctuation=fullStop
 
 # text = tā u ced adhvaryave prabrūyur apo 'bhyavaharatety eva brūyād iti
-# sent_id = 658582
+# sent_id = 660975
 # sent_counter = 14
 # sent_subcounter = 
 1	tā	tad	PRON	_	Case=Acc|Gender=Fem|Number=Plur	_	_	_	LemmaId=37875|OccId=5734143|Unsandhied=tāḥ
@@ -188,7 +188,7 @@
 11	iti	iti	PART	_		_	_	_	LemmaId=63331|OccId=5734108|Unsandhied=iti|Punctuation=fullStop
 
 # text = etāvad evaitad ahaḥ śilpaṃ kriyate
-# sent_id = 658583
+# sent_id = 660976
 # sent_counter = 15
 # sent_subcounter = 
 1	etāvad	etāvat	ADJ	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=39687|OccId=5734109|Unsandhied=etāvat
@@ -200,7 +200,7 @@
 6	kriyate	kṛ	VERB	_	Tense=Pres|Mood=Ind|Voice=Pass|Person=3|Number=Sing	_	_	_	LemmaId=156168|OccId=5734114|Unsandhied=kriyate|Punctuation=fullStop
 
 # text = ahīnasaṃtatiṃ karoti
-# sent_id = 658584
+# sent_id = 660977
 # sent_counter = 16
 # sent_subcounter = 
 1-2	ahīnasaṃtatiṃ	_	_	_	_	_	_	_	_
@@ -209,7 +209,7 @@
 3	karoti	kṛ	VERB	_	Tense=Pres|Mood=Ind|Person=3|Number=Sing	_	_	_	LemmaId=156168|OccId=5734117|Unsandhied=karoti|Punctuation=fullStop
 
 # text = atha śvo bhūte tāyate trayastriṃśa ukthyo raivatasāmā
-# sent_id = 658585
+# sent_id = 660978
 # sent_counter = 17
 # sent_subcounter = 
 1	atha	atha	ADV	_		_	_	_	LemmaId=7467|OccId=5734118|Unsandhied=atha
@@ -223,14 +223,14 @@
 8	sāmā	sāman	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=112582|OccId=5734125|Unsandhied=sāmā|Punctuation=fullStop
 
 # text = sauryo 'tigrāhyaḥ
-# sent_id = 658586
+# sent_id = 660979
 # sent_counter = 18
 # sent_subcounter = 
 1	sauryo	saurya	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=101849|OccId=5734126|Unsandhied=sauryaḥ
 2	'tigrāhyaḥ	atigrāhya	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=7151|OccId=5734127|Unsandhied=atigrāhyaḥ|Punctuation=fullStop
 
 # text = adbhir evaitad ahar dūrvāmiśrābhir adhvaryur māhendrasya stotram upākaroti
-# sent_id = 658587
+# sent_id = 660980
 # sent_counter = 19
 # sent_subcounter = 
 1	adbhir	ap	NOUN	_	Case=Ins|Gender=Fem|Number=Plur	_	_	_	LemmaId=167009|OccId=5734128|Unsandhied=adbhiḥ
