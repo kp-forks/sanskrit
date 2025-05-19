@@ -2,27 +2,24 @@
 ## text_id: 555
 ## chapter: AĀ, 1, 1, 4
 ## chapter_id: 14923
-# text = vāyav ā yāhi darśateme somā araṃkṛtā ity etad vā ahar araṃ yajamānāya ca devebhyaś ca
-# sent_id = 734970
-# sent_counter = 1
-# sent_subcounter = 
-1	vāyav	vāyu	NOUN	_	Case=Voc|Gender=Masc|Number=Sing	_	_	_	LemmaId=76933|OccId=5431298|Unsandhied=vāyo|IsMantra=True
-2	ā	ā	ADP	_		_	_	_	LemmaId=213041|OccId=5431446|Unsandhied=ā|IsMantra=True
-3	yāhi	yā	VERB	_	Tense=Pres|Mood=Imp|Person=2|Number=Sing	_	_	_	LemmaId=157263|OccId=5431299|Unsandhied=yāhi|IsMantra=True
-4-5	darśateme	_	_	_	_	_	_	_	_
-4	darśata	darśata	ADJ	_	Case=Voc|Gender=Masc|Number=Sing	_	_	_	LemmaId=146416|OccId=5431300|Unsandhied=darśata|IsMantra=True
-5	ime	idam	PRON	_	Case=Nom|Gender=Masc|Number=Plur	_	_	_	LemmaId=37876|OccId=5431301|Unsandhied=ime|IsMantra=True
-6	somā	soma	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	_	_	_	LemmaId=100106|OccId=5431302|Unsandhied=somāḥ|IsMantra=True
-7	araṃkṛtā	alaṃkṛ	VERB	_	Case=Nom|Gender=Masc|Number=Plur|VerbForm=Part	_	_	_	LemmaId=159415|OccId=5431303|Unsandhied=araṃkṛtāḥ|IsMantra=True
-8	ity	iti	PART	_		_	_	_	LemmaId=63331|OccId=5431304|Unsandhied=iti|Punctuation=fullStop
-9	etad	etad	PRON	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=163744|OccId=5431305|Unsandhied=etat
-10	vā	vai	PART	_		_	_	_	LemmaId=118154|OccId=5431306|Unsandhied=vai
-11	ahar	ahar	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=168349|OccId=5431307|Unsandhied=ahar
-12	araṃ	aram	ADV	_		_	_	_	LemmaId=32594|OccId=5431308|Unsandhied=aram
-13	yajamānāya	yaj	VERB	_	Case=Dat|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part	_	_	_	LemmaId=157422|OccId=5431309|Unsandhied=yajamānāya
-14	ca	ca	CONJ	_		_	_	_	LemmaId=157144|OccId=5431310|Unsandhied=ca
-15	devebhyaś	deva	NOUN	_	Case=Dat|Gender=Masc|Number=Plur	_	_	_	LemmaId=86559|OccId=5431311|Unsandhied=devebhyaḥ
-16	ca	ca	CONJ	_		_	_	_	LemmaId=157144|OccId=5431312|Unsandhied=ca|Punctuation=fullStop
+# text = vāyo ā yāhi darśata ime somāḥ araṃkṛtāḥ iti etat vai ahar aram yajamānāya ca devebhyaḥ ca
+# sent_id = 734970_1
+1	vāyo	vāyu	NOUN	_	Case=Voc|Gender=Masc|Number=Sing	12	orphan	_	LemmaId=76933|OccId=5431298|Unsandhied=vāyo|Annotator=Sv|IsMantra=True
+2	ā	ā	ADP	_	_	1	flat	_	LemmaId=213041|OccId=5431446|Unsandhied=ā|Annotator=Sv|IsMantra=True
+3	yāhi	yā	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	2	flat	_	LemmaId=157263|OccId=5431299|Unsandhied=yāhi|Annotator=Sv|IsMantra=True
+4	darśata	darśata	ADJ	_	Case=Voc|Gender=Masc|Number=Sing	3	flat	_	LemmaId=146416|OccId=5431300|Unsandhied=darśata|Annotator=Sv|IsMantra=True
+5	ime	idam	PRON	_	Case=Nom|Gender=Masc|Number=Plur	4	flat	_	LemmaId=37876|OccId=5431301|Unsandhied=ime|Annotator=Sv|IsMantra=True
+6	somāḥ	soma	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	5	flat	_	LemmaId=100106|OccId=5431302|Unsandhied=somāḥ|Annotator=Sv|IsMantra=True
+7	araṃkṛtāḥ	alaṃkṛ	VERB	_	Case=Nom|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	6	flat	_	LemmaId=159415|OccId=5431303|Unsandhied=araṃkṛtāḥ|Annotator=Sv|IsMantra=True
+8	iti	iti	PART	_	_	7	mark	_	LemmaId=63331|OccId=5431304|Unsandhied=iti|Annotator=Sv|Punctuation=fullStop
+9	etat	etad	PRON	_	Case=Nom|Gender=Neut|Number=Sing	11	det	_	LemmaId=163744|OccId=5431305|Unsandhied=etat|Annotator=Sv
+10	vai	vai	PART	_	_	12	discourse	_	LemmaId=118154|OccId=5431306|Unsandhied=vai|Annotator=Sv
+11	ahar	ahar	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	12	nsubj	_	LemmaId=168349|OccId=5431307|Unsandhied=ahar|Annotator=Sv
+12	aram	aram	ADV	_	_	0	root	_	LemmaId=32594|OccId=5431308|Unsandhied=aram|Annotator=Sv
+13	yajamānāya	yaj	VERB	_	Case=Dat|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part	12	obl:benef	_	LemmaId=157422|OccId=5431309|Unsandhied=yajamānāya|Annotator=Sv
+14	ca	ca	CONJ	_	_	13	cc	_	LemmaId=157144|OccId=5431310|Unsandhied=ca|Annotator=Sv
+15	devebhyaḥ	deva	NOUN	_	Case=Dat|Gender=Masc|Number=Plur	13	conj	_	LemmaId=86559|OccId=5431311|Unsandhied=devebhyaḥ|Annotator=Sv
+16	ca	ca	CONJ	_	_	15	cc	_	LemmaId=157144|OccId=5431312|Unsandhied=ca|Annotator=Sv|Punctuation=fullStop
 
 # text = araṃ hāsmā etad ahar bhavati ya evaṃ veda yeṣāṃ caivaṃ vidvān etaddhotā śaṃsati
 # sent_id = 734971

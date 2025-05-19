@@ -87,6 +87,19 @@
 3	somya	somya	ADJ	_	Case=Voc|Gender=Masc|Number=Sing	4	vocative	_	LemmaId=101407|OccId=4482491|Unsandhied=somya|Annotator=Ol
 4	viddhi	vid	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	0	root	_	LemmaId=158058|OccId=4482492|Unsandhied=viddhi|Annotator=Ol|Punctuation=fullStop
 
+# text = dhanuḥ gṛhītvā aupaniṣadam mahā astram śaram hi upāsā niśitam saṃdhayīta
+# sent_id = 618394_1
+1	dhanuḥ	dhanus	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	2	obj	_	LemmaId=91820|OccId=4482493|Unsandhied=dhanuḥ|Annotator=Ol
+2	gṛhītvā	grah	VERB	_	VerbForm=Conv	10	advcl:temp	_	LemmaId=156232|OccId=4482494|Unsandhied=gṛhītvā|Annotator=Ol
+3	aupaniṣadam	aupaniṣada	ADJ	_	Case=Acc|Gender=Neut|Number=Sing	1	amod	_	LemmaId=191|OccId=4482495|Unsandhied=aupaniṣadam|Annotator=Ol
+4	mahā	mahat	ADJ	_	Case=Cpd	5	amod	_	LemmaId=37544|OccId=4482496|Unsandhied=mahā|Annotator=Ol
+5	astram	astra	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	1	nmod:appos	_	LemmaId=61244|OccId=4482497|Unsandhied=astram|Annotator=Ol
+6	śaram	śara	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	10	obj	_	LemmaId=116797|OccId=4482498|Unsandhied=śaram|Annotator=Ol
+7	hi	hi	PART	_	_	10	discourse	_	LemmaId=109879|OccId=4482499|Unsandhied=hi|Annotator=Ol
+8	upāsā	upāsā	NOUN	_	Case=Cpd|Gender=Fem	9	obl:instr	_	LemmaId=46099|OccId=4482500|Unsandhied=upāsā|Annotator=Ol
+9	niśitam	niśā	VERB	_	Case=Acc|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	6	acl	_	LemmaId=161489|OccId=4482501|Unsandhied=niśitam|Annotator=Ol
+10	saṃdhayīta	saṃdhā	VERB	_	Mood=Opt|Number=Sing|Person=3|Tense=Pres	0	root	_	LemmaId=164962|OccId=5760430|Unsandhied=saṃdhayīta|Annotator=Ol|Punctuation=fullStop
+
 # text = āyamya tat bhāva gatena cetasā lakṣyam tat evā akṣaram somya viddhi
 # sent_id = 618395_1
 1	āyamya	āyam	VERB	_	VerbForm=Conv	11	advcl:temp	_	LemmaId=159873|OccId=4482502|Unsandhied=āyamya|Annotator=Ol

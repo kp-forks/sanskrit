@@ -621,8 +621,13 @@
 5	karmaṇā	karman	NOUN	_	Case=Ins|Gender=Neut|Number=Sing	6	obl	_	LemmaId=12243|OccId=4921501|Unsandhied=karmaṇā|Annotator=Ol
 6	abhipadyate	abhipad	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	LemmaId=158745|OccId=4921502|Unsandhied=abhipadyate|Annotator=Ol|Punctuation=comma
 
-# text = yajñam eva etat vitanoti
+# text = tāḥ praṇayati
 # sent_id = 489637_4
+1	tāḥ	tad	PRON	_	Case=Acc|Gender=Fem|Number=Plur	2	obj	_	LemmaId=37875|OccId=4921503|Unsandhied=tāḥ|Annotator=Ol
+2	praṇayati	praṇī	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	LemmaId=162430|OccId=5709417|Unsandhied=praṇayati|Annotator=Ol|Punctuation=comma
+
+# text = yajñam eva etat vitanoti
+# sent_id = 489637_5
 1	yajñam	yajña	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	4	obj	_	LemmaId=72936|OccId=4921505|Unsandhied=yajñam|Annotator=Ol
 2	eva	eva	PART	_	_	1	discourse	_	LemmaId=39754|OccId=4921506|Unsandhied=eva|Annotator=Ol
 3	etat	etad	PRON	_	Case=Acc|Gender=Neut|Number=Sing	4	advmod	_	LemmaId=163744|OccId=4921507|Unsandhied=etat|Annotator=Ol

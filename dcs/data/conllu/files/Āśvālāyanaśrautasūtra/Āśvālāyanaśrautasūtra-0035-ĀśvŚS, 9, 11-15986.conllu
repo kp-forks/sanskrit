@@ -108,8 +108,26 @@
 3	atiriktā	atiric	VERB	_	Case=Nom|Gender=Neut|Number=Plur|Tense=Past|VerbForm=Part	4	acl	_	LemmaId=157483|OccId=5638536|Unsandhied=atiriktā|Annotator=Ol
 4	ukthyāni	ukthya	NOUN	_	Case=Nom|Gender=Neut|Number=Plur	2	nsubj	_	LemmaId=64227|OccId=5638537|Unsandhied=ukthyāni|Annotator=Ol|Punctuation=fullStop
 
-# text = yuvam devā kratunā pūrvyeṇa iti yājyā
+# text = jarā bodha tat viviḍḍhi jaramāṇaḥ samidhyase agninā indreṇa ābhāti agniḥ kṣetrasya patinā vayam iti paridhānīyā
 # sent_id = 685156_1
+1	jarā	jarā	NOUN	_	Case=Cpd|Gender=Fem	15	csubj	_	LemmaId=88011|OccId=5716882|Unsandhied=jarā|Annotator=Ol|IsMantra=True
+2	bodha	bodha	ADJ	_	Case=Voc|Gender=Masc|Number=Sing	1	flat	_	LemmaId=149025|OccId=5716883|Unsandhied=bodha|Annotator=Ol|IsMantra=True
+3	tat	tad	PRON	_	Case=Acc|Gender=Neut|Number=Sing	2	flat	_	LemmaId=37875|OccId=5638540|Unsandhied=tat|Annotator=Ol|IsMantra=True
+4	viviḍḍhi	viṣ	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	3	flat	_	LemmaId=158976|OccId=5638541|Unsandhied=viviḍḍhi|Annotator=Ol|Punctuation=comma|IsMantra=True
+5	jaramāṇaḥ	jṛ	VERB	_	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part	1	parataxis	_	LemmaId=157149|OccId=5638542|Unsandhied=jaramāṇaḥ|Annotator=Ol|IsMantra=True
+6	samidhyase	samindh	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|Voice=Pass	5	flat	_	LemmaId=165267|OccId=5638543|Unsandhied=samidhyase|Annotator=Ol|Punctuation=comma|IsMantra=True
+7	agninā	agni	NOUN	_	Case=Ins|Gender=Masc|Number=Sing	5	parataxis	_	LemmaId=5705|OccId=5638679|Unsandhied=agninā|Annotator=Ol|IsMantra=True
+8	indreṇa	indra	NOUN	_	Case=Ins|Gender=Masc|Number=Sing	7	flat	_	LemmaId=63463|OccId=5638680|Unsandhied=indreṇa|Annotator=Ol|IsMantra=True
+9	ābhāti	ābhā	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	7	parataxis	_	LemmaId=159845|OccId=5638681|Unsandhied=ābhāti|Annotator=Ol|IsMantra=True
+10	agniḥ	agni	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	9	flat	_	LemmaId=5705|OccId=5638544|Unsandhied=agniḥ|Annotator=Ol|Punctuation=comma|IsMantra=True
+11	kṣetrasya	kṣetra	NOUN	_	Case=Gen|Gender=Neut|Number=Sing	9	parataxis	_	LemmaId=135577|OccId=5638545|Unsandhied=kṣetrasya|Annotator=Ol|IsMantra=True
+12	patinā	pati	NOUN	_	Case=Ins|Gender=Masc|Number=Sing	11	flat	_	LemmaId=163749|OccId=5638546|Unsandhied=patinā|Annotator=Ol|IsMantra=True
+13	vayam	mad	PRON	_	Case=Nom|Number=Plur	12	flat	_	LemmaId=37879|OccId=5638547|Unsandhied=vayam|Annotator=Ol|IsMantra=True
+14	iti	iti	PART	_	_	13	mark	_	LemmaId=63331|OccId=5638548|Unsandhied=iti|Annotator=Ol|Punctuation=comma
+15	paridhānīyā	paridhā	VERB	_	Case=Nom|Gender=Fem|Number=Sing|VerbForm=Gdv	0	root	_	LemmaId=162038|OccId=5638549|Unsandhied=paridhānīyā|Annotator=Ol|Punctuation=fullStop
+
+# text = yuvam devā kratunā pūrvyeṇa iti yājyā
+# sent_id = 685156_2
 1	yuvam	tvad	PRON	_	Case=Nom|Number=Dual	6	csubj	_	LemmaId=37880|OccId=5638550|Unsandhied=yuvam|Annotator=Ol|IsMantra=True
 2	devā	deva	NOUN	_	Case=Nom|Gender=Masc|Number=Dual	1	flat	_	LemmaId=86559|OccId=5638551|Unsandhied=devā|Annotator=Ol|IsMantra=True
 3	kratunā	kratu	NOUN	_	Case=Ins|Gender=Masc|Number=Sing	2	flat	_	LemmaId=134074|OccId=5638552|Unsandhied=kratunā|Annotator=Ol|IsMantra=True
@@ -117,14 +135,28 @@
 5	iti	iti	PART	_	_	4	mark	_	LemmaId=63331|OccId=5638554|Unsandhied=iti|Annotator=Ol|Punctuation=comma
 6	yājyā	yājyā	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	0	root	_	LemmaId=64403|OccId=5638555|Unsandhied=yājyā|Annotator=Ol|Punctuation=fullStop
 
-# text = yat adya kad ca vṛtrahan paridhānīyā
+# text = yat adya kad ca vṛtrahan ud gha id abhi śrutāmagham ā naḥ viśvābhiḥ prātaryāvāṇā kṣetrasya pate madhumantam ūrmim iti paridhānīyā
 # sent_id = 685157_1
-1	yat	yad	PRON	_	Case=Acc|Gender=Neut|Number=Sing	6	csubj	_	LemmaId=37877|OccId=5638556|Unsandhied=yat|Annotator=Ol|IsMantra=True
+1	yat	yad	PRON	_	Case=Acc|Gender=Neut|Number=Sing	20	csubj	_	LemmaId=37877|OccId=5638556|Unsandhied=yat|Annotator=Ol|IsMantra=True
 2	adya	adya	ADV	_	_	1	flat	_	LemmaId=7682|OccId=5638557|Unsandhied=adya|Annotator=Ol|IsMantra=True
 3	kad	ka	PRON	_	Case=Acc|Gender=Neut|Number=Sing	2	flat	_	LemmaId=37878|OccId=5638558|Unsandhied=kad|Annotator=Ol|IsMantra=True
 4	ca	ca	CONJ	_	_	3	flat	_	LemmaId=157144|OccId=5638559|Unsandhied=ca|Annotator=Ol|IsMantra=True
 5	vṛtrahan	vṛtrahan	NOUN	_	Case=Voc|Gender=Masc|Number=Sing	4	flat	_	LemmaId=171957|OccId=5638560|Unsandhied=vṛtrahan|Annotator=Ol|Punctuation=comma|IsMantra=True
-6	paridhānīyā	paridhā	VERB	_	Case=Nom|Gender=Fem|Number=Sing|VerbForm=Gdv	0	root	_	LemmaId=162038|OccId=5638572|Unsandhied=paridhānīyā|Annotator=Ol|Punctuation=comma
+6	ud	ud	ADP	_	_	1	parataxis	_	LemmaId=214859|OccId=5638561|Unsandhied=ud|Annotator=Ol|IsMantra=True
+7	gha	gha	PART	_	_	6	flat	_	LemmaId=218732|OccId=5638562|Unsandhied=gha|Annotator=Ol|IsMantra=True
+8	id	id	PART	_	_	7	flat	_	LemmaId=217401|OccId=5638563|Unsandhied=id|Annotator=Ol|IsMantra=True
+9	abhi	abhi	ADP	_	_	8	flat	_	LemmaId=171289|OccId=5716887|Unsandhied=abhi|Annotator=Ol|IsMantra=True
+10	śrutāmagham	śrutāmagha	ADJ	_	Case=Acc|Gender=Masc|Number=Sing	9	flat	_	LemmaId=40828|OccId=5716888|Unsandhied=śrutāmagham|Annotator=Ol|Punctuation=comma|IsMantra=True
+11	ā	ā	ADP	_	_	6	parataxis	_	LemmaId=213041|OccId=5716885|Unsandhied=ā|Annotator=Ol|IsMantra=True
+12	naḥ	mad	PRON	_	Case=Acc|Number=Plur	11	flat	_	LemmaId=37879|OccId=5716886|Unsandhied=naḥ|Annotator=Ol|IsMantra=True
+13	viśvābhiḥ	viśva	ADJ	_	Case=Ins|Gender=Fem|Number=Plur	12	flat	_	LemmaId=139262|OccId=5638565|Unsandhied=viśvābhiḥ|Annotator=Ol|Punctuation=comma|IsMantra=True
+14	prātaryāvāṇā	prātaryāvan	ADJ	_	Case=Nom|Gender=Masc|Number=Dual	11	parataxis	_	LemmaId=152038|OccId=5638566|Unsandhied=prātaryāvāṇā|Annotator=Ol|Punctuation=comma|IsMantra=True
+15	kṣetrasya	kṣetra	NOUN	_	Case=Gen|Gender=Neut|Number=Sing	14	parataxis	_	LemmaId=135577|OccId=5638567|Unsandhied=kṣetrasya|Annotator=Ol|IsMantra=True
+16	pate	pati	NOUN	_	Case=Voc|Gender=Masc|Number=Sing	15	flat	_	LemmaId=163749|OccId=5638568|Unsandhied=pate|Annotator=Ol|IsMantra=True
+17	madhumantam	madhumat	ADJ	_	Case=Acc|Gender=Masc|Number=Sing	16	flat	_	LemmaId=35578|OccId=5638569|Unsandhied=madhumantam|Annotator=Ol|IsMantra=True
+18	ūrmim	ūrmi	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	17	flat	_	LemmaId=38595|OccId=5638570|Unsandhied=ūrmim|Annotator=Ol|IsMantra=True
+19	iti	iti	PART	_	_	18	mark	_	LemmaId=63331|OccId=5638571|Unsandhied=iti|Annotator=Ol|Punctuation=comma
+20	paridhānīyā	paridhā	VERB	_	Case=Nom|Gender=Fem|Number=Sing|VerbForm=Gdv	0	root	_	LemmaId=162038|OccId=5638572|Unsandhied=paridhānīyā|Annotator=Ol|Punctuation=comma
 
 # text = yuvām devāḥ trayaḥ ekādaśāsaḥ iti yājyā
 # sent_id = 685157_2
@@ -166,21 +198,27 @@
 6	iti	iti	PART	_	_	5	mark	_	LemmaId=63331|OccId=5638602|Unsandhied=iti|Annotator=Ol|Punctuation=comma
 7	yājyā	yājyā	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	0	root	_	LemmaId=64403|OccId=5638603|Unsandhied=yājyā|Annotator=Ol|Punctuation=fullStop
 
-# text = uta no 'dhiyogo agnā iti vānurūpasyottamā
-# sent_id = 685160
-# sent_counter = 18
-# sent_subcounter = 
-1	uta	uta	CONJ	_		_	_	_	LemmaId=55443|OccId=5716891|Unsandhied=uta|IsMantra=True
-2	no	mad	PRON	_	Case=Dat|Number=Plur	_	_	_	LemmaId=37879|OccId=5716892|Unsandhied=naḥ|IsMantra=True
-3-4	'dhiyogo	_	_	_	_	_	_	_	_
-3	adhi	adhi	ADP	_		_	_	_	LemmaId=170078|OccId=5716893|Unsandhied=adhi|IsMantra=True
-4	yogaḥ	yoga	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=65008|OccId=5716894|Unsandhied=yogaḥ|IsMantra=True
-5	agnā	agni	NOUN	_	Case=Loc|Gender=Masc|Number=Sing	_	_	_	LemmaId=5705|OccId=5716895|Unsandhied=agnau|IsMantra=True
-6	iti	iti	PART	_		_	_	_	LemmaId=63331|OccId=5716896|Unsandhied=iti|Punctuation=comma
-7-9	vānurūpasyottamā	_	_	_	_	_	_	_	_
-7	vā	vā	CONJ	_		_	_	_	LemmaId=75765|OccId=5716897|Unsandhied=vā
-8	anurūpasya	anurūpa	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	_	_	_	LemmaId=11240|OccId=5716898|Unsandhied=anurūpasya
-9	uttamā	uttama	ADJ	_	Case=Nom|Gender=Fem|Number=Sing	_	_	_	LemmaId=55629|OccId=5716899|Unsandhied=uttamā|Punctuation=fullStop
+# text = atas devāḥ avantu naḥ iti stotriya anurūpau
+# sent_id = 685159_1
+1	atas	atas	ADV	_	_	7	csubj	_	LemmaId=6823|OccId=5638604|Unsandhied=atas|Annotator=Ol|IsMantra=True
+2	devāḥ	deva	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	1	flat	_	LemmaId=86559|OccId=5638605|Unsandhied=devāḥ|Annotator=Ol|IsMantra=True
+3	avantu	av	VERB	_	Mood=Imp|Number=Plur|Person=3|Tense=Pres	2	flat	_	LemmaId=158270|OccId=5638606|Unsandhied=avantu|Annotator=Ol|IsMantra=True
+4	naḥ	mad	PRON	_	Case=Acc|Number=Plur	3	flat	_	LemmaId=37879|OccId=5638607|Unsandhied=naḥ|Annotator=Ol|IsMantra=True
+5	iti	iti	PART	_	_	4	mark	_	LemmaId=63331|OccId=5638608|Unsandhied=iti|Annotator=Ol|Punctuation=comma
+6	stotriya	stotriya	NOUN	_	Case=Cpd|Gender=Masc	7	compound:coord	_	LemmaId=221448|OccId=5716889|Unsandhied=stotriya|Annotator=Ol
+7	anurūpau	anurūpa	NOUN	_	Case=Nom|Gender=Masc|Number=Dual	0	root	_	LemmaId=11240|OccId=5716890|Unsandhied=anurūpau|Annotator=Ol|Punctuation=fullStop
+
+# text = uta naḥ adhi yogaḥ agnau iti vā anurūpasya uttamā
+# sent_id = 685160_1
+1	uta	uta	CONJ	_	_	9	csubj	_	LemmaId=55443|OccId=5716891|Unsandhied=uta|Annotator=Ol|IsMantra=True
+2	naḥ	mad	PRON	_	Case=Dat|Number=Plur	1	flat	_	LemmaId=37879|OccId=5716892|Unsandhied=naḥ|Annotator=Ol|IsMantra=True
+3	adhi	adhi	ADP	_	_	2	flat	_	LemmaId=170078|OccId=5716893|Unsandhied=adhi|Annotator=Ol|IsMantra=True
+4	yogaḥ	yoga	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	3	flat	_	LemmaId=65008|OccId=5716894|Unsandhied=yogaḥ|Annotator=Ol|IsMantra=True
+5	agnau	agni	NOUN	_	Case=Loc|Gender=Masc|Number=Sing	4	flat	_	LemmaId=5705|OccId=5716895|Unsandhied=agnau|Annotator=Ol|IsMantra=True
+6	iti	iti	PART	_	_	5	mark	_	LemmaId=63331|OccId=5716896|Unsandhied=iti|Annotator=Ol|Punctuation=comma
+7	vā	vā	CONJ	_	_	9	cc	_	LemmaId=75765|OccId=5716897|Unsandhied=vā|Annotator=Ol
+8	anurūpasya	anurūpa	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	9	nmod	_	LemmaId=11240|OccId=5716898|Unsandhied=anurūpasya|Annotator=Ol
+9	uttamā	uttama	ADJ	_	Case=Nom|Gender=Fem|Number=Sing	0	root	_	LemmaId=55629|OccId=5716899|Unsandhied=uttamā|Annotator=Ol|Punctuation=fullStop
 
 # text = īḍe dyāvāpṛthivī ubhau u nūnam daivyā hotārā prathamā purohitā iti paridhānīyā
 # sent_id = 685161_1

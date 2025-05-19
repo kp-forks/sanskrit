@@ -2,7 +2,7 @@
 ## text_id: 464
 ## chapter: AVŚ, 6, 128
 ## chapter_id: 11495
-# text = śakadhūmam nakṣatrāṇi yat rājānam akurvata bhadra aham asmai prāyacchan
+# text = śakadhūmam nakṣatrāṇi yat rājānam akurvata bhadra aham asmai prāyacchan idam rāṣṭram asat iti
 # sent_id = 625274_1
 1	śakadhūmam	śakadhūma	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	5	obj	_	LemmaId=116342|OccId=5118475|Unsandhied=śakadhūmam|Annotator=Ol
 2	nakṣatrāṇi	nakṣatra	NOUN	_	Case=Nom|Gender=Neut|Number=Plur	5	nsubj	_	LemmaId=43546|OccId=4774858|Unsandhied=nakṣatrāṇi|Annotator=Ol
@@ -13,6 +13,10 @@
 7	aham	aha	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	9	obj	_	LemmaId=203023|OccId=4774863|Unsandhied=aham|Annotator=Ol
 8	asmai	idam	PRON	_	Case=Dat|Gender=Masc|Number=Sing	9	iobj	_	LemmaId=37876|OccId=4774864|Unsandhied=asmai|Annotator=Ol
 9	prāyacchan	prayam	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past	0	root	_	LemmaId=162975|OccId=4774911|Unsandhied=prāyacchan|Annotator=Ol|Punctuation=fullStop
+10	idam	idam	PRON	_	Case=Nom|Gender=Neut|Number=Sing	11	nsubj	_	LemmaId=37876|OccId=4774865|Unsandhied=idam|Annotator=Ol
+11	rāṣṭram	rāṣṭra	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	9	advcl:ccomp	_	LemmaId=71129|OccId=4774866|Unsandhied=rāṣṭram|Annotator=Ol
+12	asat	as	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres	11	cop	_	LemmaId=156122|OccId=5634324|Unsandhied=asat|Annotator=Ol
+13	iti	iti	PART	_	_	11	mark	_	LemmaId=63331|OccId=4774867|Unsandhied=iti|Annotator=Ol|Punctuation=fullStop
 
 # text = bhadra aham naḥ madhyaṃdine bhadra aham sāyam astu naḥ bhadra aham naḥ ahnām prātā
 # sent_id = 625275_1

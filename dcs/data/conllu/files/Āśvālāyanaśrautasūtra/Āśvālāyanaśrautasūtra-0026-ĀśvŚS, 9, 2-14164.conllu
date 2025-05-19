@@ -119,6 +119,15 @@
 2	aindrāgna	aindrāgna	ADJ	_	Case=Cpd	3	nmod	_	LemmaId=39946|OccId=5425396|Unsandhied=aindrāgna|Annotator=Ol
 3	sthāne	sthāna	NOUN	_	Case=Loc|Gender=Neut|Number=Sing	0	root	_	LemmaId=102857|OccId=5425397|Unsandhied=sthāne|Annotator=Ol|Punctuation=fullStop
 
+# text = sākamedhasya sthāne tri ahaḥ atirātra antaḥ
+# sent_id = 684949_1
+1	sākamedhasya	sākamedha	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	2	nmod	_	LemmaId=111737|OccId=5425398|Unsandhied=sākamedhasya|Annotator=Ol
+2	sthāne	sthāna	NOUN	_	Case=Loc|Gender=Neut|Number=Sing	0	root	_	LemmaId=102857|OccId=5425399|Unsandhied=sthāne|Annotator=Ol
+3	tri	tri	NUM	_	Case=Cpd	4	nummod	_	LemmaId=166282|OccId=5708261|Unsandhied=tri|Annotator=Ol
+4	ahaḥ	aha	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	LemmaId=203023|OccId=5708262|Unsandhied=ahaḥ|Annotator=Ol
+5	atirātra	atirātra	NOUN	_	Case=Cpd|Gender=Masc	6	nmod	_	LemmaId=7246|OccId=5425402|Unsandhied=atirātra|Annotator=Ol
+6	antaḥ	anta	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	4	acl	_	LemmaId=11658|OccId=5425403|Unsandhied=antaḥ|Annotator=Ol|Punctuation=fullStop
+
 # text = dvitīyasya ahnaḥ anusavanam purolāśeṣu pūrvedyus havīṃṣi tṛtīye ahani upāṃśu antaryāmau hutvā paurṇadarvam prātaḥsavanikeṣu kraiḍinam mādhyaṃdineṣu māhendrāṇi
 # sent_id = 684950_1
 1	dvitīyasya	dvitīya	ADJ	_	Case=Gen|Gender=Neut|Number=Sing	2	amod	_	LemmaId=91331|OccId=5425404|Unsandhied=dvitīyasya|Annotator=Ol

@@ -136,8 +136,8 @@
 # text = saḥ araṇyāt grāmam eyāya
 # sent_id = 641019_3
 1	saḥ	tad	PRON	_	Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	LemmaId=37875|OccId=4931311|Unsandhied=saḥ|Annotator=Sa
-2	araṇyāt	araṇya	NOUN	_	Case=Abl|Gender=Neut|Number=Sing	4	obl	_	LemmaId=32512|OccId=4931312|Unsandhied=araṇyāt|Annotator=Sa
-3	grāmam	grāma	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	4	obl	_	LemmaId=156948|OccId=4931313|Unsandhied=grāmam|Annotator=Sa
+2	araṇyāt	araṇya	NOUN	_	Case=Abl|Gender=Neut|Number=Sing	4	obl:source	_	LemmaId=32512|OccId=4931312|Unsandhied=araṇyāt|Annotator=Sa
+3	grāmam	grāma	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	4	obl:goal	_	LemmaId=156948|OccId=4931313|Unsandhied=grāmam|Annotator=Sa
 4	eyāya	e	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	LemmaId=160774|OccId=4931314|Unsandhied=eyāya|Annotator=Sa|Punctuation=fullStop
 
 # text = tam indraḥ puruṣa rūpeṇa paryetya uvāca āste bhagaḥ āsīnasya ūrdhvaḥ tiṣṭhati tiṣṭhataḥ śete nipadyamānasya carāti carataḥ bhagaḥ cara eva iti

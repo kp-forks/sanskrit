@@ -260,10 +260,17 @@
 2	annādya	annādya	NOUN	_	Case=Cpd|Gender=Neut	3	obj	_	LemmaId=20433|OccId=5429218|Unsandhied=annādya|Annotator=Ol
 3	kāmaḥ	kāma	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	1	orphan	_	LemmaId=13752|OccId=5429219|Unsandhied=kāmaḥ|Annotator=Ol|Punctuation=fullStop
 
-# text = vighanena abhicaran
+# text = kva sya vīraḥ tīvrasya abhivayasaḥ iti madhyaṃdinaḥ vighanena abhicaran
 # sent_id = 685067_1
-1	vighanena	vighana	NOUN	_	Case=Ins|Gender=Masc|Number=Sing	0	root	_	LemmaId=47999|OccId=5429226|Unsandhied=vighanena|Annotator=Ol
-2	abhicaran	abhicar	VERB	_	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part	1	orphan	_	LemmaId=158610|OccId=5429227|Unsandhied=abhicaran|Annotator=Ol|Punctuation=fullStop
+1	kva	kva	ADV	_	_	7	ccomp	_	LemmaId=134289|OccId=5712999|Unsandhied=kva|Annotator=Ol|IsMantra=True
+2	sya	tya	PRON	_	Case=Nom|Gender=Masc|Number=Sing	1	flat	_	LemmaId=218695|OccId=5713000|Unsandhied=sya|Annotator=Ol|IsMantra=True
+3	vīraḥ	vīra	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	2	flat	_	LemmaId=166143|OccId=5429221|Unsandhied=vīraḥ|Annotator=Ol|Punctuation=comma|IsMantra=True
+4	tīvrasya	tīvra	ADJ	_	Case=Gen|Gender=Masc|Number=Sing	3	flat	_	LemmaId=82672|OccId=5429222|Unsandhied=tīvrasya|Annotator=Ol|IsMantra=True
+5	abhivayasaḥ	abhivayas	ADJ	_	Case=Gen|Gender=Masc|Number=Sing	4	flat	_	LemmaId=30909|OccId=5429223|Unsandhied=abhivayasaḥ|Annotator=Ol|IsMantra=True
+6	iti	iti	PART	_	_	5	mark	_	LemmaId=63331|OccId=5429224|Unsandhied=iti|Annotator=Ol|Punctuation=comma
+7	madhyaṃdinaḥ	madhyaṃdina	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	8	orphan	_	LemmaId=35836|OccId=5429225|Unsandhied=madhyaṃdinaḥ|Annotator=Ol|Punctuation=fullStop
+8	vighanena	vighana	NOUN	_	Case=Ins|Gender=Masc|Number=Sing	0	root	_	LemmaId=47999|OccId=5429226|Unsandhied=vighanena|Annotator=Ol
+9	abhicaran	abhicar	VERB	_	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part	8	orphan	_	LemmaId=158610|OccId=5429227|Unsandhied=abhicaran|Annotator=Ol|Punctuation=fullStop
 
 # text = tasya śasyam ajireṇa
 # sent_id = 685068_1

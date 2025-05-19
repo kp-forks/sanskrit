@@ -207,10 +207,13 @@
 23	syāt	as	VERB	_	Mood=Opt|Number=Sing|Person=3|Tense=Pres	20	cop	_	LemmaId=156122|OccId=5427400|Unsandhied=syāt|Annotator=Ol
 24	iti	iti	PART	_	_	20	mark	_	LemmaId=63331|OccId=5427401|Unsandhied=iti|Annotator=Ol|Punctuation=fullStop
 
-# text = uktam bṛhaspatisavena
+# text = eteṣām saptānām śasyam uktam bṛhaspatisavena
 # sent_id = 685026_1
-1	uktam	vac	VERB	_	Case=Nom|Gender=Neut|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	LemmaId=157264|OccId=5427405|Unsandhied=uktam|Annotator=Ol
-2	bṛhaspatisavena	bṛhaspatisava	NOUN	_	Case=Ins|Gender=Masc|Number=Sing	1	obl	_	LemmaId=149154|OccId=5427406|Unsandhied=bṛhaspatisavena|Annotator=Ol|Punctuation=fullStop
+1	eteṣām	etad	PRON	_	Case=Gen|Gender=Masc|Number=Plur	2	det	_	LemmaId=163744|OccId=5427402|Unsandhied=eteṣām|Annotator=Ol
+2	saptānām	saptan	NUM	_	Case=Gen|Gender=Masc|Number=Plur	3	nmod	_	LemmaId=166083|OccId=5427403|Unsandhied=saptānām|Annotator=Ol
+3	śasyam	śasya	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	4	nsubj	_	LemmaId=116304|OccId=5711411|Unsandhied=śasyam|Annotator=Ol
+4	uktam	vac	VERB	_	Case=Nom|Gender=Neut|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	LemmaId=157264|OccId=5427405|Unsandhied=uktam|Annotator=Ol
+5	bṛhaspatisavena	bṛhaspatisava	NOUN	_	Case=Ins|Gender=Masc|Number=Sing	4	obl	_	LemmaId=149154|OccId=5427406|Unsandhied=bṛhaspatisavena|Annotator=Ol|Punctuation=fullStop
 
 # text = tvam bhuvaḥ pratimānam pṛthivyāḥ bhuvaḥ tvam indra brahmaṇā mahān sadyas ha jātaḥ vṛṣabhaḥ kanīnaḥ tvam sadyas api vā jātaḥ indra anu tvā hi ghne adhideva devāḥ anu te dāyi mahe indrāya kathā u nu te paricarāṇi vidvān iti dve ekasya cit me vibhvaḥ tu ojaḥ ekam nu tvā sat patim pāñcajanyam trī aryamā manuṣaḥ devatātā pra gha nu asya mahataḥ mahāni itthā hi some id made indraḥ madāya vāvṛdhe iti sūkta mukhīyāḥ
 # sent_id = 685027_1

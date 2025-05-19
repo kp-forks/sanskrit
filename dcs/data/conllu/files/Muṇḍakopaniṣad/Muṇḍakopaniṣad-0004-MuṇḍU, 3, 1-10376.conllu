@@ -31,10 +31,18 @@
 6	śocati	śuc	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	LemmaId=157904|OccId=4482706|Unsandhied=śocati|Annotator=Ol
 7	muhyamānaḥ	muh	VERB	_	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part	6	advcl:caus	_	LemmaId=157970|OccId=4482707|Unsandhied=muhyamānaḥ|Annotator=Ol|Punctuation=comma
 
-# text = vīta śokaḥ
+# text = juṣṭam yadā paśyati anyam īśam asya mahimānam iti vīta śokaḥ
 # sent_id = 618417_1
-1	vīta	vī	VERB	_	Case=Cpd|Tense=Past|VerbForm=Part	2	acl	_	LemmaId=164500|OccId=4482716|Unsandhied=vīta|Annotator=Ol
-2	śokaḥ	śoka	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	0	root	_	LemmaId=127781|OccId=4482717|Unsandhied=śokaḥ|Annotator=Ol|Punctuation=fullStop
+1	juṣṭam	juṣ	VERB	_	Case=Acc|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	4	acl	_	LemmaId=157147|OccId=4482708|Unsandhied=juṣṭam|Annotator=Ol
+2	yadā	yadā	SCONJ	_	_	3	mark	_	LemmaId=73645|OccId=4482709|Unsandhied=yadā|Annotator=Ol
+3	paśyati	paś	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	10	advcl:temp	_	LemmaId=157390|OccId=5760924|Unsandhied=paśyati|Annotator=Ol
+4	anyam	anya	PRON	_	Case=Acc|Gender=Masc|Number=Sing	3	obj	_	LemmaId=164189|OccId=5760925|Unsandhied=anyam|Annotator=Ol
+5	īśam	īśa	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	4	nmod:appos	_	LemmaId=64064|OccId=5760926|Unsandhied=īśam|Annotator=Ol
+6	asya	idam	PRON	_	Case=Gen|Gender=Masc|Number=Sing	7	nmod	_	LemmaId=37876|OccId=4482713|Unsandhied=asya|Annotator=Ol
+7	mahimānam	mahiman	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	4	conj	_	LemmaId=78027|OccId=4482714|Unsandhied=mahimānam|Annotator=Ol
+8	iti	iti	PART	_	_	7	cc	_	LemmaId=63331|OccId=4482715|Unsandhied=iti|Annotator=Ol
+9	vīta	vī	VERB	_	Case=Cpd|Tense=Past|VerbForm=Part	10	acl	_	LemmaId=164500|OccId=4482716|Unsandhied=vīta|Annotator=Ol
+10	śokaḥ	śoka	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	0	root	_	LemmaId=127781|OccId=4482717|Unsandhied=śokaḥ|Annotator=Ol|Punctuation=fullStop
 
 # text = yadā paśyaḥ paśyate rukma varṇam kartāram īśam puruṣam brahma yonim tadā vidvān puṇya pāpe vidhūya nirañjanaḥ paramam sāmyam upaiti
 # sent_id = 618419_1

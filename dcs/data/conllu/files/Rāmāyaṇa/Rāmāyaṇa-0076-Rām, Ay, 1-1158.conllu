@@ -171,19 +171,21 @@
 12	babhūva	bhū	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	13	cop	_	LemmaId=157250|OccId=352168|Unsandhied=babhūva|Annotator=Ol|WordSem=95892
 13	guṇavattaraḥ	guṇavattara	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	0	root	_	LemmaId=170049|OccId=352169|Unsandhied=guṇavattaraḥ|Annotator=Ol|WordSem=67961
 
-# text = gate ca bharate rāmaḥ lakṣmaṇaḥ ca pitaram deva saṃkāśam pūjayāmāsatuḥ tadā
+# text = gate ca bharate rāmaḥ lakṣmaṇaḥ ca mahā balaḥ pitaram deva saṃkāśam pūjayāmāsatuḥ tadā
 # sent_id = 116082_1
-1	gate	gam	VERB	_	Case=Loc|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	10	advcl:temp	_	LemmaId=156214|OccId=352174|Unsandhied=gate|Annotator=Ol|WordSem=93327
+1	gate	gam	VERB	_	Case=Loc|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	12	advcl:temp	_	LemmaId=156214|OccId=352174|Unsandhied=gate|Annotator=Ol|WordSem=93327
 2	ca	ca	CONJ	_	_	1	cc	_	LemmaId=157144|OccId=352175|Unsandhied=ca|Annotator=Ol|WordSem=104004
 3	bharate	bharata	NOUN	_	Case=Loc|Gender=Masc|Number=Sing	1	nsubj	_	LemmaId=49000|OccId=352176|Unsandhied=bharate|Annotator=Ol|WordSem=103052
-4	rāmaḥ	rāma	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	10	nsubj	_	LemmaId=70783|OccId=352177|Unsandhied=rāmaḥ|Annotator=Ol|WordSem=43009
+4	rāmaḥ	rāma	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	12	nsubj	_	LemmaId=70783|OccId=352177|Unsandhied=rāmaḥ|Annotator=Ol|WordSem=43009
 5	lakṣmaṇaḥ	lakṣmaṇa	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	4	conj	_	LemmaId=80320|OccId=352178|Unsandhied=lakṣmaṇaḥ|Annotator=Ol|WordSem=103024
 6	ca	ca	CONJ	_	_	5	cc	_	LemmaId=157144|OccId=352179|Unsandhied=ca|Annotator=Ol|WordSem=104004
-7	pitaram	pitṛ	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	10	obj	_	LemmaId=94899|OccId=352181|Unsandhied=pitaram|Annotator=Ol|WordSem=45600
-8	deva	deva	NOUN	_	Case=Cpd|Gender=Masc	9	nmod	_	LemmaId=86559|OccId=352182|Unsandhied=deva|Annotator=Ol|WordSem=102189
-9	saṃkāśam	saṃkāśa	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	7	acl	_	LemmaId=8781|OccId=352183|Unsandhied=saṃkāśam|Annotator=Ol|WordSem=23333
-10	pūjayāmāsatuḥ	pūjay	VERB	_	Mood=Ind|Number=Dual|Person=3|Tense=Past	0	root	_	LemmaId=158765|OccId=352295|Unsandhied=pūjayāmāsatuḥ|Annotator=Ol
-11	tadā	tadā	ADV	_	_	10	advmod	_	LemmaId=96104|OccId=352184|Unsandhied=tadā|Annotator=Ol
+7	mahā	mahat	ADJ	_	Case=Cpd	8	amod	_	LemmaId=37544|OccId=2092866|Unsandhied=mahā|Annotator=Ol
+8	balaḥ	bala	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	5	acl	_	LemmaId=154315|OccId=2092867|Unsandhied=balaḥ|Annotator=Ol|WordSem=24922
+9	pitaram	pitṛ	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	12	obj	_	LemmaId=94899|OccId=352181|Unsandhied=pitaram|Annotator=Ol|WordSem=45600
+10	deva	deva	NOUN	_	Case=Cpd|Gender=Masc	11	nmod	_	LemmaId=86559|OccId=352182|Unsandhied=deva|Annotator=Ol|WordSem=102189
+11	saṃkāśam	saṃkāśa	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	9	acl	_	LemmaId=8781|OccId=352183|Unsandhied=saṃkāśam|Annotator=Ol|WordSem=23333
+12	pūjayāmāsatuḥ	pūjay	VERB	_	Mood=Ind|Number=Dual|Person=3|Tense=Past	0	root	_	LemmaId=158765|OccId=352295|Unsandhied=pūjayāmāsatuḥ|Annotator=Ol
+13	tadā	tadā	ADV	_	_	12	advmod	_	LemmaId=96104|OccId=352184|Unsandhied=tadā|Annotator=Ol
 
 # text = pituḥ ājñām puraskṛtya paura kāryāṇi sarvaśas cakāra rāmaḥ dharma ātmā priyāṇi ca hitāni ca
 # sent_id = 116084_1
@@ -384,7 +386,7 @@
 5	atiratha	atiratha	NOUN	_	Case=Cpd|Gender=Masc	6	xcomp	_	LemmaId=6989|OccId=352614|Unsandhied=atiratha|Annotator=Ol|WordSem=48630
 6	saṃmataḥ	samman	VERB	_	Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	3	conj	_	LemmaId=165590|OccId=352615|Unsandhied=saṃmataḥ|Annotator=Ol|WordSem=95245
 
-# text = abhiyātā prahartā ca senā naya viśāradaḥ
+# text = abhiyātā prahartā ca senā naya viśāradaḥ a pradhṛṣyaḥ ca saṃgrāme kruddhaiḥ api sura asuraiḥ
 # sent_id = 116107_1
 1	abhiyātā	abhiyātṛ	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	0	root	_	LemmaId=22494|OccId=352616|Unsandhied=abhiyātā|Annotator=Ol
 2	prahartā	prahartṛ	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	1	conj	_	LemmaId=155133|OccId=352617|Unsandhied=prahartā|Annotator=Ol
@@ -392,6 +394,14 @@
 4	senā	senā	NOUN	_	Case=Cpd|Gender=Fem	5	nmod	_	LemmaId=99723|OccId=352619|Unsandhied=senā|Annotator=Ol|WordSem=38488
 5	naya	naya	NOUN	_	Case=Cpd|Gender=Masc	6	obj	_	LemmaId=44181|OccId=352620|Unsandhied=naya|Annotator=Ol|WordSem=5188
 6	viśāradaḥ	viśārada	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	1	acl	_	LemmaId=47634|OccId=352621|Unsandhied=viśāradaḥ|Annotator=Ol|WordSem=73957
+7	a	a	PART	_	_	8	advmod	_	LemmaId=213048|OccId=5864136|Unsandhied=a|Annotator=Ol
+8	pradhṛṣyaḥ	pradhṛṣ	VERB	_	Case=Nom|Gender=Masc|Number=Sing|VerbForm=Gdv	6	conj	_	LemmaId=162898|OccId=5864137|Unsandhied=pradhṛṣyaḥ|Annotator=Ol
+9	ca	ca	CONJ	_	_	8	cc	_	LemmaId=157144|OccId=352623|Unsandhied=ca|Annotator=Ol
+10	saṃgrāme	saṃgrāma	NOUN	_	Case=Loc|Gender=Masc|Number=Sing	8	obl:temp	_	LemmaId=9039|OccId=352624|Unsandhied=saṃgrāme|Annotator=Ol|WordSem=5387
+11	kruddhaiḥ	krudh	VERB	_	Case=Ins|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	14	acl	_	LemmaId=156183|OccId=352625|Unsandhied=kruddhaiḥ|Annotator=Ol|WordSem=92347
+12	api	api	PART	_	_	14	discourse	_	LemmaId=21365|OccId=352626|Unsandhied=api|Annotator=Ol|WordSem=96713
+13	sura	sura	NOUN	_	Case=Cpd|Gender=Masc	14	compound:coord	_	LemmaId=97910|OccId=352627|Unsandhied=sura|Annotator=Ol|WordSem=102189
+14	asuraiḥ	asura	NOUN	_	Case=Ins|Gender=Masc|Number=Plur	8	obl:agent	_	LemmaId=61054|OccId=352628|Unsandhied=asuraiḥ|Annotator=Ol|WordSem=42957
 
 # text = anasūyaḥ jita krodhaḥ
 # sent_id = 116109_1

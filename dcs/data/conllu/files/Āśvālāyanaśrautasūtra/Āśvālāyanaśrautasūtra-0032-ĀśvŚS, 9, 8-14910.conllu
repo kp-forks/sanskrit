@@ -185,15 +185,17 @@
 1	abhicaran	abhicar	VERB	_	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part	2	advcl:cond	_	LemmaId=158610|OccId=5637448|Unsandhied=abhicaran|Annotator=Ol
 2	yajeta	yaj	VERB	_	Mood=Opt|Number=Sing|Person=3|Tense=Pres	0	root	_	LemmaId=157422|OccId=5637449|Unsandhied=yajeta|Annotator=Ol|Punctuation=fullStop
 
-# text = tviṣi apacityoḥ samrāj svarājoḥ śadasya ca aikāhike
+# text = tviṣi apacityoḥ samrāj svarājoḥ rāj virājoḥ śadasya ca aikāhike
 # sent_id = 685094_1
 1	tviṣi	tviṣi	NOUN	_	Case=Cpd|Gender=Fem	2	compound:coord	_	LemmaId=100496|OccId=5637450|Unsandhied=tviṣi|Annotator=Ol
-2	apacityoḥ	apaciti	NOUN	_	Case=Gen|Gender=Fem|Number=Dual	7	orphan	_	LemmaId=20769|OccId=5637451|Unsandhied=apacityoḥ|Annotator=Ol
+2	apacityoḥ	apaciti	NOUN	_	Case=Gen|Gender=Fem|Number=Dual	9	orphan	_	LemmaId=20769|OccId=5637451|Unsandhied=apacityoḥ|Annotator=Ol
 3	samrāj	samrāj	NOUN	_	Case=Cpd|Gender=Masc	4	compound:coord	_	LemmaId=104019|OccId=5637501|Unsandhied=samrāj|Annotator=Ol
 4	svarājoḥ	svarāj	NOUN	_	Case=Gen|Gender=Masc|Number=Dual	2	conj	_	LemmaId=120191|OccId=5637502|Unsandhied=svarājoḥ|Annotator=Ol
-5	śadasya	śada	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	2	conj	_	LemmaId=115558|OccId=5637452|Unsandhied=śadasya|Annotator=Ol
-6	ca	ca	CONJ	_	_	5	cc	_	LemmaId=157144|OccId=5637453|Unsandhied=ca|Annotator=Ol
-7	aikāhike	aikāhika	ADJ	_	Case=Nom|Gender=Neut|Number=Dual	0	root	_	LemmaId=39873|OccId=5637454|Unsandhied=aikāhike|Annotator=Ol|Punctuation=fullStop
+5	rāj	rāj	NOUN	_	Case=Cpd|Gender=Masc	6	compound:coord	_	LemmaId=70057|OccId=5713386|Unsandhied=rāj|Annotator=Ol
+6	virājoḥ	virāj	NOUN	_	Case=Gen|Gender=Masc|Number=Dual	2	conj	_	LemmaId=138112|OccId=5713387|Unsandhied=virājoḥ|Annotator=Ol
+7	śadasya	śada	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	2	conj	_	LemmaId=115558|OccId=5637452|Unsandhied=śadasya|Annotator=Ol
+8	ca	ca	CONJ	_	_	7	cc	_	LemmaId=157144|OccId=5637453|Unsandhied=ca|Annotator=Ol
+9	aikāhike	aikāhika	ADJ	_	Case=Nom|Gender=Neut|Number=Dual	0	root	_	LemmaId=39873|OccId=5637454|Unsandhied=aikāhike|Annotator=Ol|Punctuation=fullStop
 
 # text = upaśadasya rāśi marāyayoḥ ca kayāśubhīya tadidāsīye
 # sent_id = 685095_1

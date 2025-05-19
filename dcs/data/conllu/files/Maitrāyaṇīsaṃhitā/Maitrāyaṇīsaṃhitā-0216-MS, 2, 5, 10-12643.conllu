@@ -194,16 +194,17 @@
 2	etāni	etad	PRON	_	Case=Nom|Gender=Neut|Number=Plur	0	root	_	LemmaId=163744|OccId=5027318|Unsandhied=etāni|Annotator=Sa
 3	eva	eva	PART	_	_	2	discourse	_	LemmaId=39754|OccId=5027319|Unsandhied=eva|Annotator=Sa
 
-# text = indriyāṇi vīryāṇi ātman dhitvā iyam asyām eva pratitiṣṭhati
+# text = indriyāṇi vīryāṇi ātman dhitvā iyam virāj asyām eva pratitiṣṭhati
 # sent_id = 670574_2
 1	indriyāṇi	indriya	NOUN	_	Case=Acc|Gender=Neut|Number=Plur	4	obj	_	LemmaId=63664|OccId=5027320|Unsandhied=indriyāṇi|Annotator=Sa
 2	vīryāṇi	vīrya	NOUN	_	Case=Acc|Gender=Neut|Number=Plur	1	conj	_	LemmaId=142144|OccId=5027321|Unsandhied=vīryāṇi|Annotator=Sa
 3	ātman	ātman	NOUN	_	Case=Loc|Gender=Masc|Number=Sing	4	obl:goal	_	LemmaId=57749|OccId=5027417|Unsandhied=ātman|Annotator=Sa
-4	dhitvā	dhā	VERB	_	VerbForm=Conv	8	advcl:temp	_	LemmaId=157327|OccId=5027322|Unsandhied=dhitvā|Annotator=Sa
-5	iyam	idam	PRON	_	Case=Nom|Gender=Fem|Number=Sing	8	parataxis	_	LemmaId=37876|OccId=5027323|Unsandhied=iyam|Annotator=Ol
-6	asyām	idam	PRON	_	Case=Loc|Gender=Fem|Number=Sing	8	obl:loc	_	LemmaId=37876|OccId=5027325|Unsandhied=asyām|Annotator=Sa
-7	eva	eva	PART	_	_	6	discourse	_	LemmaId=39754|OccId=5027326|Unsandhied=eva|Annotator=Ol
-8	pratitiṣṭhati	pratiṣṭhā	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	LemmaId=162663|OccId=5027327|Unsandhied=pratitiṣṭhati|Annotator=Sa|Punctuation=fullStop
+4	dhitvā	dhā	VERB	_	VerbForm=Conv	9	advcl:temp	_	LemmaId=157327|OccId=5027322|Unsandhied=dhitvā|Annotator=Sa
+5	iyam	idam	PRON	_	Case=Nom|Gender=Fem|Number=Sing	9	parataxis	_	LemmaId=37876|OccId=5027323|Unsandhied=iyam|Annotator=Ol
+6	virāj	virāj	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	9	nsubj	_	LemmaId=138110|OccId=5863927|Unsandhied=virāj|Annotator=Ol
+7	asyām	idam	PRON	_	Case=Loc|Gender=Fem|Number=Sing	9	obl:loc	_	LemmaId=37876|OccId=5027325|Unsandhied=asyām|Annotator=Sa
+8	eva	eva	PART	_	_	7	discourse	_	LemmaId=39754|OccId=5027326|Unsandhied=eva|Annotator=Ol
+9	pratitiṣṭhati	pratiṣṭhā	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	LemmaId=162663|OccId=5027327|Unsandhied=pratitiṣṭhati|Annotator=Sa|Punctuation=fullStop
 
 # text = namo mahimne cakṣuṣe marutāṃ pitas tad ahaṃ gṛṇe te
 # sent_id = 670575

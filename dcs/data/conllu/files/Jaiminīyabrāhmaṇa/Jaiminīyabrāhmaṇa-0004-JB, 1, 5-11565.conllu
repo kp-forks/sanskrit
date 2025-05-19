@@ -114,7 +114,7 @@
 # sent_id = 647273_1
 1	atha	atha	ADV	_	_	4	advmod	_	LemmaId=7467|OccId=4786090|Unsandhied=atha|Annotator=Sv
 2	ye	yad	PRON	_	Case=Nom|Gender=Masc|Number=Plur	4	nsubj	_	LemmaId=37877|OccId=4786091|Unsandhied=ye|Annotator=Sv
-3	udite	udi	VERB	_	Case=Loc|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	4	advcl	_	LemmaId=160196|OccId=5299810|Unsandhied=udite|Annotator=Sv
+3	udite	udi	VERB	_	Case=Loc|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	4	advcl:temp	_	LemmaId=160196|OccId=5299810|Unsandhied=udite|Annotator=Sv
 4	juhvati	hu	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	7	acl:rel	_	LemmaId=157629|OccId=4786093|Unsandhied=juhvati|Annotator=Sv|Punctuation=comma
 5	ahar	ahar	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	9	obj	_	LemmaId=168349|OccId=4786094|Unsandhied=ahar|Annotator=Sv
 6	eva	eva	PART	_	_	5	discourse	_	LemmaId=39754|OccId=4786095|Unsandhied=eva|Annotator=Sv

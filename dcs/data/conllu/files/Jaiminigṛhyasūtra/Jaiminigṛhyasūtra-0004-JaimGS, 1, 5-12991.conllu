@@ -10,16 +10,18 @@
 4	anyatra	anyatra	ADV	_	_	5	case	_	LemmaId=20511|OccId=1252432|Unsandhied=anyatra|Annotator=Ol
 5	gṛṣṭeḥ	gṛṣṭi	NOUN	_	Case=Abl|Gender=Fem|Number=Sing	3	obl	_	LemmaId=125292|OccId=5190827|Unsandhied=gṛṣṭeḥ|Annotator=Ol|Punctuation=fullStop
 
-# text = ghṛte carum śrapayitvā pṛṣadājyam _ saṃskṛtya puruṣasūktena juhuyāt
+# text = ghṛte carum śrapayitvā pṛṣadājyam _ sthālīpāka vat saṃskṛtya puruṣasūktena juhuyāt
 # sent_id = 388903_1
 1	ghṛte	ghṛta	NOUN	_	Case=Loc|Gender=Neut|Number=Sing	3	obl:loc	_	LemmaId=161166|OccId=1252434|Unsandhied=ghṛte|Annotator=Ol
 2	carum	caru	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	3	obj	_	LemmaId=50599|OccId=1252435|Unsandhied=carum|Annotator=Ol
-3	śrapayitvā	śrapay	VERB	_	VerbForm=Conv	8	advcl:temp	_	LemmaId=171225|OccId=1252436|Unsandhied=śrapayitvā|Annotator=Ol
-4	pṛṣadājyam	pṛṣadājya	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	6	obj	_	LemmaId=150083|OccId=1252437|Unsandhied=pṛṣadājyam|Annotator=Ol
-5	_	vā	CONJ	_	_	6	cc	_	LemmaId=75765|OccId=1252438|Unsandhied=_|Annotator=Ol
-6	saṃskṛtya	saṃskṛ	VERB	_	VerbForm=Conv	3	conj	_	LemmaId=164818|OccId=1252442|Unsandhied=saṃskṛtya|Annotator=Ol|Punctuation=comma
-7	puruṣasūktena	puruṣasūkta	NOUN	_	Case=Ins|Gender=Neut|Number=Sing	8	obl:instr	_	LemmaId=144663|OccId=1252443|Unsandhied=puruṣasūktena|Annotator=Ol
-8	juhuyāt	hu	VERB	_	Mood=Opt|Number=Sing|Person=3|Tense=Pres	0	root	_	LemmaId=157629|OccId=5190828|Unsandhied=juhuyāt|Annotator=Ol|Punctuation=fullStop
+3	śrapayitvā	śrapay	VERB	_	VerbForm=Conv	10	advcl:temp	_	LemmaId=171225|OccId=1252436|Unsandhied=śrapayitvā|Annotator=Ol
+4	pṛṣadājyam	pṛṣadājya	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	8	obj	_	LemmaId=150083|OccId=1252437|Unsandhied=pṛṣadājyam|Annotator=Ol
+5	_	vā	CONJ	_	_	8	cc	_	LemmaId=75765|OccId=1252438|Unsandhied=_|Annotator=Ol
+6	sthālīpāka	sthālīpāka	NOUN	_	Case=Cpd|Gender=Masc	8	obl:manner	_	LemmaId=205404|OccId=5762749|Unsandhied=sthālīpāka|Annotator=Ol
+7	vat	vat	ADV	_	_	6	case:sim	_	LemmaId=167498|OccId=5762750|Unsandhied=vat|Annotator=Ol
+8	saṃskṛtya	saṃskṛ	VERB	_	VerbForm=Conv	3	conj	_	LemmaId=164818|OccId=1252442|Unsandhied=saṃskṛtya|Annotator=Ol|Punctuation=comma
+9	puruṣasūktena	puruṣasūkta	NOUN	_	Case=Ins|Gender=Neut|Number=Sing	10	obl:instr	_	LemmaId=144663|OccId=1252443|Unsandhied=puruṣasūktena|Annotator=Ol
+10	juhuyāt	hu	VERB	_	Mood=Opt|Number=Sing|Person=3|Tense=Pres	0	root	_	LemmaId=157629|OccId=5190828|Unsandhied=juhuyāt|Annotator=Ol|Punctuation=fullStop
 
 # text = māṣau ca yavam ca pulliṅgam kṛtvā dadhi drapseṇa enām prāśayet prajāpatiḥ puruṣaḥ parameṣṭhī saḥ me putram dadātu āyuṣmantam yaśasvinam saha patinā jīvasūḥ bhūyāsam iti
 # sent_id = 388904_1
