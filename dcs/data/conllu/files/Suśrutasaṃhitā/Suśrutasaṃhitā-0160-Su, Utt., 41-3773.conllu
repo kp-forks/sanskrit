@@ -1530,7 +1530,7 @@
 9	hatam	han	VERB	_	Case=Acc|Gender=Neut|Number=Sing|VerbForm=Part	_	_	_	LemmaId=157282|OccId=1481392|Unsandhied=hatam|UnsandhiedReconstructed=True
 10	vidadhyāt	vidhā	VERB	_	Tense=Pres|Mood=Opt|Person=3|Number=Sing	_	_	_	LemmaId=163351|OccId=1481393|Unsandhied=vidadhyāt
 
-# text = palaṃ palaṃ prātarataḥ pralihya paścāt pibet kṣīramatandritaśca
+# text = palaṃ palaṃ prātarataḥ pralihya paścāt pibet kṣīram atandritaś ca
 # sent_id = 14643
 # sent_counter = 52
 # sent_subcounter = 2
@@ -1542,10 +1542,11 @@
 5	pralihya	pralih	VERB	_	VerbForm=Conv	_	_	_	LemmaId=163002|OccId=1481398|Unsandhied=pralihya|UnsandhiedReconstructed=True
 6	paścāt	paścāt	ADV	_		_	_	_	LemmaId=92800|OccId=1481399|Unsandhied=paścāt|UnsandhiedReconstructed=True
 7	pibet	pā	VERB	_	Tense=Pres|Mood=Opt|Person=3|Number=Sing	_	_	_	LemmaId=157391|OccId=1481400|Unsandhied=pibet
-8-10	kṣīramatandritaśca	_	_	_	_	_	_	_	_
-8	kṣīram	kṣīra	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	_	_	_	LemmaId=135495|OccId=1481401|Unsandhied=kṣīram|UnsandhiedReconstructed=True
-9	atandritaḥ	atandrita	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=6802|OccId=1481402|Unsandhied=atandritaḥ|UnsandhiedReconstructed=True
-10	ca	ca	CONJ	_		_	_	_	LemmaId=157144|OccId=1481403|Unsandhied=ca|UnsandhiedReconstructed=True
+8	kṣīram	kṣīra	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	_	_	_	LemmaId=135495|OccId=5875571|Unsandhied=kṣīram
+9-10	atandritaś	_	_	_	_	_	_	_	_
+9	a	a	PART	_		_	_	_	LemmaId=213048|OccId=5875572|Unsandhied=a
+10	tandritaḥ	tandray	VERB	_	Case=Nom|Gender=Masc|Number=Sing|VerbForm=Part	_	_	_	LemmaId=222353|OccId=5875573|Unsandhied=tandritaḥ
+11	ca	ca	CONJ	_		_	_	_	LemmaId=157144|OccId=5875574|Unsandhied=ca
 
 # text = etaddhi medhyaṃ paramaṃ pavitraṃ cakṣuṣyamāyuṣyamatho yaśasyam
 # sent_id = 14644

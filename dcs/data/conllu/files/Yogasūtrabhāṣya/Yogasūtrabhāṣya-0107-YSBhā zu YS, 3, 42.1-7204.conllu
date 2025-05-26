@@ -3,7 +3,7 @@
 ## chapter: YSBhā zu YS, 3, 42.1
 ## chapter_id: 7204
 # text = yatra kāyas tatrākāśaṃ tasyāvakāśadānāt kāyasya tena saṃbandhaḥ prāptiḥ
-# sent_id = 479454
+# sent_id = 479453
 # sent_counter = 1
 # sent_subcounter = 1
 1	yatra	yatra	SCONJ	_		_	_	_	LemmaId=73233|OccId=2614682|Unsandhied=yatra|UnsandhiedReconstructed=True
@@ -21,7 +21,7 @@
 11	prāptiḥ	prāpti	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	_	_	_	LemmaId=152223|OccId=2614692|Unsandhied=prāptiḥ|UnsandhiedReconstructed=True
 
 # text = tatra kṛtasaṃyamo jitvā tatsaṃbandhaṃ laghuṣu vā tūlādiṣv ā paramāṇubhyaḥ samāpattiṃ labdhvā jitasaṃbandho laghur bhavati
-# sent_id = 479455
+# sent_id = 479454
 # sent_counter = 2
 # sent_subcounter = 1
 1	tatra	tatra	ADV	_		_	_	_	LemmaId=95978|OccId=2614693|Unsandhied=tatra|UnsandhiedReconstructed=True
@@ -37,17 +37,17 @@
 9-10	tūlādiṣv	_	_	_	_	_	_	_	_
 9	tūla	tūla	NOUN	_	Case=Cpd	_	_	_	LemmaId=83128|OccId=2614701|Unsandhied=tūla|UnsandhiedReconstructed=True
 10	ādiṣu	ādi	NOUN	_	Case=Loc|Gender=Masc|Number=Plur	_	_	_	LemmaId=57973|OccId=2614702|Unsandhied=ādiṣu|UnsandhiedReconstructed=True
-11	ā	paramāṇu	NOUN	_	Case=Abl|Gender=Masc|Number=Plur	_	_	_	LemmaId=16456|OccId=2614703|Unsandhied=paramāṇubhyaḥ|UnsandhiedReconstructed=True
-12	paramāṇubhyaḥ	samāpatti	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	_	_	_	LemmaId=29894|OccId=2614704|Unsandhied=samāpattim|UnsandhiedReconstructed=True
-13	samāpattiṃ	labh	VERB	_	VerbForm=Conv	_	_	_	LemmaId=158020|OccId=2614705|Unsandhied=labdhvā|UnsandhiedReconstructed=True
-14-15	labdhvā	_	_	_	_	_	_	_	_
+11	paramāṇubhyaḥ	paramāṇu	NOUN	_	Case=Abl|Gender=Masc|Number=Plur	_	_	_	LemmaId=16456|OccId=2614703|Unsandhied=paramāṇubhyaḥ|UnsandhiedReconstructed=True
+12	samāpattiṃ	samāpatti	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	_	_	_	LemmaId=29894|OccId=2614704|Unsandhied=samāpattim|UnsandhiedReconstructed=True
+13	labdhvā	labh	VERB	_	VerbForm=Conv	_	_	_	LemmaId=158020|OccId=2614705|Unsandhied=labdhvā|UnsandhiedReconstructed=True
+14-15	jitasaṃbandho	_	_	_	_	_	_	_	_
 14	jita	ji	VERB	_	Case=Cpd|VerbForm=Part	_	_	_	LemmaId=156588|OccId=2614706|Unsandhied=jita|UnsandhiedReconstructed=True
 15	sambandhaḥ	sambandha	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=103761|OccId=2614707|Unsandhied=sambandhaḥ|UnsandhiedReconstructed=True
-16	jitasaṃbandho	laghu	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=80490|OccId=2614708|Unsandhied=laghuḥ|UnsandhiedReconstructed=True
-17	laghur	bhū	VERB	_	Tense=Pres|Mood=Ind|Person=3|Number=Sing	_	_	_	LemmaId=157250|OccId=2614709|Unsandhied=bhavati
+16	laghur	laghu	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=80490|OccId=2614708|Unsandhied=laghuḥ|UnsandhiedReconstructed=True
+17	bhavati	bhū	VERB	_	Tense=Pres|Mood=Ind|Person=3|Number=Sing	_	_	_	LemmaId=157250|OccId=2614709|Unsandhied=bhavati
 
 # text = laghutvāc ca jale pādābhyāṃ viharati tatas tūrṇanābhitantumātre vihṛtya raśmiṣu viharati
-# sent_id = 479456
+# sent_id = 479455
 # sent_counter = 3
 # sent_subcounter = 1
 1-2	laghutvāc	_	_	_	_	_	_	_	_
@@ -68,7 +68,7 @@
 14	viharati	vihṛ	VERB	_	Tense=Pres|Mood=Ind|Person=3|Number=Sing	_	_	_	LemmaId=164497|OccId=2614723|Unsandhied=viharati
 
 # text = tato yatheṣṭam ākāśagatir asya bhavatīti
-# sent_id = 479457
+# sent_id = 479456
 # sent_counter = 4
 # sent_subcounter = 1
 1	tato	tatas	ADV	_		_	_	_	LemmaId=95922|OccId=2614724|Unsandhied=tatas|UnsandhiedReconstructed=True

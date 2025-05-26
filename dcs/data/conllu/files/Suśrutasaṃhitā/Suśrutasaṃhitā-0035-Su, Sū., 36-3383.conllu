@@ -366,17 +366,20 @@
 6	doṣa	doṣa	NOUN	_	Case=Cpd	_	_	_	LemmaId=90071|OccId=1275598|Unsandhied=doṣa|UnsandhiedReconstructed=True|WordSem=62893
 7	varjitam	varjay	VERB	_	Case=Acc|Gender=Neut|Number=Sing|VerbForm=Part	_	_	_	LemmaId=157900|OccId=1275599|Unsandhied=varjitam|UnsandhiedReconstructed=True|WordSem=87927
 
-# text = teṣām asampattāvatikrāntasaṃvatsarāṇyādadīteti
+# text = teṣām asampattāv atikrāntasaṃvatsarāṇy ādadīteti
 # sent_id = 2708
 # sent_counter = 9
 # sent_subcounter = 
 1	teṣām	tad	PRON	_	Case=Gen|Gender=Masc|Number=Plur	_	_	_	LemmaId=37875|OccId=1275600|Unsandhied=teṣām|UnsandhiedReconstructed=True
-2-6	asampattāvatikrāntasaṃvatsarāṇyādadīteti	_	_	_	_	_	_	_	_
-2	asaṃpattau	asaṃpatti	NOUN	_	Case=Loc|Gender=Fem|Number=Sing	_	_	_	LemmaId=60839|OccId=1275612|Unsandhied=asaṃpattau|UnsandhiedReconstructed=True|WordSem=60926
-3	atikrānta	atikram	VERB	_	Case=Cpd|VerbForm=Part	_	_	_	LemmaId=157215|OccId=1275613|Unsandhied=atikrānta|UnsandhiedReconstructed=True|WordSem=93631
-4	saṃvatsarāṇi	saṃvatsara	NOUN	_	Case=Acc|Gender=Neut|Number=Plur	_	_	_	LemmaId=42265|OccId=1275614|Unsandhied=saṃvatsarāṇi|UnsandhiedReconstructed=True|WordSem=66144
-5	ādadīta	ādā	VERB	_	Tense=Pres|Mood=Opt|Person=3|Number=Sing	_	_	_	LemmaId=159774|OccId=1275615|Unsandhied=ādadīta|WordSem=89452
-6	iti	iti	PART	_		_	_	_	LemmaId=63331|OccId=1275616|Unsandhied=iti|UnsandhiedReconstructed=True
+2-3	asampattāv	_	_	_	_	_	_	_	_
+2	a	a	PART	_		_	_	_	LemmaId=213048|OccId=5875242|Unsandhied=a
+3	sampattau	sampatti	NOUN	_	Case=Loc|Gender=Fem|Number=Sing	_	_	_	LemmaId=30611|OccId=5875243|Unsandhied=sampattau
+4-5	atikrāntasaṃvatsarāṇy	_	_	_	_	_	_	_	_
+4	atikrānta	atikram	VERB	_	Case=Cpd|VerbForm=Part	_	_	_	LemmaId=157215|OccId=5875244|Unsandhied=atikrānta
+5	saṃvatsarāṇi	saṃvatsara	NOUN	_	Case=Voc|Gender=Neut|Number=Plur	_	_	_	LemmaId=42265|OccId=5875245|Unsandhied=saṃvatsarāṇi
+6-7	ādadīteti	_	_	_	_	_	_	_	_
+6	ādadīta	ādā	VERB	_	Tense=Pres|Mood=Opt|Person=3|Number=Sing	_	_	_	LemmaId=159774|OccId=5875246|Unsandhied=ādadīta
+7	iti	iti	PART	_		_	_	_	LemmaId=63331|OccId=5875247|Unsandhied=iti|Punctuation=fullStop
 
 # text = bhavanti cātra
 # sent_id = 2709

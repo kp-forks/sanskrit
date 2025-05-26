@@ -3,7 +3,7 @@
 ## chapter: RAdhyṬ zu RAdhy, 161.2
 ## chapter_id: 1021
 # text = iha kūpavalloṣṭabandhaḥ kāñcikahastamāno garte sudhāyāś chohayā lipto yadi vāguḍaṃ sahitena cūrṇena liptaḥ śuṣkaḥ san
-# sent_id = 101616
+# sent_id = 101615
 # sent_counter = 1
 # sent_subcounter = 
 1	iha	iha	ADV	_		_	_	_	LemmaId=63959|OccId=297238|Unsandhied=iha|UnsandhiedReconstructed=True
@@ -18,19 +18,19 @@
 8	mānaḥ	māna	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=78927|OccId=297241|Unsandhied=mānaḥ|UnsandhiedReconstructed=True|WordSem=25237
 9	garte	garta	NOUN	_	Case=Loc|Gender=Masc|Number=Sing	_	_	_	LemmaId=130144|OccId=297330|Unsandhied=garte|UnsandhiedReconstructed=True|WordSem=42099
 10	sudhāyāś	sudhā	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	_	_	_	LemmaId=107577|OccId=298678|Unsandhied=sudhāyāḥ|UnsandhiedReconstructed=True|WordSem=65020
-11	chohayā	lip	VERB	_	Case=Nom|Gender=Masc|Number=Sing|VerbForm=Part	_	_	_	LemmaId=158023|OccId=297331|Unsandhied=liptaḥ|UnsandhiedReconstructed=True|WordSem=89894
-12	lipto	yadi	SCONJ	_		_	_	_	LemmaId=73699|OccId=297242|Unsandhied=yadi|UnsandhiedReconstructed=True
-13-14	yadi	_	_	_	_	_	_	_	_
+11	lipto	lip	VERB	_	Case=Nom|Gender=Masc|Number=Sing|VerbForm=Part	_	_	_	LemmaId=158023|OccId=297331|Unsandhied=liptaḥ|UnsandhiedReconstructed=True|WordSem=89894
+12	yadi	yadi	SCONJ	_		_	_	_	LemmaId=73699|OccId=297242|Unsandhied=yadi|UnsandhiedReconstructed=True
+13-14	vāguḍaṃ	_	_	_	_	_	_	_	_
 13	vā	vā	CONJ	_		_	_	_	LemmaId=75765|OccId=297243|Unsandhied=vā|UnsandhiedReconstructed=True|WordSem=127042
 14	guḍam	guḍa	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	_	_	_	LemmaId=124490|OccId=297244|Unsandhied=guḍam|UnsandhiedReconstructed=True|WordSem=37240
-15	vāguḍaṃ	sahita	ADJ	_	Case=Ins|Gender=Masc|Number=Sing	_	_	_	LemmaId=111330|OccId=297245|Unsandhied=sahitena|UnsandhiedReconstructed=True|WordSem=74092
-16	sahitena	cūrṇa	NOUN	_	Case=Ins|Gender=Masc|Number=Sing	_	_	_	LemmaId=52112|OccId=297246|Unsandhied=cūrṇena|UnsandhiedReconstructed=True|WordSem=65211
-17	cūrṇena	lip	VERB	_	Case=Nom|Gender=Masc|Number=Sing|VerbForm=Part	_	_	_	LemmaId=158023|OccId=297247|Unsandhied=liptaḥ|UnsandhiedReconstructed=True|WordSem=89894
-18	liptaḥ	śuṣka	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=127151|OccId=297248|Unsandhied=śuṣkaḥ|UnsandhiedReconstructed=True|WordSem=81085
-19	śuṣkaḥ	as	VERB	_	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part	_	_	_	LemmaId=156122|OccId=297249|Unsandhied=san|UnsandhiedReconstructed=True|Punctuation=fullStop|WordSem=95892
+15	sahitena	sahita	ADJ	_	Case=Ins|Gender=Masc|Number=Sing	_	_	_	LemmaId=111330|OccId=297245|Unsandhied=sahitena|UnsandhiedReconstructed=True|WordSem=74092
+16	cūrṇena	cūrṇa	NOUN	_	Case=Ins|Gender=Masc|Number=Sing	_	_	_	LemmaId=52112|OccId=297246|Unsandhied=cūrṇena|UnsandhiedReconstructed=True|WordSem=65211
+17	liptaḥ	lip	VERB	_	Case=Nom|Gender=Masc|Number=Sing|VerbForm=Part	_	_	_	LemmaId=158023|OccId=297247|Unsandhied=liptaḥ|UnsandhiedReconstructed=True|WordSem=89894
+18	śuṣkaḥ	śuṣka	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=127151|OccId=297248|Unsandhied=śuṣkaḥ|UnsandhiedReconstructed=True|WordSem=81085
+19	san	as	VERB	_	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part	_	_	_	LemmaId=156122|OccId=297249|Unsandhied=san|UnsandhiedReconstructed=True|Punctuation=fullStop|WordSem=95892
 
 # text = bhūdharanāmāyaṃ yantraḥ procyate
-# sent_id = 101617
+# sent_id = 101616
 # sent_counter = 2
 # sent_subcounter = 
 1-3	bhūdharanāmāyaṃ	_	_	_	_	_	_	_	_
@@ -41,7 +41,7 @@
 5	procyate	pravac	VERB	_	Tense=Pres|Mood=Ind|Voice=Pass|Person=3|Number=Sing	_	_	_	LemmaId=163009|OccId=297254|Unsandhied=procyate|Punctuation=fullStop|WordSem=88820
 
 # text = tataḥ kācaliptamṛttikākāṃsyaṃ śarāve jīrṇe hemarājiṃ sūtaṃ tathāṣoḍaśabhāgena śuddhagandhakacūrṇaṃ vā kṣiptvopari mukhakācaliptamṛttikākoḍīyakaṃ dattvā karpaṭamṛttikayā liptvā taṃ śarāvaṃ sampuṭaṃ bhūdharayantramadhye muktvā haṭhāgnir jvālanīyaḥ
-# sent_id = 101618
+# sent_id = 101617
 # sent_counter = 3
 # sent_subcounter = 
 1	tataḥ	tatas	ADV	_		_	_	_	LemmaId=95922|OccId=297255|Unsandhied=tatas|UnsandhiedReconstructed=True|WordSem=97342
@@ -88,7 +88,7 @@
 35	jvālanīyaḥ	jvālay	VERB	_	Case=Nom|Gender=Masc|Number=Sing|VerbForm=Gdv	_	_	_	LemmaId=159504|OccId=2018042|Unsandhied=jvālanīyaḥ|UnsandhiedReconstructed=True|WordSem=94859
 
 # text = śuddhaṃ gandhakasvarūpaṃ ca gurumukhād avajñeyam
-# sent_id = 101619
+# sent_id = 101618
 # sent_counter = 4
 # sent_subcounter = 
 1	śuddhaṃ	śudh	VERB	_	Case=Nom|Gender=Neut|Number=Sing|VerbForm=Part	_	_	_	LemmaId=158830|OccId=2018043|Unsandhied=śuddham|UnsandhiedReconstructed=True|WordSem=86563
@@ -102,7 +102,7 @@
 7	avajñeyam	avajñā	VERB	_	Case=Nom|Gender=Neut|Number=Sing|VerbForm=Gdv	_	_	_	LemmaId=159500|OccId=297278|Unsandhied=avajñeyam|UnsandhiedReconstructed=True|Punctuation=fullStop|WordSem=129536
 
 # text = yataḥ sarvasminn apyatra granthe 'nyatrāpi ca śuddhagandhaka eva kīcanasi dvimūlabījam
-# sent_id = 101620
+# sent_id = 101619
 # sent_counter = 5
 # sent_subcounter = 
 1	yataḥ	yatas	SCONJ	_		_	_	_	LemmaId=73226|OccId=297279|Unsandhied=yatas|UnsandhiedReconstructed=True
@@ -119,13 +119,13 @@
 9	śuddha	śudh	VERB	_	Case=Cpd|VerbForm=Part	_	_	_	LemmaId=158830|OccId=2018044|Unsandhied=śuddha|UnsandhiedReconstructed=True|WordSem=86563
 10	gandhakaḥ	gandhaka	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=130058|OccId=2018045|Unsandhied=gandhakaḥ|UnsandhiedReconstructed=True|WordSem=63596
 11	eva	eva	PART	_		_	_	_	LemmaId=39754|OccId=297284|Unsandhied=eva|UnsandhiedReconstructed=True
-12-14	kīcanasi	_	_	_	_	_	_	_	_
+12-14	dvimūlabījam	_	_	_	_	_	_	_	_
 12	dvi	dvi	NUM	_	Case=Cpd	_	_	_	LemmaId=166283|OccId=297285|Unsandhied=dvi|UnsandhiedReconstructed=True
 13	mūla	mūla	NOUN	_	Case=Cpd	_	_	_	LemmaId=137542|OccId=297286|Unsandhied=mūla|UnsandhiedReconstructed=True
 14	bījam	bīja	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=148966|OccId=297287|Unsandhied=bījam|UnsandhiedReconstructed=True|Punctuation=fullStop
 
 # text = ata eva sarvatra gandhakaśuddhiyuktir gopitaiṣeti jñeyam
-# sent_id = 101621
+# sent_id = 101620
 # sent_counter = 6
 # sent_subcounter = 
 1	ata	atas	ADV	_		_	_	_	LemmaId=6823|OccId=297288|Unsandhied=atas|UnsandhiedReconstructed=True|WordSem=96850
@@ -142,7 +142,7 @@
 10	jñeyam	jñā	VERB	_	Case=Nom|Gender=Neut|Number=Sing|VerbForm=Gdv	_	_	_	LemmaId=157151|OccId=298621|Unsandhied=jñeyam|UnsandhiedReconstructed=True|Punctuation=fullStop|WordSem=87036
 
 # text = sadoṣe ca gandhake jārite na kāryasiddhiriti tu gurumukhād gandhakaśuddhir avagantavyā
-# sent_id = 101622
+# sent_id = 101621
 # sent_counter = 7
 # sent_subcounter = 
 1-2	sadoṣe	_	_	_	_	_	_	_	_
@@ -166,7 +166,7 @@
 15	avagantavyā	avagam	VERB	_	Case=Nom|Gender=Fem|Number=Sing|VerbForm=Gdv	_	_	_	LemmaId=159457|OccId=298635|Unsandhied=avagantavyā|UnsandhiedReconstructed=True|Punctuation=fullStop|WordSem=129536
 
 # text = tathā pūrvakṣiptagandhakaṣoḍaśabhāge jīrṇe punaḥ koḍīyakamūrchāyāśugandhakaṣoḍaśabhāgaṃ kṣiptvā koḍīyakaṃ dattvā haṭhāgnir jvālanīyaḥ
-# sent_id = 101623
+# sent_id = 101622
 # sent_counter = 8
 # sent_subcounter = 
 1	tathā	tathā	ADV	_		_	_	_	LemmaId=95987|OccId=298636|Unsandhied=tathā|UnsandhiedReconstructed=True|WordSem=97363
@@ -194,7 +194,7 @@
 20	jvālanīyaḥ	jvālay	VERB	_	Case=Nom|Gender=Masc|Number=Sing|VerbForm=Gdv	_	_	_	LemmaId=159504|OccId=2018048|Unsandhied=jvālanīyaḥ|UnsandhiedReconstructed=True|Punctuation=fullStop|WordSem=94859
 
 # text = evaṃ ca rasāt ṣaḍguṇaśuddhagandhake jīrṇe 'tīvaraktaḥ pārado bhavati
-# sent_id = 101624
+# sent_id = 101623
 # sent_counter = 9
 # sent_subcounter = 
 1	evaṃ	evam	ADV	_		_	_	_	LemmaId=39758|OccId=298645|Unsandhied=evam|UnsandhiedReconstructed=True|WordSem=97363
@@ -212,7 +212,7 @@
 11	bhavati	bhū	VERB	_	Tense=Pres|Mood=Ind|Person=3|Number=Sing	_	_	_	LemmaId=157250|OccId=298652|Unsandhied=bhavati|Punctuation=fullStop|WordSem=85114
 
 # text = tena ca rasena rūpyaṃ tāmraṃ lohaṃ vaṅgaṃ nāgaṃ pittalaṃ kāṃsyaṃ ceti sapta lohāni abhyañjya gālitāni pañcadaśasuvarṇāni bhavanti
-# sent_id = 101625
+# sent_id = 101624
 # sent_counter = 10
 # sent_subcounter = 
 1	tena	tad	PRON	_	Case=Ins|Gender=Masc|Number=Sing	_	_	_	LemmaId=37875|OccId=298653|Unsandhied=tena|UnsandhiedReconstructed=True|WordSem=129840
@@ -238,7 +238,7 @@
 19	bhavanti	bhū	VERB	_	Tense=Pres|Mood=Ind|Person=3|Number=Plur	_	_	_	LemmaId=157250|OccId=298669|Unsandhied=bhavanti|Punctuation=fullStop|WordSem=85114
 
 # text = iti jīrṇahemarājisūtasya gandhakajāraṇaṃ pañcamam
-# sent_id = 101626
+# sent_id = 101625
 # sent_counter = 11
 # sent_subcounter = 
 1	iti	iti	PART	_		_	_	_	LemmaId=63331|OccId=298670|Unsandhied=iti|UnsandhiedReconstructed=True|WordSem=97363

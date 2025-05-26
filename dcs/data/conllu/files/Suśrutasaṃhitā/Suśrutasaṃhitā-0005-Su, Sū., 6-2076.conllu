@@ -841,10 +841,33 @@
 # sent_counter = 20
 # sent_subcounter = 1
 1	tatra	tatra	ADV	_		_	_	_	LemmaId=95978|OccId=597691|Unsandhied=tatra|UnsandhiedReconstructed=True
-2	sthānaparityāgaśāntikarmaprāyaścittamaṅgalajapahomopahārejyāñjalinamaskārataponiyamadayādānadīkṣābhyupagamadevatābrāhmaṇaguruparair	bhū	VERB	_	Case=Nom|Gender=Neut|Number=Sing|VerbForm=Gdv	_	_	_	LemmaId=157250|OccId=597731|Unsandhied=bhavitavyam|UnsandhiedReconstructed=True
-3	bhavitavyam	evam	ADV	_		_	_	_	LemmaId=39758|OccId=597692|Unsandhied=evam|UnsandhiedReconstructed=True
-4	evaṃ	sādhu	ADJ	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=112171|OccId=597693|Unsandhied=sādhu|UnsandhiedReconstructed=True
-5	sādhu	bhū	VERB	_	Tense=Pres|Mood=Ind|Person=3|Number=Sing	_	_	_	LemmaId=157250|OccId=597694|Unsandhied=bhavati
+2-23	sthānaparityāgaśāntikarmaprāyaścittamaṅgalajapahomopahārejyāñjalinamaskārataponiyamadayādānadīkṣābhyupagamadevatābrāhmaṇaguruparair	_	_	_	_	_	_	_	_
+2	sthāna	sthāna	NOUN	_	Case=Cpd	_	_	_	LemmaId=102857|OccId=5868942|Unsandhied=sthāna
+3	parityāga	parityāga	NOUN	_	Case=Cpd	_	_	_	LemmaId=19088|OccId=5868943|Unsandhied=parityāga
+4	śānti	śānti	NOUN	_	Case=Cpd	_	_	_	LemmaId=132281|OccId=5868944|Unsandhied=śānti
+5	karma	karman	NOUN	_	Case=Cpd	_	_	_	LemmaId=12243|OccId=5868945|Unsandhied=karma
+6	prāyaścitta	prāyaścitta	NOUN	_	Case=Cpd	_	_	_	LemmaId=153120|OccId=5868946|Unsandhied=prāyaścitta
+7	maṅgala	maṅgala	NOUN	_	Case=Cpd	_	_	_	LemmaId=26621|OccId=5868947|Unsandhied=maṅgala
+8	japa	japa	NOUN	_	Case=Cpd	_	_	_	LemmaId=87687|OccId=5868948|Unsandhied=japa
+9	homa	homa	NOUN	_	Case=Cpd	_	_	_	LemmaId=111114|OccId=5868949|Unsandhied=homa
+10	upahāra	upahāra	NOUN	_	Case=Cpd	_	_	_	LemmaId=45916|OccId=5868950|Unsandhied=upahāra
+11	ijyā	ijyā	NOUN	_	Case=Cpd	_	_	_	LemmaId=63287|OccId=5868951|Unsandhied=ijyā
+12	añjali	añjali	NOUN	_	Case=Cpd	_	_	_	LemmaId=6672|OccId=5868952|Unsandhied=añjali
+13	namaskāra	namaskāra	NOUN	_	Case=Cpd	_	_	_	LemmaId=44136|OccId=5868953|Unsandhied=namaskāra
+14	tapaḥ	tapas	NOUN	_	Case=Cpd	_	_	_	LemmaId=96401|OccId=5868954|Unsandhied=tapaḥ
+15	niyama	niyama	NOUN	_	Case=Cpd	_	_	_	LemmaId=27565|OccId=5868955|Unsandhied=niyama
+16	dayā	dayā	NOUN	_	Case=Cpd	_	_	_	LemmaId=101205|OccId=5868956|Unsandhied=dayā
+17	dāna	dāna	NOUN	_	Case=Cpd	_	_	_	LemmaId=146095|OccId=5868957|Unsandhied=dāna
+18	dīkṣā	dīkṣā	NOUN	_	Case=Cpd	_	_	_	LemmaId=84635|OccId=5868958|Unsandhied=dīkṣā
+19	abhyupagama	abhyupagama	NOUN	_	Case=Cpd	_	_	_	LemmaId=31496|OccId=5868959|Unsandhied=abhyupagama
+20	devatā	devatā	NOUN	_	Case=Cpd	_	_	_	LemmaId=87093|OccId=5868960|Unsandhied=devatā
+21	brāhmaṇa	brāhmaṇa	NOUN	_	Case=Cpd	_	_	_	LemmaId=149743|OccId=5868961|Unsandhied=brāhmaṇa
+22	guru	guru	NOUN	_	Case=Cpd	_	_	_	LemmaId=124569|OccId=5868962|Unsandhied=guru
+23	paraiḥ	para	PRON	_	Case=Ins|Gender=Masc|Number=Plur	_	_	_	LemmaId=163234|OccId=5868963|Unsandhied=paraiḥ
+24	bhavitavyam	bhū	VERB	_	Case=Nom|Gender=Neut|Number=Sing|VerbForm=Gdv	_	_	_	LemmaId=157250|OccId=597731|Unsandhied=bhavitavyam|UnsandhiedReconstructed=True
+25	evaṃ	evam	ADV	_		_	_	_	LemmaId=39758|OccId=597692|Unsandhied=evam|UnsandhiedReconstructed=True
+26	sādhu	sādhu	ADJ	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=112171|OccId=597693|Unsandhied=sādhu|UnsandhiedReconstructed=True
+27	bhavati	bhū	VERB	_	Tense=Pres|Mood=Ind|Person=3|Number=Sing	_	_	_	LemmaId=157250|OccId=597694|Unsandhied=bhavati
 
 # text = ata ūrdhvam avyāpannānāmṛtūnāṃ lakṣaṇānyupadekṣyāmaḥ
 # sent_id = 1096

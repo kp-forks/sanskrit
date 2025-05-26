@@ -3,7 +3,7 @@
 ## chapter: AB, 2, 32
 ## chapter_id: 11498
 # text = cakṣūṃṣi vā etāni savanānāṃ yat tūṣṇīṃśaṃso bhūr agnir jyotir jyotir agnir iti prātaḥsavanasya cakṣuṣī indro jyotir bhuvo jyotir indra iti mādhyaṃdinasya savanasya cakṣuṣī sūryo jyotir jyotiḥ svaḥ sūrya iti tṛtīyasavanasya cakṣuṣī
-# sent_id = 639172
+# sent_id = 641036
 # sent_counter = 1
 # sent_subcounter = 
 1	cakṣūṃṣi	cakṣus	NOUN	_	Case=Nom|Gender=Neut|Number=Plur	_	_	_	LemmaId=161797|OccId=4775893|Unsandhied=cakṣūṃṣi
@@ -39,7 +39,7 @@
 31	cakṣuṣī	cakṣus	NOUN	_	Case=Nom|Gender=Neut|Number=Dual	_	_	_	LemmaId=161797|OccId=4775923|Unsandhied=cakṣuṣī|Punctuation=fullStop
 
 # text = cakṣuṣmadbhiḥ savanai rādhnoti cakṣuṣmadbhiḥ savanaiḥ svargaṃ lokam eti ya evaṃ veda
-# sent_id = 639173
+# sent_id = 641037
 # sent_counter = 2
 # sent_subcounter = 
 1	cakṣuṣmadbhiḥ	cakṣuṣmat	ADJ	_	Case=Ins|Gender=Neut|Number=Plur	_	_	_	LemmaId=161790|OccId=4775924|Unsandhied=cakṣuṣmadbhiḥ|WordSem=71914
@@ -55,7 +55,7 @@
 11	veda	vid	VERB	_	Tense=Past|Mood=Ind|Person=3|Number=Sing	_	_	_	LemmaId=158058|OccId=4775934|Unsandhied=veda|Punctuation=fullStop
 
 # text = cakṣur vā etad yajñasya yat tūṣṇīṃśaṃsa ekā satī vyāhṛtir dvedhocyate tasmād ekaṃ sac cakṣur dvedhā
-# sent_id = 639174
+# sent_id = 641038
 # sent_counter = 3
 # sent_subcounter = 
 1	cakṣur	cakṣus	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=161797|OccId=4775935|Unsandhied=cakṣuḥ
@@ -77,7 +77,7 @@
 16	dvedhā	dvedhā	ADV	_		_	_	_	LemmaId=91448|OccId=4775950|Unsandhied=dvedhā|Punctuation=fullStop
 
 # text = mūlaṃ vā etad yajñasya yat tūṣṇīṃśaṃso yaṃ kāmayetānāyatanavān syād iti nāsya yajñe tūṣṇīṃśaṃsaṃ śaṃsed unmūlam eva tad yajñam parābhavantam anu parābhavati
-# sent_id = 639175
+# sent_id = 641039
 # sent_counter = 4
 # sent_subcounter = 
 1	mūlaṃ	mūla	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=137542|OccId=4775951|Unsandhied=mūlam
@@ -107,35 +107,35 @@
 23	parābhavati	parābhū	VERB	_	Tense=Pres|Mood=Ind|Person=3|Number=Sing	_	_	_	LemmaId=161610|OccId=4775969|Unsandhied=parābhavati|Punctuation=fullStop
 
 # text = tad u vā āhuḥ śaṃsed evāpi vai tad ṛtvije 'hitaṃ yaddhotā tūṣṇīṃśaṃsaṃ na śaṃsaty ṛtviji hi sarvo yajñaḥ pratiṣṭhito yajñe yajamānas tasmācchaṃstavyaḥ śaṃstavyaḥ
-# sent_id = 639176
+# sent_id = 641040
 # sent_counter = 5
 # sent_subcounter = 
 1	tad	tad	PRON	_	Case=Acc|Gender=Neut|Number=Sing	_	_	_	LemmaId=37875|OccId=4775970|Unsandhied=tat
-2	u	vai	PART	_		_	_	_	LemmaId=118154|OccId=4775971|Unsandhied=vai
-3	vā	ah	VERB	_	Tense=Past|Mood=Ind|Person=3|Number=Plur	_	_	_	LemmaId=156124|OccId=4775972|Unsandhied=āhuḥ|Punctuation=fullStop
-4	āhuḥ	śaṃs	VERB	_	Tense=Pres|Mood=Opt|Person=3|Number=Sing	_	_	_	LemmaId=157408|OccId=4775973|Unsandhied=śaṃset
-5-6	śaṃsed	_	_	_	_	_	_	_	_
+2	vā	vai	PART	_		_	_	_	LemmaId=118154|OccId=4775971|Unsandhied=vai
+3	āhuḥ	ah	VERB	_	Tense=Past|Mood=Ind|Person=3|Number=Plur	_	_	_	LemmaId=156124|OccId=4775972|Unsandhied=āhuḥ|Punctuation=fullStop
+4	śaṃsed	śaṃs	VERB	_	Tense=Pres|Mood=Opt|Person=3|Number=Sing	_	_	_	LemmaId=157408|OccId=4775973|Unsandhied=śaṃset
+5-6	evāpi	_	_	_	_	_	_	_	_
 5	eva	eva	PART	_		_	_	_	LemmaId=39754|OccId=4775974|Unsandhied=eva
 6	api	api	PART	_		_	_	_	LemmaId=21365|OccId=4775975|Unsandhied=api
-7	evāpi	vai	PART	_		_	_	_	LemmaId=118154|OccId=4775976|Unsandhied=vai
-8	vai	tad	PRON	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=37875|OccId=4775977|Unsandhied=tat
-9	tad	ṛtvij	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	_	_	_	LemmaId=38775|OccId=4775978|Unsandhied=ṛtvije
-10	ṛtvije	ahita	ADJ	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=61648|OccId=4775993|Unsandhied=ahitam
-11-12	'hitaṃ	_	_	_	_	_	_	_	_
+7	vai	vai	PART	_		_	_	_	LemmaId=118154|OccId=4775976|Unsandhied=vai
+8	tad	tad	PRON	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=37875|OccId=4775977|Unsandhied=tat
+9	ṛtvije	ṛtvij	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	_	_	_	LemmaId=38775|OccId=4775978|Unsandhied=ṛtvije
+10	'hitaṃ	ahita	ADJ	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=61648|OccId=4775993|Unsandhied=ahitam
+11-12	yaddhotā	_	_	_	_	_	_	_	_
 11	yat	yat	SCONJ	_		_	_	_	LemmaId=73227|OccId=4775994|Unsandhied=yat
 12	hotā	hotṛ	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=111085|OccId=4775995|Unsandhied=hotā
-13	yaddhotā	tūṣṇīṃśaṃsa	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	_	_	_	LemmaId=83157|OccId=4775979|Unsandhied=tūṣṇīṃśaṃsam
-14	tūṣṇīṃśaṃsaṃ	na	PART	_		_	_	_	LemmaId=43432|OccId=4775980|Unsandhied=na
-15	na	śaṃs	VERB	_	Tense=Pres|Mood=Ind|Person=3|Number=Sing	_	_	_	LemmaId=157408|OccId=4775981|Unsandhied=śaṃsati|Punctuation=fullStop
-16	śaṃsaty	ṛtvij	NOUN	_	Case=Loc|Gender=Masc|Number=Sing	_	_	_	LemmaId=38775|OccId=4775982|Unsandhied=ṛtviji
-17	ṛtviji	hi	PART	_		_	_	_	LemmaId=109879|OccId=4775983|Unsandhied=hi
-18	hi	sarva	PRON	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=104444|OccId=4775984|Unsandhied=sarvaḥ
-19	sarvo	yajña	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=72936|OccId=4775985|Unsandhied=yajñaḥ
-20	yajñaḥ	pratiṣṭhā	VERB	_	Case=Nom|Gender=Masc|Number=Sing|VerbForm=Part	_	_	_	LemmaId=162663|OccId=4775986|Unsandhied=pratiṣṭhitaḥ|Punctuation=comma
-21	pratiṣṭhito	yajña	NOUN	_	Case=Loc|Gender=Masc|Number=Sing	_	_	_	LemmaId=72936|OccId=4775987|Unsandhied=yajñe
-22	yajñe	yaj	VERB	_	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part	_	_	_	LemmaId=157422|OccId=4775988|Unsandhied=yajamānaḥ|Punctuation=fullStop
-23-24	yajamānas	_	_	_	_	_	_	_	_
+13	tūṣṇīṃśaṃsaṃ	tūṣṇīṃśaṃsa	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	_	_	_	LemmaId=83157|OccId=4775979|Unsandhied=tūṣṇīṃśaṃsam
+14	na	na	PART	_		_	_	_	LemmaId=43432|OccId=4775980|Unsandhied=na
+15	śaṃsaty	śaṃs	VERB	_	Tense=Pres|Mood=Ind|Person=3|Number=Sing	_	_	_	LemmaId=157408|OccId=4775981|Unsandhied=śaṃsati|Punctuation=fullStop
+16	ṛtviji	ṛtvij	NOUN	_	Case=Loc|Gender=Masc|Number=Sing	_	_	_	LemmaId=38775|OccId=4775982|Unsandhied=ṛtviji
+17	hi	hi	PART	_		_	_	_	LemmaId=109879|OccId=4775983|Unsandhied=hi
+18	sarvo	sarva	PRON	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=104444|OccId=4775984|Unsandhied=sarvaḥ
+19	yajñaḥ	yajña	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=72936|OccId=4775985|Unsandhied=yajñaḥ
+20	pratiṣṭhito	pratiṣṭhā	VERB	_	Case=Nom|Gender=Masc|Number=Sing|VerbForm=Part	_	_	_	LemmaId=162663|OccId=4775986|Unsandhied=pratiṣṭhitaḥ|Punctuation=comma
+21	yajñe	yajña	NOUN	_	Case=Loc|Gender=Masc|Number=Sing	_	_	_	LemmaId=72936|OccId=4775987|Unsandhied=yajñe
+22	yajamānas	yaj	VERB	_	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part	_	_	_	LemmaId=157422|OccId=4775988|Unsandhied=yajamānaḥ|Punctuation=fullStop
+23-24	tasmācchaṃstavyaḥ	_	_	_	_	_	_	_	_
 23	tasmāt	tasmāt	ADV	_		_	_	_	LemmaId=203521|OccId=4775996|Unsandhied=tasmāt
 24	śaṃstavyaḥ	śaṃs	VERB	_	Case=Nom|Gender=Masc|Number=Sing|VerbForm=Gdv	_	_	_	LemmaId=157408|OccId=4775997|Unsandhied=śaṃstavyaḥ
-25	tasmācchaṃstavyaḥ	śaṃs	VERB	_	Case=Nom|Gender=Masc|Number=Sing|VerbForm=Gdv	_	_	_	LemmaId=157408|OccId=4775998|Unsandhied=śaṃstavyaḥ|Punctuation=fullStop
+25	śaṃstavyaḥ	śaṃs	VERB	_	Case=Nom|Gender=Masc|Number=Sing|VerbForm=Gdv	_	_	_	LemmaId=157408|OccId=4775998|Unsandhied=śaṃstavyaḥ|Punctuation=fullStop
 

@@ -173,7 +173,7 @@
 5	unmardanāni	unmardana	NOUN	_	Case=Acc|Gender=Neut|Number=Plur	_	_	_	LemmaId=44730|OccId=1397065|Unsandhied=unmardanāni|UnsandhiedReconstructed=True|WordSem=3313
 6	ca	ca	CONJ	_		_	_	_	LemmaId=157144|OccId=1364409|Unsandhied=ca|UnsandhiedReconstructed=True|WordSem=104004
 
-# text = snāyusandhyasthisamprāpte kuryādvāyāvatandritaḥ
+# text = snāyusandhyasthisamprāpte kuryād vāyāv atandritaḥ
 # sent_id = 7194
 # sent_counter = 8
 # sent_subcounter = 2
@@ -182,10 +182,11 @@
 2	saṃdhi	saṃdhi	NOUN	_	Case=Cpd	_	_	_	LemmaId=17663|OccId=1364449|Unsandhied=saṃdhi|UnsandhiedReconstructed=True|WordSem=27250
 3	asthi	asthi	NOUN	_	Case=Cpd	_	_	_	LemmaId=61292|OccId=1364450|Unsandhied=asthi|UnsandhiedReconstructed=True|WordSem=25904
 4	samprāpte	samprāp	VERB	_	Case=Loc|Gender=Masc|Number=Sing|VerbForm=Part	_	_	_	LemmaId=165559|OccId=1364451|Unsandhied=samprāpte|UnsandhiedReconstructed=True|WordSem=96253
-5-7	kuryādvāyāvatandritaḥ	_	_	_	_	_	_	_	_
-5	kuryāt	kṛ	VERB	_	Tense=Pres|Mood=Opt|Person=3|Number=Sing	_	_	_	LemmaId=156168|OccId=1364410|Unsandhied=kuryāt|WordSem=95705
-6	vāyau	vāyu	NOUN	_	Case=Loc|Gender=Masc|Number=Sing	_	_	_	LemmaId=76933|OccId=1364411|Unsandhied=vāyau|UnsandhiedReconstructed=True|WordSem=49694
-7	atandritaḥ	atandrita	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=6802|OccId=1364412|Unsandhied=atandritaḥ|UnsandhiedReconstructed=True|WordSem=80366
+5	kuryād	kṛ	VERB	_	Tense=Pres|Mood=Opt|Person=3|Number=Sing	_	_	_	LemmaId=156168|OccId=5875523|Unsandhied=kuryāt
+6	vāyāv	vāyu	NOUN	_	Case=Loc|Gender=Masc|Number=Sing	_	_	_	LemmaId=76933|OccId=5875524|Unsandhied=vāyau
+7-8	atandritaḥ	_	_	_	_	_	_	_	_
+7	a	a	PART	_		_	_	_	LemmaId=213048|OccId=5875525|Unsandhied=a
+8	tandritaḥ	tandray	VERB	_	Case=Nom|Gender=Masc|Number=Sing|VerbForm=Part	_	_	_	LemmaId=222353|OccId=5875526|Unsandhied=tandritaḥ
 
 # text = niruddhe 'sthani vā vāyau pāṇimanthena dārite
 # sent_id = 7195
@@ -203,11 +204,11 @@
 # sent_counter = 9
 # sent_subcounter = 2
 1	nāḍīṃ	nāḍī	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	_	_	_	LemmaId=33302|OccId=1364419|Unsandhied=nāḍīm|UnsandhiedReconstructed=True|WordSem=22464
-2	dattvāsthani	bhiṣaj	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=50269|OccId=1364420|Unsandhied=bhiṣaj|UnsandhiedReconstructed=True|WordSem=45323
-3-4	bhiṣak	_	_	_	_	_	_	_	_
+2	bhiṣak	bhiṣaj	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=50269|OccId=1364420|Unsandhied=bhiṣaj|UnsandhiedReconstructed=True|WordSem=45323
+3-4	cūṣayetpavanaṃ	_	_	_	_	_	_	_	_
 3	cūṣayet	cūṣay	VERB	_	Tense=Pres|Mood=Opt|Person=3|Number=Sing	_	_	_	LemmaId=202594|OccId=1364453|Unsandhied=cūṣayet|WordSem=89496
 4	pavanam	pavana	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	_	_	_	LemmaId=92588|OccId=1364454|Unsandhied=pavanam|UnsandhiedReconstructed=True|WordSem=100533
-5	cūṣayetpavanaṃ	balin	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=154363|OccId=1364421|Unsandhied=balī|UnsandhiedReconstructed=True|WordSem=79728
+5	balī	balin	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=154363|OccId=1364421|Unsandhied=balī|UnsandhiedReconstructed=True|WordSem=79728
 
 # text = śukraprāpte 'nile kāryaṃ śukradoṣacikitsitam
 # sent_id = 7197

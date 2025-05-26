@@ -702,19 +702,19 @@
 26-27	coktāni	_	_	_	_	_	_	_	_
 26	ca	ca	CONJ	_		_	_	_	LemmaId=157144|OccId=1332627|Unsandhied=ca|UnsandhiedReconstructed=True
 27	uktāni	vac	VERB	_	Case=Nom|Gender=Neut|Number=Plur|VerbForm=Part	_	_	_	LemmaId=157264|OccId=1332628|Unsandhied=uktāni|UnsandhiedReconstructed=True
-28	snehasvedanavamanavirecanavastyuttaravastiśirovirecananasyadhūmakavalaghāraṇāny	anyatra	ADV	_		_	_	_	LemmaId=20511|OccId=1332825|Unsandhied=anyatra|UnsandhiedReconstructed=True
-29	anyatra	vac	VERB	_	Tense=Fut|Mood=Ind|Person=1|Number=Plur	_	_	_	LemmaId=157264|OccId=1332826|Unsandhied=vakṣyāmaḥ
-30-32	vakṣyāmaḥ	_	_	_	_	_	_	_	_
+28	anyatra	anyatra	ADV	_		_	_	_	LemmaId=20511|OccId=1332825|Unsandhied=anyatra|UnsandhiedReconstructed=True
+29	vakṣyāmaḥ	vac	VERB	_	Tense=Fut|Mood=Ind|Person=1|Number=Plur	_	_	_	LemmaId=157264|OccId=1332826|Unsandhied=vakṣyāmaḥ
+30-32	yadanyadavaśiṣṭam	_	_	_	_	_	_	_	_
 30	yat	yad	PRON	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=37877|OccId=1332629|Unsandhied=yat|UnsandhiedReconstructed=True
 31	anyat	anya	PRON	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=164189|OccId=1332630|Unsandhied=anyat|UnsandhiedReconstructed=True
 32	avaśiṣṭam	avaśiṣ	VERB	_	Case=Nom|Gender=Neut|Number=Sing|VerbForm=Part	_	_	_	LemmaId=159634|OccId=1332631|Unsandhied=avaśiṣṭam|UnsandhiedReconstructed=True
-33-34	yadanyadavaśiṣṭam	_	_	_	_	_	_	_	_
+33-34	upakramajātaṃ	_	_	_	_	_	_	_	_
 33	upakrama	upakrama	NOUN	_	Case=Cpd	_	_	_	LemmaId=44811|OccId=1332632|Unsandhied=upakrama|UnsandhiedReconstructed=True
 34	jātam	jāta	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=88547|OccId=1332633|Unsandhied=jātam|UnsandhiedReconstructed=True
-35-36	upakramajātaṃ	_	_	_	_	_	_	_	_
+35-36	tadiha	_	_	_	_	_	_	_	_
 35	tat	tad	PRON	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=37875|OccId=1332634|Unsandhied=tat|UnsandhiedReconstructed=True
 36	iha	iha	ADV	_		_	_	_	LemmaId=63959|OccId=1332635|Unsandhied=iha|UnsandhiedReconstructed=True
-37	tadiha	vac	VERB	_	Tense=Fut|Mood=Ind|Person=3|Number=Sing	_	_	_	LemmaId=157264|OccId=1332636|Unsandhied=vakṣyate
+37	vakṣyate	vac	VERB	_	Tense=Fut|Mood=Ind|Person=3|Number=Sing	_	_	_	LemmaId=157264|OccId=1332636|Unsandhied=vakṣyate
 
 # text = ṣaḍvidhaḥ prāgupadiṣṭaḥ śophaḥ tasyaikādaśopakramā bhavantyapatarpaṇādayo virecanāntāḥ te ca viśeṣeṇa śothapratīkāre vartante vraṇabhāvamāpannasya ca na virudhyante śeṣāstu prāyeṇa vraṇapratīkārahetava eva
 # sent_id = 6591
@@ -859,7 +859,7 @@
 1	yathāsvair	yathāsva	ADJ	_	Case=Ins|Gender=Neut|Number=Plur	_	_	_	LemmaId=73595|OccId=1332712|Unsandhied=yathāsvaiḥ|UnsandhiedReconstructed=True
 2	auṣadhair	auṣadha	NOUN	_	Case=Ins|Gender=Neut|Number=Plur	_	_	_	LemmaId=365|OccId=1332713|Unsandhied=auṣadhaiḥ|UnsandhiedReconstructed=True
 3	lepaṃ	lepa	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	_	_	_	LemmaId=81648|OccId=1332830|Unsandhied=lepam|UnsandhiedReconstructed=True
-4	pratyekaśyena	kāray	VERB	_	Tense=Pres|Mood=Opt|Person=3|Number=Sing	_	_	_	LemmaId=157688|OccId=1332714|Unsandhied=kārayet
+4	kārayet	kāray	VERB	_	Tense=Pres|Mood=Opt|Person=3|Number=Sing	_	_	_	LemmaId=157688|OccId=1332714|Unsandhied=kārayet
 
 # text = yathā prajvalite veśmanyambhasā pariṣecanam
 # sent_id = 6600
@@ -942,14 +942,14 @@
 21	abhighāta	abhighāta	NOUN	_	Case=Cpd	_	_	_	LemmaId=22141|OccId=1332839|Unsandhied=abhighāta|UnsandhiedReconstructed=True
 22	viṣa	viṣa	NOUN	_	Case=Cpd	_	_	_	LemmaId=139407|OccId=1332840|Unsandhied=viṣa|UnsandhiedReconstructed=True
 23	nimitteṣu	nimitta	NOUN	_	Case=Loc|Gender=Masc|Number=Plur	_	_	_	LemmaId=27462|OccId=1332841|Unsandhied=nimitteṣu|UnsandhiedReconstructed=True
-24	kṣīraghṛtamadhuśarkarodakekṣurasamadhurauṣadhakṣīravṛkṣaniṣkvāthair	anuṣṇa	ADJ	_	Case=Ins|Gender=Masc|Number=Plur	_	_	_	LemmaId=11425|OccId=1332753|Unsandhied=anuṣṇaiḥ|UnsandhiedReconstructed=True
-25	anuṣṇaiḥ	pariṣeka	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	_	_	_	LemmaId=19682|OccId=1332754|Unsandhied=pariṣekān|UnsandhiedReconstructed=True
-26	pariṣekān	kṛ	VERB	_	Tense=Pres|Mood=Opt|Person=3|Number=Sing	_	_	_	LemmaId=156168|OccId=1332755|Unsandhied=kurvīta
-27-28	kurvīta	_	_	_	_	_	_	_	_
+24	anuṣṇaiḥ	anuṣṇa	ADJ	_	Case=Ins|Gender=Masc|Number=Plur	_	_	_	LemmaId=11425|OccId=1332753|Unsandhied=anuṣṇaiḥ|UnsandhiedReconstructed=True
+25	pariṣekān	pariṣeka	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	_	_	_	LemmaId=19682|OccId=1332754|Unsandhied=pariṣekān|UnsandhiedReconstructed=True
+26	kurvīta	kṛ	VERB	_	Tense=Pres|Mood=Opt|Person=3|Number=Sing	_	_	_	LemmaId=156168|OccId=1332755|Unsandhied=kurvīta
+27-28	śleṣmaśophe	_	_	_	_	_	_	_	_
 27	śleṣma	śleṣman	NOUN	_	Case=Cpd	_	_	_	LemmaId=41184|OccId=1332756|Unsandhied=śleṣma|UnsandhiedReconstructed=True
 28	śophe	śopha	NOUN	_	Case=Loc|Gender=Masc|Number=Sing	_	_	_	LemmaId=127819|OccId=1332757|Unsandhied=śophe|UnsandhiedReconstructed=True
-29	śleṣmaśophe	tu	PART	_		_	_	_	LemmaId=82701|OccId=1332758|Unsandhied=tu|UnsandhiedReconstructed=True
-30-38	tu	_	_	_	_	_	_	_	_
+29	tu	tu	PART	_		_	_	_	LemmaId=82701|OccId=1332758|Unsandhied=tu|UnsandhiedReconstructed=True
+30-38	tailamūtrakṣārodakasurāśuktakaphaghnauṣadhaniṣkvāthair	_	_	_	_	_	_	_	_
 30	taila	taila	NOUN	_	Case=Cpd	_	_	_	LemmaId=83500|OccId=1332759|Unsandhied=taila|UnsandhiedReconstructed=True
 31	mūtra	mūtra	NOUN	_	Case=Cpd	_	_	_	LemmaId=136408|OccId=1332760|Unsandhied=mūtra|UnsandhiedReconstructed=True
 32	kṣārodaka	kṣārodaka	NOUN	_	Case=Cpd	_	_	_	LemmaId=134523|OccId=1332761|Unsandhied=kṣārodaka|UnsandhiedReconstructed=True
@@ -959,9 +959,9 @@
 36	ghna	ghna	ADJ	_	Case=Cpd	_	_	_	LemmaId=161718|OccId=1332765|Unsandhied=ghna|UnsandhiedReconstructed=True
 37	auṣadha	auṣadha	NOUN	_	Case=Cpd	_	_	_	LemmaId=365|OccId=1332766|Unsandhied=auṣadha|UnsandhiedReconstructed=True
 38	niṣkvāthaiḥ	niṣkvātha	NOUN	_	Case=Ins|Gender=Masc|Number=Plur	_	_	_	LemmaId=28332|OccId=1332767|Unsandhied=niṣkvāthaiḥ|UnsandhiedReconstructed=True
-39	tailamūtrakṣārodakasurāśuktakaphaghnauṣadhaniṣkvāthair	aśīta	ADJ	_	Case=Ins|Gender=Masc|Number=Plur	_	_	_	LemmaId=59970|OccId=1332768|Unsandhied=aśītaiḥ|UnsandhiedReconstructed=True
-40	aśītaiḥ	pariṣeka	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	_	_	_	LemmaId=19682|OccId=1332769|Unsandhied=pariṣekān|UnsandhiedReconstructed=True
-41	pariṣekān	kṛ	VERB	_	Tense=Pres|Mood=Opt|Person=3|Number=Sing	_	_	_	LemmaId=156168|OccId=1332770|Unsandhied=kurvīta
+39	aśītaiḥ	aśīta	ADJ	_	Case=Ins|Gender=Masc|Number=Plur	_	_	_	LemmaId=59970|OccId=1332768|Unsandhied=aśītaiḥ|UnsandhiedReconstructed=True
+40	pariṣekān	pariṣeka	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	_	_	_	LemmaId=19682|OccId=1332769|Unsandhied=pariṣekān|UnsandhiedReconstructed=True
+41	kurvīta	kṛ	VERB	_	Tense=Pres|Mood=Opt|Person=3|Number=Sing	_	_	_	LemmaId=156168|OccId=1332770|Unsandhied=kurvīta
 
 # text = yathāmbubhiḥ sicyamānaḥ śāntimagnirniyacchati
 # sent_id = 6605
@@ -3578,27 +3578,35 @@
 6	je	ja	ADJ	_	Case=Loc|Gender=Masc|Number=Sing	_	_	_	LemmaId=52879|OccId=1341368|Unsandhied=je|UnsandhiedReconstructed=True
 7	vraṇe	vraṇa	NOUN	_	Case=Loc|Gender=Masc|Number=Sing	_	_	_	LemmaId=116236|OccId=1341369|Unsandhied=vraṇe|UnsandhiedReconstructed=True
 
-# text = akarkaśamavicchinnamajīrṇaṃ sukumārakam
+# text = akarkaśam avicchinnam ajīrṇaṃ sukumārakam
 # sent_id = 6801
 # sent_counter = 116
 # sent_subcounter = 1
-1-3	akarkaśamavicchinnamajīrṇaṃ	_	_	_	_	_	_	_	_
-1	akarkaśam	akarkaśa	ADJ	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=1230|OccId=1341370|Unsandhied=akarkaśam|UnsandhiedReconstructed=True
-2	avicchinnam	avicchinna	ADJ	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=54934|OccId=1341371|Unsandhied=avicchinnam|UnsandhiedReconstructed=True
-3	ajīrṇam	ajīrṇa	ADJ	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=170916|OccId=1341372|Unsandhied=ajīrṇam|UnsandhiedReconstructed=True
-4	sukumārakam	sukumāraka	ADJ	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=106731|OccId=1341373|Unsandhied=sukumārakam|UnsandhiedReconstructed=True
+1-2	akarkaśam	_	_	_	_	_	_	_	_
+1	a	a	PART	_		_	_	_	LemmaId=213048|OccId=5879359|Unsandhied=a
+2	karkaśam	karkaśa	ADJ	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=2713|OccId=5879360|Unsandhied=karkaśam
+3-4	avicchinnam	_	_	_	_	_	_	_	_
+3	a	a	PART	_		_	_	_	LemmaId=213048|OccId=5879352|Unsandhied=a
+4	vicchinnam	vicchid	VERB	_	Case=Nom|Gender=Neut|Number=Sing|VerbForm=Part	_	_	_	LemmaId=163304|OccId=5879353|Unsandhied=vicchinnam
+5-6	ajīrṇaṃ	_	_	_	_	_	_	_	_
+5	a	a	PART	_		_	_	_	LemmaId=213048|OccId=5879354|Unsandhied=a
+6	jīrṇam	jṛ	VERB	_	Case=Nom|Gender=Neut|Number=Sing|VerbForm=Part	_	_	_	LemmaId=157149|OccId=5879355|Unsandhied=jīrṇam
+7	sukumārakam	sukumāraka	ADJ	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=106731|OccId=5879361|Unsandhied=sukumārakam
 
 # text = ajantujagdhaṃ mṛdu ca patraṃ guṇavaducyate
 # sent_id = 6802
 # sent_counter = 116
 # sent_subcounter = 2
-1	ajantujagdhaṃ	ajantujagdha	ADJ	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=202360|OccId=1341457|Unsandhied=ajantujagdham|UnsandhiedReconstructed=True
-2	mṛdu	mṛdu	ADJ	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=137707|OccId=1341374|Unsandhied=mṛdu|UnsandhiedReconstructed=True
-3	ca	ca	CONJ	_		_	_	_	LemmaId=157144|OccId=1341375|Unsandhied=ca|UnsandhiedReconstructed=True
-4	patraṃ	pattra	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=15540|OccId=1341376|Unsandhied=pattram|UnsandhiedReconstructed=True
-5-6	guṇavaducyate	_	_	_	_	_	_	_	_
-5	guṇavat	guṇavat	ADJ	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=124515|OccId=1341377|Unsandhied=guṇavat|UnsandhiedReconstructed=True
-6	ucyate	vac	VERB	_	Tense=Pres|Mood=Ind|Voice=Pass|Person=3|Number=Sing	_	_	_	LemmaId=157264|OccId=1341378|Unsandhied=ucyate
+1-3	ajantujagdhaṃ	_	_	_	_	_	_	_	_
+1	a	a	PART	_		_	_	_	LemmaId=213048|OccId=5879356|Unsandhied=a
+2	jantu	jantu	NOUN	_	Case=Cpd	_	_	_	LemmaId=87596|OccId=5879357|Unsandhied=jantu
+3	jagdham	jakṣ	VERB	_	Case=Nom|Gender=Neut|Number=Sing|VerbForm=Part	_	_	_	LemmaId=156583|OccId=5879358|Unsandhied=jagdham
+4	mṛdu	mṛdu	ADJ	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=137707|OccId=1341374|Unsandhied=mṛdu|UnsandhiedReconstructed=True
+5	ca	ca	CONJ	_		_	_	_	LemmaId=157144|OccId=1341375|Unsandhied=ca|UnsandhiedReconstructed=True
+6	patraṃ	pattra	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=15540|OccId=1341376|Unsandhied=pattram|UnsandhiedReconstructed=True
+7-8	guṇavaducyate	_	_	_	_	_	_	_	_
+7	guṇavat	guṇavat	ADJ	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=124515|OccId=1341377|Unsandhied=guṇavat|UnsandhiedReconstructed=True
+8	ucyate	vac	VERB	_	Tense=Pres|Mood=Ind|Voice=Pass|Person=3|Number=Sing	_	_	_	LemmaId=157264|OccId=1341378|Unsandhied=ucyate
 
 # text = snehamauṣadhasāraṃ ca paṭṭaḥ patrāntarīkṛtaḥ
 # sent_id = 6803

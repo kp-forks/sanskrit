@@ -3,7 +3,7 @@
 ## chapter: VaikhGS, 1, 17
 ## chapter_id: 15009
 # text = imaṃ me varuṇa tattvā yāmi tvaṃ no agne sa tvaṃ no agne tvamagne ayāsy ayāsanniti pañca vāruṇam
-# sent_id = 367038
+# sent_id = 367037
 # sent_counter = 1
 # sent_subcounter = 
 1	imaṃ	idam	PRON	_	Case=Acc|Gender=Masc|Number=Sing	_	_	_	LemmaId=37876|OccId=931022|Unsandhied=imam|UnsandhiedReconstructed=True
@@ -23,11 +23,11 @@
 14-15	tvamagne	_	_	_	_	_	_	_	_
 14	tvam	tvad	PRON	_	Case=Nom|Number=Sing	_	_	_	LemmaId=37880|OccId=931035|Unsandhied=tvam|UnsandhiedReconstructed=True
 15	agne	agni	NOUN	_	Case=Voc|Gender=Masc|Number=Sing	_	_	_	LemmaId=5705|OccId=931036|Unsandhied=agne|UnsandhiedReconstructed=True
-16	ayāsy	pañcan	NUM	_	Case=Nom|Gender=Neut|Number=Plur	_	_	_	LemmaId=165692|OccId=931037|Unsandhied=pañca|UnsandhiedReconstructed=True
-17	ayāsanniti	vāruṇa	ADJ	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=46601|OccId=5450035|Unsandhied=vāruṇam|Punctuation=fullStop
+16	pañca	pañcan	NUM	_	Case=Nom|Gender=Neut|Number=Plur	_	_	_	LemmaId=165692|OccId=931037|Unsandhied=pañca|UnsandhiedReconstructed=True
+17	vāruṇam	vāruṇa	ADJ	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=46601|OccId=5450035|Unsandhied=vāruṇam|Punctuation=fullStop
 
 # text = prajāpate na tvatprajāpatirjayānityupāṃśuyāje prājāpatye
-# sent_id = 367039
+# sent_id = 367038
 # sent_counter = 2
 # sent_subcounter = 
 1	prajāpate	prajāpati	NOUN	_	Case=Voc|Gender=Masc|Number=Sing	_	_	_	LemmaId=151290|OccId=931039|Unsandhied=prajāpate|UnsandhiedReconstructed=True
@@ -41,7 +41,7 @@
 8	prājāpatye	prājāpatya	ADJ	_	Case=Loc|Gender=Masc|Number=Sing	_	_	_	LemmaId=155938|OccId=5450036|Unsandhied=prājāpatye|Punctuation=fullStop
 
 # text = cittaṃ ca cittiścākūtaṃ cākūtiśca vijñātaṃ cāvijñānaṃ ca manaśca śakvarīśca darśaśca pūrṇamāsaśca bṛhacca rathaṃtaraṃ ca svāheti cittādi dvādaśa jayāḥ
-# sent_id = 367040
+# sent_id = 367039
 # sent_counter = 3
 # sent_subcounter = 
 1	cittaṃ	citta	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=51356|OccId=931047|Unsandhied=cittam|UnsandhiedReconstructed=True
@@ -87,7 +87,7 @@
 31	jayāḥ	jaya	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	_	_	_	LemmaId=87781|OccId=931076|Unsandhied=jayāḥ|UnsandhiedReconstructed=True|Punctuation=fullStop
 
 # text = agnir bhūtānām adhipatiḥ sa māvatvindro jyeṣṭhānāṃ yamaḥ pṛthivyā vāyurantarikṣasya sūryo divaścandramā nakṣatrāṇāṃ bṛhaspatirbrahmaṇo mitraḥ satyānāṃ varuṇo 'pāṃ samudraḥ srotyānāmannaṃ samrājyānām adhipatiṃ tanmāvatu
-# sent_id = 367041
+# sent_id = 367040
 # sent_counter = 4
 # sent_subcounter = 
 1	agnir	agni	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=5705|OccId=5450040|Unsandhied=agniḥ
@@ -128,36 +128,36 @@
 30	avatu	av	VERB	_	Tense=Pres|Mood=Imp|Person=3|Number=Sing	_	_	_	LemmaId=158270|OccId=931104|Unsandhied=avatu|Punctuation=fullStop
 
 # text = soma oṣadhīnāṃ savitā prasavānāṃ rudraḥ paśūnāṃ tvaṣṭā rūpāṇāṃ viṣṇuḥ parvatānāṃ maruto gaṇānāmadhipatayaste māvantu pitaraḥ pitāmahāḥ pare 'vara ity aṣṭādaśāgnir bhūtādayo 'bhyātānāḥ
-# sent_id = 367042
+# sent_id = 367041
 # sent_counter = 5
 # sent_subcounter = 
 1	soma	soma	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=100106|OccId=5450044|Unsandhied=somaḥ
-2	oṣadhīnāṃ	savitṛ	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=105325|OccId=931106|Unsandhied=savitā|UnsandhiedReconstructed=True
-3	savitā	prasava	NOUN	_	Case=Gen|Gender=Masc|Number=Plur	_	_	_	LemmaId=155016|OccId=5450045|Unsandhied=prasavānām|Punctuation=comma
-4	prasavānāṃ	rudra	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=71571|OccId=931108|Unsandhied=rudraḥ|UnsandhiedReconstructed=True
-5	rudraḥ	paśu	NOUN	_	Case=Gen|Gender=Masc|Number=Plur	_	_	_	LemmaId=92688|OccId=931109|Unsandhied=paśūnām|UnsandhiedReconstructed=True|Punctuation=comma
-6	paśūnāṃ	tvaṣṭṛ	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=100483|OccId=931110|Unsandhied=tvaṣṭā|UnsandhiedReconstructed=True
-7	tvaṣṭā	rūpa	NOUN	_	Case=Gen|Gender=Neut|Number=Plur	_	_	_	LemmaId=71929|OccId=931111|Unsandhied=rūpāṇām|UnsandhiedReconstructed=True|Punctuation=comma
-8	rūpāṇāṃ	viṣṇu	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=139532|OccId=931112|Unsandhied=viṣṇuḥ|UnsandhiedReconstructed=True
-9	viṣṇuḥ	parvata	NOUN	_	Case=Gen|Gender=Masc|Number=Plur	_	_	_	LemmaId=20217|OccId=931113|Unsandhied=parvatānām|UnsandhiedReconstructed=True|Punctuation=comma
-10	parvatānāṃ	marut	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	_	_	_	LemmaId=37014|OccId=931114|Unsandhied=marutaḥ|UnsandhiedReconstructed=True
-11-13	maruto	_	_	_	_	_	_	_	_
+2	savitā	savitṛ	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=105325|OccId=931106|Unsandhied=savitā|UnsandhiedReconstructed=True
+3	prasavānāṃ	prasava	NOUN	_	Case=Gen|Gender=Masc|Number=Plur	_	_	_	LemmaId=155016|OccId=5450045|Unsandhied=prasavānām|Punctuation=comma
+4	rudraḥ	rudra	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=71571|OccId=931108|Unsandhied=rudraḥ|UnsandhiedReconstructed=True
+5	paśūnāṃ	paśu	NOUN	_	Case=Gen|Gender=Masc|Number=Plur	_	_	_	LemmaId=92688|OccId=931109|Unsandhied=paśūnām|UnsandhiedReconstructed=True|Punctuation=comma
+6	tvaṣṭā	tvaṣṭṛ	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=100483|OccId=931110|Unsandhied=tvaṣṭā|UnsandhiedReconstructed=True
+7	rūpāṇāṃ	rūpa	NOUN	_	Case=Gen|Gender=Neut|Number=Plur	_	_	_	LemmaId=71929|OccId=931111|Unsandhied=rūpāṇām|UnsandhiedReconstructed=True|Punctuation=comma
+8	viṣṇuḥ	viṣṇu	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=139532|OccId=931112|Unsandhied=viṣṇuḥ|UnsandhiedReconstructed=True
+9	parvatānāṃ	parvata	NOUN	_	Case=Gen|Gender=Masc|Number=Plur	_	_	_	LemmaId=20217|OccId=931113|Unsandhied=parvatānām|UnsandhiedReconstructed=True|Punctuation=comma
+10	maruto	marut	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	_	_	_	LemmaId=37014|OccId=931114|Unsandhied=marutaḥ|UnsandhiedReconstructed=True
+11-13	gaṇānāmadhipatayaste	_	_	_	_	_	_	_	_
 11	gaṇānām	gaṇa	NOUN	_	Case=Gen|Gender=Masc|Number=Plur	_	_	_	LemmaId=129336|OccId=931115|Unsandhied=gaṇānām|UnsandhiedReconstructed=True
 12	adhipatayaḥ	adhipati	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	_	_	_	LemmaId=168124|OccId=931116|Unsandhied=adhipatayaḥ|UnsandhiedReconstructed=True
 13	te	tad	PRON	_	Case=Nom|Gender=Masc|Number=Plur	_	_	_	LemmaId=37875|OccId=931117|Unsandhied=te|UnsandhiedReconstructed=True
-14-15	gaṇānāmadhipatayaste	_	_	_	_	_	_	_	_
+14-15	māvantu	_	_	_	_	_	_	_	_
 14	mām	mad	PRON	_	Case=Acc|Number=Sing	_	_	_	LemmaId=37879|OccId=931118|Unsandhied=mām|UnsandhiedReconstructed=True
 15	avantu	av	VERB	_	Tense=Pres|Mood=Imp|Person=3|Number=Plur	_	_	_	LemmaId=158270|OccId=931119|Unsandhied=avantu
-16	māvantu	pitṛ	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	_	_	_	LemmaId=94899|OccId=5450046|Unsandhied=pitaraḥ
-17	pitaraḥ	pitāmaha	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	_	_	_	LemmaId=95017|OccId=931121|Unsandhied=pitāmahāḥ|UnsandhiedReconstructed=True
-18	pitāmahāḥ	para	PRON	_	Case=Nom|Gender=Masc|Number=Plur	_	_	_	LemmaId=163234|OccId=931122|Unsandhied=pare|UnsandhiedReconstructed=True
-19	pare	avara	ADJ	_	Case=Nom|Gender=Masc|Number=Plur	_	_	_	LemmaId=54436|OccId=931130|Unsandhied=avarāḥ|UnsandhiedReconstructed=True
-20	'vara	iti	PART	_		_	_	_	LemmaId=63331|OccId=5450047|Unsandhied=iti|Punctuation=comma
-21-22	ity	_	_	_	_	_	_	_	_
+16	pitaraḥ	pitṛ	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	_	_	_	LemmaId=94899|OccId=5450046|Unsandhied=pitaraḥ
+17	pitāmahāḥ	pitāmaha	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	_	_	_	LemmaId=95017|OccId=931121|Unsandhied=pitāmahāḥ|UnsandhiedReconstructed=True
+18	pare	para	PRON	_	Case=Nom|Gender=Masc|Number=Plur	_	_	_	LemmaId=163234|OccId=931122|Unsandhied=pare|UnsandhiedReconstructed=True
+19	'vara	avara	ADJ	_	Case=Nom|Gender=Masc|Number=Plur	_	_	_	LemmaId=54436|OccId=931130|Unsandhied=avarāḥ|UnsandhiedReconstructed=True
+20	ity	iti	PART	_		_	_	_	LemmaId=63331|OccId=5450047|Unsandhied=iti|Punctuation=comma
+21-22	aṣṭādaśāgnir	_	_	_	_	_	_	_	_
 21	aṣṭādaśā	aṣṭādaśan	NUM	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=60516|OccId=5450048|Unsandhied=aṣṭādaśā
 22	agniḥ	agni	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=5705|OccId=5450049|Unsandhied=agniḥ
-23-24	aṣṭādaśāgnir	_	_	_	_	_	_	_	_
+23-24	bhūtādayo	_	_	_	_	_	_	_	_
 23	bhūta	bhūta	NOUN	_	Case=Cpd	_	_	_	LemmaId=25207|OccId=5450050|Unsandhied=bhūta
 24	ādayaḥ	ādi	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	_	_	_	LemmaId=57973|OccId=5450051|Unsandhied=ādayaḥ
-25	bhūtādayo	abhyātāna	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	_	_	_	LemmaId=31415|OccId=931128|Unsandhied=abhyātānāḥ|UnsandhiedReconstructed=True|Punctuation=fullStop
+25	'bhyātānāḥ	abhyātāna	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	_	_	_	LemmaId=31415|OccId=931128|Unsandhied=abhyātānāḥ|UnsandhiedReconstructed=True|Punctuation=fullStop
 

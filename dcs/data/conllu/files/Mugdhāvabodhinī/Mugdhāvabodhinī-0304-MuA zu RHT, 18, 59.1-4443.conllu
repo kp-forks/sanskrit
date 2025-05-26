@@ -3,7 +3,7 @@
 ## chapter: MuA zu RHT, 18, 59.1
 ## chapter_id: 4443
 # text = pādādijīrṇasūte pādādinā pādārdhasamānadinā jīrṇo yo'sau sūtaḥ tasmin hemakṛṣṭīnāṃ patrāṇi kaluṣakanakānāṃ patrāṇi lihyāt krāmaṇayogena lepayedityāgāmiślokāt
-# sent_id = 329966
+# sent_id = 329965
 # sent_counter = 1
 # sent_subcounter = 
 1-4	pādādijīrṇasūte	_	_	_	_	_	_	_	_
@@ -14,32 +14,32 @@
 5-6	pādādinā	_	_	_	_	_	_	_	_
 5	pāda	pāda	NOUN	_	Case=Cpd	_	_	_	LemmaId=93551|OccId=1764191|Unsandhied=pāda|UnsandhiedReconstructed=True
 6	ādinā	ādi	NOUN	_	Case=Ins|Gender=Masc|Number=Sing	_	_	_	LemmaId=57973|OccId=1764192|Unsandhied=ādinā|UnsandhiedReconstructed=True
-7	pādārdhasamānadinā	jṛ	VERB	_	Case=Nom|Gender=Masc|Number=Sing|VerbForm=Part	_	_	_	LemmaId=157149|OccId=1764193|Unsandhied=jīrṇaḥ|UnsandhiedReconstructed=True
-8-9	jīrṇo	_	_	_	_	_	_	_	_
+7	jīrṇo	jṛ	VERB	_	Case=Nom|Gender=Masc|Number=Sing|VerbForm=Part	_	_	_	LemmaId=157149|OccId=1764193|Unsandhied=jīrṇaḥ|UnsandhiedReconstructed=True
+8-9	yo'sau	_	_	_	_	_	_	_	_
 8	yaḥ	yad	PRON	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=37877|OccId=1764194|Unsandhied=yaḥ|UnsandhiedReconstructed=True
 9	asau	adas	PRON	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=163742|OccId=1764195|Unsandhied=asau|UnsandhiedReconstructed=True
-10	yo'sau	sūta	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=98854|OccId=1764196|Unsandhied=sūtaḥ|UnsandhiedReconstructed=True
-11	sūtaḥ	tad	PRON	_	Case=Loc|Gender=Masc|Number=Sing	_	_	_	LemmaId=37875|OccId=1764197|Unsandhied=tasmin|UnsandhiedReconstructed=True
-12-13	tasmin	_	_	_	_	_	_	_	_
+10	sūtaḥ	sūta	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=98854|OccId=1764196|Unsandhied=sūtaḥ|UnsandhiedReconstructed=True
+11	tasmin	tad	PRON	_	Case=Loc|Gender=Masc|Number=Sing	_	_	_	LemmaId=37875|OccId=1764197|Unsandhied=tasmin|UnsandhiedReconstructed=True
+12-13	hemakṛṣṭīnāṃ	_	_	_	_	_	_	_	_
 12	hema	heman	NOUN	_	Case=Cpd	_	_	_	LemmaId=110826|OccId=1764198|Unsandhied=hema|UnsandhiedReconstructed=True
 13	kṛṣṭīnām	kṛṣṭi	NOUN	_	Case=Gen|Gender=Fem|Number=Plur	_	_	_	LemmaId=4068|OccId=1764199|Unsandhied=kṛṣṭīnām|UnsandhiedReconstructed=True
-14	hemakṛṣṭīnāṃ	pattra	NOUN	_	Case=Acc|Gender=Neut|Number=Plur	_	_	_	LemmaId=15540|OccId=1764200|Unsandhied=pattrāṇi|UnsandhiedReconstructed=True
-15-16	patrāṇi	_	_	_	_	_	_	_	_
+14	patrāṇi	pattra	NOUN	_	Case=Acc|Gender=Neut|Number=Plur	_	_	_	LemmaId=15540|OccId=1764200|Unsandhied=pattrāṇi|UnsandhiedReconstructed=True
+15-16	kaluṣakanakānāṃ	_	_	_	_	_	_	_	_
 15	kaluṣa	kaluṣa	ADJ	_	Case=Cpd	_	_	_	LemmaId=12671|OccId=1764201|Unsandhied=kaluṣa|UnsandhiedReconstructed=True
 16	kanakānām	kanaka	NOUN	_	Case=Gen|Gender=Neut|Number=Plur	_	_	_	LemmaId=1435|OccId=1764202|Unsandhied=kanakānām|UnsandhiedReconstructed=True
-17	kaluṣakanakānāṃ	pattra	NOUN	_	Case=Acc|Gender=Neut|Number=Plur	_	_	_	LemmaId=15540|OccId=1764203|Unsandhied=pattrāṇi|UnsandhiedReconstructed=True
-18	patrāṇi	lih	VERB	_	Tense=Pres|Mood=Opt|Person=3|Number=Sing	_	_	_	LemmaId=159189|OccId=1764204|Unsandhied=lihyāt
-19-20	lihyāt	_	_	_	_	_	_	_	_
+17	patrāṇi	pattra	NOUN	_	Case=Acc|Gender=Neut|Number=Plur	_	_	_	LemmaId=15540|OccId=1764203|Unsandhied=pattrāṇi|UnsandhiedReconstructed=True
+18	lihyāt	lih	VERB	_	Tense=Pres|Mood=Opt|Person=3|Number=Sing	_	_	_	LemmaId=159189|OccId=1764204|Unsandhied=lihyāt
+19-20	krāmaṇayogena	_	_	_	_	_	_	_	_
 19	krāmaṇa	krāmaṇa	NOUN	_	Case=Cpd	_	_	_	LemmaId=133777|OccId=1764205|Unsandhied=krāmaṇa|UnsandhiedReconstructed=True
 20	yogena	yoga	NOUN	_	Case=Ins|Gender=Masc|Number=Sing	_	_	_	LemmaId=65008|OccId=1764206|Unsandhied=yogena|UnsandhiedReconstructed=True
-21-24	krāmaṇayogena	_	_	_	_	_	_	_	_
+21-24	lepayedityāgāmiślokāt	_	_	_	_	_	_	_	_
 21	lepayet	lepay	VERB	_	Tense=Pres|Mood=Opt|Person=3|Number=Sing	_	_	_	LemmaId=158024|OccId=1764207|Unsandhied=lepayet
 22	iti	iti	PART	_		_	_	_	LemmaId=63331|OccId=1764208|Unsandhied=iti|UnsandhiedReconstructed=True
 23	āgāmi	āgāmin	ADJ	_	Case=Cpd	_	_	_	LemmaId=62052|OccId=1764209|Unsandhied=āgāmi|UnsandhiedReconstructed=True
 24	ślokāt	śloka	NOUN	_	Case=Abl|Gender=Neut|Number=Sing	_	_	_	LemmaId=41201|OccId=1764210|Unsandhied=ślokāt|UnsandhiedReconstructed=True
 
 # text = taccāha krāmaṇetyādi
-# sent_id = 329967
+# sent_id = 329966
 # sent_counter = 2
 # sent_subcounter = 
 1-3	taccāha	_	_	_	_	_	_	_	_
@@ -51,7 +51,7 @@
 5	ityādi	ityādi	ADJ	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=63350|OccId=1764215|Unsandhied=ityādi|UnsandhiedReconstructed=True
 
 # text = tato rasalepānantaraṃ krāmaṇayogena kunaṭīmākṣikaviṣam ityādinoktena vilipya tulyādhaḥ tulyaṃ yathā syāttathā adhobhāge nidhāya mūṣodare dhmātaṃ kuryāt
-# sent_id = 329968
+# sent_id = 329967
 # sent_counter = 3
 # sent_subcounter = 
 1	tato	tatas	ADV	_		_	_	_	LemmaId=95922|OccId=1764216|Unsandhied=tatas|UnsandhiedReconstructed=True
@@ -87,7 +87,7 @@
 24	kuryāt	kṛ	VERB	_	Tense=Pres|Mood=Opt|Person=3|Number=Sing	_	_	_	LemmaId=156168|OccId=1764245|Unsandhied=kuryāt
 
 # text = punaḥ paścāddhemnā kanakena sahitaṃ āvartya dhmātaṃ kuryāt
-# sent_id = 329969
+# sent_id = 329968
 # sent_counter = 4
 # sent_subcounter = 
 1	punaḥ	punar	ADV	_		_	_	_	LemmaId=143659|OccId=1764246|Unsandhied=punar|UnsandhiedReconstructed=True

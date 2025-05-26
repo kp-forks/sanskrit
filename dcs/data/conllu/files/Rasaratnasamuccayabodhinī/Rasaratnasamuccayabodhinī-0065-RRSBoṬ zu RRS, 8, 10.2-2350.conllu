@@ -3,33 +3,33 @@
 ## chapter: RRSBoṬ zu RRS, 8, 10.2
 ## chapter_id: 2350
 # text = jātarūpaṃ suvarṇam
-# sent_id = 365154
+# sent_id = 365153
 # sent_counter = 1
 # sent_subcounter = 
 1	jātarūpaṃ	jātarūpa	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=88579|OccId=704208|Unsandhied=jātarūpam|UnsandhiedReconstructed=True|WordSem=63536
 2	suvarṇam	suvarṇa	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=98257|OccId=704209|Unsandhied=suvarṇam|UnsandhiedReconstructed=True|WordSem=63536
 
 # text = samutthitam iti antarbhūtaṇyarthaprayogas tena samutthāpitaṃ śoṣitamityartha ūrdhvapātanāyantre sādhitamityartho vā
-# sent_id = 365155
+# sent_id = 365154
 # sent_counter = 2
 # sent_subcounter = 
 1	samutthitam	samutthā	VERB	_	Case=Nom|Gender=Neut|Number=Sing|VerbForm=Part	_	_	_	LemmaId=165292|OccId=704210|Unsandhied=samutthitam|UnsandhiedReconstructed=True|WordSem=130282
 2	iti	iti	PART	_		_	_	_	LemmaId=63331|OccId=704256|Unsandhied=iti|UnsandhiedReconstructed=True|WordSem=97363
-3	antarbhūtaṇyarthaprayogas	tad	PRON	_	Case=Ins|Gender=Masc|Number=Sing	_	_	_	LemmaId=37875|OccId=704211|Unsandhied=tena|UnsandhiedReconstructed=True|WordSem=129840
-4	tena	samutthāpay	VERB	_	Case=Nom|Gender=Neut|Number=Sing|VerbForm=Part	_	_	_	LemmaId=168324|OccId=704212|Unsandhied=samutthāpitam|UnsandhiedReconstructed=True|WordSem=130149
-5-7	samutthāpitaṃ	_	_	_	_	_	_	_	_
+3	tena	tad	PRON	_	Case=Ins|Gender=Masc|Number=Sing	_	_	_	LemmaId=37875|OccId=704211|Unsandhied=tena|UnsandhiedReconstructed=True|WordSem=129840
+4	samutthāpitaṃ	samutthāpay	VERB	_	Case=Nom|Gender=Neut|Number=Sing|VerbForm=Part	_	_	_	LemmaId=168324|OccId=704212|Unsandhied=samutthāpitam|UnsandhiedReconstructed=True|WordSem=130149
+5-7	śoṣitamityartha	_	_	_	_	_	_	_	_
 5	śoṣitam	śoṣay	VERB	_	Case=Nom|Gender=Neut|Number=Sing|VerbForm=Part	_	_	_	LemmaId=158135|OccId=704213|Unsandhied=śoṣitam|UnsandhiedReconstructed=True|WordSem=85418
 6	iti	iti	PART	_		_	_	_	LemmaId=63331|OccId=704214|Unsandhied=iti|UnsandhiedReconstructed=True|WordSem=97363
 7	arthaḥ	artha	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=53136|OccId=704215|Unsandhied=arthaḥ|UnsandhiedReconstructed=True|WordSem=28491
-8	śoṣitamityartha	ūrdhvapātanāyantra	NOUN	_	Case=Loc|Gender=Neut|Number=Sing	_	_	_	LemmaId=176697|OccId=704257|Unsandhied=ūrdhvapātanāyantre|UnsandhiedReconstructed=True|WordSem=127124
-9-11	ūrdhvapātanāyantre	_	_	_	_	_	_	_	_
+8	ūrdhvapātanāyantre	ūrdhvapātanāyantra	NOUN	_	Case=Loc|Gender=Neut|Number=Sing	_	_	_	LemmaId=176697|OccId=704257|Unsandhied=ūrdhvapātanāyantre|UnsandhiedReconstructed=True|WordSem=127124
+9-11	sādhitamityartho	_	_	_	_	_	_	_	_
 9	sādhitam	sādhay	VERB	_	Case=Nom|Gender=Neut|Number=Sing|VerbForm=Part	_	_	_	LemmaId=159171|OccId=2063787|Unsandhied=sādhitam|UnsandhiedReconstructed=True|WordSem=86264
 10	iti	iti	PART	_		_	_	_	LemmaId=63331|OccId=2063788|Unsandhied=iti|UnsandhiedReconstructed=True|WordSem=97363
 11	arthaḥ	artha	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=53136|OccId=2063789|Unsandhied=arthaḥ|UnsandhiedReconstructed=True|WordSem=28491
-12	sādhitamityartho	vā	CONJ	_		_	_	_	LemmaId=75765|OccId=704219|Unsandhied=vā|UnsandhiedReconstructed=True|WordSem=127042
+12	vā	vā	CONJ	_		_	_	_	LemmaId=75765|OccId=704219|Unsandhied=vā|UnsandhiedReconstructed=True|WordSem=127042
 
 # text = sā utthāpanakriyā
-# sent_id = 365156
+# sent_id = 365155
 # sent_counter = 3
 # sent_subcounter = 
 1	sā	tad	PRON	_	Case=Nom|Gender=Fem|Number=Sing	_	_	_	LemmaId=37875|OccId=704220|Unsandhied=sā|UnsandhiedReconstructed=True|WordSem=129840
@@ -38,7 +38,7 @@
 3	kriyā	kriyā	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	_	_	_	LemmaId=133808|OccId=704222|Unsandhied=kriyā|UnsandhiedReconstructed=True|WordSem=103704
 
 # text = kṛṣṭīti
-# sent_id = 365157
+# sent_id = 365156
 # sent_counter = 4
 # sent_subcounter = 
 1-2	kṛṣṭīti	_	_	_	_	_	_	_	_
@@ -46,7 +46,7 @@
 2	iti	iti	PART	_		_	_	_	LemmaId=63331|OccId=704224|Unsandhied=iti|UnsandhiedReconstructed=True|WordSem=97363
 
 # text = svarṇaraupyayoḥ sā kriyā kṛṣṭīti bodhyam
-# sent_id = 365158
+# sent_id = 365157
 # sent_counter = 5
 # sent_subcounter = 
 1-2	svarṇaraupyayoḥ	_	_	_	_	_	_	_	_
@@ -60,7 +60,7 @@
 7	bodhyam	budh	VERB	_	Case=Nom|Gender=Neut|Number=Sing|VerbForm=Gdv	_	_	_	LemmaId=157933|OccId=704229|Unsandhied=bodhyam|UnsandhiedReconstructed=True|WordSem=87012
 
 # text = rasādibhiḥ saha svarṇaṃ vā raupyaṃ vā kenacinmārakadravyeṇa saṃmardya bahuśaḥ ātape śoṣayed athavā rasagandhādibhirmāritaṃ svarṇaṃ raupyaṃ vā bahuvāram ūrdhvapātanayantreṇa samutthāpayet sā kriyā kṛṣṭī bodhyā
-# sent_id = 365159
+# sent_id = 365158
 # sent_counter = 6
 # sent_subcounter = 
 1-2	rasādibhiḥ	_	_	_	_	_	_	_	_

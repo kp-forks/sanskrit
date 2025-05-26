@@ -641,34 +641,34 @@
 15	bhakta	bhakta	NOUN	_	Case=Cpd	_	_	_	LemmaId=48378|OccId=1367624|Unsandhied=bhakta|UnsandhiedReconstructed=True|WordSem=35389
 16	upahitam	upadhā	VERB	_	Case=Acc|Gender=Neut|Number=Sing|VerbForm=Part	_	_	_	LemmaId=160406|OccId=1367625|Unsandhied=upahitam|UnsandhiedReconstructed=True
 17	pāyayed	pāyay	VERB	_	Tense=Pres|Mood=Opt|Person=3|Number=Sing	_	_	_	LemmaId=157462|OccId=1317552|Unsandhied=pāyayet|WordSem=128538
-18	ā	kaṇṭha	NOUN	_	Case=Abl|Gender=Masc|Number=Sing	_	_	_	LemmaId=1051|OccId=1317553|Unsandhied=kaṇṭhāt|UnsandhiedReconstructed=True|WordSem=27039
-19-20	kaṇṭhāt	_	_	_	_	_	_	_	_
+18	kaṇṭhāt	kaṇṭha	NOUN	_	Case=Abl|Gender=Masc|Number=Sing	_	_	_	LemmaId=1051|OccId=1317553|Unsandhied=kaṇṭhāt|UnsandhiedReconstructed=True|WordSem=27039
+19-20	pūrṇakoṣṭhaṃ	_	_	_	_	_	_	_	_
 19	pūrṇa	pūrṇa	ADJ	_	Case=Cpd	_	_	_	LemmaId=145579|OccId=1316774|Unsandhied=pūrṇa|UnsandhiedReconstructed=True|WordSem=72676
 20	koṣṭham	koṣṭha	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	_	_	_	LemmaId=5137|OccId=1316775|Unsandhied=koṣṭham|UnsandhiedReconstructed=True|WordSem=26486
-21	pūrṇakoṣṭhaṃ	ca	CONJ	_		_	_	_	LemmaId=157144|OccId=1316776|Unsandhied=ca|UnsandhiedReconstructed=True|WordSem=104004
-22	ca	vāmay	VERB	_	Tense=Pres|Mood=Opt|Person=3|Number=Sing	_	_	_	LemmaId=158947|OccId=1316777|Unsandhied=vāmayet|WordSem=128729
-23	vāmayet	vam	VERB	_	Case=Gen|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part	_	_	_	LemmaId=158945|OccId=1316778|Unsandhied=vamataḥ|UnsandhiedReconstructed=True|WordSem=84853
-24	vamataś	ca	CONJ	_		_	_	_	LemmaId=157144|OccId=1316779|Unsandhied=ca|UnsandhiedReconstructed=True|WordSem=104004
-25-28	ca	_	_	_	_	_	_	_	_
+21	ca	ca	CONJ	_		_	_	_	LemmaId=157144|OccId=1316776|Unsandhied=ca|UnsandhiedReconstructed=True|WordSem=104004
+22	vāmayet	vāmay	VERB	_	Tense=Pres|Mood=Opt|Person=3|Number=Sing	_	_	_	LemmaId=158947|OccId=1316777|Unsandhied=vāmayet|WordSem=128729
+23	vamataś	vam	VERB	_	Case=Gen|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part	_	_	_	LemmaId=158945|OccId=1316778|Unsandhied=vamataḥ|UnsandhiedReconstructed=True|WordSem=84853
+24	ca	ca	CONJ	_		_	_	_	LemmaId=157144|OccId=1316779|Unsandhied=ca|UnsandhiedReconstructed=True|WordSem=104004
+25-28	śalyaikadeśasaktaṃ	_	_	_	_	_	_	_	_
 25	śalya	śalya	NOUN	_	Case=Cpd	_	_	_	LemmaId=131040|OccId=1316780|Unsandhied=śalya|UnsandhiedReconstructed=True|WordSem=128323
 26	eka	eka	NUM	_	Case=Cpd	_	_	_	LemmaId=39102|OccId=1316781|Unsandhied=eka|UnsandhiedReconstructed=True
 27	deśa	deśa	NOUN	_	Case=Cpd	_	_	_	LemmaId=87204|OccId=1316782|Unsandhied=deśa|UnsandhiedReconstructed=True|WordSem=41831
 28	saktam	sañj	VERB	_	Case=Acc|Gender=Neut|Number=Sing|VerbForm=Part	_	_	_	LemmaId=157907|OccId=1316783|Unsandhied=saktam|UnsandhiedReconstructed=True|WordSem=90422
-29	śalyaikadeśasaktaṃ	jñā	VERB	_	VerbForm=Conv	_	_	_	LemmaId=157151|OccId=1316784|Unsandhied=jñātvā|UnsandhiedReconstructed=True|WordSem=93828
-30	jñātvā	sūtra	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	_	_	_	LemmaId=99128|OccId=1316785|Unsandhied=sūtram|UnsandhiedReconstructed=True|WordSem=21687
-31	sūtraṃ	sahas	NOUN	_	Case=Ins|Gender=Neut|Number=Sing	_	_	_	LemmaId=105710|OccId=1316786|Unsandhied=sahasā|UnsandhiedReconstructed=True|WordSem=24950
-32-33	sahasā	_	_	_	_	_	_	_	_
+29	jñātvā	jñā	VERB	_	VerbForm=Conv	_	_	_	LemmaId=157151|OccId=1316784|Unsandhied=jñātvā|UnsandhiedReconstructed=True|WordSem=93828
+30	sūtraṃ	sūtra	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	_	_	_	LemmaId=99128|OccId=1316785|Unsandhied=sūtram|UnsandhiedReconstructed=True|WordSem=21687
+31	sahasā	sahas	NOUN	_	Case=Ins|Gender=Neut|Number=Sing	_	_	_	LemmaId=105710|OccId=1316786|Unsandhied=sahasā|UnsandhiedReconstructed=True|WordSem=24950
+32-33	tvākṣipet	_	_	_	_	_	_	_	_
 32	tu	tu	PART	_		_	_	_	LemmaId=82701|OccId=1316787|Unsandhied=tu|UnsandhiedReconstructed=True
 33	ākṣipet	ākṣip	VERB	_	Tense=Pres|Mood=Opt|Person=3|Number=Sing	_	_	_	LemmaId=159720|OccId=1316788|Unsandhied=ākṣipet|WordSem=90390
-34	tvākṣipet	mṛdu	ADJ	_	Case=Ins|Gender=Masc|Number=Sing	_	_	_	LemmaId=137707|OccId=1316789|Unsandhied=mṛdunā|UnsandhiedReconstructed=True|WordSem=73086
-35	mṛdunā	vā	CONJ	_		_	_	_	LemmaId=75765|OccId=1316790|Unsandhied=vā|UnsandhiedReconstructed=True|WordSem=127042
-36-39	vā	_	_	_	_	_	_	_	_
+34	mṛdunā	mṛdu	ADJ	_	Case=Ins|Gender=Masc|Number=Sing	_	_	_	LemmaId=137707|OccId=1316789|Unsandhied=mṛdunā|UnsandhiedReconstructed=True|WordSem=73086
+35	vā	vā	CONJ	_		_	_	_	LemmaId=75765|OccId=1316790|Unsandhied=vā|UnsandhiedReconstructed=True|WordSem=127042
+36-39	dantadhāvanakūrcakenāpaharet	_	_	_	_	_	_	_	_
 36	danta	danta	NOUN	_	Case=Cpd	_	_	_	LemmaId=101010|OccId=1316791|Unsandhied=danta|UnsandhiedReconstructed=True|WordSem=25956
 37	dhāvana	dhāvana	NOUN	_	Case=Cpd	_	_	_	LemmaId=42623|OccId=1316792|Unsandhied=dhāvana|UnsandhiedReconstructed=True|WordSem=1510
 38	kūrcakena	kūrcaka	NOUN	_	Case=Ins|Gender=Masc|Number=Sing	_	_	_	LemmaId=3367|OccId=1316793|Unsandhied=kūrcakena|UnsandhiedReconstructed=True|WordSem=14520
 39	apaharet	apahṛ	VERB	_	Tense=Pres|Mood=Opt|Person=3|Number=Sing	_	_	_	LemmaId=158497|OccId=1316794|Unsandhied=apaharet|WordSem=90390
-40	dantadhāvanakūrcakenāpaharet	praṇud	VERB	_	Tense=Pres|Mood=Opt|Person=3|Number=Sing	_	_	_	LemmaId=162432|OccId=1317554|Unsandhied=praṇudet|WordSem=93737
-41-42	praṇuded	_	_	_	_	_	_	_	_
+40	praṇuded	praṇud	VERB	_	Tense=Pres|Mood=Opt|Person=3|Number=Sing	_	_	_	LemmaId=162432|OccId=1317554|Unsandhied=praṇudet|WordSem=93737
+41-42	vāntaḥ	_	_	_	_	_	_	_	_
 41	vā	vā	CONJ	_		_	_	_	LemmaId=75765|OccId=1317555|Unsandhied=vā|UnsandhiedReconstructed=True|WordSem=127042
 42	antar	antar	ADV	_		_	_	_	LemmaId=167614|OccId=1317556|Unsandhied=antar|UnsandhiedReconstructed=True|WordSem=97295
 
@@ -712,7 +712,7 @@
 10	rāśau	rāśi	NOUN	_	Case=Loc|Gender=Masc|Number=Sing	_	_	_	LemmaId=71106|OccId=1316807|Unsandhied=rāśau|UnsandhiedReconstructed=True|WordSem=37815
 11	vā	vā	CONJ	_		_	_	_	LemmaId=75765|OccId=1316808|Unsandhied=vā|UnsandhiedReconstructed=True|WordSem=127042
 12	nikhaned	nikhan	VERB	_	Tense=Pres|Mood=Opt|Person=3|Number=Sing	_	_	_	LemmaId=161262|OccId=1317566|Unsandhied=nikhanet|WordSem=89803
-13	ā	mukha	NOUN	_	Case=Abl|Gender=Neut|Number=Sing	_	_	_	LemmaId=136827|OccId=1317567|Unsandhied=mukhāt|UnsandhiedReconstructed=True|WordSem=26040
+13	mukhāt	mukha	NOUN	_	Case=Abl|Gender=Neut|Number=Sing	_	_	_	LemmaId=136827|OccId=1317567|Unsandhied=mukhāt|UnsandhiedReconstructed=True|WordSem=26040
 
 # text = grāsaśalye tu kaṇṭhāsakte niḥśaṅkam anavabuddhaṃ skandhe muṣṭinābhihanyāt snehaṃ madyaṃ pānīyaṃ vā pāyayet
 # sent_id = 2159

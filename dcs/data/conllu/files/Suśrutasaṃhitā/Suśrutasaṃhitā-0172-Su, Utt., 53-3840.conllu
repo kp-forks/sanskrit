@@ -388,7 +388,7 @@
 7	guḍa	guḍa	NOUN	_	Case=Cpd	_	_	_	LemmaId=124490|OccId=1522482|Unsandhied=guḍa|UnsandhiedReconstructed=True|WordSem=37240
 8	odanaḥ	odana	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=40091|OccId=1522483|Unsandhied=odanaḥ|UnsandhiedReconstructed=True
 
-# text = kṣīrānupānaṃ pitte tu pibet sarpiratandritaḥ
+# text = kṣīrānupānaṃ pitte tu pibet sarpir atandritaḥ
 # sent_id = 15777
 # sent_counter = 13
 # sent_subcounter = 1
@@ -398,9 +398,10 @@
 3	pitte	pitta	NOUN	_	Case=Loc|Gender=Neut|Number=Sing	_	_	_	LemmaId=95032|OccId=1522486|Unsandhied=pitte|UnsandhiedReconstructed=True
 4	tu	tu	PART	_		_	_	_	LemmaId=82701|OccId=1522487|Unsandhied=tu|UnsandhiedReconstructed=True
 5	pibet	pā	VERB	_	Tense=Pres|Mood=Opt|Person=3|Number=Sing	_	_	_	LemmaId=157391|OccId=1522488|Unsandhied=pibet
-6-7	sarpiratandritaḥ	_	_	_	_	_	_	_	_
-6	sarpiḥ	sarpis	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	_	_	_	LemmaId=104440|OccId=1522489|Unsandhied=sarpiḥ|UnsandhiedReconstructed=True
-7	atandritaḥ	atandrita	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=6802|OccId=1522490|Unsandhied=atandritaḥ|UnsandhiedReconstructed=True
+6	sarpir	sarpis	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	_	_	_	LemmaId=104440|OccId=5875579|Unsandhied=sarpiḥ
+7-8	atandritaḥ	_	_	_	_	_	_	_	_
+7	a	a	PART	_		_	_	_	LemmaId=213048|OccId=5875580|Unsandhied=a
+8	tandritaḥ	tandray	VERB	_	Case=Nom|Gender=Masc|Number=Sing|VerbForm=Part	_	_	_	LemmaId=222353|OccId=5875581|Unsandhied=tandritaḥ
 
 # text = aśnīyācca sasarpiṣkaṃ yaṣṭīmadhukapāyasam
 # sent_id = 15778

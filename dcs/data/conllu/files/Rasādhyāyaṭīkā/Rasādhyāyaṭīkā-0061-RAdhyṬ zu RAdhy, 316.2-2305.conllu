@@ -3,7 +3,7 @@
 ## chapter: RAdhyṬ zu RAdhy, 316.2
 ## chapter_id: 2305
 # text = iha śveta ākamadāramūlāni jvālayitvā līhālakāḥ kāryāḥ
-# sent_id = 101865
+# sent_id = 101864
 # sent_counter = 1
 # sent_subcounter = 
 1	iha	iha	ADV	_		_	_	_	LemmaId=63959|OccId=670788|Unsandhied=iha|UnsandhiedReconstructed=True
@@ -16,7 +16,7 @@
 7	kāryāḥ	kṛ	VERB	_	Case=Nom|Gender=Masc|Number=Plur|VerbForm=Gdv	_	_	_	LemmaId=156168|OccId=670791|Unsandhied=kāryāḥ|UnsandhiedReconstructed=True
 
 # text = tatasteṣu lihālakeṣu yatnena gartakān kṛtvā teṣu gartakeṣu vajrāṇi prakṣipya suvarṇasambandhini agniṣṭe kṣiptvā āmbilī āulibabūla
-# sent_id = 101866
+# sent_id = 101865
 # sent_counter = 2
 # sent_subcounter = 
 1-2	tatasteṣu	_	_	_	_	_	_	_	_
@@ -37,7 +37,7 @@
 14	kṣiptvā	kṣip	VERB	_	VerbForm=Conv	_	_	_	LemmaId=156198|OccId=670804|Unsandhied=kṣiptvā|UnsandhiedReconstructed=True
 
 # text = līhālakair agnisamānaṃ dhmātvā kulathyāḥ kvāthamadhye kṣiptvā vidhyāpayet anayā yuktyā hīrakāḥ sukhenāpi bhasmībhavanti
-# sent_id = 101867
+# sent_id = 101866
 # sent_counter = 3
 # sent_subcounter = 
 1	līhālakair	līhālaka	NOUN	_	Case=Ins|Gender=Masc|Number=Plur	_	_	_	LemmaId=176222|OccId=670910|Unsandhied=līhālakaiḥ|UnsandhiedReconstructed=True
@@ -45,20 +45,20 @@
 2	agni	agni	NOUN	_	Case=Cpd	_	_	_	LemmaId=5705|OccId=670805|Unsandhied=agni|UnsandhiedReconstructed=True
 3	samānam	samāna	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	_	_	_	LemmaId=29434|OccId=670806|Unsandhied=samānam|UnsandhiedReconstructed=True
 4	dhmātvā	dham	VERB	_	VerbForm=Conv	_	_	_	LemmaId=157579|OccId=670807|Unsandhied=dhmātvā|UnsandhiedReconstructed=True
-5-6	kulathyāḥ	_	_	_	_	_	_	_	_
+5-6	kvāthamadhye	_	_	_	_	_	_	_	_
 5	kvātha	kvātha	NOUN	_	Case=Cpd	_	_	_	LemmaId=134303|OccId=670808|Unsandhied=kvātha|UnsandhiedReconstructed=True
 6	madhye	madhya	NOUN	_	Case=Loc|Gender=Neut|Number=Sing	_	_	_	LemmaId=35810|OccId=670809|Unsandhied=madhye|UnsandhiedReconstructed=True
-7	kvāthamadhye	kṣip	VERB	_	VerbForm=Conv	_	_	_	LemmaId=156198|OccId=670810|Unsandhied=kṣiptvā|UnsandhiedReconstructed=True
-8	kṣiptvā	idam	PRON	_	Case=Ins|Gender=Fem|Number=Sing	_	_	_	LemmaId=37876|OccId=670811|Unsandhied=anayā|UnsandhiedReconstructed=True
-9	vidhyāpayet	yukti	NOUN	_	Case=Ins|Gender=Fem|Number=Sing	_	_	_	LemmaId=64687|OccId=670911|Unsandhied=yuktyā|UnsandhiedReconstructed=True
-10	anayā	hīraka	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	_	_	_	LemmaId=110384|OccId=670812|Unsandhied=hīrakāḥ|UnsandhiedReconstructed=True
-11-12	yuktyā	_	_	_	_	_	_	_	_
+7	kṣiptvā	kṣip	VERB	_	VerbForm=Conv	_	_	_	LemmaId=156198|OccId=670810|Unsandhied=kṣiptvā|UnsandhiedReconstructed=True
+8	anayā	idam	PRON	_	Case=Ins|Gender=Fem|Number=Sing	_	_	_	LemmaId=37876|OccId=670811|Unsandhied=anayā|UnsandhiedReconstructed=True
+9	yuktyā	yukti	NOUN	_	Case=Ins|Gender=Fem|Number=Sing	_	_	_	LemmaId=64687|OccId=670911|Unsandhied=yuktyā|UnsandhiedReconstructed=True
+10	hīrakāḥ	hīraka	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	_	_	_	LemmaId=110384|OccId=670812|Unsandhied=hīrakāḥ|UnsandhiedReconstructed=True
+11-12	sukhenāpi	_	_	_	_	_	_	_	_
 11	sukhena	sukha	NOUN	_	Case=Ins|Gender=Neut|Number=Sing	_	_	_	LemmaId=106817|OccId=670813|Unsandhied=sukhena|UnsandhiedReconstructed=True
 12	api	api	PART	_		_	_	_	LemmaId=21365|OccId=670814|Unsandhied=api|UnsandhiedReconstructed=True
-13	hīrakāḥ	bhasmībhū	VERB	_	Tense=Pres|Mood=Ind|Person=3|Number=Plur	_	_	_	LemmaId=166506|OccId=670815|Unsandhied=bhasmībhavanti
+13	bhasmībhavanti	bhasmībhū	VERB	_	Tense=Pres|Mood=Ind|Person=3|Number=Plur	_	_	_	LemmaId=166506|OccId=670815|Unsandhied=bhasmībhavanti
 
 # text = iti hīrakabhasmīkaraṇaṃ caturtham
-# sent_id = 101868
+# sent_id = 101867
 # sent_counter = 4
 # sent_subcounter = 
 1	iti	iti	PART	_		_	_	_	LemmaId=63331|OccId=670816|Unsandhied=iti|UnsandhiedReconstructed=True

@@ -390,7 +390,7 @@
 6	utsaṅginīm	utsaṅginī	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	_	_	_	LemmaId=56077|OccId=1448623|Unsandhied=utsaṅginīm|UnsandhiedReconstructed=True
 7	api	api	PART	_		_	_	_	LemmaId=21365|OccId=1448624|Unsandhied=api|UnsandhiedReconstructed=True
 
-# text = kalpayitvā tu śastreṇa likhet paścādatandritaḥ
+# text = kalpayitvā tu śastreṇa likhet paścād atandritaḥ
 # sent_id = 12247
 # sent_counter = 16
 # sent_subcounter = 2
@@ -398,9 +398,10 @@
 2	tu	tu	PART	_		_	_	_	LemmaId=82701|OccId=1448626|Unsandhied=tu|UnsandhiedReconstructed=True
 3	śastreṇa	śastra	NOUN	_	Case=Ins|Gender=Neut|Number=Sing	_	_	_	LemmaId=131110|OccId=1448627|Unsandhied=śastreṇa|UnsandhiedReconstructed=True
 4	likhet	likh	VERB	_	Tense=Pres|Mood=Opt|Person=3|Number=Sing	_	_	_	LemmaId=158442|OccId=1448628|Unsandhied=likhet
-5-6	paścādatandritaḥ	_	_	_	_	_	_	_	_
-5	paścāt	paścāt	ADV	_		_	_	_	LemmaId=92800|OccId=1448629|Unsandhied=paścāt|UnsandhiedReconstructed=True
-6	atandritaḥ	atandrita	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=6802|OccId=1448630|Unsandhied=atandritaḥ|UnsandhiedReconstructed=True
+5	paścād	paścāt	ADV	_		_	_	_	LemmaId=92800|OccId=5875554|Unsandhied=paścāt
+6-7	atandritaḥ	_	_	_	_	_	_	_	_
+6	a	a	PART	_		_	_	_	LemmaId=213048|OccId=5875555|Unsandhied=a
+7	tandritaḥ	tandray	VERB	_	Case=Nom|Gender=Masc|Number=Sing|VerbForm=Part	_	_	_	LemmaId=222353|OccId=5875556|Unsandhied=tandritaḥ
 
 # text = bhaveyurvartmasu ca yāḥ piḍakāḥ kaṭhinā bhṛśam
 # sent_id = 12248

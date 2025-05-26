@@ -1006,7 +1006,9 @@
 5-6	saptarātram	_	_	_	_	_	_	_	_
 5	sapta	saptan	NUM	_	Case=Cpd	_	_	_	LemmaId=166083|OccId=1363787|Unsandhied=sapta|UnsandhiedReconstructed=True|WordSem=59917
 6	rātram	rātra	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	_	_	_	LemmaId=70684|OccId=1363788|Unsandhied=rātram|UnsandhiedReconstructed=True|WordSem=65905
-7	atandritaḥ	atandrita	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=6802|OccId=1363789|Unsandhied=atandritaḥ|UnsandhiedReconstructed=True|WordSem=80366
+7-8	atandritaḥ	_	_	_	_	_	_	_	_
+7	a	a	PART	_		_	_	_	LemmaId=213048|OccId=5875521|Unsandhied=a
+8	tandritaḥ	tandray	VERB	_	Case=Nom|Gender=Masc|Number=Sing|VerbForm=Part	_	_	_	LemmaId=222353|OccId=5875522|Unsandhied=tandritaḥ
 
 # text = hanvasthinī samānīya hanusandhau visaṃhate
 # sent_id = 7118
@@ -1113,9 +1115,9 @@
 1	nāsāṃ	nāsā	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	_	_	_	LemmaId=33840|OccId=1363817|Unsandhied=nāsām|UnsandhiedReconstructed=True|WordSem=27262
 2	sannāṃ	sad	VERB	_	Case=Acc|Gender=Fem|Number=Sing|VerbForm=Part	_	_	_	LemmaId=157285|OccId=1363818|Unsandhied=sannām|UnsandhiedReconstructed=True|WordSem=85000
 3	vivṛttāṃ	vivṛt	VERB	_	Case=Acc|Gender=Fem|Number=Sing|VerbForm=Part	_	_	_	LemmaId=163599|OccId=1363819|Unsandhied=vivṛttām|UnsandhiedReconstructed=True|WordSem=93456
-4	vā	ṛju	ADJ	_	Case=Acc|Gender=Fem|Number=Sing	_	_	_	LemmaId=38884|OccId=1363821|Unsandhied=ṛjum|UnsandhiedReconstructed=True|WordSem=79679
-5	ṛjvīṃ	kṛ	VERB	_	VerbForm=Conv	_	_	_	LemmaId=156168|OccId=1363822|Unsandhied=kṛtvā|UnsandhiedReconstructed=True|WordSem=91626
-6	kṛtvā	śalākā	NOUN	_	Case=Ins|Gender=Fem|Number=Sing	_	_	_	LemmaId=128012|OccId=1363823|Unsandhied=śalākayā|UnsandhiedReconstructed=True|WordSem=19679
+4	ṛjvīṃ	ṛju	ADJ	_	Case=Acc|Gender=Fem|Number=Sing	_	_	_	LemmaId=38884|OccId=1363821|Unsandhied=ṛjum|UnsandhiedReconstructed=True|WordSem=79679
+5	kṛtvā	kṛ	VERB	_	VerbForm=Conv	_	_	_	LemmaId=156168|OccId=1363822|Unsandhied=kṛtvā|UnsandhiedReconstructed=True|WordSem=91626
+6	śalākayā	śalākā	NOUN	_	Case=Ins|Gender=Fem|Number=Sing	_	_	_	LemmaId=128012|OccId=1363823|Unsandhied=śalākayā|UnsandhiedReconstructed=True|WordSem=19679
 
 # text = pṛthaṅnāsikayor nāḍyau dvimukhyau saṃpraveśayet
 # sent_id = 7127

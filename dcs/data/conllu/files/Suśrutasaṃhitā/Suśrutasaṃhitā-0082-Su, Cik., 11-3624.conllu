@@ -739,7 +739,7 @@
 2	ca	ca	CONJ	_		_	_	_	LemmaId=157144|OccId=1396377|Unsandhied=ca|UnsandhiedReconstructed=True
 3	atra	atra	ADV	_		_	_	_	LemmaId=7442|OccId=1396378|Unsandhied=atra|UnsandhiedReconstructed=True
 
-# text = adhano vaidyasaṃdeśād evaṃ kurvannatandritaḥ
+# text = adhano vaidyasaṃdeśād evaṃ kurvann atandritaḥ
 # sent_id = 7727
 # sent_counter = 13
 # sent_subcounter = 2
@@ -748,9 +748,10 @@
 2	vaidya	vaidya	NOUN	_	Case=Cpd	_	_	_	LemmaId=118745|OccId=1396517|Unsandhied=vaidya|UnsandhiedReconstructed=True|WordSem=45323
 3	saṃdeśāt	saṃdeśa	NOUN	_	Case=Abl|Gender=Masc|Number=Sing	_	_	_	LemmaId=17597|OccId=1396518|Unsandhied=saṃdeśāt|UnsandhiedReconstructed=True|WordSem=33613
 4	evaṃ	evam	ADV	_		_	_	_	LemmaId=39758|OccId=1396519|Unsandhied=evam|UnsandhiedReconstructed=True|WordSem=97363
-5-6	kurvannatandritaḥ	_	_	_	_	_	_	_	_
-5	kurvan	kṛ	VERB	_	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part	_	_	_	LemmaId=156168|OccId=1396520|Unsandhied=kurvan|UnsandhiedReconstructed=True|WordSem=84543
-6	atandritaḥ	atandrita	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=6802|OccId=1396521|Unsandhied=atandritaḥ|UnsandhiedReconstructed=True|WordSem=80366
+5	kurvann	kṛ	VERB	_	Tense=Past|Mood=Jus|Person=3|Number=Plur	_	_	_	LemmaId=156168|OccId=5875532|Unsandhied=kurvan
+6-7	atandritaḥ	_	_	_	_	_	_	_	_
+6	a	a	PART	_		_	_	_	LemmaId=213048|OccId=5875533|Unsandhied=a
+7	tandritaḥ	tandray	VERB	_	Case=Nom|Gender=Masc|Number=Sing|VerbForm=Part	_	_	_	LemmaId=222353|OccId=5875534|Unsandhied=tandritaḥ
 
 # text = saṃvatsarādantarādvā pramehāt pratimucyate
 # sent_id = 7728

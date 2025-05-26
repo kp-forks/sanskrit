@@ -3,7 +3,7 @@
 ## chapter: JB, 3, 123
 ## chapter_id: 12192
 # text = kṛṣṇasarpa u haivaināṃ pratyuttasthau
-# sent_id = 654553
+# sent_id = 656417
 # sent_counter = 1
 # sent_subcounter = 
 1	kṛṣṇasarpa	kṛṣṇasarpa	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=203255|OccId=4948357|Unsandhied=kṛṣṇasarpaḥ
@@ -15,7 +15,7 @@
 6	pratyuttasthau	pratyutthā	VERB	_	Tense=Past|Mood=Ind|Person=3|Number=Sing	_	_	_	LemmaId=162832|OccId=4948461|Unsandhied=pratyuttasthau|Punctuation=fullStop
 
 # text = sā ha tad eva nirvidyopaviveśa
-# sent_id = 654554
+# sent_id = 656418
 # sent_counter = 2
 # sent_subcounter = 
 1	sā	tad	PRON	_	Case=Nom|Gender=Fem|Number=Sing	_	_	_	LemmaId=37875|OccId=4948361|Unsandhied=sā
@@ -27,7 +27,7 @@
 6	upaviveśa	upaviś	VERB	_	Tense=Past|Mood=Ind|Person=3|Number=Sing	_	_	_	LemmaId=160546|OccId=4948366|Unsandhied=upaviveśa|Punctuation=fullStop
 
 # text = atha hāśvinau darvihomiṇau bhiṣajyantāv idaṃ ceratur anapisomau
-# sent_id = 654555
+# sent_id = 656419
 # sent_counter = 3
 # sent_subcounter = 
 1	atha	atha	ADV	_		_	_	_	LemmaId=7467|OccId=4948367|Unsandhied=atha
@@ -45,7 +45,7 @@
 10	apisomau	apisoma	ADJ	_	Case=Nom|Gender=Masc|Number=Dual	_	_	_	LemmaId=222437|OccId=4948471|Unsandhied=apisomau|Punctuation=fullStop
 
 # text = tau hainām etyocatuḥ kumāri sthaviro vā ayam asarvo nālaṃ patitvanāyāvayor jāyaidhīti
-# sent_id = 654556
+# sent_id = 656420
 # sent_counter = 4
 # sent_subcounter = 
 1	tau	tad	PRON	_	Case=Nom|Gender=Masc|Number=Dual	_	_	_	LemmaId=37875|OccId=4948375|Unsandhied=tau
@@ -59,20 +59,22 @@
 7	sthaviro	sthavira	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=103125|OccId=4948381|Unsandhied=sthaviraḥ
 8	vā	vai	PART	_		_	_	_	LemmaId=118154|OccId=4948382|Unsandhied=vai
 9	ayam	idam	PRON	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=37876|OccId=4948383|Unsandhied=ayam
-10	asarvo	asarva	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=60895|OccId=4948384|Unsandhied=asarvaḥ
-11-12	nālaṃ	_	_	_	_	_	_	_	_
-11	na	na	PART	_		_	_	_	LemmaId=43432|OccId=4948385|Unsandhied=na
-12	alam	alam	ADV	_		_	_	_	LemmaId=53665|OccId=4948386|Unsandhied=alam
-13-14	patitvanāyāvayor	_	_	_	_	_	_	_	_
-13	patitvanāya	patitvana	NOUN	_	Case=Dat|Gender=Neut|Number=Sing	_	_	_	LemmaId=15644|OccId=4948462|Unsandhied=patitvanāya
-14	āvayoḥ	mad	PRON	_	Case=Gen|Number=Dual	_	_	_	LemmaId=37879|OccId=4948463|Unsandhied=āvayoḥ
-15-17	jāyaidhīti	_	_	_	_	_	_	_	_
-15	jāyā	jāyā	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	_	_	_	LemmaId=88811|OccId=4948387|Unsandhied=jāyā
-16	edhi	as	VERB	_	Tense=Pres|Mood=Imp|Person=2|Number=Sing	_	_	_	LemmaId=156122|OccId=4948388|Unsandhied=edhi
-17	iti	iti	PART	_		_	_	_	LemmaId=63331|OccId=4948389|Unsandhied=iti|Punctuation=fullStop
+10-11	asarvo	_	_	_	_	_	_	_	_
+10	a	a	PART	_		_	_	_	LemmaId=213048|OccId=5879782|Unsandhied=a
+11	sarvaḥ	sarva	PRON	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=104444|OccId=5879783|Unsandhied=sarvaḥ
+12-13	nālaṃ	_	_	_	_	_	_	_	_
+12	na	na	PART	_		_	_	_	LemmaId=43432|OccId=4948385|Unsandhied=na
+13	alam	alam	ADV	_		_	_	_	LemmaId=53665|OccId=4948386|Unsandhied=alam
+14-15	patitvanāyāvayor	_	_	_	_	_	_	_	_
+14	patitvanāya	patitvana	NOUN	_	Case=Dat|Gender=Neut|Number=Sing	_	_	_	LemmaId=15644|OccId=4948462|Unsandhied=patitvanāya
+15	āvayoḥ	mad	PRON	_	Case=Gen|Number=Dual	_	_	_	LemmaId=37879|OccId=4948463|Unsandhied=āvayoḥ
+16-18	jāyaidhīti	_	_	_	_	_	_	_	_
+16	jāyā	jāyā	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	_	_	_	LemmaId=88811|OccId=4948387|Unsandhied=jāyā
+17	edhi	as	VERB	_	Tense=Pres|Mood=Imp|Person=2|Number=Sing	_	_	_	LemmaId=156122|OccId=4948388|Unsandhied=edhi
+18	iti	iti	PART	_		_	_	_	LemmaId=63331|OccId=4948389|Unsandhied=iti|Punctuation=fullStop
 
 # text = neti hovāca
-# sent_id = 654557
+# sent_id = 656421
 # sent_counter = 5
 # sent_subcounter = 
 1-2	neti	_	_	_	_	_	_	_	_
@@ -83,7 +85,7 @@
 4	uvāca	vac	VERB	_	Tense=Past|Mood=Ind|Person=3|Number=Sing	_	_	_	LemmaId=157264|OccId=4948393|Unsandhied=uvāca|Punctuation=fullStop
 
 # text = yasmā eva mā pitādāt tasya jāyā bhaviṣyāmīti
-# sent_id = 654558
+# sent_id = 656422
 # sent_counter = 6
 # sent_subcounter = 
 1	yasmā	yad	PRON	_	Case=Dat|Gender=Masc|Number=Sing	_	_	_	LemmaId=37877|OccId=4948394|Unsandhied=yasmai
@@ -99,7 +101,7 @@
 9	iti	iti	PART	_		_	_	_	LemmaId=63331|OccId=4948402|Unsandhied=iti|Punctuation=fullStop
 
 # text = taddhāyam ājughoṣa
-# sent_id = 654559
+# sent_id = 656423
 # sent_counter = 7
 # sent_subcounter = 
 1-3	taddhāyam	_	_	_	_	_	_	_	_
@@ -109,7 +111,7 @@
 4	ājughoṣa	āghuṣ	VERB	_	Tense=Past|Mood=Ind|Person=3|Number=Sing	_	_	_	LemmaId=159732|OccId=4948467|Unsandhied=ājughoṣa|Punctuation=fullStop
 
 # text = atha hemau preyatuḥ
-# sent_id = 654560
+# sent_id = 656424
 # sent_counter = 8
 # sent_subcounter = 
 1	atha	atha	ADV	_		_	_	_	LemmaId=7467|OccId=4948403|Unsandhied=atha
@@ -119,7 +121,7 @@
 4	preyatuḥ	pre	VERB	_	Tense=Past|Mood=Ind|Person=3|Number=Dual	_	_	_	LemmaId=163183|OccId=4948468|Unsandhied=preyatuḥ|Punctuation=fullStop
 
 # text = sa hovāca kumāri ko nv eṣa ghoṣo 'bhūd iti
-# sent_id = 654561
+# sent_id = 656425
 # sent_counter = 9
 # sent_subcounter = 
 1	sa	tad	PRON	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=37875|OccId=4948406|Unsandhied=sa
@@ -135,7 +137,7 @@
 10	iti	iti	PART	_		_	_	_	LemmaId=63331|OccId=4948415|Unsandhied=iti|Punctuation=fullStop
 
 # text = puruṣau memāv upāgātāṃ yat kalyāṇatamaṃ rūpāṇāṃ tena rūpeṇeti
-# sent_id = 654562
+# sent_id = 656426
 # sent_counter = 10
 # sent_subcounter = 
 1	puruṣau	puruṣa	NOUN	_	Case=Nom|Gender=Masc|Number=Dual	_	_	_	LemmaId=144647|OccId=4948416|Unsandhied=puruṣau
@@ -152,7 +154,7 @@
 10	iti	iti	PART	_		_	_	_	LemmaId=63331|OccId=4948425|Unsandhied=iti|Punctuation=fullStop
 
 # text = tau tvā kim avocatām iti
-# sent_id = 654563
+# sent_id = 656427
 # sent_counter = 11
 # sent_subcounter = 
 1	tau	tad	PRON	_	Case=Nom|Gender=Masc|Number=Dual	_	_	_	LemmaId=37875|OccId=4948426|Unsandhied=tau
@@ -162,27 +164,29 @@
 5	iti	iti	PART	_		_	_	_	LemmaId=63331|OccId=4948430|Unsandhied=iti|Punctuation=fullStop
 
 # text = kumāri sthaviro vā ayam asarvo nālaṃ patitvanāyāvayor jāyaidhīti
-# sent_id = 654564
+# sent_id = 656428
 # sent_counter = 12
 # sent_subcounter = 
 1	kumāri	kumārī	NOUN	_	Case=Voc|Gender=Fem|Number=Sing	_	_	_	LemmaId=24503|OccId=4948431|Unsandhied=kumāri
 2	sthaviro	sthavira	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=103125|OccId=4948432|Unsandhied=sthaviraḥ
 3	vā	vai	PART	_		_	_	_	LemmaId=118154|OccId=4948433|Unsandhied=vai
 4	ayam	idam	PRON	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=37876|OccId=4948434|Unsandhied=ayam
-5	asarvo	asarva	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=60895|OccId=4948435|Unsandhied=asarvaḥ
-6-7	nālaṃ	_	_	_	_	_	_	_	_
-6	na	na	PART	_		_	_	_	LemmaId=43432|OccId=4948436|Unsandhied=na
-7	alam	alam	ADV	_		_	_	_	LemmaId=53665|OccId=4948437|Unsandhied=alam
-8-9	patitvanāyāvayor	_	_	_	_	_	_	_	_
-8	patitvanāya	patitvana	NOUN	_	Case=Dat|Gender=Neut|Number=Sing	_	_	_	LemmaId=15644|OccId=4948438|Unsandhied=patitvanāya
-9	āvayoḥ	mad	PRON	_	Case=Gen|Number=Dual	_	_	_	LemmaId=37879|OccId=4948439|Unsandhied=āvayoḥ
-10-12	jāyaidhīti	_	_	_	_	_	_	_	_
-10	jāyā	jāyā	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	_	_	_	LemmaId=88811|OccId=4948440|Unsandhied=jāyā
-11	edhi	as	VERB	_	Tense=Pres|Mood=Imp|Person=2|Number=Sing	_	_	_	LemmaId=156122|OccId=4948441|Unsandhied=edhi
-12	iti	iti	PART	_		_	_	_	LemmaId=63331|OccId=4948442|Unsandhied=iti|Punctuation=fullStop
+5-6	asarvo	_	_	_	_	_	_	_	_
+5	a	a	PART	_		_	_	_	LemmaId=213048|OccId=5879784|Unsandhied=a
+6	sarvaḥ	sarva	PRON	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=104444|OccId=5879785|Unsandhied=sarvaḥ
+7-8	nālaṃ	_	_	_	_	_	_	_	_
+7	na	na	PART	_		_	_	_	LemmaId=43432|OccId=4948436|Unsandhied=na
+8	alam	alam	ADV	_		_	_	_	LemmaId=53665|OccId=4948437|Unsandhied=alam
+9-10	patitvanāyāvayor	_	_	_	_	_	_	_	_
+9	patitvanāya	patitvana	NOUN	_	Case=Dat|Gender=Neut|Number=Sing	_	_	_	LemmaId=15644|OccId=4948438|Unsandhied=patitvanāya
+10	āvayoḥ	mad	PRON	_	Case=Gen|Number=Dual	_	_	_	LemmaId=37879|OccId=4948439|Unsandhied=āvayoḥ
+11-13	jāyaidhīti	_	_	_	_	_	_	_	_
+11	jāyā	jāyā	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	_	_	_	LemmaId=88811|OccId=4948440|Unsandhied=jāyā
+12	edhi	as	VERB	_	Tense=Pres|Mood=Imp|Person=2|Number=Sing	_	_	_	LemmaId=156122|OccId=4948441|Unsandhied=edhi
+13	iti	iti	PART	_		_	_	_	LemmaId=63331|OccId=4948442|Unsandhied=iti|Punctuation=fullStop
 
 # text = sā tvaṃ kim avoca iti
-# sent_id = 654565
+# sent_id = 656429
 # sent_counter = 13
 # sent_subcounter = 
 1	sā	tad	PRON	_	Case=Nom|Gender=Fem|Number=Sing	_	_	_	LemmaId=37875|OccId=4948443|Unsandhied=sā
@@ -192,7 +196,7 @@
 5	iti	iti	PART	_		_	_	_	LemmaId=63331|OccId=4948447|Unsandhied=iti|Punctuation=fullStop
 
 # text = nety aham avocaṃ yasmā eva mā pitādāt tasya jāyā bhaviṣyāmīti
-# sent_id = 654566
+# sent_id = 656430
 # sent_counter = 14
 # sent_subcounter = 
 1-2	nety	_	_	_	_	_	_	_	_

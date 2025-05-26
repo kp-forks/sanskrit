@@ -1053,7 +1053,9 @@
 8	yā	yad	PRON	_	Case=Nom|Gender=Fem|Number=Sing	_	_	_	LemmaId=37877|OccId=1513990|Unsandhied=yā|UnsandhiedReconstructed=True
 9	api	api	PART	_		_	_	_	LemmaId=21365|OccId=1513991|Unsandhied=api|UnsandhiedReconstructed=True
 10	ca	ca	CONJ	_		_	_	_	LemmaId=157144|OccId=1513992|Unsandhied=ca|UnsandhiedReconstructed=True
-11	madyapasya	madyapa	ADJ	_	Case=Gen|Gender=Masc|Number=Sing	_	_	_	LemmaId=35382|OccId=1513993|Unsandhied=madyapasya|UnsandhiedReconstructed=True
+11-12	madyapasya	_	_	_	_	_	_	_	_
+11	madya	madya	NOUN	_	Case=Cpd	_	_	_	LemmaId=35378|OccId=5879259|Unsandhied=madya
+12	pasya	pa	ADJ	_	Case=Gen|Gender=Masc|Number=Sing	_	_	_	LemmaId=223203|OccId=5879260|Unsandhied=pasya
 
 # text = tṛṣṇodbhavāṃ hanti jalaṃ suśītaṃ saśarkaraṃ sekṣurasaṃ tathāmbhaḥ
 # sent_id = 15421

@@ -3,7 +3,7 @@
 ## chapter: MuA zu RHT, 4, 5.2
 ## chapter_id: 2230
 # text = pakṣacchinnapāradasya lakṣaṇamāha netyādi
-# sent_id = 328821
+# sent_id = 328820
 # sent_counter = 1
 # sent_subcounter = 
 1-2	pakṣacchinnapāradasya	_	_	_	_	_	_	_	_
@@ -17,7 +17,7 @@
 6	ityādi	ityādi	ADJ	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=63350|OccId=621341|Unsandhied=ityādi|UnsandhiedReconstructed=True
 
 # text = evaṃvidhaḥ pāradaḥ sūto yaḥ sa pakṣacchinnaḥ pakṣau chinnau cheditau yasyeti samāsaḥ
-# sent_id = 328822
+# sent_id = 328821
 # sent_counter = 2
 # sent_subcounter = 
 1	evaṃvidhaḥ	evaṃvidha	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=39762|OccId=621417|Unsandhied=evaṃvidhaḥ|UnsandhiedReconstructed=True|WordSem=72778
@@ -35,7 +35,7 @@
 12	samāsaḥ	samāsa	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=29636|OccId=621351|Unsandhied=samāsaḥ|UnsandhiedReconstructed=True|WordSem=29784
 
 # text = sa kaḥ yo nādhaḥ patati adhaḥpātane kṛte ūrdhvato 'dhobhāgo na patati punaradhobhāgata ūrdhvapātane kṛte ūrdhvaṃ na yāti anudgārī acañcalo bhavet yantre svastha eva tiṣṭhatītyarthaḥ
-# sent_id = 328823
+# sent_id = 328822
 # sent_counter = 3
 # sent_subcounter = 
 1	sa	tad	PRON	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=37875|OccId=621352|Unsandhied=saḥ|UnsandhiedReconstructed=True|WordSem=129840
@@ -60,18 +60,20 @@
 18	na	na	PART	_		_	_	_	LemmaId=43432|OccId=621368|Unsandhied=na|UnsandhiedReconstructed=True|WordSem=96750
 19	yāti	yā	VERB	_	Tense=Pres|Mood=Ind|Person=3|Number=Sing	_	_	_	LemmaId=157263|OccId=621369|Unsandhied=yāti|WordSem=92595
 20	anudgārī	anudgārin	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=175656|OccId=621426|Unsandhied=anudgārī|UnsandhiedReconstructed=True|WordSem=130427
-21	acañcalo	acañcala	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=171519|OccId=621370|Unsandhied=acañcalaḥ|UnsandhiedReconstructed=True|WordSem=71703
-22	bhavet	bhū	VERB	_	Tense=Pres|Mood=Opt|Person=3|Number=Sing	_	_	_	LemmaId=157250|OccId=621371|Unsandhied=bhavet|WordSem=95892
-23	yantre	yantra	NOUN	_	Case=Loc|Gender=Neut|Number=Sing	_	_	_	LemmaId=73751|OccId=621372|Unsandhied=yantre|UnsandhiedReconstructed=True|WordSem=103156
-24	svastha	svastha	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=120225|OccId=621373|Unsandhied=svasthaḥ|UnsandhiedReconstructed=True|WordSem=72265
-25	eva	eva	PART	_		_	_	_	LemmaId=39754|OccId=621374|Unsandhied=eva|UnsandhiedReconstructed=True|WordSem=96832
-26-28	tiṣṭhatītyarthaḥ	_	_	_	_	_	_	_	_
-26	tiṣṭhati	sthā	VERB	_	Tense=Pres|Mood=Ind|Person=3|Number=Sing	_	_	_	LemmaId=157340|OccId=621375|Unsandhied=tiṣṭhati|WordSem=96437
-27	iti	iti	PART	_		_	_	_	LemmaId=63331|OccId=621376|Unsandhied=iti|UnsandhiedReconstructed=True|WordSem=97363
-28	arthaḥ	artha	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=53136|OccId=621377|Unsandhied=arthaḥ|UnsandhiedReconstructed=True|WordSem=28491
+21-22	acañcalo	_	_	_	_	_	_	_	_
+21	a	a	PART	_		_	_	_	LemmaId=213048|OccId=5877459|Unsandhied=a
+22	cañcalaḥ	cañcala	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=161816|OccId=5877460|Unsandhied=cañcalaḥ
+23	bhavet	bhū	VERB	_	Tense=Pres|Mood=Opt|Person=3|Number=Sing	_	_	_	LemmaId=157250|OccId=621371|Unsandhied=bhavet|WordSem=95892
+24	yantre	yantra	NOUN	_	Case=Loc|Gender=Neut|Number=Sing	_	_	_	LemmaId=73751|OccId=621372|Unsandhied=yantre|UnsandhiedReconstructed=True|WordSem=103156
+25	svastha	svastha	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=120225|OccId=621373|Unsandhied=svasthaḥ|UnsandhiedReconstructed=True|WordSem=72265
+26	eva	eva	PART	_		_	_	_	LemmaId=39754|OccId=621374|Unsandhied=eva|UnsandhiedReconstructed=True|WordSem=96832
+27-29	tiṣṭhatītyarthaḥ	_	_	_	_	_	_	_	_
+27	tiṣṭhati	sthā	VERB	_	Tense=Pres|Mood=Ind|Person=3|Number=Sing	_	_	_	LemmaId=157340|OccId=621375|Unsandhied=tiṣṭhati|WordSem=96437
+28	iti	iti	PART	_		_	_	_	LemmaId=63331|OccId=621376|Unsandhied=iti|UnsandhiedReconstructed=True|WordSem=97363
+29	arthaḥ	artha	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=53136|OccId=621377|Unsandhied=arthaḥ|UnsandhiedReconstructed=True|WordSem=28491
 
 # text = punaḥ kiṃviśiṣṭaḥ abhrajīrṇaḥ abhrakaṃ jīrṇaṃ niḥśeṣatām āptaṃ yasmin rasa iti samāsaḥ
-# sent_id = 328824
+# sent_id = 328823
 # sent_counter = 4
 # sent_subcounter = 
 1	punaḥ	punar	ADV	_		_	_	_	LemmaId=143659|OccId=621378|Unsandhied=punar|UnsandhiedReconstructed=True|WordSem=96784
@@ -91,7 +93,7 @@
 13	samāsaḥ	samāsa	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=29636|OccId=621387|Unsandhied=samāsaḥ|UnsandhiedReconstructed=True|WordSem=29784
 
 # text = grāsamātreṇa pakṣacchedo na jāyate yāvanna cāritamabhrakaṃ jaratīti dhvanyarthaḥ
-# sent_id = 328825
+# sent_id = 328824
 # sent_counter = 5
 # sent_subcounter = 
 1-2	grāsamātreṇa	_	_	_	_	_	_	_	_
@@ -112,7 +114,7 @@
 12	dhvanyarthaḥ	dhvanyartha	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=43373|OccId=621399|Unsandhied=dhvanyarthaḥ|UnsandhiedReconstructed=True|WordSem=28504
 
 # text = sa pakṣacchinnaḥ sūta iti
-# sent_id = 328826
+# sent_id = 328825
 # sent_counter = 6
 # sent_subcounter = 
 1	sa	tad	PRON	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=37875|OccId=621400|Unsandhied=saḥ|UnsandhiedReconstructed=True|WordSem=129840

@@ -394,8 +394,8 @@
 2	mudga	mudga	NOUN	_	Case=Cpd	_	_	_	LemmaId=136104|OccId=1410958|Unsandhied=mudga|UnsandhiedReconstructed=True
 3	āḍhakī	āḍhakī	NOUN	_	Case=Cpd	_	_	_	LemmaId=57646|OccId=1410959|Unsandhied=āḍhakī|UnsandhiedReconstructed=True
 4	jāṅgalānām	jāṅgala	NOUN	_	Case=Gen|Gender=Masc|Number=Plur	_	_	_	LemmaId=88510|OccId=1410960|Unsandhied=jāṅgalānām|UnsandhiedReconstructed=True
-5	yūṣai	rasa	NOUN	_	Case=Ins|Gender=Masc|Number=Plur	_	_	_	LemmaId=69571|OccId=1410806|Unsandhied=rasaiḥ|UnsandhiedReconstructed=True
-6-9	rasair	_	_	_	_	_	_	_	_
+5	rasair	rasa	NOUN	_	Case=Ins|Gender=Masc|Number=Plur	_	_	_	LemmaId=69571|OccId=1410806|Unsandhied=rasaiḥ|UnsandhiedReconstructed=True
+6-9	vāpyupabhojayettu	_	_	_	_	_	_	_	_
 6	vā	vā	CONJ	_		_	_	_	LemmaId=75765|OccId=1410931|Unsandhied=vā|UnsandhiedReconstructed=True
 7	api	api	PART	_		_	_	_	LemmaId=21365|OccId=1410932|Unsandhied=api|UnsandhiedReconstructed=True
 8	upabhojayet	upabhojay	VERB	_	Tense=Pres|Mood=Opt|Person=3|Number=Sing	_	_	_	LemmaId=160498|OccId=1410933|Unsandhied=upabhojayet
@@ -1127,7 +1127,7 @@
 1-2	virecyāstu	_	_	_	_	_	_	_	_
 1	virecyāḥ	virecay	VERB	_	Case=Nom|Gender=Masc|Number=Plur|VerbForm=Gdv	_	_	_	LemmaId=163551|OccId=1411325|Unsandhied=virecyāḥ|UnsandhiedReconstructed=True
 2	tu	tu	PART	_		_	_	_	LemmaId=82701|OccId=1411326|Unsandhied=tu|UnsandhiedReconstructed=True
-3-21	jvaragarārucyarśo'rbudodaragranthividradhipāṇḍurogāpasmārahṛdrogavātaraktabhagandaracchardiyonirogavisarpagulmapakvāśayarugvibandhavisūcikālasakamūtrāghātakuṣṭhavisphoṭakapramehānāhaplīhaśophavṛddhiśastrakṣatakṣārāgnidagdha	_	_	_	_	_	_	_	_
+3-21	duṣṭavraṇākṣipākakācatimirābhiṣyandaśiraḥkarṇākṣināsāsyagudameḍhradāhordhvaraktapittakṛmikoṣṭhinaḥ	_	_	_	_	_	_	_	_
 3	duṣṭavraṇa	duṣṭavraṇa	NOUN	_	Case=Cpd	_	_	_	LemmaId=86072|OccId=1411327|Unsandhied=duṣṭavraṇa|UnsandhiedReconstructed=True
 4	akṣi	akṣi	NOUN	_	Case=Cpd	_	_	_	LemmaId=167156|OccId=1411328|Unsandhied=akṣi|UnsandhiedReconstructed=True
 5	pāka	pāka	NOUN	_	Case=Cpd	_	_	_	LemmaId=93038|OccId=1411329|Unsandhied=pāka|UnsandhiedReconstructed=True
@@ -1147,21 +1147,21 @@
 19	pitta	pitta	NOUN	_	Case=Cpd	_	_	_	LemmaId=95032|OccId=1411343|Unsandhied=pitta|UnsandhiedReconstructed=True
 20	kṛmi	kṛmi	NOUN	_	Case=Cpd	_	_	_	LemmaId=3933|OccId=1411344|Unsandhied=kṛmi|UnsandhiedReconstructed=True
 21	koṣṭhinaḥ	koṣṭhin	ADJ	_	Case=Gen|Gender=Masc|Number=Sing	_	_	_	LemmaId=203135|OccId=1411345|Unsandhied=koṣṭhinaḥ|UnsandhiedReconstructed=True
-22-25	duṣṭavraṇākṣipākakācatimirābhiṣyandaśiraḥkarṇākṣināsāsyagudameḍhradāhordhvaraktapittakṛmikoṣṭhinaḥ	_	_	_	_	_	_	_	_
+22-25	pittasthānajeṣvanyeṣu	_	_	_	_	_	_	_	_
 22	pitta	pitta	NOUN	_	Case=Cpd	_	_	_	LemmaId=95032|OccId=1411211|Unsandhied=pitta|UnsandhiedReconstructed=True
 23	sthāna	sthāna	NOUN	_	Case=Cpd	_	_	_	LemmaId=102857|OccId=1411212|Unsandhied=sthāna|UnsandhiedReconstructed=True
 24	jeṣu	ja	ADJ	_	Case=Loc|Gender=Masc|Number=Plur	_	_	_	LemmaId=52879|OccId=1411213|Unsandhied=jeṣu|UnsandhiedReconstructed=True
 25	anyeṣu	anya	PRON	_	Case=Loc|Gender=Masc|Number=Plur	_	_	_	LemmaId=164189|OccId=1411214|Unsandhied=anyeṣu|UnsandhiedReconstructed=True
-26	pittasthānajeṣvanyeṣu	ca	CONJ	_		_	_	_	LemmaId=157144|OccId=1411215|Unsandhied=ca|UnsandhiedReconstructed=True
-27-28	ca	_	_	_	_	_	_	_	_
+26	ca	ca	CONJ	_		_	_	_	LemmaId=157144|OccId=1411215|Unsandhied=ca|UnsandhiedReconstructed=True
+27-28	vikāreṣvanye	_	_	_	_	_	_	_	_
 27	vikāreṣu	vikāra	NOUN	_	Case=Loc|Gender=Masc|Number=Plur	_	_	_	LemmaId=47808|OccId=1411216|Unsandhied=vikāreṣu|UnsandhiedReconstructed=True
 28	anye	anya	PRON	_	Case=Nom|Gender=Masc|Number=Plur	_	_	_	LemmaId=164189|OccId=1411217|Unsandhied=anye|UnsandhiedReconstructed=True
-29	vikāreṣvanye	ca	CONJ	_		_	_	_	LemmaId=157144|OccId=1411218|Unsandhied=ca|UnsandhiedReconstructed=True
-30-32	ca	_	_	_	_	_	_	_	_
+29	ca	ca	CONJ	_		_	_	_	LemmaId=157144|OccId=1411218|Unsandhied=ca|UnsandhiedReconstructed=True
+30-32	paittikavyādhiparītā	_	_	_	_	_	_	_	_
 30	paittika	paittika	ADJ	_	Case=Cpd	_	_	_	LemmaId=150219|OccId=1411219|Unsandhied=paittika|UnsandhiedReconstructed=True
 31	vyādhi	vyādhi	NOUN	_	Case=Cpd	_	_	_	LemmaId=119173|OccId=1411220|Unsandhied=vyādhi|UnsandhiedReconstructed=True
 32	parītāḥ	parī	VERB	_	Case=Nom|Gender=Masc|Number=Plur|VerbForm=Part	_	_	_	LemmaId=162248|OccId=1411221|Unsandhied=parītāḥ|UnsandhiedReconstructed=True
-33	paittikavyādhiparītā	iti	PART	_		_	_	_	LemmaId=63331|OccId=1411222|Unsandhied=iti|UnsandhiedReconstructed=True
+33	iti	iti	PART	_		_	_	_	LemmaId=63331|OccId=1411222|Unsandhied=iti|UnsandhiedReconstructed=True
 
 # text = saratvasaukṣmyataikṣṇyauṣṇyavikāśitvair virecanam
 # sent_id = 9622

@@ -1422,7 +1422,9 @@
 5-6	raktavarṇam	_	_	_	_	_	_	_	_
 5	rakta	rakta	ADJ	_	Case=Cpd	_	_	_	LemmaId=65578|OccId=2675692|Unsandhied=rakta|UnsandhiedReconstructed=True
 6	varṇam	varṇa	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	_	_	_	LemmaId=74430|OccId=2675693|Unsandhied=varṇam|UnsandhiedReconstructed=True
-7	avarṇakam	avarṇaka	ADJ	_	Case=Acc|Gender=Masc|Number=Sing	_	_	_	LemmaId=167467|OccId=2675694|Unsandhied=avarṇakam|UnsandhiedReconstructed=True
+7-8	avarṇakam	_	_	_	_	_	_	_	_
+7	a	a	PART	_		_	_	_	LemmaId=213048|OccId=5879874|Unsandhied=a
+8	varṇakam	varṇaka	ADJ	_	Case=Acc|Gender=Masc|Number=Sing	_	_	_	LemmaId=74557|OccId=5879875|Unsandhied=varṇakam
 
 # text = iḍayā pūrayed vāyuṃ mātrayā ṣoḍaśaiḥ sudhīḥ
 # sent_id = 583
@@ -1927,10 +1929,10 @@
 1	sarvaṃ	sarva	PRON	_	Case=Acc|Gender=Neut|Number=Sing	_	_	_	LemmaId=104444|OccId=2678107|Unsandhied=sarvam|UnsandhiedReconstructed=True
 2	ca	ca	CONJ	_		_	_	_	LemmaId=157144|OccId=2678108|Unsandhied=ca|UnsandhiedReconstructed=True
 3	sūryakaṃ	sūryaka	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	_	_	_	LemmaId=99519|OccId=2678109|Unsandhied=sūryakam|UnsandhiedReconstructed=True
-4-5	bhitvā	_	_	_	_	_	_	_	_
+4-5	nābhimūlāt	_	_	_	_	_	_	_	_
 4	nābhi	nābhi	NOUN	_	Case=Cpd	_	_	_	LemmaId=33491|OccId=2678110|Unsandhied=nābhi|UnsandhiedReconstructed=True
 5	mūlāt	mūla	NOUN	_	Case=Abl|Gender=Neut|Number=Sing	_	_	_	LemmaId=137542|OccId=2678111|Unsandhied=mūlāt|UnsandhiedReconstructed=True
-6	nābhimūlāt	samuddhṛ	VERB	_	Tense=Pres|Mood=Opt|Person=3|Number=Sing	_	_	_	LemmaId=165325|OccId=2678112|Unsandhied=samuddharet
+6	samuddharet	samuddhṛ	VERB	_	Tense=Pres|Mood=Opt|Person=3|Number=Sing	_	_	_	LemmaId=165325|OccId=2678112|Unsandhied=samuddharet
 
 # text = iḍayā recayet paścād dhairyeṇākhaṇḍavegataḥ
 # sent_id = 623
@@ -2388,9 +2390,9 @@
 # sent_counter = 84
 # sent_subcounter = 1
 1	ātmani	ātman	NOUN	_	Case=Loc|Gender=Masc|Number=Sing	_	_	_	LemmaId=57749|OccId=2680187|Unsandhied=ātmani|UnsandhiedReconstructed=True
-2	manasaṃyogād	ānanda	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	_	_	_	LemmaId=58281|OccId=2680188|Unsandhied=ānandam|UnsandhiedReconstructed=True
-3	ānandaṃ	jan	VERB	_	Tense=Pres|Mood=Ind|Person=3|Number=Sing	_	_	_	LemmaId=156584|OccId=2680189|Unsandhied=jāyate
-4	jāyate	dhruvam	ADV	_		_	_	_	LemmaId=203063|OccId=2680190|Unsandhied=dhruvam|UnsandhiedReconstructed=True
+2	ānandaṃ	ānanda	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	_	_	_	LemmaId=58281|OccId=2680188|Unsandhied=ānandam|UnsandhiedReconstructed=True
+3	jāyate	jan	VERB	_	Tense=Pres|Mood=Ind|Person=3|Number=Sing	_	_	_	LemmaId=156584|OccId=2680189|Unsandhied=jāyate
+4	dhruvam	dhruvam	ADV	_		_	_	_	LemmaId=203063|OccId=2680190|Unsandhied=dhruvam|UnsandhiedReconstructed=True
 
 # text = evaṃ nānāvidhānando jāyate nityam abhyāsāt
 # sent_id = 660
@@ -2532,8 +2534,8 @@
 1-2	caturviṃśāṅguliḥ	_	_	_	_	_	_	_	_
 1	caturviṃśa	caturviṃśa	ADJ	_	Case=Cpd	_	_	_	LemmaId=164232|OccId=2680261|Unsandhied=caturviṃśa|UnsandhiedReconstructed=True
 2	aṅguliḥ	aṅguli	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=6278|OccId=2680262|Unsandhied=aṅguliḥ|UnsandhiedReconstructed=True
-3	panthe	nidrā	NOUN	_	Case=Loc|Gender=Fem|Number=Sing	_	_	_	LemmaId=35136|OccId=2680263|Unsandhied=nidrāyām|UnsandhiedReconstructed=True
-4-5	nidrāyāṃ	_	_	_	_	_	_	_	_
+3	nidrāyāṃ	nidrā	NOUN	_	Case=Loc|Gender=Fem|Number=Sing	_	_	_	LemmaId=35136|OccId=2680263|Unsandhied=nidrāyām|UnsandhiedReconstructed=True
+4-5	triṃśadaṅguliḥ	_	_	_	_	_	_	_	_
 4	triṃśat	triṃśat	NUM	_	Case=Cpd	_	_	_	LemmaId=84368|OccId=2680264|Unsandhied=triṃśat|UnsandhiedReconstructed=True
 5	aṅguliḥ	aṅguli	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=6278|OccId=2680265|Unsandhied=aṅguliḥ|UnsandhiedReconstructed=True
 

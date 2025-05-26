@@ -3,7 +3,7 @@
 ## chapter: SpandaKārNir zu SpandaKār, 1, 2.2
 ## chapter_id: 974
 # text = tasyāsya śaṃkarātmanaḥ prakāśānandaghanasya svasvabhāvasya na kutraciddeśe kāla ākāre vā nirodhaḥ prasaravyāghāto 'sti anāvṛtarūpatvād asthagitasvabhāvatvāt
-# sent_id = 49142
+# sent_id = 49141
 # sent_counter = 1
 # sent_subcounter = 
 1-2	tasyāsya	_	_	_	_	_	_	_	_
@@ -40,7 +40,7 @@
 24	tvāt	tva	NOUN	_	Case=Abl|Gender=Neut|Number=Sing	_	_	_	LemmaId=163754|OccId=275028|Unsandhied=tvāt|UnsandhiedReconstructed=True
 
 # text = ayaṃ bhāvaḥ iha yatkiṃcitprāṇapuryaṣṭakasukhanīlādikaṃ citprakāśasyāvarakaṃ saṃbhāvyate tadyadi na prakāśate na kiṃcit prakāśamānaṃ tu prakāśātmakaśaṃkarasvarūpameveti kiṃ kasya nirodhakaṃ ko vā nirodhārthaḥ
-# sent_id = 49143
+# sent_id = 49142
 # sent_counter = 2
 # sent_subcounter = 
 1	ayaṃ	idam	PRON	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=37876|OccId=274887|Unsandhied=ayam|UnsandhiedReconstructed=True
@@ -85,7 +85,7 @@
 35	arthaḥ	artha	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=53136|OccId=274911|Unsandhied=arthaḥ|UnsandhiedReconstructed=True
 
 # text = etadeva tasyetyetadviśeṣaṇena yatretyādinopapādayati
-# sent_id = 49144
+# sent_id = 49143
 # sent_counter = 3
 # sent_subcounter = 
 1-2	etadeva	_	_	_	_	_	_	_	_
@@ -102,7 +102,7 @@
 9	upapādayati	upapāday	VERB	_	Tense=Pres|Mood=Ind|Person=3|Number=Sing	_	_	_	LemmaId=160456|OccId=274920|Unsandhied=upapādayati
 
 # text = yatra yasmiṃścid rūpe svātmani idaṃ mātṛmānameyātmakaṃ sarvaṃ jagatkāryaṃ sthitaṃ yatprakāśena prakāśamānaṃ satsthitiṃ labhate tasya kathaṃ tena nirodhaḥ śakyas tannirodhe hi nirodhakābhimatameva na cakāsyādity āśayaśeṣaḥ
-# sent_id = 49145
+# sent_id = 49144
 # sent_counter = 4
 # sent_subcounter = 
 1	yatra	yatra	SCONJ	_		_	_	_	LemmaId=73233|OccId=274921|Unsandhied=yatra|UnsandhiedReconstructed=True
@@ -144,12 +144,17 @@
 30	abhimatam	abhiman	VERB	_	Case=Nom|Gender=Neut|Number=Sing|VerbForm=Part	_	_	_	LemmaId=158876|OccId=275007|Unsandhied=abhimatam|UnsandhiedReconstructed=True
 31	eva	eva	PART	_		_	_	_	LemmaId=39754|OccId=275008|Unsandhied=eva|UnsandhiedReconstructed=True
 32	na	na	PART	_		_	_	_	LemmaId=43432|OccId=274941|Unsandhied=na|UnsandhiedReconstructed=True
-33-34	cakāsyādity	_	_	_	_	_	_	_	_
-33	āśaya	āśaya	NOUN	_	Case=Cpd	_	_	_	LemmaId=62658|OccId=275009|Unsandhied=āśaya|UnsandhiedReconstructed=True
-34	śeṣaḥ	śeṣa	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=127336|OccId=275010|Unsandhied=śeṣaḥ|UnsandhiedReconstructed=True
+33-36	cakāsyādity	_	_	_	_	_	_	_	_
+33	ca	ca	CONJ	_		_	_	_	LemmaId=157144|OccId=5868275|Unsandhied=ca
+34	kā	ka	PRON	_	Case=Nom|Gender=Fem|Number=Sing	_	_	_	LemmaId=37878|OccId=5868276|Unsandhied=kā
+35	syāt	as	VERB	_	Tense=Pres|Mood=Opt|Person=3|Number=Sing	_	_	_	LemmaId=156122|OccId=5868277|Unsandhied=syāt
+36	iti	iti	PART	_		_	_	_	LemmaId=63331|OccId=5868278|Unsandhied=iti
+37-38	āśayaśeṣaḥ	_	_	_	_	_	_	_	_
+37	āśaya	āśaya	NOUN	_	Case=Cpd	_	_	_	LemmaId=62658|OccId=275009|Unsandhied=āśaya|UnsandhiedReconstructed=True
+38	śeṣaḥ	śeṣa	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=127336|OccId=275010|Unsandhied=śeṣaḥ|UnsandhiedReconstructed=True
 
 # text = yathoktam
-# sent_id = 49146
+# sent_id = 49145
 # sent_counter = 5
 # sent_subcounter = 1
 1-2	yathoktam	_	_	_	_	_	_	_	_
@@ -157,7 +162,7 @@
 2	uktam	vac	VERB	_	Case=Nom|Gender=Neut|Number=Sing|VerbForm=Part	_	_	_	LemmaId=157264|OccId=274943|Unsandhied=uktam|UnsandhiedReconstructed=True
 
 # text = tadātmanaiva tasya syātkathaṃ prāṇena yantraṇā
-# sent_id = 49147
+# sent_id = 49146
 # sent_counter = 5
 # sent_subcounter = 2
 1-3	tadātmanaiva	_	_	_	_	_	_	_	_
@@ -172,7 +177,7 @@
 8	yantraṇā	yantraṇa	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	_	_	_	LemmaId=73807|OccId=274951|Unsandhied=yantraṇā|UnsandhiedReconstructed=True
 
 # text = ityajaḍapramātṛsiddhau
-# sent_id = 49148
+# sent_id = 49147
 # sent_counter = 6
 # sent_subcounter = 
 1-4	ityajaḍapramātṛsiddhau	_	_	_	_	_	_	_	_
@@ -182,7 +187,7 @@
 4	siddhau	siddhi	NOUN	_	Case=Loc|Gender=Fem|Number=Sing	_	_	_	LemmaId=106233|OccId=275014|Unsandhied=siddhau|UnsandhiedReconstructed=True
 
 # text = nanūtpannasya sthityātmā prakāśe bhavati utpattireva tv asya kuta ityāha yasmāc ca nirgatamiti
-# sent_id = 49149
+# sent_id = 49148
 # sent_counter = 7
 # sent_subcounter = 
 1-2	nanūtpannasya	_	_	_	_	_	_	_	_
@@ -209,7 +214,7 @@
 17	iti	iti	PART	_		_	_	_	LemmaId=63331|OccId=274964|Unsandhied=iti|UnsandhiedReconstructed=True
 
 # text = smṛtisvapnasaṃkalpayoginirmāṇadṛṣṭayā citaḥ svānubhavasiddhaṃ jagatkāraṇatvam ujjhitvā apramāṇakam anupapannaṃ ca pradhānaparamāṇvādīnāṃ na tatkalpayituṃ yujyate
-# sent_id = 49150
+# sent_id = 49149
 # sent_counter = 8
 # sent_subcounter = 
 1-6	smṛtisvapnasaṃkalpayoginirmāṇadṛṣṭayā	_	_	_	_	_	_	_	_
@@ -228,21 +233,23 @@
 11	jagat	jagant	NOUN	_	Case=Cpd	_	_	_	LemmaId=164188|OccId=275022|Unsandhied=jagat|UnsandhiedReconstructed=True
 12	kāraṇatvam	kāraṇatva	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=168097|OccId=275023|Unsandhied=kāraṇatvam|UnsandhiedReconstructed=True
 13	ujjhitvā	ujh	VERB	_	VerbForm=Conv	_	_	_	LemmaId=156141|OccId=275029|Unsandhied=ujjhitvā|UnsandhiedReconstructed=True
-14	apramāṇakam	apramāṇaka	ADJ	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=171578|OccId=275024|Unsandhied=apramāṇakam|UnsandhiedReconstructed=True
-15	anupapannaṃ	anupapanna	ADJ	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=10987|OccId=275025|Unsandhied=anupapannam|UnsandhiedReconstructed=True
-16	ca	ca	CONJ	_		_	_	_	LemmaId=157144|OccId=274972|Unsandhied=ca|UnsandhiedReconstructed=True
-17-19	pradhānaparamāṇvādīnāṃ	_	_	_	_	_	_	_	_
-17	pradhāna	pradhāna	NOUN	_	Case=Cpd	_	_	_	LemmaId=140873|OccId=274973|Unsandhied=pradhāna|UnsandhiedReconstructed=True
-18	paramāṇu	paramāṇu	NOUN	_	Case=Cpd	_	_	_	LemmaId=16456|OccId=274974|Unsandhied=paramāṇu|UnsandhiedReconstructed=True
-19	ādīnām	ādi	NOUN	_	Case=Gen|Gender=Masc|Number=Plur	_	_	_	LemmaId=57973|OccId=274975|Unsandhied=ādīnām|UnsandhiedReconstructed=True
-20	na	na	PART	_		_	_	_	LemmaId=43432|OccId=274976|Unsandhied=na|UnsandhiedReconstructed=True
-21-22	tatkalpayituṃ	_	_	_	_	_	_	_	_
-21	tat	tad	PRON	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=37875|OccId=274977|Unsandhied=tat|UnsandhiedReconstructed=True
-22	kalpayitum	kalpay	VERB	_	VerbForm=Inf	_	_	_	LemmaId=156177|OccId=274978|Unsandhied=kalpayitum|UnsandhiedReconstructed=True
-23	yujyate	yuj	VERB	_	Tense=Pres|Mood=Ind|Voice=Pass|Person=3|Number=Sing	_	_	_	LemmaId=157298|OccId=274979|Unsandhied=yujyate
+14-15	apramāṇakam	_	_	_	_	_	_	_	_
+14	a	a	PART	_		_	_	_	LemmaId=213048|OccId=5877254|Unsandhied=a
+15	pramāṇakam	pramāṇaka	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=155406|OccId=5877255|Unsandhied=pramāṇakam
+16	anupapannaṃ	anupapanna	ADJ	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=10987|OccId=275025|Unsandhied=anupapannam|UnsandhiedReconstructed=True
+17	ca	ca	CONJ	_		_	_	_	LemmaId=157144|OccId=274972|Unsandhied=ca|UnsandhiedReconstructed=True
+18-20	pradhānaparamāṇvādīnāṃ	_	_	_	_	_	_	_	_
+18	pradhāna	pradhāna	NOUN	_	Case=Cpd	_	_	_	LemmaId=140873|OccId=274973|Unsandhied=pradhāna|UnsandhiedReconstructed=True
+19	paramāṇu	paramāṇu	NOUN	_	Case=Cpd	_	_	_	LemmaId=16456|OccId=274974|Unsandhied=paramāṇu|UnsandhiedReconstructed=True
+20	ādīnām	ādi	NOUN	_	Case=Gen|Gender=Masc|Number=Plur	_	_	_	LemmaId=57973|OccId=274975|Unsandhied=ādīnām|UnsandhiedReconstructed=True
+21	na	na	PART	_		_	_	_	LemmaId=43432|OccId=274976|Unsandhied=na|UnsandhiedReconstructed=True
+22-23	tatkalpayituṃ	_	_	_	_	_	_	_	_
+22	tat	tad	PRON	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=37875|OccId=274977|Unsandhied=tat|UnsandhiedReconstructed=True
+23	kalpayitum	kalpay	VERB	_	VerbForm=Inf	_	_	_	LemmaId=156177|OccId=274978|Unsandhied=kalpayitum|UnsandhiedReconstructed=True
+24	yujyate	yuj	VERB	_	Tense=Pres|Mood=Ind|Voice=Pass|Person=3|Number=Sing	_	_	_	LemmaId=157298|OccId=274979|Unsandhied=yujyate
 
 # text = kāryapadena cedameva dhvanitaṃ kartuḥ kriyayā niṣpādyaṃ hi kāryamucyate na tu jaḍakāraṇānantarabhāvi jaḍasya kāraṇatvānupapatteḥ īśvarapratyabhijñoktanītyā
-# sent_id = 49151
+# sent_id = 49150
 # sent_counter = 9
 # sent_subcounter = 
 1-2	kāryapadena	_	_	_	_	_	_	_	_
@@ -277,7 +284,7 @@
 24	uktanītyā	uktanītī	NOUN	_	Case=Ins|Gender=Fem|Number=Sing	_	_	_	LemmaId=167538|OccId=275175|Unsandhied=uktanītyā|UnsandhiedReconstructed=True
 
 # text = bhaviṣyati caitat
-# sent_id = 49152
+# sent_id = 49151
 # sent_counter = 10
 # sent_subcounter = 1
 1	bhaviṣyati	bhū	VERB	_	Tense=Fut|Mood=Ind|Person=3|Number=Sing	_	_	_	LemmaId=157250|OccId=275049|Unsandhied=bhaviṣyati
@@ -286,7 +293,7 @@
 3	etat	etad	PRON	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=163744|OccId=275051|Unsandhied=etat|UnsandhiedReconstructed=True
 
 # text = avasthāyugalaṃ cātra kāryakartṛtvaśabditam
-# sent_id = 49153
+# sent_id = 49152
 # sent_counter = 11
 # sent_subcounter = 
 1-2	avasthāyugalaṃ	_	_	_	_	_	_	_	_
@@ -302,7 +309,7 @@
 8	śabditam	śabday	VERB	_	Case=Nom|Gender=Neut|Number=Sing|VerbForm=Part	_	_	_	LemmaId=168214|OccId=2534136|Unsandhied=śabditam|UnsandhiedReconstructed=True
 
 # text = ityatra
-# sent_id = 49154
+# sent_id = 49153
 # sent_counter = 12
 # sent_subcounter = 1
 1-2	ityatra	_	_	_	_	_	_	_	_
@@ -310,7 +317,7 @@
 2	atra	atra	ADV	_		_	_	_	LemmaId=7442|OccId=275060|Unsandhied=atra|UnsandhiedReconstructed=True
 
 # text = sarvaśabdenopādānādinairapekṣyaṃ karturdhvanitam
-# sent_id = 49155
+# sent_id = 49154
 # sent_counter = 12
 # sent_subcounter = 2
 1-5	sarvaśabdenopādānādinairapekṣyaṃ	_	_	_	_	_	_	_	_
@@ -324,7 +331,7 @@
 7	dhvanitam	dhvan	VERB	_	Case=Nom|Gender=Neut|Number=Sing|VerbForm=Part	_	_	_	LemmaId=158685|OccId=275062|Unsandhied=dhvanitam|UnsandhiedReconstructed=True
 
 # text = na ca kāryaṃ ghaṭādi kartuḥ kumbhakārādeḥ kadācitsvarūpaṃ tirodadhad dṛṣṭam
-# sent_id = 49156
+# sent_id = 49155
 # sent_counter = 13
 # sent_subcounter = 
 1	na	na	PART	_		_	_	_	LemmaId=43432|OccId=275063|Unsandhied=na|UnsandhiedReconstructed=True
@@ -344,7 +351,7 @@
 12	dṛṣṭam	dṛś	VERB	_	Case=Nom|Gender=Neut|Number=Sing|VerbForm=Part	_	_	_	LemmaId=157766|OccId=275182|Unsandhied=dṛṣṭam|UnsandhiedReconstructed=True
 
 # text = nanu nirgatir avasthitasya bhavati tatkimetat kvacid ādāv eva sthitaṃ nānyatra sthitamapitu tatraiva cidātmanītyāha yatra sthitamiti
-# sent_id = 49157
+# sent_id = 49156
 # sent_counter = 14
 # sent_subcounter = 
 1	nanu	nanu	PART	_		_	_	_	LemmaId=43922|OccId=275073|Unsandhied=nanu|UnsandhiedReconstructed=True
@@ -379,7 +386,7 @@
 24	iti	iti	PART	_		_	_	_	LemmaId=63331|OccId=275084|Unsandhied=iti|UnsandhiedReconstructed=True
 
 # text = āvṛttyā caitadyojyam
-# sent_id = 49158
+# sent_id = 49157
 # sent_counter = 15
 # sent_subcounter = 
 1	āvṛttyā	āvṛtti	NOUN	_	Case=Ins|Gender=Fem|Number=Sing	_	_	_	LemmaId=62535|OccId=275085|Unsandhied=āvṛttyā|UnsandhiedReconstructed=True
@@ -389,7 +396,7 @@
 4	yojyam	yuj	VERB	_	Case=Nom|Gender=Neut|Number=Sing|VerbForm=Gdv	_	_	_	LemmaId=157298|OccId=275088|Unsandhied=yojyam|UnsandhiedReconstructed=True
 
 # text = ayamarthaḥ yadi cidātmani jagadahaṃprakāśābhedena na bhavet tat katham upādānādinirapekṣaṃ tata udiyāt
-# sent_id = 49159
+# sent_id = 49158
 # sent_counter = 16
 # sent_subcounter = 
 1-2	ayamarthaḥ	_	_	_	_	_	_	_	_
@@ -416,7 +423,7 @@
 18	udiyāt	udi	VERB	_	Tense=Pres|Mood=Opt|Person=3|Number=Sing	_	_	_	LemmaId=160196|OccId=275106|Unsandhied=udiyāt
 
 # text = yatastu yathā nyagrodhabījasthaḥ śaktirūpo mahādrumaḥ
-# sent_id = 49160
+# sent_id = 49159
 # sent_counter = 17
 # sent_subcounter = 1
 1-2	yatastu	_	_	_	_	_	_	_	_
@@ -433,7 +440,7 @@
 9	mahādrumaḥ	mahādruma	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=77006|OccId=275115|Unsandhied=mahādrumaḥ|UnsandhiedReconstructed=True
 
 # text = tathā hṛdayabījasthaṃ jagad etac carācaram
-# sent_id = 49161
+# sent_id = 49160
 # sent_counter = 17
 # sent_subcounter = 2
 1	tathā	tathā	ADV	_		_	_	_	LemmaId=95987|OccId=275116|Unsandhied=tathā|UnsandhiedReconstructed=True
@@ -446,7 +453,7 @@
 7	carācaram	carācara	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=164445|OccId=275196|Unsandhied=carācaram|UnsandhiedReconstructed=True
 
 # text = ityāmnāyasthityā
-# sent_id = 49162
+# sent_id = 49161
 # sent_counter = 18
 # sent_subcounter = 
 1-3	ityāmnāyasthityā	_	_	_	_	_	_	_	_
@@ -455,7 +462,7 @@
 3	sthityā	sthiti	NOUN	_	Case=Ins|Gender=Fem|Number=Sing	_	_	_	LemmaId=102988|OccId=275122|Unsandhied=sthityā|UnsandhiedReconstructed=True
 
 # text = svāminaścātmasaṃsthasya
-# sent_id = 49163
+# sent_id = 49162
 # sent_counter = 19
 # sent_subcounter = 
 1-4	svāminaścātmasaṃsthasya	_	_	_	_	_	_	_	_
@@ -465,7 +472,7 @@
 4	saṃsthasya	saṃstha	ADJ	_	Case=Gen|Gender=Masc|Number=Sing	_	_	_	LemmaId=8429|OccId=275126|Unsandhied=saṃsthasya|UnsandhiedReconstructed=True
 
 # text = iti pūrvoktayuktyā ca tatraitad abhedena sphuratsthitaṃ tato 'yaṃ cidātmā bhagavān nijarasāśyānatārūpaṃ jagad unmajjayatīti yujyate
-# sent_id = 49164
+# sent_id = 49163
 # sent_counter = 20
 # sent_subcounter = 
 1	iti	iti	PART	_		_	_	_	LemmaId=63331|OccId=275127|Unsandhied=iti|UnsandhiedReconstructed=True
@@ -499,7 +506,7 @@
 23	yujyate	yuj	VERB	_	Tense=Pres|Mood=Ind|Voice=Pass|Person=3|Number=Sing	_	_	_	LemmaId=157298|OccId=275140|Unsandhied=yujyate
 
 # text = evaṃ ca yatra sthitameva sad yasmān nirgatamityatra yojanā jātā
-# sent_id = 49165
+# sent_id = 49164
 # sent_counter = 21
 # sent_subcounter = 
 1	evaṃ	evam	ADV	_		_	_	_	LemmaId=39758|OccId=275141|Unsandhied=evam|UnsandhiedReconstructed=True
@@ -518,7 +525,7 @@
 12	jātā	jan	VERB	_	Case=Nom|Gender=Fem|Number=Sing|VerbForm=Part	_	_	_	LemmaId=156584|OccId=275147|Unsandhied=jātā|UnsandhiedReconstructed=True
 
 # text = ca evārthe bhinnakramaḥ
-# sent_id = 49166
+# sent_id = 49165
 # sent_counter = 22
 # sent_subcounter = 
 1	ca	ca	CONJ	_		_	_	_	LemmaId=157144|OccId=275148|Unsandhied=ca|UnsandhiedReconstructed=True
@@ -528,7 +535,7 @@
 4	bhinnakramaḥ	bhinnakrama	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=50177|OccId=275151|Unsandhied=bhinnakramaḥ|UnsandhiedReconstructed=True
 
 # text = nanu yadi tasmāt prakāśavapuṣa idaṃ jagan niryātaṃ tan na pratheta na hi prathābāhyaṃ ca prathate ceti yuktam ityāśaṅkya yasmān nirgatamapi sadyatra sthitam ity āvṛttyā saṃgamanīyam
-# sent_id = 49167
+# sent_id = 49166
 # sent_counter = 23
 # sent_subcounter = 
 1	nanu	nanu	PART	_		_	_	_	LemmaId=43922|OccId=275152|Unsandhied=nanu|UnsandhiedReconstructed=True
@@ -570,7 +577,7 @@
 31	saṃgamanīyam	saṃgam	VERB	_	Case=Nom|Gender=Neut|Number=Sing|VerbForm=Gdv	_	_	_	LemmaId=164878|OccId=275245|Unsandhied=saṃgamanīyam|UnsandhiedReconstructed=True
 
 # text = co 'pyarthe bhinnakramaḥ
-# sent_id = 49168
+# sent_id = 49167
 # sent_counter = 24
 # sent_subcounter = 
 1	co	ca	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=205522|OccId=2534137|Unsandhied=caḥ|UnsandhiedReconstructed=True
@@ -580,7 +587,7 @@
 4	bhinnakramaḥ	bhinnakrama	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=50177|OccId=275167|Unsandhied=bhinnakramaḥ|UnsandhiedReconstructed=True
 
 # text = etaduktaṃ bhavati na prasevakādivākṣoṭādi tat tasmān nirgatamapi tu sa eva bhagavān svasvātantryād anatiriktām apyatiriktāmiva jagadrūpatāṃ svabhittau darpaṇanagaravat prakāśayan sthitaḥ
-# sent_id = 49169
+# sent_id = 49168
 # sent_counter = 25
 # sent_subcounter = 
 1-2	etaduktaṃ	_	_	_	_	_	_	_	_
@@ -605,24 +612,26 @@
 17-18	svasvātantryād	_	_	_	_	_	_	_	_
 17	sva	sva	ADJ	_	Case=Cpd	_	_	_	LemmaId=114356|OccId=275235|Unsandhied=sva|UnsandhiedReconstructed=True
 18	svātantryāt	svātantrya	NOUN	_	Case=Abl|Gender=Neut|Number=Sing	_	_	_	LemmaId=120094|OccId=275236|Unsandhied=svātantryāt|UnsandhiedReconstructed=True
-19	anatiriktām	anatirikta	ADJ	_	Case=Acc|Gender=Fem|Number=Sing	_	_	_	LemmaId=9812|OccId=275237|Unsandhied=anatiriktām|UnsandhiedReconstructed=True
-20-22	apyatiriktāmiva	_	_	_	_	_	_	_	_
-20	api	api	PART	_		_	_	_	LemmaId=21365|OccId=275238|Unsandhied=api|UnsandhiedReconstructed=True
-21	atiriktām	atiric	VERB	_	Case=Acc|Gender=Fem|Number=Sing|VerbForm=Part	_	_	_	LemmaId=157483|OccId=275239|Unsandhied=atiriktām|UnsandhiedReconstructed=True
-22	iva	iva	PART	_		_	_	_	LemmaId=63807|OccId=275240|Unsandhied=iva|UnsandhiedReconstructed=True
-23-24	jagadrūpatāṃ	_	_	_	_	_	_	_	_
-23	jagat	jagant	NOUN	_	Case=Cpd	_	_	_	LemmaId=164188|OccId=275543|Unsandhied=jagat|UnsandhiedReconstructed=True
-24	rūpatām	rūpatā	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	_	_	_	LemmaId=71953|OccId=275544|Unsandhied=rūpatām|UnsandhiedReconstructed=True
-25	svabhittau	svabhitti	NOUN	_	Case=Loc|Gender=Fem|Number=Sing	_	_	_	LemmaId=164297|OccId=275545|Unsandhied=svabhittau|UnsandhiedReconstructed=True
-26-28	darpaṇanagaravat	_	_	_	_	_	_	_	_
-26	darpaṇa	darpaṇa	NOUN	_	Case=Cpd	_	_	_	LemmaId=146400|OccId=275546|Unsandhied=darpaṇa|UnsandhiedReconstructed=True
-27	nagara	nagara	NOUN	_	Case=Cpd	_	_	_	LemmaId=43702|OccId=275547|Unsandhied=nagara|UnsandhiedReconstructed=True
-28	vat	vat	ADV	_		_	_	_	LemmaId=167498|OccId=275548|Unsandhied=vat|UnsandhiedReconstructed=True
-29	prakāśayan	prakāśay	VERB	_	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part	_	_	_	LemmaId=162329|OccId=275549|Unsandhied=prakāśayan|UnsandhiedReconstructed=True
-30	sthitaḥ	sthā	VERB	_	Case=Nom|Gender=Masc|Number=Sing|VerbForm=Part	_	_	_	LemmaId=157340|OccId=275550|Unsandhied=sthitaḥ|UnsandhiedReconstructed=True
+19-20	anatiriktām	_	_	_	_	_	_	_	_
+19	an	an	PART	_		_	_	_	LemmaId=213304|OccId=5868279|Unsandhied=an
+20	atiriktām	atiric	VERB	_	Case=Acc|Gender=Fem|Number=Sing|VerbForm=Part	_	_	_	LemmaId=157483|OccId=5868280|Unsandhied=atiriktām
+21-23	apyatiriktāmiva	_	_	_	_	_	_	_	_
+21	api	api	PART	_		_	_	_	LemmaId=21365|OccId=275238|Unsandhied=api|UnsandhiedReconstructed=True
+22	atiriktām	atiric	VERB	_	Case=Acc|Gender=Fem|Number=Sing|VerbForm=Part	_	_	_	LemmaId=157483|OccId=275239|Unsandhied=atiriktām|UnsandhiedReconstructed=True
+23	iva	iva	PART	_		_	_	_	LemmaId=63807|OccId=275240|Unsandhied=iva|UnsandhiedReconstructed=True
+24-25	jagadrūpatāṃ	_	_	_	_	_	_	_	_
+24	jagat	jagant	NOUN	_	Case=Cpd	_	_	_	LemmaId=164188|OccId=275543|Unsandhied=jagat|UnsandhiedReconstructed=True
+25	rūpatām	rūpatā	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	_	_	_	LemmaId=71953|OccId=275544|Unsandhied=rūpatām|UnsandhiedReconstructed=True
+26	svabhittau	svabhitti	NOUN	_	Case=Loc|Gender=Fem|Number=Sing	_	_	_	LemmaId=164297|OccId=275545|Unsandhied=svabhittau|UnsandhiedReconstructed=True
+27-29	darpaṇanagaravat	_	_	_	_	_	_	_	_
+27	darpaṇa	darpaṇa	NOUN	_	Case=Cpd	_	_	_	LemmaId=146400|OccId=275546|Unsandhied=darpaṇa|UnsandhiedReconstructed=True
+28	nagara	nagara	NOUN	_	Case=Cpd	_	_	_	LemmaId=43702|OccId=275547|Unsandhied=nagara|UnsandhiedReconstructed=True
+29	vat	vat	ADV	_		_	_	_	LemmaId=167498|OccId=275548|Unsandhied=vat|UnsandhiedReconstructed=True
+30	prakāśayan	prakāśay	VERB	_	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part	_	_	_	LemmaId=162329|OccId=275549|Unsandhied=prakāśayan|UnsandhiedReconstructed=True
+31	sthitaḥ	sthā	VERB	_	Case=Nom|Gender=Masc|Number=Sing|VerbForm=Part	_	_	_	LemmaId=157340|OccId=275550|Unsandhied=sthitaḥ|UnsandhiedReconstructed=True
 
 # text = nanu ca bhavatvevaṃ sargasthityavasthayor jagatāsyāniruddhatvaṃ saṃhārāvasthayā tv abhāvātmanā suṣuptadeśīyayā jagataḥ sambandhinyā kathaṃ naitat tirodhīyate nahi grāhyaṃ jagadvinā grāhakaścidātmā kaścidity āvṛttyaitad evottaraṃ yasmān nirgatamapi sadyatraiva sthitamutpannam api jagatsaṃhārāvasthāyāṃ tadaikātmyenaivāste na tv asyānyaḥ kaściducchedaḥ śūnyarūpastasya vakṣyamāṇayuktyā prakāśaṃ bhittibhūtaṃ vinānupapatterityarthaḥ
-# sent_id = 49170
+# sent_id = 49169
 # sent_counter = 26
 # sent_subcounter = 
 1	nanu	nanu	PART	_		_	_	_	LemmaId=43922|OccId=275551|Unsandhied=nanu|UnsandhiedReconstructed=True
@@ -722,7 +731,7 @@
 71	arthaḥ	artha	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=53136|OccId=275601|Unsandhied=arthaḥ|UnsandhiedReconstructed=True
 
 # text = yathoktaṃ śrīsvacchandaśāstre
-# sent_id = 49171
+# sent_id = 49170
 # sent_counter = 27
 # sent_subcounter = 1
 1-2	yathoktaṃ	_	_	_	_	_	_	_	_
@@ -733,7 +742,7 @@
 4	svacchandaśāstre	svacchandaśāstra	NOUN	_	Case=Loc|Gender=Neut|Number=Sing	_	_	_	LemmaId=167681|OccId=275605|Unsandhied=svacchandaśāstre|UnsandhiedReconstructed=True
 
 # text = aśūnyaṃ śūnyamityuktaṃ śūnyaṃ cābhāva ucyate
-# sent_id = 49172
+# sent_id = 49171
 # sent_counter = 27
 # sent_subcounter = 2
 1-2	aśūnyaṃ	_	_	_	_	_	_	_	_
@@ -750,7 +759,7 @@
 9	ucyate	vac	VERB	_	Tense=Pres|Mood=Ind|Voice=Pass|Person=3|Number=Sing	_	_	_	LemmaId=157264|OccId=275613|Unsandhied=ucyate
 
 # text = devyabhāvaḥ sa vijñeyo yatra bhāvāḥ kṣayaṃ gatāḥ
-# sent_id = 49173
+# sent_id = 49172
 # sent_counter = 27
 # sent_subcounter = 3
 1-2	devyabhāvaḥ	_	_	_	_	_	_	_	_
@@ -764,13 +773,13 @@
 8	gatāḥ	gam	VERB	_	Case=Nom|Gender=Masc|Number=Plur|VerbForm=Part	_	_	_	LemmaId=156214|OccId=275621|Unsandhied=gatāḥ|UnsandhiedReconstructed=True
 
 # text = iti
-# sent_id = 49174
+# sent_id = 49173
 # sent_counter = 28
 # sent_subcounter = 
 1	iti	iti	PART	_		_	_	_	LemmaId=63331|OccId=275622|Unsandhied=iti|UnsandhiedReconstructed=True
 
 # text = evaṃ sarvaṃ yasya kāryaṃ yatprakāśenaiva prakāśate saṃhṛtamapi ca sadyatprakāśaikātmyena tiṣṭhati na tasya deśakālākārādi kiṃcin nirodhakaṃ yujyate iti vyāpakaṃ nityaṃ viśvaśaktikhacitaṃ svaprakāśam ādisiddhaṃ caitattattvamiti nāsya siddhāv ajñātārthaprakāśarūpaṃ pramāṇavarākamupapadyata upayujyate sambhavati vā pratyutaitattattvasiddhyadhīnā pramāṇādiviśvavastusiddhiḥ
-# sent_id = 49175
+# sent_id = 49174
 # sent_counter = 29
 # sent_subcounter = 
 1	evaṃ	evam	ADV	_		_	_	_	LemmaId=39758|OccId=275623|Unsandhied=evam|UnsandhiedReconstructed=True
@@ -850,7 +859,7 @@
 62	siddhiḥ	siddhi	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	_	_	_	LemmaId=106233|OccId=275672|Unsandhied=siddhiḥ|UnsandhiedReconstructed=True
 
 # text = taduktamasmadgurubhis tantrāloke
-# sent_id = 49176
+# sent_id = 49175
 # sent_counter = 30
 # sent_subcounter = 1
 1-4	taduktamasmadgurubhis	_	_	_	_	_	_	_	_
@@ -861,7 +870,7 @@
 5	tantrāloke	tantrāloka	NOUN	_	Case=Loc|Gender=Masc|Number=Sing	_	_	_	LemmaId=167762|OccId=275677|Unsandhied=tantrāloke|UnsandhiedReconstructed=True
 
 # text = pramāṇānyapi vastūnāṃ jīvitaṃ yāni tanvate
-# sent_id = 49177
+# sent_id = 49176
 # sent_counter = 30
 # sent_subcounter = 2
 1-2	pramāṇānyapi	_	_	_	_	_	_	_	_
@@ -873,7 +882,7 @@
 6	tanvate	tan	VERB	_	Tense=Pres|Mood=Ind|Person=3|Number=Plur	_	_	_	LemmaId=157173|OccId=275683|Unsandhied=tanvate
 
 # text = teṣāmapi paro jīvaḥ sa eva parameśvaraḥ
-# sent_id = 49178
+# sent_id = 49177
 # sent_counter = 30
 # sent_subcounter = 3
 1-2	teṣāmapi	_	_	_	_	_	_	_	_
@@ -886,13 +895,13 @@
 7	parameśvaraḥ	parameśvara	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=16482|OccId=275690|Unsandhied=parameśvaraḥ|UnsandhiedReconstructed=True
 
 # text = iti
-# sent_id = 49179
+# sent_id = 49178
 # sent_counter = 31
 # sent_subcounter = 
 1	iti	iti	PART	_		_	_	_	LemmaId=63331|OccId=275691|Unsandhied=iti|UnsandhiedReconstructed=True
 
 # text = yasmān nirgatamapīdaṃ jagadyatra sthitaṃ yatprakāśena prakāśamānaṃ tathābhūtamapi yatra sthitaṃ yatprakāśaikarūpaṃ yatprakāśa eva yasya siddhyai nyakṣeṇekṣyamāṇaṃ bhavati na tv anyaj jagan nāma kiṃcit
-# sent_id = 49180
+# sent_id = 49179
 # sent_counter = 32
 # sent_subcounter = 
 1	yasmān	yad	PRON	_	Case=Abl|Gender=Neut|Number=Sing	_	_	_	LemmaId=37877|OccId=275692|Unsandhied=yasmāt|UnsandhiedReconstructed=True
@@ -935,7 +944,7 @@
 31	kiṃcit	kaścit	PRON	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=164309|OccId=275712|Unsandhied=kiṃcid|UnsandhiedReconstructed=True
 
 # text = atra yatra sthitamityāvartya dvir yojyam
-# sent_id = 49181
+# sent_id = 49180
 # sent_counter = 33
 # sent_subcounter = 
 1	atra	atra	ADV	_		_	_	_	LemmaId=7442|OccId=275713|Unsandhied=atra|UnsandhiedReconstructed=True
@@ -948,7 +957,7 @@
 7	yojyam	yuj	VERB	_	Case=Nom|Gender=Neut|Number=Sing|VerbForm=Gdv	_	_	_	LemmaId=157298|OccId=275759|Unsandhied=yojyam|UnsandhiedReconstructed=True
 
 # text = evaṃ ca svānubhavasiddhamevāsya tattvasya sṛṣṭisthitisaṃhāramelanāvabhāsino 'tidurghaṭakāriṇaḥ sarvadā sarvatrāniruddhatvam
-# sent_id = 49182
+# sent_id = 49181
 # sent_counter = 34
 # sent_subcounter = 
 1	evaṃ	evam	ADV	_		_	_	_	LemmaId=39758|OccId=275718|Unsandhied=evam|UnsandhiedReconstructed=True
@@ -977,7 +986,7 @@
 20	tvam	tva	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=163754|OccId=276229|Unsandhied=tvam|UnsandhiedReconstructed=True
 
 # text = yathoktaṃ śrīmadutpaladevācāryaiḥ
-# sent_id = 49183
+# sent_id = 49182
 # sent_counter = 35
 # sent_subcounter = 1
 1-2	yathoktaṃ	_	_	_	_	_	_	_	_
@@ -989,7 +998,7 @@
 5	ācāryaiḥ	ācārya	NOUN	_	Case=Ins|Gender=Masc|Number=Plur	_	_	_	LemmaId=57430|OccId=276234|Unsandhied=ācāryaiḥ|UnsandhiedReconstructed=True
 
 # text = parameśvaratā jayatyapūrvā tava sarveśa yadīśitavyaśūnyā
-# sent_id = 49184
+# sent_id = 49183
 # sent_counter = 35
 # sent_subcounter = 2
 1	parameśvaratā	parameśvaratā	NOUN	_	Case=Nom|Gender=Fem|Number=Plur	_	_	_	LemmaId=167412|OccId=276235|Unsandhied=parameśvaratāḥ|UnsandhiedReconstructed=True
@@ -1004,7 +1013,7 @@
 8	śūnyā	śūnya	ADJ	_	Case=Nom|Gender=Fem|Number=Sing	_	_	_	LemmaId=127178|OccId=276242|Unsandhied=śūnyā|UnsandhiedReconstructed=True
 
 # text = aparāpi tathaiva te yayedaṃ jagadābhāti yathā tathā na bhāti
-# sent_id = 49185
+# sent_id = 49184
 # sent_counter = 35
 # sent_subcounter = 3
 1-2	aparāpi	_	_	_	_	_	_	_	_
@@ -1026,13 +1035,13 @@
 13	bhāti	bhā	VERB	_	Tense=Pres|Mood=Ind|Person=3|Number=Sing	_	_	_	LemmaId=157416|OccId=276255|Unsandhied=bhāti
 
 # text = iti
-# sent_id = 49186
+# sent_id = 49185
 # sent_counter = 36
 # sent_subcounter = 
 1	iti	iti	PART	_		_	_	_	LemmaId=63331|OccId=276256|Unsandhied=iti|UnsandhiedReconstructed=True
 
 # text = atrahibhāsamānameva jagad bhāsanaikaśeṣībhūtatvād bhāsanātiriktaṃ na kiṃcidbhātītyarthaḥ
-# sent_id = 49187
+# sent_id = 49186
 # sent_counter = 37
 # sent_subcounter = 
 1-4	atrahibhāsamānameva	_	_	_	_	_	_	_	_
@@ -1057,7 +1066,7 @@
 16	arthaḥ	artha	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=53136|OccId=276265|Unsandhied=arthaḥ|UnsandhiedReconstructed=True
 
 # text = kiṃca yatra sthitam ityuktyopaśamapade yasmāc ca nirgatamiti prasarapade yato'sya na nirodhas tato nimīlanonmīlanasamādhidvaye'pi yoginā svasvabhāvasamāveśapareṇaiva bhavitavyam
-# sent_id = 49188
+# sent_id = 49187
 # sent_counter = 38
 # sent_subcounter = 
 1	kiṃca	kiṃca	ADV	_		_	_	_	LemmaId=169972|OccId=276266|Unsandhied=kiṃca|UnsandhiedReconstructed=True
@@ -1098,7 +1107,7 @@
 30	bhavitavyam	bhū	VERB	_	Case=Nom|Gender=Neut|Number=Sing|VerbForm=Gdv	_	_	_	LemmaId=157250|OccId=276280|Unsandhied=bhavitavyam|UnsandhiedReconstructed=True
 
 # text = yadvakṣyate
-# sent_id = 49189
+# sent_id = 49188
 # sent_counter = 39
 # sent_subcounter = 1
 1-2	yadvakṣyate	_	_	_	_	_	_	_	_
@@ -1106,7 +1115,7 @@
 2	vakṣyate	vac	VERB	_	Tense=Fut|Mood=Ind|Person=3|Number=Sing	_	_	_	LemmaId=157264|OccId=276282|Unsandhied=vakṣyate
 
 # text = yadā kṣobhaḥ pralīyeta tadā syātparamaṃ padam
-# sent_id = 49190
+# sent_id = 49189
 # sent_counter = 39
 # sent_subcounter = 2
 1	yadā	yadā	SCONJ	_		_	_	_	LemmaId=73645|OccId=276283|Unsandhied=yadā|UnsandhiedReconstructed=True
@@ -1119,19 +1128,19 @@
 7	padam	pada	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=15753|OccId=276288|Unsandhied=padam|UnsandhiedReconstructed=True
 
 # text = iti
-# sent_id = 49191
+# sent_id = 49190
 # sent_counter = 40
 # sent_subcounter = 
 1	iti	iti	PART	_		_	_	_	LemmaId=63331|OccId=276289|Unsandhied=iti|UnsandhiedReconstructed=True
 
 # text = tathā
-# sent_id = 49192
+# sent_id = 49191
 # sent_counter = 41
 # sent_subcounter = 1
 1	tathā	tathā	ADV	_		_	_	_	LemmaId=95987|OccId=276290|Unsandhied=tathā|UnsandhiedReconstructed=True
 
 # text = tasmāc chabdārthacintāsu na sāvasthā na yā śivaḥ
-# sent_id = 49193
+# sent_id = 49192
 # sent_counter = 41
 # sent_subcounter = 2
 1	tasmāc	tad	PRON	_	Case=Abl|Gender=Neut|Number=Sing	_	_	_	LemmaId=37875|OccId=276291|Unsandhied=tasmāt|UnsandhiedReconstructed=True
@@ -1148,7 +1157,7 @@
 10	śivaḥ	śiva	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=132712|OccId=276297|Unsandhied=śivaḥ|UnsandhiedReconstructed=True
 
 # text = ityapi ca
-# sent_id = 49194
+# sent_id = 49193
 # sent_counter = 42
 # sent_subcounter = 
 1-2	ityapi	_	_	_	_	_	_	_	_
@@ -1157,7 +1166,7 @@
 3	ca	ca	CONJ	_		_	_	_	LemmaId=157144|OccId=276300|Unsandhied=ca|UnsandhiedReconstructed=True
 
 # text = kutracidanātmavādini saugatādau pramātari kutracic ca bādhakābhimate pramāṇe sati na tasya nirodhaḥ pratiṣedho'sti yato yastasya pratiṣedhako yac ca tasya pratiṣedhakaṃ pramāṇaṃ tadyadi na siddham abhittikam etac citraṃ siddhiścāsya prakāśate iti tatsiddhyaiva bhagavān ādisiddhasvaprakāśamūrtir astīty etat pratiṣedhāyoditenāpy anakṣaramuktam
-# sent_id = 49195
+# sent_id = 49194
 # sent_counter = 43
 # sent_subcounter = 
 1-3	kutracidanātmavādini	_	_	_	_	_	_	_	_
@@ -1229,7 +1238,7 @@
 55	uktam	vac	VERB	_	Case=Nom|Gender=Neut|Number=Sing|VerbForm=Part	_	_	_	LemmaId=157264|OccId=276352|Unsandhied=uktam|UnsandhiedReconstructed=True
 
 # text = bhaviṣyati caitat
-# sent_id = 49196
+# sent_id = 49195
 # sent_counter = 44
 # sent_subcounter = 1
 1	bhaviṣyati	bhū	VERB	_	Tense=Fut|Mood=Ind|Person=3|Number=Sing	_	_	_	LemmaId=157250|OccId=276353|Unsandhied=bhaviṣyati
@@ -1238,7 +1247,7 @@
 3	etat	etad	PRON	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=163744|OccId=276355|Unsandhied=etat|UnsandhiedReconstructed=True
 
 # text = na tu yo 'ntarmukho bhāvaḥ
-# sent_id = 49197
+# sent_id = 49196
 # sent_counter = 44
 # sent_subcounter = 2
 1	na	na	PART	_		_	_	_	LemmaId=43432|OccId=276356|Unsandhied=na|UnsandhiedReconstructed=True
@@ -1248,7 +1257,7 @@
 5	bhāvaḥ	bhāva	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=49850|OccId=276358|Unsandhied=bhāvaḥ|UnsandhiedReconstructed=True
 
 # text = ityatrāntare
-# sent_id = 49198
+# sent_id = 49197
 # sent_counter = 45
 # sent_subcounter = 
 1-3	ityatrāntare	_	_	_	_	_	_	_	_
@@ -1257,7 +1266,7 @@
 3	antare	antara	ADJ	_	Case=Loc|Gender=Neut|Number=Sing	_	_	_	LemmaId=11865|OccId=276361|Unsandhied=antare|UnsandhiedReconstructed=True
 
 # text = evaṃ cānena viśvottīrṇaṃ viśvamayaṃ viśvasargasaṃhārādikāri śāṃkaraṃ svasvabhāvātmakaṃ tattvam ityabhidadhatā sarveṣu pārameśvareṣu yadupāsyaṃ taditaḥ spandatattvān nādhikaṃ kevalametatsvātantryavaśenaiva tadupāsāvaicitryam ābhāsyate
-# sent_id = 49199
+# sent_id = 49198
 # sent_counter = 46
 # sent_subcounter = 
 1	evaṃ	evam	ADV	_		_	_	_	LemmaId=39758|OccId=276362|Unsandhied=evam|UnsandhiedReconstructed=True
@@ -1312,7 +1321,7 @@
 38	ābhāsyate	ābhās	VERB	_	Tense=Pres|Mood=Ind|Voice=Pass|Person=3|Number=Sing	_	_	_	LemmaId=159847|OccId=276426|Unsandhied=ābhāsyate
 
 # text = vastutastu etadvīryasāram evāśeṣam
-# sent_id = 49200
+# sent_id = 49199
 # sent_counter = 47
 # sent_subcounter = 
 1-2	vastutastu	_	_	_	_	_	_	_	_
@@ -1327,7 +1336,7 @@
 7	aśeṣam	aśeṣa	ADJ	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=60026|OccId=276442|Unsandhied=aśeṣam|UnsandhiedReconstructed=True
 
 # text = yadvakṣyati
-# sent_id = 49201
+# sent_id = 49200
 # sent_counter = 48
 # sent_subcounter = 1
 1-2	yadvakṣyati	_	_	_	_	_	_	_	_
@@ -1335,7 +1344,7 @@
 2	vakṣyati	vac	VERB	_	Tense=Fut|Mood=Ind|Person=3|Number=Sing	_	_	_	LemmaId=157264|OccId=276444|Unsandhied=vakṣyati
 
 # text = tadākramya balaṃ mantrāḥ sarvajñabalaśālinaḥ
-# sent_id = 49202
+# sent_id = 49201
 # sent_counter = 48
 # sent_subcounter = 2
 1-2	tadākramya	_	_	_	_	_	_	_	_
@@ -1349,7 +1358,7 @@
 7	śālinaḥ	śālin	ADJ	_	Case=Nom|Gender=Masc|Number=Plur	_	_	_	LemmaId=132442|OccId=276451|Unsandhied=śālinaḥ|UnsandhiedReconstructed=True
 
 # text = ityetadapi bhaṅgyā pratipāditam
-# sent_id = 49203
+# sent_id = 49202
 # sent_counter = 49
 # sent_subcounter = 
 1-3	ityetadapi	_	_	_	_	_	_	_	_
@@ -1360,7 +1369,7 @@
 5	pratipāditam	pratipāday	VERB	_	Case=Nom|Gender=Neut|Number=Sing|VerbForm=Part	_	_	_	LemmaId=162524|OccId=276456|Unsandhied=pratipāditam|UnsandhiedReconstructed=True
 
 # text = evaṃ ca na kaścid uktacodyāvakāśaḥ
-# sent_id = 49204
+# sent_id = 49203
 # sent_counter = 50
 # sent_subcounter = 
 1	evaṃ	evam	ADV	_		_	_	_	LemmaId=39758|OccId=276457|Unsandhied=evam|UnsandhiedReconstructed=True
@@ -1372,8 +1381,8 @@
 6	codya	coday	VERB	_	VerbForm=Conv	_	_	_	LemmaId=158613|OccId=276462|Unsandhied=codya|UnsandhiedReconstructed=True
 7	avakāśaḥ	avakāśa	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=53938|OccId=276463|Unsandhied=avakāśaḥ|UnsandhiedReconstructed=True
 
-# text = evametādṛśeṣu cintāratnaprāyeṣu śrīspandasūtreṣu yadanyaiḥ sarvair vivṛtikṛdbhir vyākhyāyi yac cāsmābhiḥ kiṃcid vyākriyate tatrāntaramamatsarā anavaliptāś ca svayameva vicinvantu sacetaso na tu tad asmābhir udghāṭya pratipadaṃ pradarśyate granthagauravāpatteḥ
-# sent_id = 49205
+# text = evametādṛśeṣu cintāratnaprāyeṣu śrīspandasūtreṣu yadanyaiḥ sarvair vivṛtikṛdbhir vyākhyāyi yac cāsmābhiḥ kiṃcid vyākriyate tatrāntaram amatsarā anavaliptāś ca svayameva vicinvantu sacetaso na tu tad asmābhir udghāṭya pratipadaṃ pradarśyate granthagauravāpatteḥ
+# sent_id = 49204
 # sent_counter = 51
 # sent_subcounter = 
 1-2	evametādṛśeṣu	_	_	_	_	_	_	_	_
@@ -1400,31 +1409,35 @@
 16	asmābhiḥ	mad	PRON	_	Case=Ins|Number=Plur	_	_	_	LemmaId=37879|OccId=276473|Unsandhied=asmābhiḥ|UnsandhiedReconstructed=True
 17	kiṃcid	kaścit	PRON	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=164309|OccId=276474|Unsandhied=kiṃcid|UnsandhiedReconstructed=True
 18	vyākriyate	vyākṛ	VERB	_	Tense=Pres|Mood=Ind|Voice=Pass|Person=3|Number=Sing	_	_	_	LemmaId=164612|OccId=276475|Unsandhied=vyākriyate
-19-21	tatrāntaramamatsarā	_	_	_	_	_	_	_	_
-19	tatra	tatra	ADV	_		_	_	_	LemmaId=95978|OccId=276476|Unsandhied=tatra|UnsandhiedReconstructed=True
-20	antaram	antara	ADJ	_	Case=Acc|Gender=Neut|Number=Sing	_	_	_	LemmaId=11865|OccId=276477|Unsandhied=antaram|UnsandhiedReconstructed=True
-21	amatsarāḥ	amatsara	ADJ	_	Case=Nom|Gender=Masc|Number=Plur	_	_	_	LemmaId=31609|OccId=276478|Unsandhied=amatsarāḥ|UnsandhiedReconstructed=True
-22	anavaliptāś	anavalipta	ADJ	_	Case=Nom|Gender=Masc|Number=Plur	_	_	_	LemmaId=171596|OccId=2534140|Unsandhied=anavaliptāḥ|UnsandhiedReconstructed=True
-23	ca	ca	CONJ	_		_	_	_	LemmaId=157144|OccId=276516|Unsandhied=ca|UnsandhiedReconstructed=True
-24-25	svayameva	_	_	_	_	_	_	_	_
-24	svayam	svayam	ADV	_		_	_	_	LemmaId=119534|OccId=276479|Unsandhied=svayam|UnsandhiedReconstructed=True
-25	eva	eva	PART	_		_	_	_	LemmaId=39754|OccId=276480|Unsandhied=eva|UnsandhiedReconstructed=True
-26	vicinvantu	vici	VERB	_	Tense=Pres|Mood=Imp|Person=3|Number=Plur	_	_	_	LemmaId=163294|OccId=276481|Unsandhied=vicinvantu
-27	sacetaso	sacetas	ADJ	_	Case=Nom|Gender=Masc|Number=Plur	_	_	_	LemmaId=9186|OccId=276482|Unsandhied=sacetasaḥ|UnsandhiedReconstructed=True
-28	na	na	PART	_		_	_	_	LemmaId=43432|OccId=276483|Unsandhied=na|UnsandhiedReconstructed=True
-29	tu	tu	PART	_		_	_	_	LemmaId=82701|OccId=276484|Unsandhied=tu|UnsandhiedReconstructed=True
-30	tad	tad	PRON	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=37875|OccId=276517|Unsandhied=tat|UnsandhiedReconstructed=True
-31	asmābhir	mad	PRON	_	Case=Ins|Number=Plur	_	_	_	LemmaId=37879|OccId=276518|Unsandhied=asmābhiḥ|UnsandhiedReconstructed=True
-32	udghāṭya	udghāṭay	VERB	_	VerbForm=Conv	_	_	_	LemmaId=160221|OccId=2534141|Unsandhied=udghāṭya|UnsandhiedReconstructed=True
-33	pratipadaṃ	pratipad	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	_	_	_	LemmaId=139732|OccId=276485|Unsandhied=pratipadam|UnsandhiedReconstructed=True
-34	pradarśyate	pradarśay	VERB	_	Tense=Pres|Mood=Ind|Voice=Pass|Person=3|Number=Sing	_	_	_	LemmaId=162884|OccId=276519|Unsandhied=pradarśyate
-35-37	granthagauravāpatteḥ	_	_	_	_	_	_	_	_
-35	grantha	grantha	NOUN	_	Case=Cpd	_	_	_	LemmaId=125103|OccId=276486|Unsandhied=grantha|UnsandhiedReconstructed=True
-36	gaurava	gaurava	NOUN	_	Case=Cpd	_	_	_	LemmaId=125541|OccId=276487|Unsandhied=gaurava|UnsandhiedReconstructed=True
-37	āpattyāḥ	āpatti	NOUN	_	Case=Abl|Gender=Fem|Number=Sing	_	_	_	LemmaId=58616|OccId=276488|Unsandhied=āpattyāḥ|UnsandhiedReconstructed=True
+19-20	tatrāntaram	_	_	_	_	_	_	_	_
+19	tatra	tatra	ADV	_		_	_	_	LemmaId=95978|OccId=5877055|Unsandhied=tatra
+20	antaram	antara	ADJ	_	Case=Acc|Gender=Neut|Number=Sing	_	_	_	LemmaId=11865|OccId=5877056|Unsandhied=antaram
+21-22	amatsarā	_	_	_	_	_	_	_	_
+21	a	a	PART	_		_	_	_	LemmaId=213048|OccId=5877059|Unsandhied=a
+22	matsarāḥ	matsara	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	_	_	_	LemmaId=27164|OccId=5877060|Unsandhied=matsarāḥ
+23-24	anavaliptāś	_	_	_	_	_	_	_	_
+23	an	an	PART	_		_	_	_	LemmaId=213304|OccId=5877057|Unsandhied=an
+24	avaliptāḥ	avalipta	ADJ	_	Case=Nom|Gender=Masc|Number=Plur	_	_	_	LemmaId=54541|OccId=5877058|Unsandhied=avaliptāḥ
+25	ca	ca	CONJ	_		_	_	_	LemmaId=157144|OccId=276516|Unsandhied=ca|UnsandhiedReconstructed=True
+26-27	svayameva	_	_	_	_	_	_	_	_
+26	svayam	svayam	ADV	_		_	_	_	LemmaId=119534|OccId=276479|Unsandhied=svayam|UnsandhiedReconstructed=True
+27	eva	eva	PART	_		_	_	_	LemmaId=39754|OccId=276480|Unsandhied=eva|UnsandhiedReconstructed=True
+28	vicinvantu	vici	VERB	_	Tense=Pres|Mood=Imp|Person=3|Number=Plur	_	_	_	LemmaId=163294|OccId=276481|Unsandhied=vicinvantu
+29	sacetaso	sacetas	ADJ	_	Case=Nom|Gender=Masc|Number=Plur	_	_	_	LemmaId=9186|OccId=276482|Unsandhied=sacetasaḥ|UnsandhiedReconstructed=True
+30	na	na	PART	_		_	_	_	LemmaId=43432|OccId=276483|Unsandhied=na|UnsandhiedReconstructed=True
+31	tu	tu	PART	_		_	_	_	LemmaId=82701|OccId=276484|Unsandhied=tu|UnsandhiedReconstructed=True
+32	tad	tad	PRON	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=37875|OccId=276517|Unsandhied=tat|UnsandhiedReconstructed=True
+33	asmābhir	mad	PRON	_	Case=Ins|Number=Plur	_	_	_	LemmaId=37879|OccId=276518|Unsandhied=asmābhiḥ|UnsandhiedReconstructed=True
+34	udghāṭya	udghāṭay	VERB	_	VerbForm=Conv	_	_	_	LemmaId=160221|OccId=2534141|Unsandhied=udghāṭya|UnsandhiedReconstructed=True
+35	pratipadaṃ	pratipad	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	_	_	_	LemmaId=139732|OccId=276485|Unsandhied=pratipadam|UnsandhiedReconstructed=True
+36	pradarśyate	pradarśay	VERB	_	Tense=Pres|Mood=Ind|Voice=Pass|Person=3|Number=Sing	_	_	_	LemmaId=162884|OccId=276519|Unsandhied=pradarśyate
+37-39	granthagauravāpatteḥ	_	_	_	_	_	_	_	_
+37	grantha	grantha	NOUN	_	Case=Cpd	_	_	_	LemmaId=125103|OccId=276486|Unsandhied=grantha|UnsandhiedReconstructed=True
+38	gaurava	gaurava	NOUN	_	Case=Cpd	_	_	_	LemmaId=125541|OccId=276487|Unsandhied=gaurava|UnsandhiedReconstructed=True
+39	āpattyāḥ	āpatti	NOUN	_	Case=Abl|Gender=Fem|Number=Sing	_	_	_	LemmaId=58616|OccId=276488|Unsandhied=āpattyāḥ|UnsandhiedReconstructed=True
 
 # text = nanu jāgarādidaśasv īdṛśaḥ svabhāvo nānubhūyate yadi cāyamuktayuktibhirna kenacit nirudhyate tat jāgarādyavasthā svayameva nirotsyate iti śaṅkāta uktamapyartham apratipadyamānaṃ pratibodhayann upadiśati
-# sent_id = 49206
+# sent_id = 49205
 # sent_counter = 52
 # sent_subcounter = 
 1	nanu	nanu	PART	_		_	_	_	LemmaId=43922|OccId=276489|Unsandhied=nanu|UnsandhiedReconstructed=True

@@ -3,7 +3,7 @@
 ## chapter: MṛgṬīkā zu MṛgT, Vidyāpāda, 2, 27.2
 ## chapter_id: 232
 # text = śivaśaktividyeśvarādāv upādeyasatattve malakarmamāyādau ca heyaparamārthe yeṣāṃ nāsty avabodhaḥ teṣām ajñānamūḍhānāṃ darśanāntarapraṇetṝṇāṃ saṃbandhi mataṃ śāstram āśrityākuśalamatayo ye muktim icchanti te khadyotād agnyabhyarthinaḥ kīṭamaṇer vahniṃ lipsavaḥ
-# sent_id = 45298
+# sent_id = 45297
 # sent_counter = 1
 # sent_subcounter = 
 1-4	śivaśaktividyeśvarādāv	_	_	_	_	_	_	_	_
@@ -20,35 +20,35 @@
 9	_	māyā	NOUN	_	_	_	_	_	LemmaId=79101|OccId=6689|Unsandhied=_
 10	_	ādi	NOUN	_	_	_	_	_	LemmaId=57973|OccId=6690|Unsandhied=_
 11	ca	ca	CONJ	_	_	_	_	_	LemmaId=157144|OccId=6691|Unsandhied=ca|UnsandhiedReconstructed=True
-12	heyaparamārthe	yad	PRON	_	_	_	_	_	LemmaId=37877|OccId=6694|Unsandhied=_
-13-14	yeṣāṃ	_	_	_	_	_	_	_	_
+12	yeṣāṃ	yad	PRON	_	_	_	_	_	LemmaId=37877|OccId=6694|Unsandhied=_
+13-14	nāsty	_	_	_	_	_	_	_	_
 13	na	na	PART	_	_	_	_	_	LemmaId=43432|OccId=6695|Unsandhied=na|UnsandhiedReconstructed=True
 14	asti	as	VERB	_	Tense=Pres|Mood=Ind|Person=3|Number=Sing	_	_	_	LemmaId=156122|OccId=6696|Unsandhied=asti
-15	nāsty	avabodha	NOUN	_	_	_	_	_	LemmaId=54354|OccId=6697|Unsandhied=_
-16	avabodhaḥ	tad	PRON	_	_	_	_	_	LemmaId=37875|OccId=6698|Unsandhied=_
-17-18	teṣām	_	_	_	_	_	_	_	_
+15	avabodhaḥ	avabodha	NOUN	_	_	_	_	_	LemmaId=54354|OccId=6697|Unsandhied=_
+16	teṣām	tad	PRON	_	_	_	_	_	LemmaId=37875|OccId=6698|Unsandhied=_
+17-18	ajñānamūḍhānāṃ	_	_	_	_	_	_	_	_
 17	_	ajñāna	NOUN	_	_	_	_	_	LemmaId=6617|OccId=6699|Unsandhied=_
 18	_	muh	VERB	_	_|VerbForm=Part	_	_	_	LemmaId=157970|OccId=6700|Unsandhied=_
-19	ajñānamūḍhānāṃ	sambandhin	ADJ	_	_	_	_	_	LemmaId=103769|OccId=6701|Unsandhied=_
-20	darśanāntarapraṇetṝṇāṃ	mata	NOUN	_	_	_	_	_	LemmaId=35981|OccId=6702|Unsandhied=_
-21	saṃbandhi	śāstra	NOUN	_	_	_	_	_	LemmaId=131506|OccId=6703|Unsandhied=_
-22-23	mataṃ	_	_	_	_	_	_	_	_
+19	saṃbandhi	sambandhin	ADJ	_	_	_	_	_	LemmaId=103769|OccId=6701|Unsandhied=_
+20	mataṃ	mata	NOUN	_	_	_	_	_	LemmaId=35981|OccId=6702|Unsandhied=_
+21	śāstram	śāstra	NOUN	_	_	_	_	_	LemmaId=131506|OccId=6703|Unsandhied=_
+22-23	āśrityākuśalamatayo	_	_	_	_	_	_	_	_
 22	āśritya	āśri	VERB	_	_|VerbForm=Conv	_	_	_	LemmaId=159985|OccId=6726|Unsandhied=āśritya|UnsandhiedReconstructed=True
 23	_	akuśalamati	ADJ	_	_	_	_	_	LemmaId=165656|OccId=6727|Unsandhied=_
-24	śāstram	yad	PRON	_	_	_	_	_	LemmaId=37877|OccId=6704|Unsandhied=_
-25	āśrityākuśalamatayo	mukti	NOUN	_	_	_	_	_	LemmaId=135992|OccId=6705|Unsandhied=_
-26	ye	iṣ	VERB	_	Tense=Pres|Mood=Ind|Person=3|Number=Plur	_	_	_	LemmaId=156131|OccId=6706|Unsandhied=icchanti
-27	muktim	tad	PRON	_	_	_	_	_	LemmaId=37875|OccId=6707|Unsandhied=_
-28	icchanti	khadyota	NOUN	_	_	_	_	_	LemmaId=135678|OccId=6708|Unsandhied=_
-29-30	te	_	_	_	_	_	_	_	_
+24	ye	yad	PRON	_	_	_	_	_	LemmaId=37877|OccId=6704|Unsandhied=_
+25	muktim	mukti	NOUN	_	_	_	_	_	LemmaId=135992|OccId=6705|Unsandhied=_
+26	icchanti	iṣ	VERB	_	Tense=Pres|Mood=Ind|Person=3|Number=Plur	_	_	_	LemmaId=156131|OccId=6706|Unsandhied=icchanti
+27	te	tad	PRON	_	_	_	_	_	LemmaId=37875|OccId=6707|Unsandhied=_
+28	khadyotād	khadyota	NOUN	_	_	_	_	_	LemmaId=135678|OccId=6708|Unsandhied=_
+29-30	agnyabhyarthinaḥ	_	_	_	_	_	_	_	_
 29	_	agni	NOUN	_	_	_	_	_	LemmaId=5705|OccId=6709|Unsandhied=_
 30	_	abhyarthin	ADJ	_	_	_	_	_	LemmaId=31352|OccId=6710|Unsandhied=_
-31	khadyotād	kīṭamaṇi	NOUN	_	_	_	_	_	LemmaId=23576|OccId=6711|Unsandhied=_
-32	agnyabhyarthinaḥ	vahni	NOUN	_	_	_	_	_	LemmaId=75677|OccId=6712|Unsandhied=_
-33	kīṭamaṇer	lipsu	ADJ	_	_	_	_	_	LemmaId=80923|OccId=6713|Unsandhied=_
+31	kīṭamaṇer	kīṭamaṇi	NOUN	_	_	_	_	_	LemmaId=23576|OccId=6711|Unsandhied=_
+32	vahniṃ	vahni	NOUN	_	_	_	_	_	LemmaId=75677|OccId=6712|Unsandhied=_
+33	lipsavaḥ	lipsu	ADJ	_	_	_	_	_	LemmaId=80923|OccId=6713|Unsandhied=_
 
 # text = te yathā vyarthaśramās tathā te viphalakleśā bhavantīty arthaḥ
-# sent_id = 45299
+# sent_id = 45298
 # sent_counter = 2
 # sent_subcounter = 
 1	te	tad	PRON	_	_	_	_	_	LemmaId=37875|OccId=6714|Unsandhied=_

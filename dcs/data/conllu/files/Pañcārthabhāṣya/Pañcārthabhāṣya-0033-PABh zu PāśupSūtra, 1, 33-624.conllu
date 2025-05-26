@@ -3,7 +3,7 @@
 ## chapter: PABh zu PāśupSūtra, 1, 33
 ## chapter_id: 624
 # text = atra akṣayādivacanavirodhād adhītaś caratīti pāṭhānupapattiḥ
-# sent_id = 84581
+# sent_id = 84580
 # sent_counter = 1
 # sent_subcounter = 
 1	atra	atra	ADV	_		_	_	_	LemmaId=7442|OccId=174675|Unsandhied=atra|UnsandhiedReconstructed=True
@@ -21,7 +21,7 @@
 10	anupapattiḥ	anupapatti	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	_	_	_	LemmaId=10986|OccId=174683|Unsandhied=anupapattiḥ|UnsandhiedReconstructed=True
 
 # text = tasmād atītānāgatavartamānakālabhayaṃ na vidyata ity ato 'bhītaḥ
-# sent_id = 84582
+# sent_id = 84581
 # sent_counter = 2
 # sent_subcounter = 
 1	tasmād	tad	PRON	_	Case=Abl|Gender=Neut|Number=Sing	_	_	_	LemmaId=37875|OccId=174684|Unsandhied=tasmāt|UnsandhiedReconstructed=True
@@ -34,44 +34,51 @@
 7	vidyata	vid	VERB	_	Tense=Pres|Mood=Ind|Voice=Pass|Person=3|Number=Sing	_	_	_	LemmaId=157306|OccId=174686|Unsandhied=vidyate
 8	ity	iti	PART	_		_	_	_	LemmaId=63331|OccId=174687|Unsandhied=iti|UnsandhiedReconstructed=True
 9	ato	atas	ADV	_		_	_	_	LemmaId=6823|OccId=174688|Unsandhied=atas|UnsandhiedReconstructed=True
-10	'bhītaḥ	abhīta	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=31203|OccId=174689|Unsandhied=abhītaḥ|UnsandhiedReconstructed=True
+10-11	'bhītaḥ	_	_	_	_	_	_	_	_
+10	a	a	PART	_		_	_	_	LemmaId=213048|OccId=5879374|Unsandhied=a
+11	bhītaḥ	bhī	VERB	_	Case=Nom|Gender=Masc|Number=Sing|VerbForm=Part	_	_	_	LemmaId=159469|OccId=5879375|Unsandhied=bhītaḥ
 
 # text = āha abhītānām api brahmādīnāṃ saṃhāre kṣayaḥ śrūyate
-# sent_id = 84583
+# sent_id = 84582
 # sent_counter = 3
 # sent_subcounter = 
 1	āha	ah	VERB	_	Tense=Past|Mood=Ind|Person=3|Number=Sing	_	_	_	LemmaId=156124|OccId=174690|Unsandhied=āha
-2	abhītānām	abhīta	ADJ	_	Case=Gen|Gender=Masc|Number=Plur	_	_	_	LemmaId=31203|OccId=174691|Unsandhied=abhītānām|UnsandhiedReconstructed=True
-3	api	api	PART	_		_	_	_	LemmaId=21365|OccId=174692|Unsandhied=api|UnsandhiedReconstructed=True
-4-5	brahmādīnāṃ	_	_	_	_	_	_	_	_
-4	brahma	brahman	NOUN	_	Case=Cpd	_	_	_	LemmaId=149177|OccId=174693|Unsandhied=brahma|UnsandhiedReconstructed=True
-5	ādīnām	ādi	NOUN	_	Case=Gen|Gender=Masc|Number=Plur	_	_	_	LemmaId=57973|OccId=174694|Unsandhied=ādīnām|UnsandhiedReconstructed=True
-6	saṃhāre	saṃhāra	NOUN	_	Case=Loc|Gender=Masc|Number=Sing	_	_	_	LemmaId=8517|OccId=174695|Unsandhied=saṃhāre|UnsandhiedReconstructed=True
-7	kṣayaḥ	kṣaya	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=135459|OccId=174696|Unsandhied=kṣayaḥ|UnsandhiedReconstructed=True|WordSem=1380
-8	śrūyate	śru	VERB	_	Tense=Pres|Mood=Ind|Voice=Pass|Person=3|Number=Sing	_	_	_	LemmaId=157409|OccId=174697|Unsandhied=śrūyate
+2-3	abhītānām	_	_	_	_	_	_	_	_
+2	a	a	PART	_		_	_	_	LemmaId=213048|OccId=5879376|Unsandhied=a
+3	bhītānām	bhī	VERB	_	Case=Gen|Gender=Masc|Number=Plur|VerbForm=Part	_	_	_	LemmaId=159469|OccId=5879377|Unsandhied=bhītānām
+4	api	api	PART	_		_	_	_	LemmaId=21365|OccId=174692|Unsandhied=api|UnsandhiedReconstructed=True
+5-6	brahmādīnāṃ	_	_	_	_	_	_	_	_
+5	brahma	brahman	NOUN	_	Case=Cpd	_	_	_	LemmaId=149177|OccId=174693|Unsandhied=brahma|UnsandhiedReconstructed=True
+6	ādīnām	ādi	NOUN	_	Case=Gen|Gender=Masc|Number=Plur	_	_	_	LemmaId=57973|OccId=174694|Unsandhied=ādīnām|UnsandhiedReconstructed=True
+7	saṃhāre	saṃhāra	NOUN	_	Case=Loc|Gender=Masc|Number=Sing	_	_	_	LemmaId=8517|OccId=174695|Unsandhied=saṃhāre|UnsandhiedReconstructed=True
+8	kṣayaḥ	kṣaya	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=135459|OccId=174696|Unsandhied=kṣayaḥ|UnsandhiedReconstructed=True|WordSem=1380
+9	śrūyate	śru	VERB	_	Tense=Pres|Mood=Ind|Voice=Pass|Person=3|Number=Sing	_	_	_	LemmaId=157409|OccId=174697|Unsandhied=śrūyate
 
 # text = tasmān nābhītatvāt nityam
-# sent_id = 84584
+# sent_id = 84583
 # sent_counter = 4
 # sent_subcounter = 
 1	tasmān	tad	PRON	_	Case=Abl|Gender=Neut|Number=Sing	_	_	_	LemmaId=37875|OccId=174728|Unsandhied=tasmāt|UnsandhiedReconstructed=True
-2-4	nābhītatvāt	_	_	_	_	_	_	_	_
-2	na	na	PART	_		_	_	_	LemmaId=43432|OccId=174698|Unsandhied=na|UnsandhiedReconstructed=True
-3	abhīta	abhīta	ADJ	_	Case=Cpd	_	_	_	LemmaId=31203|OccId=174699|Unsandhied=abhīta|UnsandhiedReconstructed=True
-4	tvāt	tva	NOUN	_	Case=Abl|Gender=Neut|Number=Sing	_	_	_	LemmaId=163754|OccId=174700|Unsandhied=tvāt|UnsandhiedReconstructed=True
-5	nityam	nitya	ADJ	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=35023|OccId=174701|Unsandhied=nityam|UnsandhiedReconstructed=True
+2-5	nābhītatvāt	_	_	_	_	_	_	_	_
+2	na	na	PART	_		_	_	_	LemmaId=43432|OccId=5879378|Unsandhied=na
+3	a	a	PART	_		_	_	_	LemmaId=213048|OccId=5879379|Unsandhied=a
+4	bhīta	bhī	VERB	_	Case=Cpd|VerbForm=Part	_	_	_	LemmaId=159469|OccId=5879380|Unsandhied=bhīta
+5	tvāt	tva	NOUN	_	Case=Abl|Gender=Neut|Number=Sing	_	_	_	LemmaId=163754|OccId=5879381|Unsandhied=tvāt
+6	nityam	nitya	ADJ	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=35023|OccId=174701|Unsandhied=nityam|UnsandhiedReconstructed=True
 
 # text = abhītasya vā kiṃ lakṣaṇam
-# sent_id = 84585
+# sent_id = 84584
 # sent_counter = 5
 # sent_subcounter = 
-1	abhītasya	abhīta	ADJ	_	Case=Gen|Gender=Masc|Number=Sing	_	_	_	LemmaId=31203|OccId=174702|Unsandhied=abhītasya|UnsandhiedReconstructed=True
-2	vā	vā	CONJ	_		_	_	_	LemmaId=75765|OccId=174703|Unsandhied=vā|UnsandhiedReconstructed=True
-3	kiṃ	ka	PRON	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=37878|OccId=174704|Unsandhied=kim|UnsandhiedReconstructed=True
-4	lakṣaṇam	lakṣaṇa	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=80283|OccId=174705|Unsandhied=lakṣaṇam|UnsandhiedReconstructed=True
+1-2	abhītasya	_	_	_	_	_	_	_	_
+1	a	a	PART	_		_	_	_	LemmaId=213048|OccId=5879382|Unsandhied=a
+2	bhītasya	bhī	VERB	_	Case=Gen|Gender=Masc|Number=Sing|VerbForm=Part	_	_	_	LemmaId=159469|OccId=5879383|Unsandhied=bhītasya
+3	vā	vā	CONJ	_		_	_	_	LemmaId=75765|OccId=174703|Unsandhied=vā|UnsandhiedReconstructed=True
+4	kiṃ	ka	PRON	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=37878|OccId=174704|Unsandhied=kim|UnsandhiedReconstructed=True
+5	lakṣaṇam	lakṣaṇa	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=80283|OccId=174705|Unsandhied=lakṣaṇam|UnsandhiedReconstructed=True
 
 # text = tad ucyate
-# sent_id = 84586
+# sent_id = 84585
 # sent_counter = 6
 # sent_subcounter = 
 1	tad	tad	PRON	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=37875|OccId=174706|Unsandhied=tat|UnsandhiedReconstructed=True

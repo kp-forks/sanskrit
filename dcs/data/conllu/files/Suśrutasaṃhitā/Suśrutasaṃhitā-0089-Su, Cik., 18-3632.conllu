@@ -1391,22 +1391,23 @@
 10	ca	ca	CONJ	_		_	_	_	LemmaId=157144|OccId=1401049|Unsandhied=ca|UnsandhiedReconstructed=True|WordSem=104004
 11	vidvān	vidvas	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=166088|OccId=1401050|Unsandhied=vidvāḥ|UnsandhiedReconstructed=True|WordSem=77231
 
-# text = visrāvayet svinnam atandritaśca śuddhaṃ vraṇaṃ cāpyupanāhayettu
+# text = visrāvayet svinnam atandritaś ca śuddhaṃ vraṇaṃ cāpyupanāhayettu
 # sent_id = 8208
 # sent_counter = 44
 # sent_subcounter = 2
 1	visrāvayet	visrāvay	VERB	_	Tense=Pres|Mood=Opt|Person=3|Number=Sing	_	_	_	LemmaId=175429|OccId=1401051|Unsandhied=visrāvayet|WordSem=84892
 2	svinnam	svid	VERB	_	Case=Acc|Gender=Neut|Number=Sing|VerbForm=Part	_	_	_	LemmaId=159213|OccId=1401234|Unsandhied=svinnam|UnsandhiedReconstructed=True|WordSem=129282
-3-4	atandritaśca	_	_	_	_	_	_	_	_
-3	atandritaḥ	atandrita	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=6802|OccId=1401235|Unsandhied=atandritaḥ|UnsandhiedReconstructed=True|WordSem=80366
-4	ca	ca	CONJ	_		_	_	_	LemmaId=157144|OccId=1401236|Unsandhied=ca|UnsandhiedReconstructed=True|WordSem=104004
-5	śuddhaṃ	śudh	VERB	_	Case=Acc|Gender=Neut|Number=Sing|VerbForm=Part	_	_	_	LemmaId=158830|OccId=1401052|Unsandhied=śuddham|UnsandhiedReconstructed=True|WordSem=86563
-6	vraṇaṃ	vraṇa	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	_	_	_	LemmaId=116236|OccId=1401053|Unsandhied=vraṇam|UnsandhiedReconstructed=True|WordSem=62124
-7-10	cāpyupanāhayettu	_	_	_	_	_	_	_	_
-7	ca	ca	CONJ	_		_	_	_	LemmaId=157144|OccId=1401237|Unsandhied=ca|UnsandhiedReconstructed=True|WordSem=104004
-8	api	api	PART	_		_	_	_	LemmaId=21365|OccId=1401238|Unsandhied=api|UnsandhiedReconstructed=True
-9	upanāhayet	upanāhay	VERB	_	Tense=Pres|Mood=Opt|Person=3|Number=Sing	_	_	_	LemmaId=160417|OccId=1401239|Unsandhied=upanāhayet|WordSem=84878
-10	tu	tu	PART	_		_	_	_	LemmaId=82701|OccId=1401240|Unsandhied=tu|UnsandhiedReconstructed=True
+3-4	atandritaś	_	_	_	_	_	_	_	_
+3	a	a	PART	_		_	_	_	LemmaId=213048|OccId=5875539|Unsandhied=a
+4	tandritaḥ	tandray	VERB	_	Case=Nom|Gender=Masc|Number=Sing|VerbForm=Part	_	_	_	LemmaId=222353|OccId=5875540|Unsandhied=tandritaḥ
+5	ca	ca	CONJ	_		_	_	_	LemmaId=157144|OccId=5875541|Unsandhied=ca
+6	śuddhaṃ	śudh	VERB	_	Case=Acc|Gender=Neut|Number=Sing|VerbForm=Part	_	_	_	LemmaId=158830|OccId=1401052|Unsandhied=śuddham|UnsandhiedReconstructed=True|WordSem=86563
+7	vraṇaṃ	vraṇa	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	_	_	_	LemmaId=116236|OccId=1401053|Unsandhied=vraṇam|UnsandhiedReconstructed=True|WordSem=62124
+8-11	cāpyupanāhayettu	_	_	_	_	_	_	_	_
+8	ca	ca	CONJ	_		_	_	_	LemmaId=157144|OccId=1401237|Unsandhied=ca|UnsandhiedReconstructed=True|WordSem=104004
+9	api	api	PART	_		_	_	_	LemmaId=21365|OccId=1401238|Unsandhied=api|UnsandhiedReconstructed=True
+10	upanāhayet	upanāhay	VERB	_	Tense=Pres|Mood=Opt|Person=3|Number=Sing	_	_	_	LemmaId=160417|OccId=1401239|Unsandhied=upanāhayet|WordSem=84878
+11	tu	tu	PART	_		_	_	_	LemmaId=82701|OccId=1401240|Unsandhied=tu|UnsandhiedReconstructed=True
 
 # text = śaṇātasīmūlakaśigrukiṇvapriyālamajjānuyutais tilaistu
 # sent_id = 8209
@@ -1524,7 +1525,7 @@
 3	udaka	udaka	NOUN	_	Case=Cpd	_	_	_	LemmaId=56229|OccId=1401084|Unsandhied=udaka|UnsandhiedReconstructed=True|WordSem=64492
 4	peṣitābhiḥ	peṣay	VERB	_	Case=Ins|Gender=Fem|Number=Plur|VerbForm=Part	_	_	_	LemmaId=169190|OccId=1401085|Unsandhied=peṣitābhiḥ|UnsandhiedReconstructed=True|WordSem=129380
 5	dihyāt	dih	VERB	_	Tense=Pres|Mood=Opt|Person=3|Number=Sing	_	_	_	LemmaId=158643|OccId=1401086|Unsandhied=dihyāt|WordSem=84890
-6	suguñjābhir	aśītala	ADJ	_	Case=Ins|Gender=Fem|Number=Plur	_	_	_	LemmaId=59974|OccId=1401087|Unsandhied=aśītalābhiḥ|UnsandhiedReconstructed=True|WordSem=80937
+6	aśītalābhiḥ	aśītala	ADJ	_	Case=Ins|Gender=Fem|Number=Plur	_	_	_	LemmaId=59974|OccId=1401087|Unsandhied=aśītalābhiḥ|UnsandhiedReconstructed=True|WordSem=80937
 
 # text = daśārdhasaṃkhyair lavaṇaiśca yuktaṃ tailaṃ pibenmāgadhikādisiddham
 # sent_id = 8217

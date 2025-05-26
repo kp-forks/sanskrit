@@ -3,7 +3,7 @@
 ## chapter: PB, 11, 2
 ## chapter_id: 13262
 # text = ubhābhyāṃ vai rūpābhyāṃ bahiṣpavamānyo yujyante yatsāmā stomo bhavati tad ājyeṣu
-# sent_id = 561856
+# sent_id = 563688
 # sent_counter = 1
 # sent_subcounter = 
 1	ubhābhyāṃ	ubh	PRON	_	Case=Ins|Gender=Neut|Number=Dual	_	_	_	LemmaId=170620|OccId=4009812|Unsandhied=ubhābhyām|UnsandhiedReconstructed=True
@@ -20,7 +20,7 @@
 11	ājyeṣu	ājya	NOUN	_	Case=Loc|Gender=Neut|Number=Plur	_	_	_	LemmaId=57582|OccId=4009208|Unsandhied=ājyeṣu|UnsandhiedReconstructed=True|Punctuation=fullStop
 
 # text = nirāhāvanty ājyāni bhavanti yuktam eva tair āhvayati
-# sent_id = 561857
+# sent_id = 563689
 # sent_counter = 2
 # sent_subcounter = 
 1	nirāhāvanty	nirāhāvat	ADJ	_	Case=Nom|Gender=Neut|Number=Plur	_	_	_	LemmaId=217393|OccId=4009850|Unsandhied=nirāhāvanti|UnsandhiedReconstructed=True
@@ -32,7 +32,7 @@
 7	āhvayati	āhvā	VERB	_	Tense=Pres|Mood=Ind|Person=3|Number=Sing	_	_	_	LemmaId=160044|OccId=4009214|Unsandhied=āhvayati|Punctuation=fullStop
 
 # text = agna āyāhi vītaya ā no mitrāvaruṇāyāhi suṣamā hi ta indrāgnī āgataṃ sutam iti rāthantaram eva tad rūpaṃ nirdyotayati stomaḥ iti
-# sent_id = 561858
+# sent_id = 563690
 # sent_counter = 3
 # sent_subcounter = 
 1	agna	agni	NOUN	_	Case=Voc|Gender=Masc|Number=Sing	_	_	_	LemmaId=5705|OccId=4009215|Unsandhied=agne|UnsandhiedReconstructed=True|IsMantra=True
@@ -43,19 +43,19 @@
 6-7	mitrāvaruṇāyāhi	_	_	_	_	_	_	_	_
 6	mitrāvaruṇā	mitrāvaruṇa	NOUN	_	Case=Voc|Gender=Masc|Number=Dual	_	_	_	LemmaId=135865|OccId=5136441|Unsandhied=mitrāvaruṇā|IsMantra=True
 7	āyāhi	āyā	VERB	_	Tense=Pres|Mood=Imp|Person=2|Number=Sing	_	_	_	LemmaId=159878|OccId=5136442|Unsandhied=āyāhi|IsMantra=True
-8	suṣamā	hi	PART	_		_	_	_	LemmaId=109879|OccId=4009221|Unsandhied=hi|UnsandhiedReconstructed=True|IsMantra=True
-9	hi	tvad	PRON	_	Case=Dat|Number=Sing	_	_	_	LemmaId=37880|OccId=5136443|Unsandhied=te|Punctuation=fullStop|IsMantra=True
-10-11	ta	_	_	_	_	_	_	_	_
+8	hi	hi	PART	_		_	_	_	LemmaId=109879|OccId=4009221|Unsandhied=hi|UnsandhiedReconstructed=True|IsMantra=True
+9	ta	tvad	PRON	_	Case=Dat|Number=Sing	_	_	_	LemmaId=37880|OccId=5136443|Unsandhied=te|Punctuation=fullStop|IsMantra=True
+10-11	indrāgnī	_	_	_	_	_	_	_	_
 10	indra	indra	NOUN	_	Case=Cpd	_	_	_	LemmaId=63463|OccId=5136444|Unsandhied=indra|IsMantra=True
 11	agnī	agni	NOUN	_	Case=Voc|Gender=Masc|Number=Dual	_	_	_	LemmaId=5705|OccId=5136445|Unsandhied=agnī|IsMantra=True
-12	indrāgnī	āgam	VERB	_	Tense=Past|Mood=Imp|Person=2|Number=Dual	_	_	_	LemmaId=159723|OccId=5136446|Unsandhied=āgatam|IsMantra=True
-13	āgataṃ	su	VERB	_	Case=Acc|Gender=Masc|Number=Sing|VerbForm=Part	_	_	_	LemmaId=157338|OccId=5136447|Unsandhied=sutam|Punctuation=fullStop|IsMantra=True
-14	sutam	iti	PART	_		_	_	_	LemmaId=63331|OccId=4009227|Unsandhied=iti|UnsandhiedReconstructed=True
-15	iti	rāthaṃtara	ADJ	_	Case=Acc|Gender=Neut|Number=Sing	_	_	_	LemmaId=70703|OccId=4009228|Unsandhied=rāthaṃtaram|UnsandhiedReconstructed=True
-16	rāthantaram	eva	PART	_		_	_	_	LemmaId=39754|OccId=4009229|Unsandhied=eva|UnsandhiedReconstructed=True
-17	eva	tad	PRON	_	Case=Acc|Gender=Neut|Number=Sing	_	_	_	LemmaId=37875|OccId=4009230|Unsandhied=tat|UnsandhiedReconstructed=True
-18	tad	rūpa	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	_	_	_	LemmaId=71929|OccId=4009231|Unsandhied=rūpam|UnsandhiedReconstructed=True
-19	rūpaṃ	nirdyotay	VERB	_	Tense=Pres|Mood=Ind|Person=3|Number=Sing	_	_	_	LemmaId=161391|OccId=4009814|Unsandhied=nirdyotayati
-20	nirdyotayati	stoma	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=102445|OccId=4009232|Unsandhied=stomaḥ|UnsandhiedReconstructed=True
-21	stomaḥ	iti	PART	_		_	_	_	LemmaId=63331|OccId=4009233|Unsandhied=iti|UnsandhiedReconstructed=True|Punctuation=fullStop
+12	āgataṃ	āgam	VERB	_	Tense=Past|Mood=Imp|Person=2|Number=Dual	_	_	_	LemmaId=159723|OccId=5136446|Unsandhied=āgatam|IsMantra=True
+13	sutam	su	VERB	_	Case=Acc|Gender=Masc|Number=Sing|VerbForm=Part	_	_	_	LemmaId=157338|OccId=5136447|Unsandhied=sutam|Punctuation=fullStop|IsMantra=True
+14	iti	iti	PART	_		_	_	_	LemmaId=63331|OccId=4009227|Unsandhied=iti|UnsandhiedReconstructed=True
+15	rāthantaram	rāthaṃtara	ADJ	_	Case=Acc|Gender=Neut|Number=Sing	_	_	_	LemmaId=70703|OccId=4009228|Unsandhied=rāthaṃtaram|UnsandhiedReconstructed=True
+16	eva	eva	PART	_		_	_	_	LemmaId=39754|OccId=4009229|Unsandhied=eva|UnsandhiedReconstructed=True
+17	tad	tad	PRON	_	Case=Acc|Gender=Neut|Number=Sing	_	_	_	LemmaId=37875|OccId=4009230|Unsandhied=tat|UnsandhiedReconstructed=True
+18	rūpaṃ	rūpa	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	_	_	_	LemmaId=71929|OccId=4009231|Unsandhied=rūpam|UnsandhiedReconstructed=True
+19	nirdyotayati	nirdyotay	VERB	_	Tense=Pres|Mood=Ind|Person=3|Number=Sing	_	_	_	LemmaId=161391|OccId=4009814|Unsandhied=nirdyotayati
+20	stomaḥ	stoma	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=102445|OccId=4009232|Unsandhied=stomaḥ|UnsandhiedReconstructed=True
+21	iti	iti	PART	_		_	_	_	LemmaId=63331|OccId=4009233|Unsandhied=iti|UnsandhiedReconstructed=True|Punctuation=fullStop
 

@@ -231,7 +231,7 @@
 5	pāpa	pāpa	NOUN	_	Case=Cpd	_	_	_	LemmaId=93767|OccId=1456652|Unsandhied=pāpa|UnsandhiedReconstructed=True
 6	nāśinīm	nāśin	ADJ	_	Case=Acc|Gender=Fem|Number=Sing	_	_	_	LemmaId=33833|OccId=1456653|Unsandhied=nāśinīm|UnsandhiedReconstructed=True
 
-# text = ahanyahani kartavyā yā bhiṣagbhiratandritaiḥ
+# text = ahanyahani kartavyā yā bhiṣagbhir atandritaiḥ
 # sent_id = 13272
 # sent_counter = 10
 # sent_subcounter = 2
@@ -240,9 +240,10 @@
 2	ahani	ahar	NOUN	_	Case=Loc|Gender=Neut|Number=Sing	_	_	_	LemmaId=168349|OccId=1456655|Unsandhied=ahani|UnsandhiedReconstructed=True
 3	kartavyā	kṛ	VERB	_	Case=Nom|Gender=Fem|Number=Sing|VerbForm=Gdv	_	_	_	LemmaId=156168|OccId=1456656|Unsandhied=kartavyā|UnsandhiedReconstructed=True
 4	yā	yad	PRON	_	Case=Nom|Gender=Fem|Number=Sing	_	_	_	LemmaId=37877|OccId=1456657|Unsandhied=yā|UnsandhiedReconstructed=True
-5-6	bhiṣagbhiratandritaiḥ	_	_	_	_	_	_	_	_
-5	_	bhiṣaj	NOUN	_	Case=Ins|Gender=Masc|Number=Plur	_	_	_	LemmaId=50269|OccId=1456658|Unsandhied=_
-6	atandritaiḥ	atandrita	ADJ	_	Case=Ins|Gender=Masc|Number=Plur	_	_	_	LemmaId=6802|OccId=1456659|Unsandhied=atandritaiḥ|UnsandhiedReconstructed=True
+5	bhiṣagbhir	bhiṣaj	NOUN	_	Case=Ins|Gender=Masc|Number=Plur	_	_	_	LemmaId=50269|OccId=5875564|Unsandhied=bhiṣagbhiḥ
+6-7	atandritaiḥ	_	_	_	_	_	_	_	_
+6	a	a	PART	_		_	_	_	LemmaId=213048|OccId=5875565|Unsandhied=a
+7	tandritaiḥ	tandray	VERB	_	Case=Ins|Gender=Masc|Number=Plur|VerbForm=Part	_	_	_	LemmaId=222353|OccId=5875566|Unsandhied=tandritaiḥ
 
 # text = tapasāṃ tejasāṃ caiva yaśasāṃ vapuṣāṃ tathā
 # sent_id = 13273

@@ -3,7 +3,7 @@
 ## chapter: MuA zu RHT, 4, 17.2
 ## chapter_id: 4073
 # text = kāntābhrasatvālayogakaraṇam āha lohamityādi
-# sent_id = 328888
+# sent_id = 328887
 # sent_counter = 1
 # sent_subcounter = 
 1-6	kāntābhrasatvālayogakaraṇam	_	_	_	_	_	_	_	_
@@ -19,7 +19,7 @@
 9	ityādi	ityādi	ADJ	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=63350|OccId=1635184|Unsandhied=ityādi|UnsandhiedReconstructed=True
 
 # text = ceti samuccaye
-# sent_id = 328889
+# sent_id = 328888
 # sent_counter = 2
 # sent_subcounter = 
 1-2	ceti	_	_	_	_	_	_	_	_
@@ -28,7 +28,7 @@
 3	samuccaye	samuccaya	NOUN	_	Case=Loc|Gender=Masc|Number=Sing	_	_	_	LemmaId=30190|OccId=1635187|Unsandhied=samuccaye|UnsandhiedReconstructed=True
 
 # text = lohaṃ pūrvoktalakṣaṇaṃ muṇḍādikaṃ abhrasatvaṃ ca tālakasamabhāgasāritaṃ tālakasya samabhāgena pūrvavidhānena mukhādinā yatsāritaṃ ekaśarīratāṃ nītaṃ sṛ gatāvityasya dhāto rūpaṃ sāritaṃ pramilitam ityarthaḥ evaṃvidhaṃ kāntābhrasatvālaṃ rasaścarati
-# sent_id = 328890
+# sent_id = 328889
 # sent_counter = 3
 # sent_subcounter = 
 1	lohaṃ	loha	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=67242|OccId=1635188|Unsandhied=loham|UnsandhiedReconstructed=True
@@ -66,29 +66,29 @@
 24	śarīra	śarīra	NOUN	_	Case=Cpd	_	_	_	LemmaId=116860|OccId=1635211|Unsandhied=śarīra|UnsandhiedReconstructed=True
 25	tām	tā	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	_	_	_	LemmaId=203679|OccId=1635212|Unsandhied=tām|UnsandhiedReconstructed=True
 26	nītaṃ	nī	VERB	_	Case=Nom|Gender=Neut|Number=Sing|VerbForm=Part	_	_	_	LemmaId=157259|OccId=1635213|Unsandhied=nītam|UnsandhiedReconstructed=True
-27-29	sṛ	_	_	_	_	_	_	_	_
+27-29	gatāvityasya	_	_	_	_	_	_	_	_
 27	gatau	gati	NOUN	_	Case=Loc|Gender=Fem|Number=Sing	_	_	_	LemmaId=130098|OccId=1635214|Unsandhied=gatau|UnsandhiedReconstructed=True
 28	iti	iti	PART	_		_	_	_	LemmaId=63331|OccId=1635215|Unsandhied=iti|UnsandhiedReconstructed=True
 29	asya	idam	PRON	_	Case=Gen|Gender=Masc|Number=Sing	_	_	_	LemmaId=37876|OccId=1635216|Unsandhied=asya|UnsandhiedReconstructed=True
-30	gatāvityasya	dhātu	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	_	_	_	LemmaId=92416|OccId=1635217|Unsandhied=dhātoḥ|UnsandhiedReconstructed=True
-31	dhāto	rūpa	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=71929|OccId=1635218|Unsandhied=rūpam|UnsandhiedReconstructed=True
-32	rūpaṃ	sāray	VERB	_	Case=Nom|Gender=Neut|Number=Sing|VerbForm=Part	_	_	_	LemmaId=157520|OccId=1635219|Unsandhied=sāritam|UnsandhiedReconstructed=True
-33	sāritaṃ	pramil	VERB	_	Case=Nom|Gender=Neut|Number=Sing|VerbForm=Part	_	_	_	LemmaId=204677|OccId=1635377|Unsandhied=pramilitam|UnsandhiedReconstructed=True
-34-35	pramilitam	_	_	_	_	_	_	_	_
+30	dhāto	dhātu	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	_	_	_	LemmaId=92416|OccId=1635217|Unsandhied=dhātoḥ|UnsandhiedReconstructed=True
+31	rūpaṃ	rūpa	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=71929|OccId=1635218|Unsandhied=rūpam|UnsandhiedReconstructed=True
+32	sāritaṃ	sāray	VERB	_	Case=Nom|Gender=Neut|Number=Sing|VerbForm=Part	_	_	_	LemmaId=157520|OccId=1635219|Unsandhied=sāritam|UnsandhiedReconstructed=True
+33	pramilitam	pramil	VERB	_	Case=Nom|Gender=Neut|Number=Sing|VerbForm=Part	_	_	_	LemmaId=204677|OccId=1635377|Unsandhied=pramilitam|UnsandhiedReconstructed=True
+34-35	ityarthaḥ	_	_	_	_	_	_	_	_
 34	iti	iti	PART	_		_	_	_	LemmaId=63331|OccId=1635220|Unsandhied=iti|UnsandhiedReconstructed=True
 35	arthaḥ	artha	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=53136|OccId=1635221|Unsandhied=arthaḥ|UnsandhiedReconstructed=True
-36	ityarthaḥ	evaṃvidha	ADJ	_	Case=Acc|Gender=Neut|Number=Sing	_	_	_	LemmaId=39762|OccId=1635222|Unsandhied=evaṃvidham|UnsandhiedReconstructed=True
-37-40	evaṃvidhaṃ	_	_	_	_	_	_	_	_
+36	evaṃvidhaṃ	evaṃvidha	ADJ	_	Case=Acc|Gender=Neut|Number=Sing	_	_	_	LemmaId=39762|OccId=1635222|Unsandhied=evaṃvidham|UnsandhiedReconstructed=True
+37-40	kāntābhrasatvālaṃ	_	_	_	_	_	_	_	_
 37	kānta	kānta	NOUN	_	Case=Cpd	_	_	_	LemmaId=13609|OccId=1635223|Unsandhied=kānta|UnsandhiedReconstructed=True
 38	abhra	abhra	NOUN	_	Case=Cpd	_	_	_	LemmaId=31528|OccId=1635224|Unsandhied=abhra|UnsandhiedReconstructed=True
 39	sattva	sattva	NOUN	_	Case=Cpd	_	_	_	LemmaId=16581|OccId=1635225|Unsandhied=sattva|UnsandhiedReconstructed=True
 40	ālam	āla	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	_	_	_	LemmaId=62231|OccId=1635226|Unsandhied=ālam|UnsandhiedReconstructed=True
-41-42	kāntābhrasatvālaṃ	_	_	_	_	_	_	_	_
+41-42	rasaścarati	_	_	_	_	_	_	_	_
 41	rasaḥ	rasa	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=69571|OccId=1635227|Unsandhied=rasaḥ|UnsandhiedReconstructed=True
 42	carati	car	VERB	_	Tense=Pres|Mood=Ind|Person=3|Number=Sing	_	_	_	LemmaId=156249|OccId=1635228|Unsandhied=carati
 
 # text = ca punaḥ aṅgulimṛditaṃ aṅgulinā marditaṃ tat kāntābhrasatvālaṃ garbhe rasodare dravati tatsvarūpatvena milati
-# sent_id = 328891
+# sent_id = 328890
 # sent_counter = 4
 # sent_subcounter = 
 1	ca	ca	CONJ	_		_	_	_	LemmaId=157144|OccId=1635229|Unsandhied=ca|UnsandhiedReconstructed=True
@@ -116,7 +116,7 @@
 19	milati	mil	VERB	_	Tense=Pres|Mood=Ind|Person=3|Number=Sing	_	_	_	LemmaId=169963|OccId=1635246|Unsandhied=milati
 
 # text = kasmāt abhiṣavayogāt abhiṣavaḥ saṃmardanaṃ tadyogāt
-# sent_id = 328892
+# sent_id = 328891
 # sent_counter = 5
 # sent_subcounter = 
 1	kasmāt	kasmāt	ADV	_		_	_	_	LemmaId=13077|OccId=1635247|Unsandhied=kasmāt|UnsandhiedReconstructed=True
@@ -130,7 +130,7 @@
 7	yogāt	yoga	NOUN	_	Case=Abl|Gender=Masc|Number=Sing	_	_	_	LemmaId=65008|OccId=1635252|Unsandhied=yogāt|UnsandhiedReconstructed=True
 
 # text = lohasya trayo daśabhedānāṃ madhyāt kenāpi bhedena sahayogaḥ kārya iti lohaśabdena dhvanitam
-# sent_id = 328893
+# sent_id = 328892
 # sent_counter = 6
 # sent_subcounter = 
 1	lohasya	loha	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	_	_	_	LemmaId=67242|OccId=1635253|Unsandhied=lohasya|UnsandhiedReconstructed=True

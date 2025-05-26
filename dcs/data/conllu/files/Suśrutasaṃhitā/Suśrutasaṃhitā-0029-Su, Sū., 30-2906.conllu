@@ -64,17 +64,19 @@
 5	divyānām	divya	ADJ	_	Case=Gen|Gender=Masc|Number=Plur	_	_	_	LemmaId=147116|OccId=1287568|Unsandhied=divyānām|UnsandhiedReconstructed=True|WordSem=73236
 6	abhāvāt	abhāva	NOUN	_	Case=Abl|Gender=Masc|Number=Sing	_	_	_	LemmaId=22065|OccId=1287569|Unsandhied=abhāvāt|UnsandhiedReconstructed=True|WordSem=60926
 
-# text = samudrapurameghānāmasaṃpattau ca niḥsvanān
+# text = samudrapurameghānām asaṃpattau ca niḥsvanān
 # sent_id = 2378
 # sent_counter = 4
 # sent_subcounter = 2
-1-4	samudrapurameghānāmasaṃpattau	_	_	_	_	_	_	_	_
-1	samudra	samudra	NOUN	_	Case=Cpd	_	_	_	LemmaId=30275|OccId=1287570|Unsandhied=samudra|UnsandhiedReconstructed=True|WordSem=42413
-2	pura	pura	NOUN	_	Case=Cpd	_	_	_	LemmaId=166808|OccId=1287571|Unsandhied=pura|UnsandhiedReconstructed=True|WordSem=40231
-3	meghānām	megha	NOUN	_	Case=Gen|Gender=Masc|Number=Plur	_	_	_	LemmaId=137750|OccId=1287572|Unsandhied=meghānām|UnsandhiedReconstructed=True|WordSem=42217
-4	asaṃpattau	asaṃpatti	NOUN	_	Case=Loc|Gender=Fem|Number=Sing	_	_	_	LemmaId=60839|OccId=1287573|Unsandhied=asaṃpattau|UnsandhiedReconstructed=True|WordSem=60926
-5	ca	ca	CONJ	_		_	_	_	LemmaId=157144|OccId=1287574|Unsandhied=ca|UnsandhiedReconstructed=True|WordSem=104004
-6	niḥsvanān	niḥsvana	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	_	_	_	LemmaId=173200|OccId=1287846|Unsandhied=niḥsvanān|UnsandhiedReconstructed=True|WordSem=34548
+1-3	samudrapurameghānām	_	_	_	_	_	_	_	_
+1	samudra	samudra	NOUN	_	Case=Cpd	_	_	_	LemmaId=30275|OccId=5875237|Unsandhied=samudra
+2	pura	pura	NOUN	_	Case=Cpd	_	_	_	LemmaId=166808|OccId=5875238|Unsandhied=pura
+3	meghānām	megha	NOUN	_	Case=Gen|Gender=Masc|Number=Plur	_	_	_	LemmaId=137750|OccId=5875239|Unsandhied=meghānām
+4-5	asaṃpattau	_	_	_	_	_	_	_	_
+4	a	a	PART	_		_	_	_	LemmaId=213048|OccId=5875240|Unsandhied=a
+5	saṃpattau	sampatti	NOUN	_	Case=Loc|Gender=Fem|Number=Sing	_	_	_	LemmaId=30611|OccId=5875241|Unsandhied=saṃpattau
+6	ca	ca	CONJ	_		_	_	_	LemmaId=157144|OccId=1287574|Unsandhied=ca|UnsandhiedReconstructed=True|WordSem=104004
+7	niḥsvanān	niḥsvana	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	_	_	_	LemmaId=173200|OccId=1287846|Unsandhied=niḥsvanān|UnsandhiedReconstructed=True|WordSem=34548
 
 # text = tān svanānnāvagṛhṇāti manyate cānyaśabdavat
 # sent_id = 2379

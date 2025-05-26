@@ -3,7 +3,7 @@
 ## chapter: AB, 3, 45
 ## chapter_id: 11698
 # text = yajño vai devebhyo 'nnādyam udakrāmat te devā abruvan yajño vai no 'nnādyam udakramīd anv imaṃ yajñam anna anvicchāmeti te 'bruvan katham anvicchāmeti brāhmaṇena ca chandobhiś cety abruvaṃs te brāhmaṇaṃ chandobhir adīkṣayaṃs tasyāntaṃ yajñam atanvatāpi patnīḥ samayājayaṃs tasmāddhāpyetarhi dīkṣaṇīyāyām iṣṭāv āntam eva yajñaṃ tanvate 'pi patnīḥ saṃyājayanti tam anu nyāyam anvavāyan
-# sent_id = 639644
+# sent_id = 641508
 # sent_counter = 1
 # sent_subcounter = 
 1	yajño	yajña	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=72936|OccId=4831790|Unsandhied=yajñaḥ
@@ -22,56 +22,56 @@
 14	anv	anu	ADP	_		_	_	_	LemmaId=166836|OccId=4831803|Unsandhied=anu
 15	imaṃ	idam	PRON	_	Case=Acc|Gender=Masc|Number=Sing	_	_	_	LemmaId=37876|OccId=4831804|Unsandhied=imam
 16	yajñam	yajña	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	_	_	_	LemmaId=72936|OccId=4831805|Unsandhied=yajñam
-17-18	anna	_	_	_	_	_	_	_	_
+17-18	anvicchāmeti	_	_	_	_	_	_	_	_
 17	anvicchāma	anviṣ	VERB	_	Tense=Pres|Mood=Imp|Person=1|Number=Plur	_	_	_	LemmaId=158334|OccId=4831806|Unsandhied=anvicchāma
 18	iti	iti	PART	_		_	_	_	LemmaId=63331|OccId=4831807|Unsandhied=iti|Punctuation=fullStop
-19	anvicchāmeti	tad	PRON	_	Case=Nom|Gender=Masc|Number=Plur	_	_	_	LemmaId=37875|OccId=4831808|Unsandhied=te
-20	te	brū	VERB	_	Tense=Impf|Mood=Ind|Person=3|Number=Plur	_	_	_	LemmaId=157262|OccId=4831809|Unsandhied=abruvan|Punctuation=fullStop
-21	'bruvan	katham	ADV	_		_	_	_	LemmaId=1340|OccId=4831810|Unsandhied=katham
-22-23	katham	_	_	_	_	_	_	_	_
+19	te	tad	PRON	_	Case=Nom|Gender=Masc|Number=Plur	_	_	_	LemmaId=37875|OccId=4831808|Unsandhied=te
+20	'bruvan	brū	VERB	_	Tense=Impf|Mood=Ind|Person=3|Number=Plur	_	_	_	LemmaId=157262|OccId=4831809|Unsandhied=abruvan|Punctuation=fullStop
+21	katham	katham	ADV	_		_	_	_	LemmaId=1340|OccId=4831810|Unsandhied=katham
+22-23	anvicchāmeti	_	_	_	_	_	_	_	_
 22	anvicchāma	anviṣ	VERB	_	Tense=Pres|Mood=Imp|Person=1|Number=Plur	_	_	_	LemmaId=158334|OccId=4832011|Unsandhied=anvicchāma
 23	iti	iti	PART	_		_	_	_	LemmaId=63331|OccId=4832012|Unsandhied=iti|Punctuation=fullStop
-24	anvicchāmeti	brāhmaṇa	NOUN	_	Case=Ins|Gender=Masc|Number=Sing	_	_	_	LemmaId=149743|OccId=4831811|Unsandhied=brāhmaṇena
-25	brāhmaṇena	ca	CONJ	_		_	_	_	LemmaId=157144|OccId=4831812|Unsandhied=ca
-26	ca	chandas	NOUN	_	Case=Ins|Gender=Neut|Number=Plur	_	_	_	LemmaId=52557|OccId=4831813|Unsandhied=chandobhiḥ
-27-28	chandobhiś	_	_	_	_	_	_	_	_
+24	brāhmaṇena	brāhmaṇa	NOUN	_	Case=Ins|Gender=Masc|Number=Sing	_	_	_	LemmaId=149743|OccId=4831811|Unsandhied=brāhmaṇena
+25	ca	ca	CONJ	_		_	_	_	LemmaId=157144|OccId=4831812|Unsandhied=ca
+26	chandobhiś	chandas	NOUN	_	Case=Ins|Gender=Neut|Number=Plur	_	_	_	LemmaId=52557|OccId=4831813|Unsandhied=chandobhiḥ
+27-28	cety	_	_	_	_	_	_	_	_
 27	ca	ca	CONJ	_		_	_	_	LemmaId=157144|OccId=4831814|Unsandhied=ca
 28	iti	iti	PART	_		_	_	_	LemmaId=63331|OccId=4831815|Unsandhied=iti
-29	cety	brū	VERB	_	Tense=Impf|Mood=Ind|Person=3|Number=Plur	_	_	_	LemmaId=157262|OccId=4831816|Unsandhied=abruvan|Punctuation=fullStop
-30	abruvaṃs	tad	PRON	_	Case=Nom|Gender=Masc|Number=Plur	_	_	_	LemmaId=37875|OccId=4831817|Unsandhied=te
-31	te	brāhmaṇa	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	_	_	_	LemmaId=149743|OccId=4831818|Unsandhied=brāhmaṇam
-32	brāhmaṇaṃ	chandas	NOUN	_	Case=Ins|Gender=Neut|Number=Plur	_	_	_	LemmaId=52557|OccId=4831819|Unsandhied=chandobhiḥ
-33	chandobhir	dīkṣay	VERB	_	Tense=Impf|Mood=Ind|Person=3|Number=Plur	_	_	_	LemmaId=158653|OccId=4831820|Unsandhied=adīkṣayan|Punctuation=fullStop
-34-35	adīkṣayaṃs	_	_	_	_	_	_	_	_
+29	abruvaṃs	brū	VERB	_	Tense=Impf|Mood=Ind|Person=3|Number=Plur	_	_	_	LemmaId=157262|OccId=4831816|Unsandhied=abruvan|Punctuation=fullStop
+30	te	tad	PRON	_	Case=Nom|Gender=Masc|Number=Plur	_	_	_	LemmaId=37875|OccId=4831817|Unsandhied=te
+31	brāhmaṇaṃ	brāhmaṇa	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	_	_	_	LemmaId=149743|OccId=4831818|Unsandhied=brāhmaṇam
+32	chandobhir	chandas	NOUN	_	Case=Ins|Gender=Neut|Number=Plur	_	_	_	LemmaId=52557|OccId=4831819|Unsandhied=chandobhiḥ
+33	adīkṣayaṃs	dīkṣay	VERB	_	Tense=Impf|Mood=Ind|Person=3|Number=Plur	_	_	_	LemmaId=158653|OccId=4831820|Unsandhied=adīkṣayan|Punctuation=fullStop
+34-35	tasyāntaṃ	_	_	_	_	_	_	_	_
 34	tasya	tad	PRON	_	Case=Gen|Gender=Masc|Number=Sing	_	_	_	LemmaId=37875|OccId=4831821|Unsandhied=tasya
 35	āntam	ānta	ADJ	_	Case=Acc|Gender=Masc|Number=Sing	_	_	_	LemmaId=58497|OccId=4831822|Unsandhied=āntam
-36	tasyāntaṃ	yajña	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	_	_	_	LemmaId=72936|OccId=4831823|Unsandhied=yajñam
-37-38	yajñam	_	_	_	_	_	_	_	_
+36	yajñam	yajña	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	_	_	_	LemmaId=72936|OccId=4831823|Unsandhied=yajñam
+37-38	atanvatāpi	_	_	_	_	_	_	_	_
 37	atanvata	tan	VERB	_	Tense=Impf|Mood=Ind|Person=3|Number=Plur	_	_	_	LemmaId=157173|OccId=4831824|Unsandhied=atanvata
 38	api	api	PART	_		_	_	_	LemmaId=21365|OccId=4831825|Unsandhied=api
-39	atanvatāpi	patnī	NOUN	_	Case=Acc|Gender=Fem|Number=Plur	_	_	_	LemmaId=15670|OccId=4831826|Unsandhied=patnīḥ
-40	patnīḥ	saṃyājay	VERB	_	Tense=Impf|Mood=Ind|Person=3|Number=Plur	_	_	_	LemmaId=201151|OccId=4831827|Unsandhied=samayājayan|Punctuation=fullStop
-41-44	samayājayaṃs	_	_	_	_	_	_	_	_
+39	patnīḥ	patnī	NOUN	_	Case=Acc|Gender=Fem|Number=Plur	_	_	_	LemmaId=15670|OccId=4831826|Unsandhied=patnīḥ
+40	samayājayaṃs	saṃyājay	VERB	_	Tense=Impf|Mood=Ind|Person=3|Number=Plur	_	_	_	LemmaId=201151|OccId=4831827|Unsandhied=samayājayan|Punctuation=fullStop
+41-44	tasmāddhāpyetarhi	_	_	_	_	_	_	_	_
 41	tasmāt	tasmāt	ADV	_		_	_	_	LemmaId=203521|OccId=4832013|Unsandhied=tasmāt
 42	ha	ha	PART	_		_	_	_	LemmaId=169970|OccId=4832014|Unsandhied=ha
 43	api	api	PART	_		_	_	_	LemmaId=21365|OccId=4832015|Unsandhied=api
 44	etarhi	etarhi	ADV	_		_	_	_	LemmaId=39682|OccId=4832016|Unsandhied=etarhi
-45	tasmāddhāpyetarhi	dīkṣ	VERB	_	Case=Loc|Gender=Fem|Number=Sing|VerbForm=Gdv	_	_	_	LemmaId=158652|OccId=4831828|Unsandhied=dīkṣaṇīyāyām
-46	dīkṣaṇīyāyām	iṣṭi	NOUN	_	Case=Loc|Gender=Fem|Number=Sing	_	_	_	LemmaId=63945|OccId=4831829|Unsandhied=iṣṭau
-47	iṣṭāv	ānta	ADJ	_	Case=Acc|Gender=Masc|Number=Sing	_	_	_	LemmaId=58497|OccId=4831830|Unsandhied=āntam
-48	āntam	eva	PART	_		_	_	_	LemmaId=39754|OccId=4831831|Unsandhied=eva
-49	eva	yajña	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	_	_	_	LemmaId=72936|OccId=4831832|Unsandhied=yajñam
-50	yajñaṃ	tan	VERB	_	Tense=Pres|Mood=Ind|Person=3|Number=Plur	_	_	_	LemmaId=157173|OccId=4831833|Unsandhied=tanvate|Punctuation=fullStop
-51	tanvate	api	PART	_		_	_	_	LemmaId=21365|OccId=4831834|Unsandhied=api
-52	'pi	patnī	NOUN	_	Case=Acc|Gender=Fem|Number=Plur	_	_	_	LemmaId=15670|OccId=4831835|Unsandhied=patnīḥ
-53	patnīḥ	saṃyājay	VERB	_	Tense=Pres|Mood=Ind|Person=3|Number=Plur	_	_	_	LemmaId=201151|OccId=4831836|Unsandhied=saṃyājayanti|Punctuation=fullStop
-54	saṃyājayanti	tad	PRON	_	Case=Acc|Gender=Masc|Number=Sing	_	_	_	LemmaId=37875|OccId=4831837|Unsandhied=tam
-55	tam	anu	ADP	_		_	_	_	LemmaId=166836|OccId=4831838|Unsandhied=anu
-56	anu	nyāya	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	_	_	_	LemmaId=14466|OccId=4831839|Unsandhied=nyāyam
-57	nyāyam	anvave	VERB	_	Tense=Impf|Mood=Ind|Person=3|Number=Plur	_	_	_	LemmaId=158291|OccId=4831840|Unsandhied=anvavāyan|Punctuation=fullStop
+45	dīkṣaṇīyāyām	dīkṣ	VERB	_	Case=Loc|Gender=Fem|Number=Sing|VerbForm=Gdv	_	_	_	LemmaId=158652|OccId=4831828|Unsandhied=dīkṣaṇīyāyām
+46	iṣṭāv	iṣṭi	NOUN	_	Case=Loc|Gender=Fem|Number=Sing	_	_	_	LemmaId=63945|OccId=4831829|Unsandhied=iṣṭau
+47	āntam	ānta	ADJ	_	Case=Acc|Gender=Masc|Number=Sing	_	_	_	LemmaId=58497|OccId=4831830|Unsandhied=āntam
+48	eva	eva	PART	_		_	_	_	LemmaId=39754|OccId=4831831|Unsandhied=eva
+49	yajñaṃ	yajña	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	_	_	_	LemmaId=72936|OccId=4831832|Unsandhied=yajñam
+50	tanvate	tan	VERB	_	Tense=Pres|Mood=Ind|Person=3|Number=Plur	_	_	_	LemmaId=157173|OccId=4831833|Unsandhied=tanvate|Punctuation=fullStop
+51	'pi	api	PART	_		_	_	_	LemmaId=21365|OccId=4831834|Unsandhied=api
+52	patnīḥ	patnī	NOUN	_	Case=Acc|Gender=Fem|Number=Plur	_	_	_	LemmaId=15670|OccId=4831835|Unsandhied=patnīḥ
+53	saṃyājayanti	saṃyājay	VERB	_	Tense=Pres|Mood=Ind|Person=3|Number=Plur	_	_	_	LemmaId=201151|OccId=4831836|Unsandhied=saṃyājayanti|Punctuation=fullStop
+54	tam	tad	PRON	_	Case=Acc|Gender=Masc|Number=Sing	_	_	_	LemmaId=37875|OccId=4831837|Unsandhied=tam
+55	anu	anu	ADP	_		_	_	_	LemmaId=166836|OccId=4831838|Unsandhied=anu
+56	nyāyam	nyāya	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	_	_	_	LemmaId=14466|OccId=4831839|Unsandhied=nyāyam
+57	anvavāyan	anvave	VERB	_	Tense=Impf|Mood=Ind|Person=3|Number=Plur	_	_	_	LemmaId=158291|OccId=4831840|Unsandhied=anvavāyan|Punctuation=fullStop
 
 # text = te prāyaṇīyam atanvata tam prāyaṇīyena nedīyo 'nvāgacchaṃs te karmabhiḥ samatvaranta tac chaṃyvantam akurvaṃs tasmāddhāpyetarhi prāyaṇīyaṃ śaṃyvantam eva bhavati tam anu nyāyam anvavāyan
-# sent_id = 639645
+# sent_id = 641509
 # sent_counter = 2
 # sent_subcounter = 
 1	te	tad	PRON	_	Case=Nom|Gender=Masc|Number=Plur	_	_	_	LemmaId=37875|OccId=4831841|Unsandhied=te
@@ -106,7 +106,7 @@
 27	anvavāyan	anvave	VERB	_	Tense=Impf|Mood=Ind|Person=3|Number=Plur	_	_	_	LemmaId=158291|OccId=4831866|Unsandhied=anvavāyan|Punctuation=fullStop
 
 # text = ta ātithyam atanvata tam ātithyena nedīyo 'nvāgacchaṃs te karmabhiḥ samatvaranta tad iﾱāntam akurvaṃs tasmāddhāpyetarhyātithyam iﾱāntam eva bhavati tam anu nyāyam anvavāyan
-# sent_id = 639646
+# sent_id = 641510
 # sent_counter = 3
 # sent_subcounter = 
 1	ta	tad	PRON	_	Case=Nom|Gender=Masc|Number=Plur	_	_	_	LemmaId=37875|OccId=4831867|Unsandhied=te
@@ -141,7 +141,7 @@
 27	anvavāyan	anvave	VERB	_	Tense=Impf|Mood=Ind|Person=3|Number=Plur	_	_	_	LemmaId=158291|OccId=4831888|Unsandhied=anvavāyan|Punctuation=fullStop|WordSem=85116
 
 # text = ta upasado 'tanvata tam upasadbhir nedīyo 'nvāgacchaṃs te karmabhiḥ samatvaranta te tisraḥ sāmidhenīr anūcya tisro devatā ayajaṃs tasmāddhāpyetarhyupasatsu tisra eva sāmidhenīr anūcya tisro devatā yajanti tam anu nyāyam anvavāyan
-# sent_id = 639647
+# sent_id = 641511
 # sent_counter = 4
 # sent_subcounter = 
 1	ta	tad	PRON	_	Case=Nom|Gender=Masc|Number=Plur	_	_	_	LemmaId=37875|OccId=4831889|Unsandhied=te
@@ -180,7 +180,7 @@
 33	anvavāyan	anvave	VERB	_	Tense=Impf|Mood=Ind|Person=3|Number=Plur	_	_	_	LemmaId=158291|OccId=4831915|Unsandhied=anvavāyan|Punctuation=fullStop|WordSem=85116
 
 # text = ta upavasatham atanvata tam upavasathye 'hany āpnuvaṃs tam āptvāntaṃ yajñam atanvatāpi patnīḥ samayājayaṃs tasmāddhāpyetarhy upavasatha āntam eva yajñaṃ tanvate 'pi patnīḥ saṃyājayanti
-# sent_id = 639648
+# sent_id = 641512
 # sent_counter = 5
 # sent_subcounter = 
 1	ta	tad	PRON	_	Case=Nom|Gender=Masc|Number=Plur	_	_	_	LemmaId=37875|OccId=4831916|Unsandhied=te
@@ -215,7 +215,7 @@
 27	saṃyājayanti	saṃyājay	VERB	_	Tense=Pres|Mood=Ind|Person=3|Number=Plur	_	_	_	LemmaId=201151|OccId=4831942|Unsandhied=saṃyājayanti|Punctuation=fullStop
 
 # text = tasmād eteṣu pūrveṣu karmasu śanaistarāṃ śanaistarām ivānubrūyāt
-# sent_id = 639649
+# sent_id = 641513
 # sent_counter = 6
 # sent_subcounter = 
 1	tasmād	tasmāt	ADV	_		_	_	_	LemmaId=203521|OccId=4831943|Unsandhied=tasmāt
@@ -229,7 +229,7 @@
 8	anubrūyāt	anubrū	VERB	_	Tense=Pres|Mood=Opt|Person=3|Number=Sing	_	_	_	LemmaId=157937|OccId=4831950|Unsandhied=anubrūyāt|Punctuation=fullStop
 
 # text = anūtsāram iva hi te tam āyāṃs tasmād upavasathe yāvatyā vācā kāmayīta tāvatyānubrūyād āpto hi sa tarhi bhavatīti
-# sent_id = 639650
+# sent_id = 641514
 # sent_counter = 7
 # sent_subcounter = 
 1	anūtsāram	anūtsāram	ADV	_		_	_	_	LemmaId=11524|OccId=4832029|Unsandhied=anūtsāram
@@ -255,7 +255,7 @@
 19	iti	iti	PART	_		_	_	_	LemmaId=63331|OccId=4832031|Unsandhied=iti|Punctuation=fullStop
 
 # text = tam āptvābruvaṃs tiṣṭhasva no'nnādyāyeti sa nety abravīt kathaṃ vas tiṣṭheyeti tān īkṣataiva tam abruvan brāhmaṇena ca naś chandobhiś ca sayug bhūtvānnādyāya tiṣṭhasveti tatheti tasmāddhāpyetarhi yajñaḥ sayug bhūtvā devebhyo havyaṃ vahati brāhmaṇena ca chandobhiś ca
-# sent_id = 639651
+# sent_id = 641515
 # sent_counter = 8
 # sent_subcounter = 
 1	tam	tad	PRON	_	Case=Acc|Gender=Masc|Number=Sing	_	_	_	LemmaId=37875|OccId=4831967|Unsandhied=tam

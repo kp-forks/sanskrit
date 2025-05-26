@@ -3,7 +3,7 @@
 ## chapter: AVŚ, 1, 27
 ## chapter_id: 10622
 # text = amūḥ pāre pṛdākvas triṣaptā nirjarāyavaḥ
-# sent_id = 622146
+# sent_id = 623978
 # sent_counter = 1
 # sent_subcounter = 1
 1	amūḥ	adas	PRON	_	Case=Nom|Gender=Fem|Number=Plur	_	_	_	LemmaId=163742|OccId=4538380|Unsandhied=amūḥ
@@ -13,7 +13,7 @@
 5	nirjarāyavaḥ	nirjarāyu	ADJ	_	Case=Nom|Gender=Fem|Number=Plur	_	_	_	LemmaId=34279|OccId=4538383|Unsandhied=nirjarāyavaḥ|Punctuation=fullStop
 
 # text = tāsām jarāyubhir vayam akṣyāv api vyayāmasy aghāyoḥ paripanthinaḥ
-# sent_id = 622147
+# sent_id = 623979
 # sent_counter = 1
 # sent_subcounter = 2
 1	tāsām	tad	PRON	_	Case=Gen|Gender=Fem|Number=Plur	_	_	_	LemmaId=37875|OccId=4538384|Unsandhied=tāsām
@@ -26,7 +26,7 @@
 8	paripanthinaḥ	paripanthin	ADJ	_	Case=Gen|Gender=Masc|Number=Sing	_	_	_	LemmaId=19205|OccId=4538390|Unsandhied=paripanthinaḥ|Punctuation=fullStop
 
 # text = viṣūcy etu kṛntatī pinākam iva bibhratī
-# sent_id = 622148
+# sent_id = 623980
 # sent_counter = 2
 # sent_subcounter = 1
 1	viṣūcy	viṣvañc	ADJ	_	Case=Nom|Gender=Fem|Number=Sing	_	_	_	LemmaId=204650|OccId=4538391|Unsandhied=viṣūcī
@@ -37,17 +37,19 @@
 6	bibhratī	bhṛ	VERB	_	Case=Nom|Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Part	_	_	_	LemmaId=157419|OccId=4538396|Unsandhied=bibhratī|Punctuation=fullStop
 
 # text = viṣvak punarbhuvā mano 'samṛddhā aghāyavaḥ
-# sent_id = 622149
+# sent_id = 623981
 # sent_counter = 2
 # sent_subcounter = 2
 1	viṣvak	viṣvañc	ADJ	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=204650|OccId=4538397|Unsandhied=viṣvak
 2	punarbhuvā	punarbhū	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	_	_	_	LemmaId=144535|OccId=4538398|Unsandhied=punarbhuvāḥ
 3	mano	manas	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=36096|OccId=4538399|Unsandhied=manaḥ|Punctuation=fullStop
-4	'samṛddhā	asamṛddha	ADJ	_	Case=Nom|Gender=Masc|Number=Plur	_	_	_	LemmaId=60836|OccId=4538400|Unsandhied=asamṛddhāḥ
-5	aghāyavaḥ	aghāyu	ADJ	_	Case=Nom|Gender=Masc|Number=Plur	_	_	_	LemmaId=6059|OccId=4538401|Unsandhied=aghāyavaḥ|Punctuation=fullStop
+4-5	'samṛddhā	_	_	_	_	_	_	_	_
+4	a	a	PART	_		_	_	_	LemmaId=213048|OccId=5873991|Unsandhied=a
+5	samṛddhāḥ	samṛdh	VERB	_	Case=Nom|Gender=Masc|Number=Plur|VerbForm=Part	_	_	_	LemmaId=165407|OccId=5873992|Unsandhied=samṛddhāḥ
+6	aghāyavaḥ	aghāyu	ADJ	_	Case=Nom|Gender=Masc|Number=Plur	_	_	_	LemmaId=6059|OccId=4538401|Unsandhied=aghāyavaḥ|Punctuation=fullStop
 
 # text = na bahavaḥ sam aśakan nārbhakā abhi dādhṛṣuḥ
-# sent_id = 622150
+# sent_id = 623982
 # sent_counter = 3
 # sent_subcounter = 1
 1	na	na	PART	_		_	_	_	LemmaId=43432|OccId=4538402|Unsandhied=na
@@ -61,7 +63,7 @@
 8	dādhṛṣuḥ	dhṛṣ	VERB	_	Tense=Past|Mood=Ind|Person=3|Number=Plur	_	_	_	LemmaId=158392|OccId=4538431|Unsandhied=dādhṛṣuḥ|Punctuation=fullStop
 
 # text = veṇor adgā ivābhito 'samṛddhā aghāyavaḥ
-# sent_id = 622151
+# sent_id = 623983
 # sent_counter = 3
 # sent_subcounter = 2
 1	veṇor	veṇu	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	_	_	_	LemmaId=142318|OccId=4538409|Unsandhied=veṇoḥ
@@ -69,11 +71,13 @@
 3-4	ivābhito	_	_	_	_	_	_	_	_
 3	iva	iva	PART	_		_	_	_	LemmaId=63807|OccId=4538411|Unsandhied=iva
 4	abhitas	abhitas	ADV	_		_	_	_	LemmaId=22083|OccId=4538412|Unsandhied=abhitas
-5	'samṛddhā	asamṛddha	ADJ	_	Case=Nom|Gender=Masc|Number=Plur	_	_	_	LemmaId=60836|OccId=4538413|Unsandhied=asamṛddhāḥ
-6	aghāyavaḥ	aghāyu	ADJ	_	Case=Nom|Gender=Masc|Number=Plur	_	_	_	LemmaId=6059|OccId=4538414|Unsandhied=aghāyavaḥ|Punctuation=fullStop|WordSem=67922
+5-6	'samṛddhā	_	_	_	_	_	_	_	_
+5	a	a	PART	_		_	_	_	LemmaId=213048|OccId=5873993|Unsandhied=a
+6	samṛddhāḥ	samṛdh	VERB	_	Case=Nom|Gender=Masc|Number=Plur|VerbForm=Part	_	_	_	LemmaId=165407|OccId=5873994|Unsandhied=samṛddhāḥ
+7	aghāyavaḥ	aghāyu	ADJ	_	Case=Nom|Gender=Masc|Number=Plur	_	_	_	LemmaId=6059|OccId=4538414|Unsandhied=aghāyavaḥ|Punctuation=fullStop|WordSem=67922
 
 # text = pretaṃ pādau pra sphurataṃ vahataṃ pṛṇato gṛhān
-# sent_id = 622152
+# sent_id = 623984
 # sent_counter = 4
 # sent_subcounter = 1
 1	pretaṃ	pre	VERB	_	Case=Acc|Gender=Masc|Number=Sing|VerbForm=Part	_	_	_	LemmaId=163183|OccId=4538415|Unsandhied=pretam
@@ -85,7 +89,7 @@
 7	gṛhān	gṛha	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	_	_	_	LemmaId=125251|OccId=4538421|Unsandhied=gṛhān
 
 # text = indrāny etu prathamājītāmuṣitā puraḥ
-# sent_id = 622153
+# sent_id = 623985
 # sent_counter = 4
 # sent_subcounter = 2
 1-2	indrāny	_	_	_	_	_	_	_	_

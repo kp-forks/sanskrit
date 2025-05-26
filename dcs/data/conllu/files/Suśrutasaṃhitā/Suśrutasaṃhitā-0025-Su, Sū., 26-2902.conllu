@@ -28,15 +28,15 @@
 # sent_id = 2085
 # sent_counter = 3
 # sent_subcounter = 1
-1-2	śvala	_	_	_	_	_	_	_	_
+1-2	āśugamane	_	_	_	_	_	_	_	_
 1	āśu	āśu	ADJ	_	Case=Cpd	_	_	_	LemmaId=62662|OccId=1314141|Unsandhied=āśu|UnsandhiedReconstructed=True|WordSem=72024
 2	gamane	gamana	NOUN	_	Case=Loc|Gender=Neut|Number=Sing	_	_	_	LemmaId=129464|OccId=1314142|Unsandhied=gamane|UnsandhiedReconstructed=True|WordSem=34216
-3	āśugamane	dhātu	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=92416|OccId=1314673|Unsandhied=dhātuḥ|UnsandhiedReconstructed=True|WordSem=29716
-4	dhātus	tad	PRON	_	Case=Gen|Gender=Masc|Number=Sing	_	_	_	LemmaId=37875|OccId=1314143|Unsandhied=tasya|UnsandhiedReconstructed=True
-5-6	tasya	_	_	_	_	_	_	_	_
+3	dhātus	dhātu	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=92416|OccId=1314673|Unsandhied=dhātuḥ|UnsandhiedReconstructed=True|WordSem=29716
+4	tasya	tad	PRON	_	Case=Gen|Gender=Masc|Number=Sing	_	_	_	LemmaId=37875|OccId=1314143|Unsandhied=tasya|UnsandhiedReconstructed=True
+5-6	śalyamiti	_	_	_	_	_	_	_	_
 5	śalyam	śalya	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=131040|OccId=1314144|Unsandhied=śalyam|UnsandhiedReconstructed=True|WordSem=128323
 6	iti	iti	PART	_		_	_	_	LemmaId=63331|OccId=1314145|Unsandhied=iti|UnsandhiedReconstructed=True
-7	śalyamiti	rūpa	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=71929|OccId=1314146|Unsandhied=rūpam|UnsandhiedReconstructed=True|WordSem=29745
+7	rūpam	rūpa	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=71929|OccId=1314146|Unsandhied=rūpam|UnsandhiedReconstructed=True|WordSem=29745
 
 # text = taddvividhaṃ śārīram āgantukaṃ ca
 # sent_id = 2086
@@ -674,7 +674,7 @@
 2	lakṣaṇam	lakṣaṇa	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=80283|OccId=1314519|Unsandhied=lakṣaṇam|UnsandhiedReconstructed=True|WordSem=62183
 3	api	api	PART	_		_	_	_	LemmaId=21365|OccId=1314520|Unsandhied=api|UnsandhiedReconstructed=True
 4	ca	ca	CONJ	_		_	_	_	LemmaId=157144|OccId=1314521|Unsandhied=ca|UnsandhiedReconstructed=True
-5-11	hastiskandhāśvapṛṣṭhaparvatadrumārohaṇadhanurvyāyāmadrutayānaniyuddhādhvagamanalaṅghanaprataraṇaplavanavyāyāmair	_	_	_	_	_	_	_	_
+5-11	jṛmbhodgārakāsakṣavathuṣṭhīvanahasanaprāṇāyāmair	_	_	_	_	_	_	_	_
 5	jṛmbhā	jṛmbhā	NOUN	_	Case=Cpd	_	_	_	LemmaId=89495|OccId=1314522|Unsandhied=jṛmbhā|UnsandhiedReconstructed=True|WordSem=3961
 6	udgāra	udgāra	NOUN	_	Case=Cpd	_	_	_	LemmaId=56591|OccId=1314523|Unsandhied=udgāra|UnsandhiedReconstructed=True|WordSem=950
 7	kāsa	kāsa	NOUN	_	Case=Cpd	_	_	_	LemmaId=23199|OccId=1314524|Unsandhied=kāsa|UnsandhiedReconstructed=True|WordSem=62414
@@ -682,21 +682,21 @@
 9	ṣṭhīvana	ṣṭhīvana	NOUN	_	Case=Cpd	_	_	_	LemmaId=42108|OccId=1314526|Unsandhied=ṣṭhīvana|UnsandhiedReconstructed=True|WordSem=58768
 10	hasana	hasana	NOUN	_	Case=Cpd	_	_	_	LemmaId=109452|OccId=1314527|Unsandhied=hasana|UnsandhiedReconstructed=True|WordSem=4965
 11	prāṇāyāmaiḥ	prāṇāyāma	NOUN	_	Case=Ins|Gender=Masc|Number=Plur	_	_	_	LemmaId=152133|OccId=1314528|Unsandhied=prāṇāyāmaiḥ|UnsandhiedReconstructed=True|WordSem=100651
-12-16	jṛmbhodgārakāsakṣavathuṣṭhīvanahasanaprāṇāyāmair	_	_	_	_	_	_	_	_
+12-16	vātamūtrapurīṣaśukrotsargair	_	_	_	_	_	_	_	_
 12	vāta	vāta	NOUN	_	Case=Cpd	_	_	_	LemmaId=75767|OccId=1314529|Unsandhied=vāta|UnsandhiedReconstructed=True|WordSem=3969
 13	mūtra	mūtra	NOUN	_	Case=Cpd	_	_	_	LemmaId=136408|OccId=1314530|Unsandhied=mūtra|UnsandhiedReconstructed=True|WordSem=64525
 14	purīṣa	purīṣa	NOUN	_	Case=Cpd	_	_	_	LemmaId=144617|OccId=1314531|Unsandhied=purīṣa|UnsandhiedReconstructed=True|WordSem=64517
 15	śukra	śukra	NOUN	_	Case=Cpd	_	_	_	LemmaId=163313|OccId=1314532|Unsandhied=śukra|UnsandhiedReconstructed=True|WordSem=26702
 16	utsargaiḥ	utsarga	NOUN	_	Case=Ins|Gender=Masc|Number=Plur	_	_	_	LemmaId=56132|OccId=1314533|Unsandhied=utsargaiḥ|UnsandhiedReconstructed=True|WordSem=58753
-17	vātamūtrapurīṣaśukrotsargair	vā	CONJ	_		_	_	_	LemmaId=75765|OccId=1314534|Unsandhied=vā|UnsandhiedReconstructed=True|WordSem=127042
-18	vā	yatra	SCONJ	_		_	_	_	LemmaId=73233|OccId=1314535|Unsandhied=yatra|UnsandhiedReconstructed=True|WordSem=100034
-19	yatra	saṃrambha	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=42200|OccId=1314536|Unsandhied=saṃrambhaḥ|UnsandhiedReconstructed=True|WordSem=62314
-20	saṃrambho	vedanā	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	_	_	_	LemmaId=143044|OccId=1314537|Unsandhied=vedanā|UnsandhiedReconstructed=True|WordSem=62252
-21	vedanā	vā	CONJ	_		_	_	_	LemmaId=75765|OccId=1314538|Unsandhied=vā|UnsandhiedReconstructed=True|WordSem=127042
-22	vā	bhū	VERB	_	Tense=Pres|Mood=Ind|Person=3|Number=Sing	_	_	_	LemmaId=157250|OccId=1314539|Unsandhied=bhavati|WordSem=95963
-23	bhavati	tatra	ADV	_		_	_	_	LemmaId=95978|OccId=1314540|Unsandhied=tatra|UnsandhiedReconstructed=True|WordSem=97279
-24	tatra	śalya	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	_	_	_	LemmaId=131040|OccId=1314541|Unsandhied=śalyam|UnsandhiedReconstructed=True|WordSem=128323
-25	śalyaṃ	jñā	VERB	_	Tense=Pres|Mood=Opt|Person=3|Number=Sing	_	_	_	LemmaId=157151|OccId=1314542|Unsandhied=jānīyāt|WordSem=94536
+17	vā	vā	CONJ	_		_	_	_	LemmaId=75765|OccId=1314534|Unsandhied=vā|UnsandhiedReconstructed=True|WordSem=127042
+18	yatra	yatra	SCONJ	_		_	_	_	LemmaId=73233|OccId=1314535|Unsandhied=yatra|UnsandhiedReconstructed=True|WordSem=100034
+19	saṃrambho	saṃrambha	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=42200|OccId=1314536|Unsandhied=saṃrambhaḥ|UnsandhiedReconstructed=True|WordSem=62314
+20	vedanā	vedanā	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	_	_	_	LemmaId=143044|OccId=1314537|Unsandhied=vedanā|UnsandhiedReconstructed=True|WordSem=62252
+21	vā	vā	CONJ	_		_	_	_	LemmaId=75765|OccId=1314538|Unsandhied=vā|UnsandhiedReconstructed=True|WordSem=127042
+22	bhavati	bhū	VERB	_	Tense=Pres|Mood=Ind|Person=3|Number=Sing	_	_	_	LemmaId=157250|OccId=1314539|Unsandhied=bhavati|WordSem=95963
+23	tatra	tatra	ADV	_		_	_	_	LemmaId=95978|OccId=1314540|Unsandhied=tatra|UnsandhiedReconstructed=True|WordSem=97279
+24	śalyaṃ	śalya	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	_	_	_	LemmaId=131040|OccId=1314541|Unsandhied=śalyam|UnsandhiedReconstructed=True|WordSem=128323
+25	jānīyāt	jñā	VERB	_	Tense=Pres|Mood=Opt|Person=3|Number=Sing	_	_	_	LemmaId=157151|OccId=1314542|Unsandhied=jānīyāt|WordSem=94536
 
 # text = bhavanti cātra
 # sent_id = 2102
@@ -729,9 +729,9 @@
 1	ghaṭṭate	ghaṭṭ	VERB	_	Tense=Pres|Mood=Ind|Person=3|Number=Sing	_	_	_	LemmaId=156237|OccId=1314553|Unsandhied=ghaṭṭate|WordSem=92535
 2	bahuśo	bahuśas	ADV	_		_	_	_	LemmaId=147308|OccId=1314554|Unsandhied=bahuśas|UnsandhiedReconstructed=True|WordSem=97794
 3	yatra	yatra	SCONJ	_		_	_	_	LemmaId=73233|OccId=1314555|Unsandhied=yatra|UnsandhiedReconstructed=True
-4	śūyate	tud	VERB	_	Tense=Pres|Mood=Ind|Voice=Pass|Person=3|Number=Sing	_	_	_	LemmaId=157233|OccId=1314556|Unsandhied=tudyate|WordSem=93844
-5	tudyate	api	PART	_		_	_	_	LemmaId=21365|OccId=1314557|Unsandhied=api|UnsandhiedReconstructed=True
-6	'pi	ca	CONJ	_		_	_	_	LemmaId=157144|OccId=1314558|Unsandhied=ca|UnsandhiedReconstructed=True|WordSem=104004
+4	tudyate	tud	VERB	_	Tense=Pres|Mood=Ind|Voice=Pass|Person=3|Number=Sing	_	_	_	LemmaId=157233|OccId=1314556|Unsandhied=tudyate|WordSem=93844
+5	'pi	api	PART	_		_	_	_	LemmaId=21365|OccId=1314557|Unsandhied=api|UnsandhiedReconstructed=True
+6	ca	ca	CONJ	_		_	_	_	LemmaId=157144|OccId=1314558|Unsandhied=ca|UnsandhiedReconstructed=True|WordSem=104004
 
 # text = āturaś cāpi yaṃ deśamabhīkṣṇaṃ parirakṣati
 # sent_id = 2105

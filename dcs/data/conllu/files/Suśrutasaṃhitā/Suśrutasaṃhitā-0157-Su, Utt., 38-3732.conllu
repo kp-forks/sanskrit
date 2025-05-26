@@ -298,7 +298,7 @@
 2	syandate	syand	VERB	_	Tense=Pres|Mood=Ind|Person=3|Number=Sing	_	_	_	LemmaId=157361|OccId=1464824|Unsandhied=syandate
 3	tu	tu	PART	_		_	_	_	LemmaId=82701|OccId=1464825|Unsandhied=tu|UnsandhiedReconstructed=True
 4	kṣobhitā	kṣobhay	VERB	_	Case=Nom|Gender=Fem|Number=Sing|VerbForm=Part	_	_	_	LemmaId=160798|OccId=1464826|Unsandhied=kṣobhitā|UnsandhiedReconstructed=True
-5	duḥprasūśca	yad	PRON	_	Case=Nom|Gender=Fem|Number=Sing	_	_	_	LemmaId=37877|OccId=1464827|Unsandhied=yā|UnsandhiedReconstructed=True
+5	yā	yad	PRON	_	Case=Nom|Gender=Fem|Number=Sing	_	_	_	LemmaId=37877|OccId=1464827|Unsandhied=yā|UnsandhiedReconstructed=True
 
 # text = sthitaṃ sthitaṃ hanti garbhaṃ putraghnī raktasaṃsravāt
 # sent_id = 13492
@@ -567,7 +567,7 @@
 4	ca	ca	CONJ	_		_	_	_	LemmaId=157144|OccId=1465088|Unsandhied=ca|UnsandhiedReconstructed=True|WordSem=104004
 5	yoniṣu	yoni	NOUN	_	Case=Loc|Gender=Fem|Number=Plur	_	_	_	LemmaId=65252|OccId=1464960|Unsandhied=yoniṣu|UnsandhiedReconstructed=True|WordSem=26926
 
-# text = nikṣipeddhārayeccāpi picutailamatandritaḥ
+# text = nikṣipeddhārayeccāpi picutailam atandritaḥ
 # sent_id = 13512
 # sent_counter = 23
 # sent_subcounter = 2
@@ -576,10 +576,12 @@
 2	dhārayet	dhāray	VERB	_	Tense=Pres|Mood=Opt|Person=3|Number=Sing	_	_	_	LemmaId=157617|OccId=1464962|Unsandhied=dhārayet
 3	ca	ca	CONJ	_		_	_	_	LemmaId=157144|OccId=1464963|Unsandhied=ca|UnsandhiedReconstructed=True
 4	api	api	PART	_		_	_	_	LemmaId=21365|OccId=1464964|Unsandhied=api|UnsandhiedReconstructed=True
-5-7	picutailamatandritaḥ	_	_	_	_	_	_	_	_
-5	picu	picu	NOUN	_	Case=Cpd	_	_	_	LemmaId=94622|OccId=1464965|Unsandhied=picu|UnsandhiedReconstructed=True
-6	tailam	taila	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	_	_	_	LemmaId=83500|OccId=1464966|Unsandhied=tailam|UnsandhiedReconstructed=True
-7	atandritaḥ	atandrita	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=6802|OccId=1464967|Unsandhied=atandritaḥ|UnsandhiedReconstructed=True
+5-6	picutailam	_	_	_	_	_	_	_	_
+5	picu	picu	NOUN	_	Case=Cpd	_	_	_	LemmaId=94622|OccId=5875567|Unsandhied=picu
+6	tailam	taila	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	_	_	_	LemmaId=83500|OccId=5875568|Unsandhied=tailam
+7-8	atandritaḥ	_	_	_	_	_	_	_	_
+7	a	a	PART	_		_	_	_	LemmaId=213048|OccId=5875569|Unsandhied=a
+8	tandritaḥ	tandray	VERB	_	Case=Nom|Gender=Masc|Number=Sing|VerbForm=Part	_	_	_	LemmaId=222353|OccId=5875570|Unsandhied=tandritaḥ
 
 # text = dhāvanāni ca pathyāni kurvītāpūraṇāni ca
 # sent_id = 13513

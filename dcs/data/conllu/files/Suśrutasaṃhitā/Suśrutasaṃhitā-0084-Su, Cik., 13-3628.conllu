@@ -578,7 +578,7 @@
 3	saṃhṛtaṃ	saṃhṛ	VERB	_	Case=Acc|Gender=Neut|Number=Sing|VerbForm=Part	_	_	_	LemmaId=164843|OccId=1397377|Unsandhied=saṃhṛtam|UnsandhiedReconstructed=True|WordSem=94625
 4	bhūyaḥ	bhūyas	ADV	_		_	_	_	LemmaId=203488|OccId=1464676|Unsandhied=bhūyas|UnsandhiedReconstructed=True|WordSem=96783
 5	paced	pac	VERB	_	Tense=Pres|Mood=Opt|Person=3|Number=Sing	_	_	_	LemmaId=157815|OccId=1397548|Unsandhied=pacet|WordSem=91811
-6-7	ā	_	_	_	_	_	_	_	_
+6-7	toyasaṃkṣayāt	_	_	_	_	_	_	_	_
 6	toya	toya	NOUN	_	Case=Cpd	_	_	_	LemmaId=83600|OccId=1397549|Unsandhied=toya|UnsandhiedReconstructed=True|WordSem=64492
 7	saṃkṣayāt	saṃkṣaya	NOUN	_	Case=Abl|Gender=Masc|Number=Sing	_	_	_	LemmaId=8917|OccId=1397550|Unsandhied=saṃkṣayāt|UnsandhiedReconstructed=True|WordSem=34322
 
@@ -758,17 +758,19 @@
 6	sādhu	sādhu	ADJ	_	Case=Acc|Gender=Neut|Number=Sing	_	_	_	LemmaId=112171|OccId=1397459|Unsandhied=sādhu|UnsandhiedReconstructed=True|WordSem=76066
 7	sādhitam	sādhay	VERB	_	Case=Acc|Gender=Neut|Number=Sing|VerbForm=Part	_	_	_	LemmaId=159171|OccId=1397460|Unsandhied=sādhitam|UnsandhiedReconstructed=True|WordSem=85392
 
-# text = nihitaṃ pūrvavat pakṣāt pibenmāsamatandritaḥ
+# text = nihitaṃ pūrvavat pakṣāt pibenmāsam atandritaḥ
 # sent_id = 7816
 # sent_counter = 30
 # sent_subcounter = 1
 1	nihitaṃ	nidhā	VERB	_	Case=Acc|Gender=Neut|Number=Sing|VerbForm=Part	_	_	_	LemmaId=161295|OccId=1397461|Unsandhied=nihitam|UnsandhiedReconstructed=True|WordSem=91060
 2	pūrvavat	pūrvavat	ADV	_		_	_	_	LemmaId=145228|OccId=1397462|Unsandhied=pūrvavat|UnsandhiedReconstructed=True
 3	pakṣāt	pakṣa	NOUN	_	Case=Abl|Gender=Masc|Number=Sing	_	_	_	LemmaId=14543|OccId=1397463|Unsandhied=pakṣāt|UnsandhiedReconstructed=True|WordSem=102122
-4-6	pibenmāsamatandritaḥ	_	_	_	_	_	_	_	_
-4	pibet	pā	VERB	_	Tense=Pres|Mood=Opt|Person=3|Number=Sing	_	_	_	LemmaId=157391|OccId=1397464|Unsandhied=pibet|WordSem=89497
-5	māsam	māsa	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	_	_	_	LemmaId=133175|OccId=1397465|Unsandhied=māsam|UnsandhiedReconstructed=True|WordSem=66155
-6	atandritaḥ	atandrita	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=6802|OccId=1397466|Unsandhied=atandritaḥ|UnsandhiedReconstructed=True|WordSem=80366
+4-5	pibenmāsam	_	_	_	_	_	_	_	_
+4	pibet	pā	VERB	_	Tense=Pres|Mood=Opt|Person=3|Number=Sing	_	_	_	LemmaId=157391|OccId=5875535|Unsandhied=pibet
+5	māsam	māsa	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	_	_	_	LemmaId=133175|OccId=5875536|Unsandhied=māsam
+6-7	atandritaḥ	_	_	_	_	_	_	_	_
+6	a	a	PART	_		_	_	_	LemmaId=213048|OccId=5875537|Unsandhied=a
+7	tandritaḥ	tandray	VERB	_	Case=Nom|Gender=Masc|Number=Sing|VerbForm=Part	_	_	_	LemmaId=222353|OccId=5875538|Unsandhied=tandritaḥ
 
 # text = tenābhyaktaśarīraś ca kurvītāhāramīritam
 # sent_id = 7817

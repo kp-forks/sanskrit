@@ -3,7 +3,7 @@
 ## chapter: RAdhyṬ zu RAdhy, 153.2
 ## chapter_id: 1019
 # text = pūrvokte ca catuṣpāde lohakhalve jīrṇalohaṃ rasaṃ tathā
-# sent_id = 101603
+# sent_id = 101602
 # sent_counter = 1
 # sent_subcounter = 
 1-2	pūrvokte	_	_	_	_	_	_	_	_
@@ -21,24 +21,24 @@
 10	tathā	tathā	ADV	_		_	_	_	LemmaId=95987|OccId=296605|Unsandhied=tathā|UnsandhiedReconstructed=True|Punctuation=fullStop|WordSem=104004
 
 # text = catuḥṣaṣṭitamabhāgena ayaḥprakāśirājicūrṇaṃ ca kṣiptvā pūrvoktena thūthāviḍena mardayet
-# sent_id = 101604
+# sent_id = 101603
 # sent_counter = 2
 # sent_subcounter = 
 1-2	catuḥṣaṣṭitamabhāgena	_	_	_	_	_	_	_	_
 1	catuḥṣaṣṭitama	catuḥṣaṣṭitama	ADJ	_	Case=Cpd	_	_	_	LemmaId=175871|OccId=2017976|Unsandhied=catuḥṣaṣṭitama|UnsandhiedReconstructed=True|WordSem=130034
 2	bhāgena	bhāga	NOUN	_	Case=Ins|Gender=Masc|Number=Sing	_	_	_	LemmaId=49485|OccId=2017977|Unsandhied=bhāgena|UnsandhiedReconstructed=True|WordSem=60234
-3	ayaḥprakāśirājicūrṇaṃ	ca	CONJ	_		_	_	_	LemmaId=157144|OccId=296613|Unsandhied=ca|UnsandhiedReconstructed=True|WordSem=104004
-4	ca	kṣip	VERB	_	VerbForm=Conv	_	_	_	LemmaId=156198|OccId=296614|Unsandhied=kṣiptvā|UnsandhiedReconstructed=True|WordSem=130008
-5-6	kṣiptvā	_	_	_	_	_	_	_	_
+3	ca	ca	CONJ	_		_	_	_	LemmaId=157144|OccId=296613|Unsandhied=ca|UnsandhiedReconstructed=True|WordSem=104004
+4	kṣiptvā	kṣip	VERB	_	VerbForm=Conv	_	_	_	LemmaId=156198|OccId=296614|Unsandhied=kṣiptvā|UnsandhiedReconstructed=True|WordSem=130008
+5-6	pūrvoktena	_	_	_	_	_	_	_	_
 5	pūrva	pūrva	PRON	_	Case=Cpd	_	_	_	LemmaId=145625|OccId=2017978|Unsandhied=pūrva|UnsandhiedReconstructed=True|WordSem=78360
 6	uktena	vac	VERB	_	Case=Ins|Gender=Neut|Number=Sing|VerbForm=Part	_	_	_	LemmaId=157264|OccId=2017979|Unsandhied=uktena|UnsandhiedReconstructed=True|WordSem=88645
-7-8	pūrvoktena	_	_	_	_	_	_	_	_
+7-8	thūthāviḍena	_	_	_	_	_	_	_	_
 7	thūthā	thūthā	NOUN	_	Case=Cpd	_	_	_	LemmaId=171841|OccId=296686|Unsandhied=thūthā|UnsandhiedReconstructed=True|WordSem=103428
 8	viḍena	viḍa	NOUN	_	Case=Ins|Gender=Masc|Number=Sing	_	_	_	LemmaId=122616|OccId=296687|Unsandhied=viḍena|UnsandhiedReconstructed=True|WordSem=126630
-9	thūthāviḍena	marday	VERB	_	Tense=Pres|Mood=Opt|Person=3|Number=Sing	_	_	_	LemmaId=158892|OccId=296616|Unsandhied=mardayet|Punctuation=fullStop|WordSem=85940
+9	mardayet	marday	VERB	_	Tense=Pres|Mood=Opt|Person=3|Number=Sing	_	_	_	LemmaId=158892|OccId=296616|Unsandhied=mardayet|Punctuation=fullStop|WordSem=85940
 
 # text = adhaśca komalāgnir jvālayet
-# sent_id = 101605
+# sent_id = 101604
 # sent_counter = 3
 # sent_subcounter = 
 1-2	adhaśca	_	_	_	_	_	_	_	_
@@ -50,7 +50,7 @@
 5	jvālayet	jvālay	VERB	_	Tense=Pres|Mood=Opt|Person=3|Number=Sing	_	_	_	LemmaId=159504|OccId=296621|Unsandhied=jvālayet|Punctuation=fullStop|WordSem=94859
 
 # text = agretanakṣiptāyaḥprakāśaṃ cūrṇe ca jīrṇe punas tāvanmātram ayaḥ
-# sent_id = 101606
+# sent_id = 101605
 # sent_counter = 4
 # sent_subcounter = 
 1-4	agretanakṣiptāyaḥprakāśaṃ	_	_	_	_	_	_	_	_
@@ -66,7 +66,7 @@
 10	ayaḥ	ayas	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=32302|OccId=2017981|Unsandhied=ayaḥ|UnsandhiedReconstructed=True|WordSem=63546
 
 # text = evaṃ ca yadi rasād aṣṭaguṇāyaḥprakāśarājijīrṇā bhavati
-# sent_id = 101607
+# sent_id = 101606
 # sent_counter = 5
 # sent_subcounter = 
 1	evaṃ	evam	ADV	_		_	_	_	LemmaId=39758|OccId=296633|Unsandhied=evam|UnsandhiedReconstructed=True|WordSem=97363
@@ -82,7 +82,7 @@
 10	bhavati	bhū	VERB	_	Tense=Pres|Mood=Ind|Person=3|Number=Sing	_	_	_	LemmaId=157250|OccId=296642|Unsandhied=bhavati|Punctuation=fullStop|WordSem=95892
 
 # text = tadā sūtaḥ pīto bhavet
-# sent_id = 101608
+# sent_id = 101607
 # sent_counter = 6
 # sent_subcounter = 
 1	tadā	tadā	ADV	_		_	_	_	LemmaId=96104|OccId=296643|Unsandhied=tadā|UnsandhiedReconstructed=True|WordSem=97343
@@ -91,7 +91,7 @@
 4	bhavet	bhū	VERB	_	Tense=Pres|Mood=Opt|Person=3|Number=Sing	_	_	_	LemmaId=157250|OccId=296646|Unsandhied=bhavet|Punctuation=fullStop|WordSem=85114
 
 # text = tataḥ sūtasya raktatānimittaṃ vakṣyamāṇarītyā hemarājiṃ jārayet
-# sent_id = 101609
+# sent_id = 101608
 # sent_counter = 7
 # sent_subcounter = 
 1	tataḥ	tatas	ADV	_		_	_	_	LemmaId=95922|OccId=296647|Unsandhied=tatas|UnsandhiedReconstructed=True|WordSem=97342
@@ -109,7 +109,7 @@
 10	jārayet	jāray	VERB	_	Tense=Pres|Mood=Opt|Person=3|Number=Sing	_	_	_	LemmaId=166624|OccId=296655|Unsandhied=jārayet|Punctuation=fullStop|WordSem=129804
 
 # text = iti jīrṇalohasūtasyāyaḥprakāśarājijāraṇaṃ tṛtīyam
-# sent_id = 101610
+# sent_id = 101609
 # sent_counter = 8
 # sent_subcounter = 
 1	iti	iti	PART	_		_	_	_	LemmaId=63331|OccId=296656|Unsandhied=iti|UnsandhiedReconstructed=True|WordSem=97363
@@ -124,7 +124,7 @@
 9	tṛtīyam	tṛtīya	ADJ	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=83290|OccId=296664|Unsandhied=tṛtīyam|UnsandhiedReconstructed=True|Punctuation=fullStop|WordSem=79069
 
 # text = rājisvarūpaṃ cāgre svayaṃ sa ca vyākhyāsyati
-# sent_id = 101611
+# sent_id = 101610
 # sent_counter = 9
 # sent_subcounter = 
 1-2	rājisvarūpaṃ	_	_	_	_	_	_	_	_

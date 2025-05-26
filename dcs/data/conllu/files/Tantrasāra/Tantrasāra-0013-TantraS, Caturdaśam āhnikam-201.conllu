@@ -3,7 +3,7 @@
 ## chapter: TantraS, Caturdaśam āhnikam
 ## chapter_id: 201
 # text = atha putrakadīkṣāvidhiḥ
-# sent_id = 47761
+# sent_id = 47760
 # sent_counter = 1
 # sent_subcounter = 
 1	atha	atha	ADV	_	_	_	_	_	LemmaId=7467|OccId=50678|Unsandhied=atha|UnsandhiedReconstructed=True
@@ -12,7 +12,7 @@
 3	_	vidhi	NOUN	_	_	_	_	_	LemmaId=122846|OccId=50752|Unsandhied=_
 
 # text = sa ca vistīrṇaḥ tantrālokāt avadhāryaḥ
-# sent_id = 47762
+# sent_id = 47761
 # sent_counter = 2
 # sent_subcounter = 
 1	sa	tad	PRON	_	_	_	_	_	LemmaId=37875|OccId=50679|Unsandhied=_
@@ -22,7 +22,7 @@
 5	avadhāryaḥ	avadhārya	ADJ	_	_	_	_	_	LemmaId=54237|OccId=50682|Unsandhied=_
 
 # text = saṃkṣiptas tu ucyate
-# sent_id = 47763
+# sent_id = 47762
 # sent_counter = 3
 # sent_subcounter = 
 1	saṃkṣiptas	saṃkṣipta	ADJ	_	_	_	_	_	LemmaId=8919|OccId=32664|Unsandhied=_
@@ -30,7 +30,7 @@
 3	ucyate	vac	VERB	_	Tense=Pres|Mood=Ind|Voice=Pass|Person=3|Number=Sing	_	_	_	LemmaId=157264|OccId=32666|Unsandhied=ucyate
 
 # text = samayyantaṃ vidhiṃ kṛtvā tṛtīye 'hni triśūlābje maṇḍale sāmudāyikaṃ yāgaṃ pūjayet tatra bāhyaparivāraṃ dvāradevatācakraṃ ca bahiḥ pūjayet tato maṇḍalapūrvabhāge aiśakoṇāt ārabhya āgneyāntaṃ paṅktikrameṇa gaṇapatiṃ guruṃ paramaguruṃ parameṣṭhinaṃ pūrvācāryān yoginīcakraṃ vāgīśvarīṃ kṣetrapālaṃ ca pūjayet
-# sent_id = 47764
+# sent_id = 47763
 # sent_counter = 4
 # sent_subcounter = 
 1-2	samayyantaṃ	_	_	_	_	_	_	_	_
@@ -58,31 +58,31 @@
 19	bahiḥ	bahis	ADV	_	_	_	_	_	LemmaId=147329|OccId=50696|Unsandhied=bahis|UnsandhiedReconstructed=True
 20	pūjayet	pūjay	VERB	_	Tense=Pres|Mood=Opt|Person=3|Number=Sing	_	_	_	LemmaId=158765|OccId=50697|Unsandhied=pūjayet
 21	tato	tatas	NOUN	_	_	_	_	_	LemmaId=95922|OccId=50698|Unsandhied=_
-22-23	maṇḍalapūrvabhāge	_	_	_	_	_	_	_	_
+22-23	aiśakoṇāt	_	_	_	_	_	_	_	_
 22	_	aiśa	ADJ	_	_	_	_	_	LemmaId=40010|OccId=50701|Unsandhied=_
 23	_	koṇa	NOUN	_	_	_	_	_	LemmaId=4931|OccId=50702|Unsandhied=_|WordSem=39739
-24	aiśakoṇāt	ārabh	VERB	_	_|VerbForm=Conv	_	_	_	LemmaId=159885|OccId=50756|Unsandhied=ārabhya|UnsandhiedReconstructed=True
-25-26	ārabhya	_	_	_	_	_	_	_	_
+24	ārabhya	ārabh	VERB	_	_|VerbForm=Conv	_	_	_	LemmaId=159885|OccId=50756|Unsandhied=ārabhya|UnsandhiedReconstructed=True
+25-26	āgneyāntaṃ	_	_	_	_	_	_	_	_
 25	_	āgneya	ADJ	_	_	_	_	_	LemmaId=62121|OccId=50703|Unsandhied=_
 26	_	anta	NOUN	_	_	_	_	_	LemmaId=11658|OccId=50704|Unsandhied=_
-27	āgneyāntaṃ	paṅktikrama	NOUN	_	_	_	_	_	LemmaId=14698|OccId=50705|Unsandhied=_
-28	paṅktikrameṇa	gaṇapati	NOUN	_	_	_	_	_	LemmaId=129341|OccId=50706|Unsandhied=_
-29	gaṇapatiṃ	guru	NOUN	_	_	_	_	_	LemmaId=124569|OccId=50707|Unsandhied=_|WordSem=45962,100325
-30-31	guruṃ	_	_	_	_	_	_	_	_
+27	paṅktikrameṇa	paṅktikrama	NOUN	_	_	_	_	_	LemmaId=14698|OccId=50705|Unsandhied=_
+28	gaṇapatiṃ	gaṇapati	NOUN	_	_	_	_	_	LemmaId=129341|OccId=50706|Unsandhied=_
+29	guruṃ	guru	NOUN	_	_	_	_	_	LemmaId=124569|OccId=50707|Unsandhied=_|WordSem=45962,100325
+30-31	paramaguruṃ	_	_	_	_	_	_	_	_
 30	_	parama	ADJ	_	_	_	_	_	LemmaId=16405|OccId=50708|Unsandhied=_
 31	_	guru	NOUN	_	_	_	_	_	LemmaId=124569|OccId=50709|Unsandhied=_|WordSem=45962,100325
-32	paramaguruṃ	parameṣṭhin	NOUN	_	_	_	_	_	LemmaId=16494|OccId=50710|Unsandhied=_|WordSem=42992
-33-34	parameṣṭhinaṃ	_	_	_	_	_	_	_	_
+32	parameṣṭhinaṃ	parameṣṭhin	NOUN	_	_	_	_	_	LemmaId=16494|OccId=50710|Unsandhied=_|WordSem=42992
+33-34	pūrvācāryān	_	_	_	_	_	_	_	_
 33	_	pūrva	PRON	_	_	_	_	_	LemmaId=145625|OccId=50711|Unsandhied=_
 34	_	ācārya	NOUN	_	_	_	_	_	LemmaId=57430|OccId=50712|Unsandhied=_|WordSem=45962,100325
-35	pūrvācāryān	yoginīcakra	NOUN	_	_	_	_	_	LemmaId=167764|OccId=50757|Unsandhied=_
-36	yoginīcakraṃ	vāgīśvarī	NOUN	_	_	_	_	_	LemmaId=76151|OccId=50713|Unsandhied=_
-37	vāgīśvarīṃ	kṣetrapāla	NOUN	_	_	_	_	_	LemmaId=135589|OccId=50714|Unsandhied=_
-38	kṣetrapālaṃ	ca	CONJ	_	_	_	_	_	LemmaId=157144|OccId=50715|Unsandhied=ca|UnsandhiedReconstructed=True
-39	ca	pūjay	VERB	_	Tense=Pres|Mood=Opt|Person=3|Number=Sing	_	_	_	LemmaId=158765|OccId=50716|Unsandhied=pūjayet
+35	yoginīcakraṃ	yoginīcakra	NOUN	_	_	_	_	_	LemmaId=167764|OccId=50757|Unsandhied=_
+36	vāgīśvarīṃ	vāgīśvarī	NOUN	_	_	_	_	_	LemmaId=76151|OccId=50713|Unsandhied=_
+37	kṣetrapālaṃ	kṣetrapāla	NOUN	_	_	_	_	_	LemmaId=135589|OccId=50714|Unsandhied=_
+38	ca	ca	CONJ	_	_	_	_	_	LemmaId=157144|OccId=50715|Unsandhied=ca|UnsandhiedReconstructed=True
+39	pūjayet	pūjay	VERB	_	Tense=Pres|Mood=Opt|Person=3|Number=Sing	_	_	_	LemmaId=158765|OccId=50716|Unsandhied=pūjayet
 
 # text = tata ājñāṃ samucitām ādāya śūlamūlāt prabhṛti sitakamalāntaṃ samastam adhvānaṃ nyasya arcayet tato madhyame triśūle madhyārāyāṃ bhagavatī śrīparābhaṭṭārikā bhairavanāthena saha vāmārāyāṃ tathaiva śrīmadaparā dakṣiṇārāyāṃ śrīparāparā dakṣiṇe triśūle madhye śrīparāparā vāme triśūle madhye śrīmadaparā dve tu yathāsvam
-# sent_id = 47765
+# sent_id = 47764
 # sent_counter = 5
 # sent_subcounter = 
 1	tata	tatas	NOUN	_	_	_	_	_	LemmaId=95922|OccId=50717|Unsandhied=_
@@ -103,79 +103,79 @@
 14	tato	tatas	NOUN	_	_	_	_	_	LemmaId=95922|OccId=50730|Unsandhied=_
 15	madhyame	madhyama	ADJ	_	_	_	_	_	LemmaId=35895|OccId=50731|Unsandhied=_
 16	triśūle	triśūla	NOUN	_	_	_	_	_	LemmaId=84282|OccId=50732|Unsandhied=_
-17	madhyārāyāṃ	bhagavatī	NOUN	_	_	_	_	_	LemmaId=48493|OccId=50733|Unsandhied=_
-18-20	bhagavatī	_	_	_	_	_	_	_	_
+17	bhagavatī	bhagavatī	NOUN	_	_	_	_	_	LemmaId=48493|OccId=50733|Unsandhied=_
+18-20	śrīparābhaṭṭārikā	_	_	_	_	_	_	_	_
 18	_	śrī	NOUN	_	_	_	_	_	LemmaId=40462|OccId=50734|Unsandhied=_
 19	_	parā	NOUN	_	_	_	_	_	LemmaId=167420|OccId=50735|Unsandhied=_
 20	_	bhaṭṭārikā	NOUN	_	_	_	_	_	LemmaId=48672|OccId=50736|Unsandhied=_
-21-22	śrīparābhaṭṭārikā	_	_	_	_	_	_	_	_
+21-22	bhairavanāthena	_	_	_	_	_	_	_	_
 21	_	bhairava	NOUN	_	_	_	_	_	LemmaId=25980|OccId=50737|Unsandhied=_
 22	_	nātha	NOUN	_	_	_	_	_	LemmaId=33334|OccId=50738|Unsandhied=_
-23	bhairavanāthena	saha	NOUN	_	_	_	_	_	LemmaId=105774|OccId=50739|Unsandhied=_
-24-25	saha	_	_	_	_	_	_	_	_
+23	saha	saha	NOUN	_	_	_	_	_	LemmaId=105774|OccId=50739|Unsandhied=_
+24-25	tathaiva	_	_	_	_	_	_	_	_
 24	_	tathā	NOUN	_	_	_	_	_	LemmaId=95987|OccId=50740|Unsandhied=_
 25	eva	eva	PART	_	_	_	_	_	LemmaId=39754|OccId=50741|Unsandhied=eva|UnsandhiedReconstructed=True
-26-27	vāmārāyāṃ	_	_	_	_	_	_	_	_
+26-27	śrīmadaparā	_	_	_	_	_	_	_	_
 26	_	śrīmat	ADJ	_	_	_	_	_	LemmaId=40729|OccId=50758|Unsandhied=_
 27	_	aparā	NOUN	_	_	_	_	_	LemmaId=167765|OccId=50759|Unsandhied=_
-28-29	tathaiva	_	_	_	_	_	_	_	_
+28-29	śrīparāparā	_	_	_	_	_	_	_	_
 28	_	śrī	NOUN	_	_	_	_	_	LemmaId=40462|OccId=50760|Unsandhied=_
 29	_	parāparā	NOUN	_	_	_	_	_	LemmaId=167766|OccId=50761|Unsandhied=_
-30	śrīmadaparā	dakṣiṇa	ADJ	_	_	_	_	_	LemmaId=100605|OccId=50742|Unsandhied=_
-31	dakṣiṇārāyāṃ	triśūla	NOUN	_	_	_	_	_	LemmaId=84282|OccId=50743|Unsandhied=_
-32	śrīparāparā	madhya	ADJ	_	_	_	_	_	LemmaId=35807|OccId=50744|Unsandhied=_
-33-34	dakṣiṇe	_	_	_	_	_	_	_	_
+30	dakṣiṇe	dakṣiṇa	ADJ	_	_	_	_	_	LemmaId=100605|OccId=50742|Unsandhied=_
+31	triśūle	triśūla	NOUN	_	_	_	_	_	LemmaId=84282|OccId=50743|Unsandhied=_
+32	madhye	madhya	ADJ	_	_	_	_	_	LemmaId=35807|OccId=50744|Unsandhied=_
+33-34	śrīparāparā	_	_	_	_	_	_	_	_
 33	_	śrī	NOUN	_	_	_	_	_	LemmaId=40462|OccId=50762|Unsandhied=_
 34	_	parāparā	NOUN	_	_	_	_	_	LemmaId=167766|OccId=50763|Unsandhied=_
-35	triśūle	vāma	ADJ	_	_	_	_	_	LemmaId=76817|OccId=50745|Unsandhied=_
-36	madhye	triśūla	NOUN	_	_	_	_	_	LemmaId=84282|OccId=50746|Unsandhied=_
-37	śrīparāparā	madhya	ADJ	_	_	_	_	_	LemmaId=35807|OccId=50747|Unsandhied=_
-38-39	vāme	_	_	_	_	_	_	_	_
+35	vāme	vāma	ADJ	_	_	_	_	_	LemmaId=76817|OccId=50745|Unsandhied=_
+36	triśūle	triśūla	NOUN	_	_	_	_	_	LemmaId=84282|OccId=50746|Unsandhied=_
+37	madhye	madhya	ADJ	_	_	_	_	_	LemmaId=35807|OccId=50747|Unsandhied=_
+38-39	śrīmadaparā	_	_	_	_	_	_	_	_
 38	_	śrīmat	ADJ	_	_	_	_	_	LemmaId=40729|OccId=50764|Unsandhied=_
 39	_	aparā	NOUN	_	_	_	_	_	LemmaId=167765|OccId=50765|Unsandhied=_
-40	triśūle	dvi	NUM	_	_	_	_	_	LemmaId=166283|OccId=50748|Unsandhied=_|WordSem=59910
-41	madhye	tu	PART	_	_	_	_	_	LemmaId=82701|OccId=50749|Unsandhied=tu|UnsandhiedReconstructed=True
-42	śrīmadaparā	yathāsva	ADJ	_	_	_	_	_	LemmaId=73595|OccId=50750|Unsandhied=_
+40	dve	dvi	NUM	_	_	_	_	_	LemmaId=166283|OccId=50748|Unsandhied=_|WordSem=59910
+41	tu	tu	PART	_	_	_	_	_	LemmaId=82701|OccId=50749|Unsandhied=tu|UnsandhiedReconstructed=True
+42	yathāsvam	yathāsva	ADJ	_	_	_	_	_	LemmaId=73595|OccId=50750|Unsandhied=_
 
 # text = evaṃ sarvasthānādhiṣṭhātṛtve bhagavatyāḥ sarvaṃ pūrṇaṃ tadadhiṣṭhānāt bhavati iti
-# sent_id = 47766
+# sent_id = 47765
 # sent_counter = 6
 # sent_subcounter = 
 1	evaṃ	evam	ADV	_	_	_	_	_	LemmaId=39758|OccId=50766|Unsandhied=evam|UnsandhiedReconstructed=True
-2	sarvasthānādhiṣṭhātṛtve	bhagavatī	NOUN	_	_	_	_	_	LemmaId=48493|OccId=50767|Unsandhied=_
-3	bhagavatyāḥ	sarva	PRON	_	_	_	_	_	LemmaId=104444|OccId=50768|Unsandhied=sarva|UnsandhiedReconstructed=True
-4	sarvaṃ	pūrṇa	ADJ	_	_	_	_	_	LemmaId=145579|OccId=50769|Unsandhied=_
-5-6	pūrṇaṃ	_	_	_	_	_	_	_	_
+2	bhagavatyāḥ	bhagavatī	NOUN	_	_	_	_	_	LemmaId=48493|OccId=50767|Unsandhied=_
+3	sarvaṃ	sarva	PRON	_	_	_	_	_	LemmaId=104444|OccId=50768|Unsandhied=sarva|UnsandhiedReconstructed=True
+4	pūrṇaṃ	pūrṇa	ADJ	_	_	_	_	_	LemmaId=145579|OccId=50769|Unsandhied=_
+5-6	tadadhiṣṭhānāt	_	_	_	_	_	_	_	_
 5	_	tad	PRON	_	_	_	_	_	LemmaId=37875|OccId=50770|Unsandhied=_
 6	_	adhiṣṭhāna	NOUN	_	_	_	_	_	LemmaId=9572|OccId=50771|Unsandhied=_
-7	tadadhiṣṭhānāt	bhū	VERB	_	Tense=Pres|Mood=Ind|Person=3|Number=Sing	_	_	_	LemmaId=157250|OccId=50772|Unsandhied=bhavati
-8	bhavati	iti	PART	_	_	_	_	_	LemmaId=63331|OccId=50773|Unsandhied=iti|UnsandhiedReconstructed=True
+7	bhavati	bhū	VERB	_	Tense=Pres|Mood=Ind|Person=3|Number=Sing	_	_	_	LemmaId=157250|OccId=50772|Unsandhied=bhavati
+8	iti	iti	PART	_	_	_	_	_	LemmaId=63331|OccId=50773|Unsandhied=iti|UnsandhiedReconstructed=True
 
 # text = tato madhyaśūlamadhyārāyāṃ samastaṃ devatācakraṃ lokapālāstraparyantam abhinnatayaiva pūjayet tadadhiṣṭhānāt sarvatra pūjitam
-# sent_id = 47767
+# sent_id = 47766
 # sent_counter = 7
 # sent_subcounter = 
 1	tato	tatas	NOUN	_	_	_	_	_	LemmaId=95922|OccId=50774|Unsandhied=_
-2	madhyaśūlamadhyārāyāṃ	samasta	ADJ	_	_	_	_	_	LemmaId=29632|OccId=50775|Unsandhied=_
-3-4	samastaṃ	_	_	_	_	_	_	_	_
+2	samastaṃ	samasta	ADJ	_	_	_	_	_	LemmaId=29632|OccId=50775|Unsandhied=_
+3-4	devatācakraṃ	_	_	_	_	_	_	_	_
 3	_	devatā	NOUN	_	_	_	_	_	LemmaId=87093|OccId=50776|Unsandhied=_|WordSem=42953
 4	_	cakra	NOUN	_	_	_	_	_	LemmaId=161732|OccId=50777|Unsandhied=_
-5-7	devatācakraṃ	_	_	_	_	_	_	_	_
+5-7	lokapālāstraparyantam	_	_	_	_	_	_	_	_
 5	_	lokapāla	NOUN	_	_	_	_	_	LemmaId=66925|OccId=50778|Unsandhied=_|WordSem=101096
 6	_	astra	NOUN	_	_	_	_	_	LemmaId=61244|OccId=50779|Unsandhied=_
 7	_	paryanta	NOUN	_	_	_	_	_	LemmaId=20066|OccId=50780|Unsandhied=_
-8-9	lokapālāstraparyantam	_	_	_	_	_	_	_	_
+8-9	abhinnatayaiva	_	_	_	_	_	_	_	_
 8	_	abhinnatā	NOUN	_	_	_	_	_	LemmaId=22328|OccId=50781|Unsandhied=_
 9	eva	eva	PART	_	_	_	_	_	LemmaId=39754|OccId=50782|Unsandhied=eva|UnsandhiedReconstructed=True
-10	abhinnatayaiva	pūjay	VERB	_	Tense=Pres|Mood=Opt|Person=3|Number=Sing	_	_	_	LemmaId=158765|OccId=50783|Unsandhied=pūjayet
-11-12	pūjayet	_	_	_	_	_	_	_	_
+10	pūjayet	pūjay	VERB	_	Tense=Pres|Mood=Opt|Person=3|Number=Sing	_	_	_	LemmaId=158765|OccId=50783|Unsandhied=pūjayet
+11-12	tadadhiṣṭhānāt	_	_	_	_	_	_	_	_
 11	_	tad	PRON	_	_	_	_	_	LemmaId=37875|OccId=50784|Unsandhied=_
 12	_	adhiṣṭhāna	NOUN	_	_	_	_	_	LemmaId=9572|OccId=50785|Unsandhied=_
-13	tadadhiṣṭhānāt	sarvatra	ADV	_	_	_	_	_	LemmaId=105151|OccId=50812|Unsandhied=sarvatra|UnsandhiedReconstructed=True
-14	sarvatra	pūjay	VERB	_	_|VerbForm=Part	_	_	_	LemmaId=158765|OccId=50786|Unsandhied=_
+13	sarvatra	sarvatra	ADV	_	_	_	_	_	LemmaId=105151|OccId=50812|Unsandhied=sarvatra|UnsandhiedReconstructed=True
+14	pūjitam	pūjay	VERB	_	_|VerbForm=Part	_	_	_	LemmaId=158765|OccId=50786|Unsandhied=_
 
 # text = tataḥ kumbhe kalaśe maṇḍale agnau svātmani ca abhedabhāvanayā pañcādhikaraṇam anusaṃdhiṃ kuryāt tataḥ parameśvarādvayarasabṛṃhitena puṣpādinā viśeṣapūjāṃ kuryāt
-# sent_id = 47768
+# sent_id = 47767
 # sent_counter = 8
 # sent_subcounter = 
 1	tataḥ	tatas	NOUN	_	_	_	_	_	LemmaId=95922|OccId=50787|Unsandhied=_
@@ -208,7 +208,7 @@
 23	kuryāt	kṛ	VERB	_	Tense=Pres|Mood=Opt|Person=3|Number=Sing	_	_	_	LemmaId=156168|OccId=50808|Unsandhied=kuryāt
 
 # text = kiṃ bahunā tarpaṇanaivedyaparipūrṇaṃ vittaśāṭhyavirahito yāgasthānaṃ kuryāt
-# sent_id = 47769
+# sent_id = 47768
 # sent_counter = 9
 # sent_subcounter = 
 1	kiṃ	ka	PRON	_	_	_	_	_	LemmaId=37878|OccId=50814|Unsandhied=_
@@ -227,7 +227,7 @@
 11	kuryāt	kṛ	VERB	_	Tense=Pres|Mood=Opt|Person=3|Number=Sing	_	_	_	LemmaId=156168|OccId=50823|Unsandhied=kuryāt
 
 # text = asati vitte tu mahāmaṇḍalayāgo na kartavya eva
-# sent_id = 47770
+# sent_id = 47769
 # sent_counter = 10
 # sent_subcounter = 
 1	asati	asat	ADJ	_	_	_	_	_	LemmaId=60696|OccId=50824|Unsandhied=_
@@ -239,7 +239,7 @@
 7	eva	eva	PART	_	_	_	_	_	LemmaId=39754|OccId=50829|Unsandhied=eva|UnsandhiedReconstructed=True
 
 # text = paśūṃś ca jīvato nivedayet
-# sent_id = 47771
+# sent_id = 47770
 # sent_counter = 11
 # sent_subcounter = 
 1	paśūṃś	paśu	NOUN	_	_	_	_	_	LemmaId=92688|OccId=50830|Unsandhied=_
@@ -248,7 +248,7 @@
 4	nivedayet	niveday	VERB	_	Tense=Pres|Mood=Opt|Person=3|Number=Sing	_	_	_	LemmaId=167768|OccId=50904|Unsandhied=nivedayet
 
 # text = te 'pi hi evam anugṛhītā bhavanti iti kāruṇikatayā paśuvidhau na vicikitset
-# sent_id = 47772
+# sent_id = 47771
 # sent_counter = 12
 # sent_subcounter = 
 1	te	tad	PRON	_	_	_	_	_	LemmaId=37875|OccId=50833|Unsandhied=_
@@ -265,7 +265,7 @@
 11	na	na	PART	_	_	_	_	_	LemmaId=43432|OccId=50843|Unsandhied=na|UnsandhiedReconstructed=True
 
 # text = tato 'gnau parameśvaraṃ tilājyādibhiḥ saṃtarpya tadagre 'nyaṃ paśuṃ vapāhomārthaṃ kuryāt devatācakraṃ tadvapayā tarpayet punar maṇḍalaṃ pūjayet tataḥ parameśvaraṃ vijñapya sarvābhinnasamastaṣaḍadhvaparipūrṇam ātmānaṃ bhāvayitvā śiṣyaṃ puro 'vasthitaṃ kuryāt
-# sent_id = 47773
+# sent_id = 47772
 # sent_counter = 13
 # sent_subcounter = 
 1	tato	tatas	NOUN	_	_	_	_	_	LemmaId=95922|OccId=50844|Unsandhied=_
@@ -313,7 +313,7 @@
 37	kuryāt	kṛ	VERB	_	Tense=Pres|Mood=Opt|Person=3|Number=Sing	_	_	_	LemmaId=156168|OccId=50877|Unsandhied=kuryāt
 
 # text = parokṣadīkṣāyāṃ jīvanmṛtarūpāyām agre taṃ dhyāyet tadīyāṃ vā pratikṛtiṃ darbhagomayādimayīm agre sthāpayet
-# sent_id = 47774
+# sent_id = 47773
 # sent_counter = 14
 # sent_subcounter = 
 1-2	parokṣadīkṣāyāṃ	_	_	_	_	_	_	_	_
@@ -337,26 +337,26 @@
 16	sthāpayet	sthāpay	VERB	_	Tense=Pres|Mood=Opt|Person=3|Number=Sing	_	_	_	LemmaId=157916|OccId=50891|Unsandhied=sthāpayet
 
 # text = tathāvidhaṃ śiṣyam arghapātravipruṭprokṣitaṃ puṣpādibhiś ca pūjitaṃ kṛtvā samastam adhvānaṃ taddehe nyaset
-# sent_id = 47775
+# sent_id = 47774
 # sent_counter = 15
 # sent_subcounter = 
 1	tathāvidhaṃ	tathāvidha	ADJ	_	_	_	_	_	LemmaId=96010|OccId=50892|Unsandhied=_
 2	śiṣyam	śiṣya	NOUN	_	_	_	_	_	LemmaId=132861|OccId=50893|Unsandhied=_|WordSem=100648
-3-4	arghapātravipruṭprokṣitaṃ	_	_	_	_	_	_	_	_
+3-4	puṣpādibhiś	_	_	_	_	_	_	_	_
 3	_	puṣpa	NOUN	_	_	_	_	_	LemmaId=145433|OccId=50894|Unsandhied=_
 4	_	ādi	NOUN	_	_	_	_	_	LemmaId=57973|OccId=50895|Unsandhied=_
-5	puṣpādibhiś	ca	CONJ	_	_	_	_	_	LemmaId=157144|OccId=50896|Unsandhied=ca|UnsandhiedReconstructed=True
-6	ca	pūjay	VERB	_	_|VerbForm=Part	_	_	_	LemmaId=158765|OccId=50897|Unsandhied=_
-7	pūjitaṃ	kṛ	VERB	_	_|VerbForm=Conv	_	_	_	LemmaId=156168|OccId=50898|Unsandhied=kṛtvā|UnsandhiedReconstructed=True
-8	kṛtvā	samasta	ADJ	_	_	_	_	_	LemmaId=29632|OccId=50899|Unsandhied=_
-9	samastam	adhvan	NOUN	_	_	_	_	_	LemmaId=9718|OccId=50900|Unsandhied=_
-10-11	adhvānaṃ	_	_	_	_	_	_	_	_
+5	ca	ca	CONJ	_	_	_	_	_	LemmaId=157144|OccId=50896|Unsandhied=ca|UnsandhiedReconstructed=True
+6	pūjitaṃ	pūjay	VERB	_	_|VerbForm=Part	_	_	_	LemmaId=158765|OccId=50897|Unsandhied=_
+7	kṛtvā	kṛ	VERB	_	_|VerbForm=Conv	_	_	_	LemmaId=156168|OccId=50898|Unsandhied=kṛtvā|UnsandhiedReconstructed=True
+8	samastam	samasta	ADJ	_	_	_	_	_	LemmaId=29632|OccId=50899|Unsandhied=_
+9	adhvānaṃ	adhvan	NOUN	_	_	_	_	_	LemmaId=9718|OccId=50900|Unsandhied=_
+10-11	taddehe	_	_	_	_	_	_	_	_
 10	_	tad	PRON	_	_	_	_	_	LemmaId=37875|OccId=50901|Unsandhied=_
 11	_	deha	NOUN	_	_	_	_	_	LemmaId=89764|OccId=50902|Unsandhied=_
-12	taddehe	nyas	VERB	_	Tense=Pres|Mood=Opt|Person=3|Number=Sing	_	_	_	LemmaId=161564|OccId=50909|Unsandhied=nyaset
+12	nyaset	nyas	VERB	_	Tense=Pres|Mood=Opt|Person=3|Number=Sing	_	_	_	LemmaId=161564|OccId=50909|Unsandhied=nyaset
 
 # text = tata itthaṃ vicārayet bhogecchoḥ śubhaṃ na śodhayet
-# sent_id = 47776
+# sent_id = 47775
 # sent_counter = 16
 # sent_subcounter = 
 1	tata	tatas	NOUN	_	_	_	_	_	LemmaId=95922|OccId=50910|Unsandhied=_
@@ -370,7 +370,7 @@
 8	śodhayet	śodhay	VERB	_	Tense=Pres|Mood=Opt|Person=3|Number=Sing	_	_	_	LemmaId=158835|OccId=50916|Unsandhied=śodhayet
 
 # text = mumukṣos tu śubhāśubham ubhayam api
-# sent_id = 47777
+# sent_id = 47776
 # sent_counter = 17
 # sent_subcounter = 1
 1	mumukṣos	mumukṣu	ADJ	_	_	_	_	_	LemmaId=136907|OccId=50917|Unsandhied=_
@@ -382,7 +382,7 @@
 6	api	api	PART	_	_	_	_	_	LemmaId=21365|OccId=50922|Unsandhied=api|UnsandhiedReconstructed=True
 
 # text = nirbījāyāṃ tu samayapāśān api śodhayet sā ca āsannamaraṇasya atyantamūrkhasyāpi kartavyā iti parameśvarājñā tasyāpi tu gurudevatāgnibhaktiniṣṭhatvamātrāt siddhiḥ
-# sent_id = 47778
+# sent_id = 47777
 # sent_counter = 18
 # sent_subcounter = 
 1	nirbījāyāṃ	nirbījā	NOUN	_	_	_	_	_	LemmaId=34343|OccId=50923|Unsandhied=_
@@ -420,7 +420,7 @@
 27	siddhiḥ	siddhi	NOUN	_	_	_	_	_	LemmaId=106233|OccId=50943|Unsandhied=_
 
 # text = atra ca sarvatra vāsanāgrahaṇam eva bhedakam mantrāṇāṃ vāsanānuguṇyena tattatkāryakāritvāt
-# sent_id = 47779
+# sent_id = 47778
 # sent_counter = 19
 # sent_subcounter = 
 1	atra	atra	ADV	_	_	_	_	_	LemmaId=7442|OccId=50944|Unsandhied=atra|UnsandhiedReconstructed=True
@@ -437,7 +437,7 @@
 10	_	ānuguṇya	NOUN	_	_	_	_	_	LemmaId=58424|OccId=50953|Unsandhied=_
 
 # text = evaṃ vāsanābhedam anusaṃdhāya mukhyamantraparāmarśaviśeṣeṇa samastam adhvānaṃ svadehagataṃ śivādvayabhāvanayā śodhayet
-# sent_id = 47780
+# sent_id = 47779
 # sent_counter = 20
 # sent_subcounter = 
 1	evaṃ	evam	ADV	_	_	_	_	_	LemmaId=39758|OccId=50958|Unsandhied=evam|UnsandhiedReconstructed=True
@@ -463,7 +463,7 @@
 17	śodhayet	śodhay	VERB	_	Tense=Pres|Mood=Opt|Person=3|Number=Sing	_	_	_	LemmaId=158835|OccId=50973|Unsandhied=śodhayet
 
 # text = evaṃ krameṇa pādāṅguṣṭhāt prabhṛti dvādaśāntaparyantaṃ svātmadehasvātmacaitanyābhinnīkṛtadehacaitanyasya śiṣyasya āsādya tatraiva anantānandasarasi svātantryaiśvaryasāre samastecchājñānakriyāśaktinirbharasamastadevatācakreśvare samastādhvabharite cinmātrāvaśeṣaviśvabhāvamaṇḍale tathāvidharūpaikīkāreṇa śiṣyātmanā saha ekībhūto viśrāntim āsādayet ity evaṃ parameśvarābhinno 'sau bhavati
-# sent_id = 47781
+# sent_id = 47780
 # sent_counter = 21
 # sent_subcounter = 
 1	evaṃ	evam	ADV	_	_	_	_	_	LemmaId=39758|OccId=50974|Unsandhied=evam|UnsandhiedReconstructed=True
@@ -508,27 +508,27 @@
 33	_	samasta	ADJ	_	_	_	_	_	LemmaId=29632|OccId=50990|Unsandhied=_
 34	_	adhvan	NOUN	_	_	_	_	_	LemmaId=9718|OccId=50991|Unsandhied=_
 35	_	bharita	ADJ	_	_	_	_	_	LemmaId=49040|OccId=50992|Unsandhied=_
-36-38	cinmātrāvaśeṣaviśvabhāvamaṇḍale	_	_	_	_	_	_	_	_
+36-38	tathāvidharūpaikīkāreṇa	_	_	_	_	_	_	_	_
 36	_	tathāvidha	ADJ	_	_	_	_	_	LemmaId=96010|OccId=51015|Unsandhied=_
 37	_	rūpa	NOUN	_	_	_	_	_	LemmaId=71929|OccId=51016|Unsandhied=_
 38	_	ekīkāra	NOUN	_	_	_	_	_	LemmaId=167773|OccId=51017|Unsandhied=_
-39-40	tathāvidharūpaikīkāreṇa	_	_	_	_	_	_	_	_
+39-40	śiṣyātmanā	_	_	_	_	_	_	_	_
 39	_	śiṣya	NOUN	_	_	_	_	_	LemmaId=132861|OccId=50997|Unsandhied=_|WordSem=100648
 40	_	ātman	NOUN	_	_	_	_	_	LemmaId=57749|OccId=50998|Unsandhied=_
-41	śiṣyātmanā	saha	NOUN	_	_	_	_	_	LemmaId=105774|OccId=50999|Unsandhied=_
-42	saha	ekībhū	VERB	_	_|VerbForm=Part	_	_	_	LemmaId=160776|OccId=51018|Unsandhied=_
-43	ekībhūto	viśrānti	NOUN	_	_	_	_	_	LemmaId=139250|OccId=51000|Unsandhied=_
-44	viśrāntim	āsāday	VERB	_	Tense=Pres|Mood=Opt|Person=3|Number=Sing	_	_	_	LemmaId=159999|OccId=51019|Unsandhied=āsādayet
-45	āsādayet	iti	PART	_	_	_	_	_	LemmaId=63331|OccId=51001|Unsandhied=iti|UnsandhiedReconstructed=True
-46	ity	evam	ADV	_	_	_	_	_	LemmaId=39758|OccId=51002|Unsandhied=evam|UnsandhiedReconstructed=True
-47-48	evaṃ	_	_	_	_	_	_	_	_
+41	saha	saha	NOUN	_	_	_	_	_	LemmaId=105774|OccId=50999|Unsandhied=_
+42	ekībhūto	ekībhū	VERB	_	_|VerbForm=Part	_	_	_	LemmaId=160776|OccId=51018|Unsandhied=_
+43	viśrāntim	viśrānti	NOUN	_	_	_	_	_	LemmaId=139250|OccId=51000|Unsandhied=_
+44	āsādayet	āsāday	VERB	_	Tense=Pres|Mood=Opt|Person=3|Number=Sing	_	_	_	LemmaId=159999|OccId=51019|Unsandhied=āsādayet
+45	ity	iti	PART	_	_	_	_	_	LemmaId=63331|OccId=51001|Unsandhied=iti|UnsandhiedReconstructed=True
+46	evaṃ	evam	ADV	_	_	_	_	_	LemmaId=39758|OccId=51002|Unsandhied=evam|UnsandhiedReconstructed=True
+47-48	parameśvarābhinno	_	_	_	_	_	_	_	_
 47	_	parameśvara	NOUN	_	_	_	_	_	LemmaId=16482|OccId=51003|Unsandhied=_|WordSem=42992
 48	_	abhinna	ADJ	_	_	_	_	_	LemmaId=22325|OccId=51004|Unsandhied=_
-49	parameśvarābhinno	adas	PRON	_	_	_	_	_	LemmaId=163742|OccId=51005|Unsandhied=_
-50	'sau	bhū	VERB	_	Tense=Pres|Mood=Ind|Person=3|Number=Sing	_	_	_	LemmaId=157250|OccId=51006|Unsandhied=bhavati
+49	'sau	adas	PRON	_	_	_	_	_	LemmaId=163742|OccId=51005|Unsandhied=_
+50	bhavati	bhū	VERB	_	Tense=Pres|Mood=Ind|Person=3|Number=Sing	_	_	_	LemmaId=157250|OccId=51006|Unsandhied=bhavati
 
 # text = tato yadi bhogecchuḥ syāt tato yatraiva tattve bhogecchā asya bhavati tatraiva samastavyastatayā yojayet
-# sent_id = 47782
+# sent_id = 47781
 # sent_counter = 22
 # sent_subcounter = 
 1	tato	tatas	NOUN	_	_	_	_	_	LemmaId=95922|OccId=51036|Unsandhied=_
@@ -550,10 +550,10 @@
 14-15	tatraiva	_	_	_	_	_	_	_	_
 14	tatra	tatra	ADV	_	_	_	_	_	LemmaId=95978|OccId=51049|Unsandhied=tatra|UnsandhiedReconstructed=True
 15	eva	eva	PART	_	_	_	_	_	LemmaId=39754|OccId=51050|Unsandhied=eva|UnsandhiedReconstructed=True
-16	samastavyastatayā	yojay	VERB	_	Tense=Pres|Mood=Opt|Person=3|Number=Sing	_	_	_	LemmaId=157989|OccId=51051|Unsandhied=yojayet
+16	yojayet	yojay	VERB	_	Tense=Pres|Mood=Opt|Person=3|Number=Sing	_	_	_	LemmaId=157989|OccId=51051|Unsandhied=yojayet
 
 # text = tadanantaraṃ śeṣavṛttaye parameśvarasvabhāvāt jhaṭiti prasṛtaṃ śuddhatattvamayaṃ deham asmai cintayet ity eṣā samastapāśaviyojikā dīkṣā
-# sent_id = 47783
+# sent_id = 47782
 # sent_counter = 23
 # sent_subcounter = 
 1-2	tadanantaraṃ	_	_	_	_	_	_	_	_
@@ -583,7 +583,7 @@
 20	dīkṣā	dīkṣā	NOUN	_	_	_	_	_	LemmaId=84635|OccId=51067|Unsandhied=_
 
 # text = tataḥ śiṣyo guruṃ dakṣiṇābhiḥ pūrvavat pūjayet
-# sent_id = 47784
+# sent_id = 47783
 # sent_counter = 24
 # sent_subcounter = 
 1	tataḥ	tatas	NOUN	_	_	_	_	_	LemmaId=95922|OccId=51068|Unsandhied=_
@@ -594,7 +594,7 @@
 6	pūjayet	pūjay	VERB	_	Tense=Pres|Mood=Opt|Person=3|Number=Sing	_	_	_	LemmaId=158765|OccId=51073|Unsandhied=pūjayet
 
 # text = tato 'gnau śiṣyasya vidhiṃ kuryāt śrīparāmantraḥ amukasyāmukaṃ tattvaṃ śodhayāmi iti svāhāntaṃ pratitattvaṃ tisra āhutayaḥ ante pūrṇā vauṣaḍantā
-# sent_id = 47785
+# sent_id = 47784
 # sent_counter = 25
 # sent_subcounter = 
 1	tato	tatas	NOUN	_	_	_	_	_	LemmaId=95922|OccId=51074|Unsandhied=_
@@ -627,7 +627,7 @@
 23	_	anta	NOUN	_	_	_	_	_	LemmaId=11658|OccId=51096|Unsandhied=_
 
 # text = evaṃ śivāntatattvaśuddhiḥ tato yojanikoktakrameṇa pūrṇāhutiḥ
-# sent_id = 47786
+# sent_id = 47785
 # sent_counter = 26
 # sent_subcounter = 
 1	evaṃ	evam	ADV	_	_	_	_	_	LemmaId=39758|OccId=51097|Unsandhied=evam|UnsandhiedReconstructed=True
@@ -644,7 +644,7 @@
 10	pūrṇāhutiḥ	pūrṇāhuti	NOUN	_	_	_	_	_	LemmaId=145612|OccId=51106|Unsandhied=_
 
 # text = bhogecchoḥ bhogasthāne yojanikārtham aparā śuddhatattvasṛṣṭyartham anyā
-# sent_id = 47787
+# sent_id = 47786
 # sent_counter = 27
 # sent_subcounter = 
 1-2	bhogecchoḥ	_	_	_	_	_	_	_	_
@@ -663,7 +663,7 @@
 11	anyā	anya	PRON	_	_	_	_	_	LemmaId=164189|OccId=51113|Unsandhied=_
 
 # text = tato guroḥ dakṣiṇābhiḥ pūjanam ity eṣā putrakadīkṣā
-# sent_id = 47788
+# sent_id = 47787
 # sent_counter = 28
 # sent_subcounter = 
 1	tato	tatas	NOUN	_	_	_	_	_	LemmaId=95922|OccId=51114|Unsandhied=_
@@ -675,7 +675,7 @@
 7	putrakadīkṣā	putrakadīkṣā	NOUN	_	_	_	_	_	LemmaId=167761|OccId=51120|Unsandhied=_
 
 # text = yatra vartamānam ekaṃ varjayitvā bhūtaṃ bhaviṣyac ca karma śudhyati
-# sent_id = 47789
+# sent_id = 47788
 # sent_counter = 29
 # sent_subcounter = 
 1	yatra	yatra	SCONJ	_	_	_	_	_	LemmaId=73233|OccId=51121|Unsandhied=_

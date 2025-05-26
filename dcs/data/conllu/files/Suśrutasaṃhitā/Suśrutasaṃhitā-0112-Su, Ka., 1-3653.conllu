@@ -166,18 +166,21 @@
 5	saṃtata	saṃtata	ADJ	_	Case=Cpd	_	_	_	LemmaId=17477|OccId=1420015|Unsandhied=saṃtata|UnsandhiedReconstructed=True
 6	utthitam	utthā	VERB	_	Case=Acc|Gender=Masc|Number=Sing|VerbForm=Part	_	_	_	LemmaId=160135|OccId=1420016|Unsandhied=utthitam|UnsandhiedReconstructed=True
 
-# text = alubdhamaśaṭhaṃ bhaktaṃ kṛtajñaṃ priyadarśanam
+# text = alubdham aśaṭhaṃ bhaktaṃ kṛtajñaṃ priyadarśanam
 # sent_id = 10556
 # sent_counter = 8
 # sent_subcounter = 2
-1-2	alubdhamaśaṭhaṃ	_	_	_	_	_	_	_	_
-1	alubdham	alubdha	ADJ	_	Case=Acc|Gender=Masc|Number=Sing	_	_	_	LemmaId=53794|OccId=1420017|Unsandhied=alubdham|UnsandhiedReconstructed=True
-2	aśaṭham	aśaṭha	ADJ	_	Case=Acc|Gender=Masc|Number=Sing	_	_	_	LemmaId=59889|OccId=1420018|Unsandhied=aśaṭham|UnsandhiedReconstructed=True
-3	bhaktaṃ	bhakta	ADJ	_	Case=Acc|Gender=Masc|Number=Sing	_	_	_	LemmaId=48376|OccId=1420019|Unsandhied=bhaktam|UnsandhiedReconstructed=True
-4	kṛtajñaṃ	kṛtajña	ADJ	_	Case=Acc|Gender=Masc|Number=Sing	_	_	_	LemmaId=3489|OccId=1420020|Unsandhied=kṛtajñam|UnsandhiedReconstructed=True
-5-6	priyadarśanam	_	_	_	_	_	_	_	_
-5	priya	priya	ADJ	_	Case=Cpd	_	_	_	LemmaId=153185|OccId=1420021|Unsandhied=priya|UnsandhiedReconstructed=True
-6	darśanam	darśana	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	_	_	_	LemmaId=146419|OccId=1420022|Unsandhied=darśanam|UnsandhiedReconstructed=True
+1-2	alubdham	_	_	_	_	_	_	_	_
+1	a	a	PART	_		_	_	_	LemmaId=213048|OccId=5875932|Unsandhied=a
+2	lubdham	lubh	VERB	_	Case=Acc|Gender=Masc|Number=Sing|VerbForm=Part	_	_	_	LemmaId=158028|OccId=5875933|Unsandhied=lubdham
+3-4	aśaṭhaṃ	_	_	_	_	_	_	_	_
+3	a	a	PART	_		_	_	_	LemmaId=213048|OccId=5875934|Unsandhied=a
+4	śaṭham	śaṭha	ADJ	_	Case=Acc|Gender=Masc|Number=Sing	_	_	_	LemmaId=116413|OccId=5875935|Unsandhied=śaṭham
+5	bhaktaṃ	bhakta	ADJ	_	Case=Acc|Gender=Masc|Number=Sing	_	_	_	LemmaId=48376|OccId=1420019|Unsandhied=bhaktam|UnsandhiedReconstructed=True
+6	kṛtajñaṃ	kṛtajña	ADJ	_	Case=Acc|Gender=Masc|Number=Sing	_	_	_	LemmaId=3489|OccId=1420020|Unsandhied=kṛtajñam|UnsandhiedReconstructed=True
+7-8	priyadarśanam	_	_	_	_	_	_	_	_
+7	priya	priya	ADJ	_	Case=Cpd	_	_	_	LemmaId=153185|OccId=1420021|Unsandhied=priya|UnsandhiedReconstructed=True
+8	darśanam	darśana	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	_	_	_	LemmaId=146419|OccId=1420022|Unsandhied=darśanam|UnsandhiedReconstructed=True
 
 # text = krodhapāruṣyamātsaryamāyālasyavivarjitam
 # sent_id = 10557
@@ -1313,7 +1316,7 @@
 3-4	vāpi	_	_	_	_	_	_	_	_
 3	vā	vā	CONJ	_		_	_	_	LemmaId=75765|OccId=1420601|Unsandhied=vā|UnsandhiedReconstructed=True
 4	api	api	PART	_		_	_	_	LemmaId=21365|OccId=1420602|Unsandhied=api|UnsandhiedReconstructed=True
-5	sakṣaudrāḥ	pratisāraṇa	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=139868|OccId=1420603|Unsandhied=pratisāraṇam|UnsandhiedReconstructed=True
+5	pratisāraṇam	pratisāraṇa	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=139868|OccId=1420603|Unsandhied=pratisāraṇam|UnsandhiedReconstructed=True
 
 # text = jihvānirlekhakavalau dantakāṣṭhavadādiśet
 # sent_id = 10641
@@ -1682,7 +1685,7 @@
 3	_	go	NOUN	_	Case=Ins|Number=Sing	_	_	_	LemmaId=166386|OccId=1420782|Unsandhied=_
 4	ādīnām	ādi	NOUN	_	Case=Gen|Gender=Masc|Number=Plur	_	_	_	LemmaId=57973|OccId=1420783|Unsandhied=ādīnām|UnsandhiedReconstructed=True
 5	sarpiḥ	sarpis	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=104440|OccId=1420784|Unsandhied=sarpiḥ|UnsandhiedReconstructed=True
-6	sātiviṣaiḥ	śrī	VERB	_	Case=Nom|Gender=Neut|Number=Sing|VerbForm=Part	_	_	_	LemmaId=159053|OccId=1420785|Unsandhied=śṛtam|UnsandhiedReconstructed=True
+6	śṛtam	śrī	VERB	_	Case=Nom|Gender=Neut|Number=Sing|VerbForm=Part	_	_	_	LemmaId=159053|OccId=1420785|Unsandhied=śṛtam|UnsandhiedReconstructed=True
 
 # text = pāne nasye ca saśvetaṃ hitaṃ samadayantikam
 # sent_id = 10669
@@ -1691,7 +1694,7 @@
 1	pāne	pāna	NOUN	_	Case=Loc|Gender=Neut|Number=Sing	_	_	_	LemmaId=92905|OccId=1420786|Unsandhied=pāne|UnsandhiedReconstructed=True
 2	nasye	nasya	NOUN	_	Case=Loc|Gender=Neut|Number=Sing	_	_	_	LemmaId=32969|OccId=1420787|Unsandhied=nasye|UnsandhiedReconstructed=True
 3	ca	ca	CONJ	_		_	_	_	LemmaId=157144|OccId=1420788|Unsandhied=ca|UnsandhiedReconstructed=True
-4	saśvetaṃ	hita	ADJ	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=109983|OccId=1420789|Unsandhied=hitam|UnsandhiedReconstructed=True
+4	hitaṃ	hita	ADJ	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=109983|OccId=1420789|Unsandhied=hitam|UnsandhiedReconstructed=True
 
 # text = gandhahānirvivarṇatvaṃ puṣpāṇāṃ mlānatā bhavet
 # sent_id = 10670
@@ -1773,7 +1776,7 @@
 # sent_subcounter = 1
 1	svaraso	svarasa	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=120189|OccId=1420828|Unsandhied=svarasaḥ|UnsandhiedReconstructed=True
 2	bahuputrāyāḥ	bahuputrī	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	_	_	_	LemmaId=147685|OccId=1420990|Unsandhied=bahuputryāḥ|UnsandhiedReconstructed=True
-3-4	saghṛtaḥ	_	_	_	_	_	_	_	_
+3-4	kṣaudrasaṃyutaḥ	_	_	_	_	_	_	_	_
 3	kṣaudra	kṣaudra	NOUN	_	Case=Cpd	_	_	_	LemmaId=135639|OccId=1420829|Unsandhied=kṣaudra|UnsandhiedReconstructed=True
 4	saṃyutaḥ	saṃyuta	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=42165|OccId=1420830|Unsandhied=saṃyutaḥ|UnsandhiedReconstructed=True
 

@@ -976,14 +976,16 @@
 5	pānakāni	pānaka	NOUN	_	Case=Acc|Gender=Neut|Number=Plur	_	_	_	LemmaId=92932|OccId=1514541|Unsandhied=pānakāni|UnsandhiedReconstructed=True
 6	ca	ca	CONJ	_		_	_	_	LemmaId=157144|OccId=1514542|Unsandhied=ca|UnsandhiedReconstructed=True
 
-# text = bhojanāni vicitrāṇi kuryātsarvāsvatandritaḥ
+# text = bhojanāni vicitrāṇi kuryātsarvāsv atandritaḥ
 # sent_id = 15493
 # sent_counter = 35
 # sent_subcounter = 2
 1	bhojanāni	bhojana	NOUN	_	Case=Acc|Gender=Neut|Number=Plur	_	_	_	LemmaId=26133|OccId=1514543|Unsandhied=bhojanāni|UnsandhiedReconstructed=True
 2	vicitrāṇi	vicitra	ADJ	_	Case=Acc|Gender=Neut|Number=Plur	_	_	_	LemmaId=48079|OccId=1514544|Unsandhied=vicitrāṇi|UnsandhiedReconstructed=True
-3-5	kuryātsarvāsvatandritaḥ	_	_	_	_	_	_	_	_
-3	kuryāt	kṛ	VERB	_	Tense=Pres|Mood=Opt|Person=3|Number=Sing	_	_	_	LemmaId=156168|OccId=1514545|Unsandhied=kuryāt
-4	sarvāsu	sarva	PRON	_	Case=Loc|Gender=Fem|Number=Plur	_	_	_	LemmaId=104444|OccId=1514546|Unsandhied=sarvāsu|UnsandhiedReconstructed=True
-5	atandritaḥ	atandrita	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=6802|OccId=1514547|Unsandhied=atandritaḥ|UnsandhiedReconstructed=True
+3-4	kuryātsarvāsv	_	_	_	_	_	_	_	_
+3	kuryāt	kṛ	VERB	_	Tense=Pres|Mood=Opt|Person=3|Number=Sing	_	_	_	LemmaId=156168|OccId=5875575|Unsandhied=kuryāt
+4	sarvāsu	sarva	PRON	_	Case=Loc|Gender=Fem|Number=Plur	_	_	_	LemmaId=104444|OccId=5875576|Unsandhied=sarvāsu
+5-6	atandritaḥ	_	_	_	_	_	_	_	_
+5	a	a	PART	_		_	_	_	LemmaId=213048|OccId=5875577|Unsandhied=a
+6	tandritaḥ	tandray	VERB	_	Case=Nom|Gender=Masc|Number=Sing|VerbForm=Part	_	_	_	LemmaId=222353|OccId=5875578|Unsandhied=tandritaḥ
 

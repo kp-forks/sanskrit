@@ -2326,17 +2326,19 @@
 5	pitta	pitta	NOUN	_	Case=Cpd	_	_	_	LemmaId=95032|OccId=1406593|Unsandhied=pitta|UnsandhiedReconstructed=True
 6	pradūṣaṇaḥ	pradūṣaṇa	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=140528|OccId=1406594|Unsandhied=pradūṣaṇaḥ|UnsandhiedReconstructed=True
 
-# text = puṣṭivarṇabalotsāhamagnidīptimatandritām
+# text = puṣṭivarṇabalotsāham agnidīptim atandritām
 # sent_id = 8879
 # sent_counter = 88
 # sent_subcounter = 1
-1-6	puṣṭivarṇabalotsāhamagnidīptimatandritām	_	_	_	_	_	_	_	_
-1	puṣṭi	puṣṭi	NOUN	_	Case=Cpd	_	_	_	LemmaId=144735|OccId=1406595|Unsandhied=puṣṭi|UnsandhiedReconstructed=True
-2	varṇa	varṇa	NOUN	_	Case=Cpd	_	_	_	LemmaId=74430|OccId=1406596|Unsandhied=varṇa|UnsandhiedReconstructed=True
-3	bala	bala	NOUN	_	Case=Cpd	_	_	_	LemmaId=154315|OccId=1406597|Unsandhied=bala|UnsandhiedReconstructed=True
-4	utsāham	utsāha	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	_	_	_	LemmaId=56090|OccId=1406598|Unsandhied=utsāham|UnsandhiedReconstructed=True
-5	agnidīptim	agnidīpti	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	_	_	_	LemmaId=5764|OccId=1406599|Unsandhied=agnidīptim|UnsandhiedReconstructed=True
-6	atandritām	atandrita	ADJ	_	Case=Acc|Gender=Fem|Number=Sing	_	_	_	LemmaId=6802|OccId=1406600|Unsandhied=atandritām|UnsandhiedReconstructed=True
+1-4	puṣṭivarṇabalotsāham	_	_	_	_	_	_	_	_
+1	puṣṭi	puṣṭi	NOUN	_	Case=Cpd	_	_	_	LemmaId=144735|OccId=5875542|Unsandhied=puṣṭi
+2	varṇa	varṇa	NOUN	_	Case=Cpd	_	_	_	LemmaId=74430|OccId=5875543|Unsandhied=varṇa
+3	bala	bala	NOUN	_	Case=Cpd	_	_	_	LemmaId=154315|OccId=5875544|Unsandhied=bala
+4	utsāham	utsāha	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	_	_	_	LemmaId=56090|OccId=5875545|Unsandhied=utsāham
+5	agnidīptim	agnidīpti	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	_	_	_	LemmaId=5764|OccId=5875546|Unsandhied=agnidīptim
+6-7	atandritām	_	_	_	_	_	_	_	_
+6	a	a	PART	_		_	_	_	LemmaId=213048|OccId=5875547|Unsandhied=a
+7	tandritām	tandray	VERB	_	Case=Acc|Gender=Fem|Number=Sing|VerbForm=Part	_	_	_	LemmaId=222353|OccId=5875548|Unsandhied=tandritām
 
 # text = karoti dhātusāmyaṃ ca nidrā kāle niṣevitā
 # sent_id = 8880
@@ -3440,20 +3442,22 @@
 6	pravrajitām	pravrajitā	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	_	_	_	LemmaId=155634|OccId=1407335|Unsandhied=pravrajitām|UnsandhiedReconstructed=True
 7	api	api	PART	_		_	_	_	LemmaId=21365|OccId=1407336|Unsandhied=api|UnsandhiedReconstructed=True
 
-# text = sandhyāparvasvagamyāṃ ca nopeyāt pramadāṃ naraḥ
+# text = sandhyāparvasv agamyāṃ ca nopeyāt pramadāṃ naraḥ
 # sent_id = 8934
 # sent_counter = 116
 # sent_subcounter = 2
-1-3	sandhyāparvasvagamyāṃ	_	_	_	_	_	_	_	_
-1	saṃdhyā	saṃdhyā	NOUN	_	Case=Cpd	_	_	_	LemmaId=17733|OccId=1407337|Unsandhied=saṃdhyā|UnsandhiedReconstructed=True
-2	parvasu	parvan	NOUN	_	Case=Loc|Gender=Neut|Number=Plur	_	_	_	LemmaId=20259|OccId=1407338|Unsandhied=parvasu|UnsandhiedReconstructed=True
-3	agamyām	agamya	ADJ	_	Case=Acc|Gender=Fem|Number=Sing	_	_	_	LemmaId=5643|OccId=1407339|Unsandhied=agamyām|UnsandhiedReconstructed=True
-4	ca	ca	CONJ	_		_	_	_	LemmaId=157144|OccId=1407340|Unsandhied=ca|UnsandhiedReconstructed=True
-5-6	nopeyāt	_	_	_	_	_	_	_	_
-5	na	na	PART	_		_	_	_	LemmaId=43432|OccId=1407341|Unsandhied=na|UnsandhiedReconstructed=True
-6	upeyāt	upe	VERB	_	Tense=Pres|Mood=Opt|Person=3|Number=Sing	_	_	_	LemmaId=160734|OccId=1407342|Unsandhied=upeyāt
-7	pramadāṃ	pramadā	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	_	_	_	LemmaId=141005|OccId=1407343|Unsandhied=pramadām|UnsandhiedReconstructed=True
-8	naraḥ	nara	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=44242|OccId=1407344|Unsandhied=naraḥ|UnsandhiedReconstructed=True
+1-2	sandhyāparvasv	_	_	_	_	_	_	_	_
+1	sandhyā	saṃdhyā	NOUN	_	Case=Cpd	_	_	_	LemmaId=17733|OccId=5879216|Unsandhied=sandhyā
+2	parvasu	parvan	NOUN	_	Case=Loc|Gender=Neut|Number=Plur	_	_	_	LemmaId=20259|OccId=5879217|Unsandhied=parvasu
+3-4	agamyāṃ	_	_	_	_	_	_	_	_
+3	a	a	PART	_		_	_	_	LemmaId=213048|OccId=5879218|Unsandhied=a
+4	gamyām	gam	VERB	_	Case=Acc|Gender=Fem|Number=Sing|VerbForm=Gdv	_	_	_	LemmaId=156214|OccId=5879219|Unsandhied=gamyām
+5	ca	ca	CONJ	_		_	_	_	LemmaId=157144|OccId=1407340|Unsandhied=ca|UnsandhiedReconstructed=True
+6-7	nopeyāt	_	_	_	_	_	_	_	_
+6	na	na	PART	_		_	_	_	LemmaId=43432|OccId=1407341|Unsandhied=na|UnsandhiedReconstructed=True
+7	upeyāt	upe	VERB	_	Tense=Pres|Mood=Opt|Person=3|Number=Sing	_	_	_	LemmaId=160734|OccId=1407342|Unsandhied=upeyāt
+8	pramadāṃ	pramadā	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	_	_	_	LemmaId=141005|OccId=1407343|Unsandhied=pramadām|UnsandhiedReconstructed=True
+9	naraḥ	nara	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=44242|OccId=1407344|Unsandhied=naraḥ|UnsandhiedReconstructed=True
 
 # text = gosarge cārdharātre ca tathā madhyaṃdineṣu ca
 # sent_id = 8935

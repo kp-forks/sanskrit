@@ -3,7 +3,7 @@
 ## chapter: GB, 1, 5, 21
 ## chapter_id: 13429
 # text = anarvāṇaṃ ha vai devaṃ dadhyaṅṅ āṅgirasa upasīdaṃ ha yajñasya śnuṣṭiṃ samaśnavāmaha iti
-# sent_id = 678201
+# sent_id = 680065
 # sent_counter = 1
 # sent_subcounter = 
 1	anarvāṇaṃ	anarvan	ADJ	_	Case=Acc|Gender=Masc|Number=Sing	_	_	_	LemmaId=218849|OccId=5167334|Unsandhied=anarvāṇam
@@ -20,7 +20,7 @@
 12	iti	iti	PART	_		_	_	_	LemmaId=63331|OccId=5167343|Unsandhied=iti|Punctuation=fullStop
 
 # text = sa dadhyaṅṅ āṅgiraso 'bravīd yo vai saptadaśaṃ prajāpatiṃ yajñe 'nvitaṃ veda nāsya yajño riṣyate
-# sent_id = 678202
+# sent_id = 680066
 # sent_counter = 2
 # sent_subcounter = 
 1	sa	sa	ADV	_		_	_	_	LemmaId=202954|OccId=5167344|Unsandhied=sa
@@ -41,7 +41,7 @@
 15	riṣyate	riṣ	VERB	_	Tense=Pres|Mood=Ind|Person=3|Number=Sing	_	_	_	LemmaId=158006|OccId=5167358|Unsandhied=riṣyate|Punctuation=fullStop
 
 # text = na yajñapatiṃ riṣyanta iti
-# sent_id = 678203
+# sent_id = 680067
 # sent_counter = 3
 # sent_subcounter = 
 1	na	na	PART	_		_	_	_	LemmaId=43432|OccId=5167359|Unsandhied=na
@@ -50,7 +50,7 @@
 4	iti	iti	PART	_		_	_	_	LemmaId=63331|OccId=5167362|Unsandhied=iti|Punctuation=fullStop
 
 # text = tā vā etāḥ pañca vyāhṛtayo bhavanty o śrāvayāstu śrauṣaḍ yaja ye yajāmahe vauṣaḍ iti
-# sent_id = 678204
+# sent_id = 680068
 # sent_counter = 4
 # sent_subcounter = 
 1	tā	tad	PRON	_	Case=Nom|Gender=Fem|Number=Plur	_	_	_	LemmaId=37875|OccId=5167363|Unsandhied=tāḥ
@@ -59,18 +59,18 @@
 4	pañca	pañcan	NUM	_	Case=Nom|Gender=Fem|Number=Plur	_	_	_	LemmaId=165692|OccId=5167366|Unsandhied=pañca
 5	vyāhṛtayo	vyāhṛti	NOUN	_	Case=Nom|Gender=Fem|Number=Plur	_	_	_	LemmaId=121160|OccId=5167367|Unsandhied=vyāhṛtayaḥ
 6	bhavanty	bhū	VERB	_	Tense=Pres|Mood=Ind|Person=3|Number=Plur	_	_	_	LemmaId=157250|OccId=5167368|Unsandhied=bhavanti|Punctuation=fullStop
-7-8	o	_	_	_	_	_	_	_	_
+7-8	śrāvayāstu	_	_	_	_	_	_	_	_
 7	śrāvaya	śrāvay	VERB	_	Tense=Pres|Mood=Imp|Person=2|Number=Sing	_	_	_	LemmaId=159989|OccId=5167369|Unsandhied=śrāvaya|IsMantra=True
 8	astu	as	VERB	_	Tense=Pres|Mood=Imp|Person=3|Number=Sing	_	_	_	LemmaId=156122|OccId=5167370|Unsandhied=astu|IsMantra=True
-9	śrāvayāstu	śrauṣaṭ	ADV	_		_	_	_	LemmaId=41076|OccId=5167371|Unsandhied=śrauṣaṭ|Punctuation=fullStop|IsMantra=True
-10	śrauṣaḍ	yaj	VERB	_	Tense=Pres|Mood=Imp|Person=2|Number=Sing	_	_	_	LemmaId=157422|OccId=5167372|Unsandhied=yaja|Punctuation=fullStop|IsMantra=True
-11	yaja	yad	PRON	_	Case=Nom|Gender=Masc|Number=Plur	_	_	_	LemmaId=37877|OccId=5167373|Unsandhied=ye|IsMantra=True
-12	ye	yaj	VERB	_	Tense=Pres|Mood=Ind|Person=1|Number=Plur	_	_	_	LemmaId=157422|OccId=5167374|Unsandhied=yajāmahe|Punctuation=fullStop|IsMantra=True
-13	yajāmahe	vauṣaṭ	ADV	_		_	_	_	LemmaId=118674|OccId=5167375|Unsandhied=vauṣaṭ|IsMantra=True
-14	vauṣaḍ	iti	PART	_		_	_	_	LemmaId=63331|OccId=5167376|Unsandhied=iti|Punctuation=fullStop
+9	śrauṣaḍ	śrauṣaṭ	ADV	_		_	_	_	LemmaId=41076|OccId=5167371|Unsandhied=śrauṣaṭ|Punctuation=fullStop|IsMantra=True
+10	yaja	yaj	VERB	_	Tense=Pres|Mood=Imp|Person=2|Number=Sing	_	_	_	LemmaId=157422|OccId=5167372|Unsandhied=yaja|Punctuation=fullStop|IsMantra=True
+11	ye	yad	PRON	_	Case=Nom|Gender=Masc|Number=Plur	_	_	_	LemmaId=37877|OccId=5167373|Unsandhied=ye|IsMantra=True
+12	yajāmahe	yaj	VERB	_	Tense=Pres|Mood=Ind|Person=1|Number=Plur	_	_	_	LemmaId=157422|OccId=5167374|Unsandhied=yajāmahe|Punctuation=fullStop|IsMantra=True
+13	vauṣaḍ	vauṣaṭ	ADV	_		_	_	_	LemmaId=118674|OccId=5167375|Unsandhied=vauṣaṭ|IsMantra=True
+14	iti	iti	PART	_		_	_	_	LemmaId=63331|OccId=5167376|Unsandhied=iti|Punctuation=fullStop
 
 # text = sa dadhyaṅṅ āṅgiraso 'bravīn na vayaṃ vidmo yadi brāhmaṇāḥ smo yady abrāhmaṇāḥ smo yadi tasyarṣeḥ smo vānyasyeti
-# sent_id = 678205
+# sent_id = 680069
 # sent_counter = 5
 # sent_subcounter = 
 1	sa	sa	ADV	_		_	_	_	LemmaId=202954|OccId=5167377|Unsandhied=sa
@@ -99,7 +99,7 @@
 21	iti	iti	PART	_		_	_	_	LemmaId=63331|OccId=5167395|Unsandhied=iti|Punctuation=fullStop
 
 # text = anarvāṇaś ca ha vā ṛtāvantaś ca pitaraḥ svadhāyām āvṛṣāyanta vayaṃ vadāmahai vayaṃ vadāmahā iti
-# sent_id = 678206
+# sent_id = 680070
 # sent_counter = 6
 # sent_subcounter = 
 1	anarvāṇaś	anarvan	ADJ	_	Case=Nom|Gender=Masc|Number=Plur	_	_	_	LemmaId=218849|OccId=5167396|Unsandhied=anarvāṇaḥ
@@ -118,7 +118,7 @@
 14	iti	iti	PART	_		_	_	_	LemmaId=63331|OccId=5167405|Unsandhied=iti|Punctuation=fullStop
 
 # text = so 'yāt svāyaṃbhuvo vā ṛtāvanto madayātāṃ na vayaṃ vadāmahā iti
-# sent_id = 678207
+# sent_id = 680071
 # sent_counter = 7
 # sent_subcounter = 
 1	so	tad	PRON	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=37875|OccId=5167406|Unsandhied=saḥ
@@ -133,7 +133,7 @@
 10	iti	iti	PART	_		_	_	_	LemmaId=63331|OccId=5167411|Unsandhied=iti|Punctuation=fullStop
 
 # text = tasmāt pravare pravriyamāṇe vācayed devāḥ pitara iti tisraḥ
-# sent_id = 678208
+# sent_id = 680072
 # sent_counter = 8
 # sent_subcounter = 
 1	tasmāt	tasmāt	ADV	_		_	_	_	LemmaId=203521|OccId=5167412|Unsandhied=tasmāt
@@ -146,7 +146,7 @@
 8	tisraḥ	tri	NUM	_	Case=Acc|Gender=Fem|Number=Plur	_	_	_	LemmaId=166282|OccId=5167418|Unsandhied=tisraḥ|Punctuation=fullStop
 
 # text = ya eti saṃyajati sa bhavati yaś ca na brūte yaś ca na brūta iti brāhmaṇam
-# sent_id = 678209
+# sent_id = 680073
 # sent_counter = 9
 # sent_subcounter = 
 1	ya	yad	PRON	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=37877|OccId=5167419|Unsandhied=yaḥ

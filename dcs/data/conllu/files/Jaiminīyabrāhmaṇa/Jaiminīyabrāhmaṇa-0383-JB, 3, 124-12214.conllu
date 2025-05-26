@@ -3,7 +3,7 @@
 ## chapter: JB, 3, 124
 ## chapter_id: 12214
 # text = taddhāsya priyam āsa
-# sent_id = 654567
+# sent_id = 656431
 # sent_counter = 1
 # sent_subcounter = 
 1-3	taddhāsya	_	_	_	_	_	_	_	_
@@ -14,7 +14,7 @@
 5	āsa	as	VERB	_	Tense=Past|Mood=Ind|Person=3|Number=Sing	_	_	_	LemmaId=156122|OccId=4948476|Unsandhied=āsa|Punctuation=fullStop
 
 # text = sa hovācāśvinau vai tau darvihomiṇau bhiṣajyantāv idaṃ carato 'napisomau
-# sent_id = 654568
+# sent_id = 656432
 # sent_counter = 2
 # sent_subcounter = 
 1	sa	tad	PRON	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=37875|OccId=4948477|Unsandhied=sa
@@ -35,7 +35,7 @@
 13	apisomau	apisoma	ADJ	_	Case=Nom|Gender=Masc|Number=Dual	_	_	_	LemmaId=222437|OccId=4948580|Unsandhied=apisomau|Punctuation=fullStop
 
 # text = tau tvaitad evāgatya śvo vaktārau
-# sent_id = 654569
+# sent_id = 656433
 # sent_counter = 3
 # sent_subcounter = 
 1	tau	tad	PRON	_	Case=Nom|Gender=Masc|Number=Dual	_	_	_	LemmaId=37875|OccId=4948485|Unsandhied=tau
@@ -49,7 +49,7 @@
 7	vaktārau	vac	VERB	_	Tense=Fut|Mood=Ind|Formation=peri|Person=3|Number=Dual	_	_	_	LemmaId=157264|OccId=4948491|Unsandhied=vaktārau|Punctuation=fullStop
 
 # text = tau tvaṃ brūtād yuvaṃ vā asarvau stho yau devau santāv asomapau sthaḥ
-# sent_id = 654570
+# sent_id = 656434
 # sent_counter = 4
 # sent_subcounter = 
 1	tau	tad	PRON	_	Case=Acc|Gender=Masc|Number=Dual	_	_	_	LemmaId=37875|OccId=4948492|Unsandhied=tau
@@ -57,19 +57,21 @@
 3	brūtād	brū	VERB	_	Tense=Pres|Mood=Imp|Person=2|Number=Sing	_	_	_	LemmaId=157262|OccId=4948572|Unsandhied=brūtāt|Punctuation=fullStop
 4	yuvaṃ	tvad	PRON	_	Case=Nom|Number=Dual	_	_	_	LemmaId=37880|OccId=4948494|Unsandhied=yuvam
 5	vā	vai	PART	_		_	_	_	LemmaId=118154|OccId=4948495|Unsandhied=vai
-6	asarvau	asarva	ADJ	_	Case=Nom|Gender=Masc|Number=Dual	_	_	_	LemmaId=60895|OccId=4948496|Unsandhied=asarvau
-7	stho	as	VERB	_	Tense=Pres|Mood=Ind|Person=2|Number=Dual	_	_	_	LemmaId=156122|OccId=4948497|Unsandhied=sthaḥ|Punctuation=comma
-8	yau	yad	PRON	_	Case=Nom|Gender=Masc|Number=Dual	_	_	_	LemmaId=37877|OccId=4948498|Unsandhied=yau
-9	devau	deva	NOUN	_	Case=Nom|Gender=Masc|Number=Dual	_	_	_	LemmaId=86559|OccId=4948499|Unsandhied=devau
-10	santāv	as	VERB	_	Case=Nom|Gender=Masc|Number=Dual|Tense=Pres|VerbForm=Part	_	_	_	LemmaId=156122|OccId=4948500|Unsandhied=santau
-11-13	asomapau	_	_	_	_	_	_	_	_
-11	a	a	PART	_		_	_	_	LemmaId=213048|OccId=5590202|Unsandhied=a
-12	soma	soma	NOUN	_	Case=Cpd	_	_	_	LemmaId=100106|OccId=5590203|Unsandhied=soma
-13	pau	pa	ADJ	_	Case=Nom|Gender=Masc|Number=Dual	_	_	_	LemmaId=223203|OccId=5590204|Unsandhied=pau
-14	sthaḥ	as	VERB	_	Tense=Pres|Mood=Ind|Person=2|Number=Dual	_	_	_	LemmaId=156122|OccId=4948502|Unsandhied=sthaḥ|Punctuation=fullStop
+6-7	asarvau	_	_	_	_	_	_	_	_
+6	a	a	PART	_		_	_	_	LemmaId=213048|OccId=5879786|Unsandhied=a
+7	sarvau	sarva	PRON	_	Case=Nom|Gender=Masc|Number=Dual	_	_	_	LemmaId=104444|OccId=5879787|Unsandhied=sarvau
+8	stho	as	VERB	_	Tense=Pres|Mood=Ind|Person=2|Number=Dual	_	_	_	LemmaId=156122|OccId=4948497|Unsandhied=sthaḥ|Punctuation=comma
+9	yau	yad	PRON	_	Case=Nom|Gender=Masc|Number=Dual	_	_	_	LemmaId=37877|OccId=4948498|Unsandhied=yau
+10	devau	deva	NOUN	_	Case=Nom|Gender=Masc|Number=Dual	_	_	_	LemmaId=86559|OccId=4948499|Unsandhied=devau
+11	santāv	as	VERB	_	Case=Nom|Gender=Masc|Number=Dual|Tense=Pres|VerbForm=Part	_	_	_	LemmaId=156122|OccId=4948500|Unsandhied=santau
+12-14	asomapau	_	_	_	_	_	_	_	_
+12	a	a	PART	_		_	_	_	LemmaId=213048|OccId=5590202|Unsandhied=a
+13	soma	soma	NOUN	_	Case=Cpd	_	_	_	LemmaId=100106|OccId=5590203|Unsandhied=soma
+14	pau	pa	ADJ	_	Case=Nom|Gender=Masc|Number=Dual	_	_	_	LemmaId=223203|OccId=5590204|Unsandhied=pau
+15	sthaḥ	as	VERB	_	Tense=Pres|Mood=Ind|Person=2|Number=Dual	_	_	_	LemmaId=156122|OccId=4948502|Unsandhied=sthaḥ|Punctuation=fullStop
 
 # text = sarvo vai mama patir yaḥ somapa iti
-# sent_id = 654571
+# sent_id = 656435
 # sent_counter = 5
 # sent_subcounter = 
 1	sarvo	sarva	PRON	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=104444|OccId=4948503|Unsandhied=sarvaḥ
@@ -83,7 +85,7 @@
 8	iti	iti	PART	_		_	_	_	LemmaId=63331|OccId=4948508|Unsandhied=iti|Punctuation=fullStop
 
 # text = tau vai tvā vaktārau kas tasyeśe yad āvam apisomau syāveti
-# sent_id = 654572
+# sent_id = 656436
 # sent_counter = 6
 # sent_subcounter = 
 1	tau	tad	PRON	_	Case=Nom|Gender=Masc|Number=Dual	_	_	_	LemmaId=37875|OccId=4948509|Unsandhied=tau
@@ -102,7 +104,7 @@
 12	iti	iti	PART	_		_	_	_	LemmaId=63331|OccId=4948519|Unsandhied=iti|Punctuation=fullStop
 
 # text = ayaṃ mama patir iti brūtāt
-# sent_id = 654573
+# sent_id = 656437
 # sent_counter = 7
 # sent_subcounter = 
 1	ayaṃ	idam	PRON	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=37876|OccId=4948520|Unsandhied=ayam
@@ -112,7 +114,7 @@
 5	brūtāt	brū	VERB	_	Tense=Pres|Mood=Imp|Person=2|Number=Sing	_	_	_	LemmaId=157262|OccId=4948574|Unsandhied=brūtāt|Punctuation=fullStop
 
 # text = teno eva me punaryuvatāyā āśeti
-# sent_id = 654574
+# sent_id = 656438
 # sent_counter = 8
 # sent_subcounter = 
 1-2	teno	_	_	_	_	_	_	_	_
@@ -128,7 +130,7 @@
 8	iti	iti	PART	_		_	_	_	LemmaId=63331|OccId=4948576|Unsandhied=iti|Punctuation=fullStop
 
 # text = tau haināṃ śvobhūta etyaitad evocatuḥ
-# sent_id = 654575
+# sent_id = 656439
 # sent_counter = 9
 # sent_subcounter = 
 1	tau	tad	PRON	_	Case=Nom|Gender=Masc|Number=Dual	_	_	_	LemmaId=37875|OccId=4948528|Unsandhied=tau
@@ -144,7 +146,7 @@
 8	ūcatuḥ	vac	VERB	_	Tense=Past|Mood=Ind|Person=3|Number=Dual	_	_	_	LemmaId=157264|OccId=4948534|Unsandhied=ūcatuḥ|Punctuation=fullStop
 
 # text = sā hovāca yuvaṃ vā asarvau stho yau devau santāv asomapau sthaḥ
-# sent_id = 654576
+# sent_id = 656440
 # sent_counter = 10
 # sent_subcounter = 
 1	sā	tad	PRON	_	Case=Nom|Gender=Fem|Number=Sing	_	_	_	LemmaId=37875|OccId=4948535|Unsandhied=sā
@@ -153,19 +155,21 @@
 3	uvāca	vac	VERB	_	Tense=Past|Mood=Ind|Person=3|Number=Sing	_	_	_	LemmaId=157264|OccId=4948537|Unsandhied=uvāca|Punctuation=fullStop
 4	yuvaṃ	tvad	PRON	_	Case=Nom|Number=Dual	_	_	_	LemmaId=37880|OccId=4948538|Unsandhied=yuvam
 5	vā	vai	PART	_		_	_	_	LemmaId=118154|OccId=4948539|Unsandhied=vai
-6	asarvau	asarva	ADJ	_	Case=Nom|Gender=Masc|Number=Dual	_	_	_	LemmaId=60895|OccId=4948540|Unsandhied=asarvau
-7	stho	as	VERB	_	Tense=Pres|Mood=Ind|Person=2|Number=Dual	_	_	_	LemmaId=156122|OccId=4948541|Unsandhied=sthaḥ|Punctuation=comma
-8	yau	yad	PRON	_	Case=Nom|Gender=Masc|Number=Dual	_	_	_	LemmaId=37877|OccId=4948542|Unsandhied=yau
-9	devau	deva	NOUN	_	Case=Nom|Gender=Masc|Number=Dual	_	_	_	LemmaId=86559|OccId=4948543|Unsandhied=devau
-10	santāv	as	VERB	_	Case=Nom|Gender=Masc|Number=Dual|Tense=Pres|VerbForm=Part	_	_	_	LemmaId=156122|OccId=4948544|Unsandhied=santau
-11-13	asomapau	_	_	_	_	_	_	_	_
-11	a	a	PART	_		_	_	_	LemmaId=213048|OccId=5590207|Unsandhied=a
-12	soma	soma	NOUN	_	Case=Cpd	_	_	_	LemmaId=100106|OccId=5590208|Unsandhied=soma
-13	pau	pa	ADJ	_	Case=Nom|Gender=Masc|Number=Dual	_	_	_	LemmaId=223203|OccId=5590209|Unsandhied=pau
-14	sthaḥ	as	VERB	_	Tense=Pres|Mood=Ind|Person=2|Number=Dual	_	_	_	LemmaId=156122|OccId=4948546|Unsandhied=sthaḥ|Punctuation=fullStop
+6-7	asarvau	_	_	_	_	_	_	_	_
+6	a	a	PART	_		_	_	_	LemmaId=213048|OccId=5879788|Unsandhied=a
+7	sarvau	sarva	PRON	_	Case=Nom|Gender=Masc|Number=Dual	_	_	_	LemmaId=104444|OccId=5879789|Unsandhied=sarvau
+8	stho	as	VERB	_	Tense=Pres|Mood=Ind|Person=2|Number=Dual	_	_	_	LemmaId=156122|OccId=4948541|Unsandhied=sthaḥ|Punctuation=comma
+9	yau	yad	PRON	_	Case=Nom|Gender=Masc|Number=Dual	_	_	_	LemmaId=37877|OccId=4948542|Unsandhied=yau
+10	devau	deva	NOUN	_	Case=Nom|Gender=Masc|Number=Dual	_	_	_	LemmaId=86559|OccId=4948543|Unsandhied=devau
+11	santāv	as	VERB	_	Case=Nom|Gender=Masc|Number=Dual|Tense=Pres|VerbForm=Part	_	_	_	LemmaId=156122|OccId=4948544|Unsandhied=santau
+12-14	asomapau	_	_	_	_	_	_	_	_
+12	a	a	PART	_		_	_	_	LemmaId=213048|OccId=5590207|Unsandhied=a
+13	soma	soma	NOUN	_	Case=Cpd	_	_	_	LemmaId=100106|OccId=5590208|Unsandhied=soma
+14	pau	pa	ADJ	_	Case=Nom|Gender=Masc|Number=Dual	_	_	_	LemmaId=223203|OccId=5590209|Unsandhied=pau
+15	sthaḥ	as	VERB	_	Tense=Pres|Mood=Ind|Person=2|Number=Dual	_	_	_	LemmaId=156122|OccId=4948546|Unsandhied=sthaḥ|Punctuation=fullStop
 
 # text = sarvo vai mama patir yaḥ somapa iti
-# sent_id = 654577
+# sent_id = 656441
 # sent_counter = 11
 # sent_subcounter = 
 1	sarvo	sarva	PRON	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=104444|OccId=4948547|Unsandhied=sarvaḥ
@@ -179,7 +183,7 @@
 8	iti	iti	PART	_		_	_	_	LemmaId=63331|OccId=4948552|Unsandhied=iti|Punctuation=fullStop
 
 # text = tau hocatuḥ kas tasyeśe yad āvam apisomau syāveti
-# sent_id = 654578
+# sent_id = 656442
 # sent_counter = 12
 # sent_subcounter = 
 1	tau	tad	PRON	_	Case=Nom|Gender=Masc|Number=Dual	_	_	_	LemmaId=37875|OccId=4948553|Unsandhied=tau
@@ -198,7 +202,7 @@
 11	iti	iti	PART	_		_	_	_	LemmaId=63331|OccId=4948562|Unsandhied=iti|Punctuation=fullStop
 
 # text = ayaṃ mama patir iti hovāca
-# sent_id = 654579
+# sent_id = 656443
 # sent_counter = 13
 # sent_subcounter = 
 1	ayaṃ	idam	PRON	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=37876|OccId=4948563|Unsandhied=ayam

@@ -1645,7 +1645,7 @@
 5	antram	antra	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	_	_	_	LemmaId=11982|OccId=1361940|Unsandhied=antram|UnsandhiedReconstructed=True|WordSem=26981
 6	praveśayet	praveśay	VERB	_	Tense=Pres|Mood=Opt|Person=3|Number=Sing	_	_	_	LemmaId=163056|OccId=1362178|Unsandhied=praveśayet|WordSem=128979
 
-# text = yathāsthānaṃ niviṣṭe ca vraṇaṃ sīvyedatandritaḥ
+# text = yathāsthānaṃ niviṣṭe ca vraṇaṃ sīvyed atandritaḥ
 # sent_id = 6970
 # sent_counter = 61
 # sent_subcounter = 2
@@ -1653,9 +1653,10 @@
 2	niviṣṭe	niviś	VERB	_	Case=Loc|Gender=Masc|Number=Sing|VerbForm=Part	_	_	_	LemmaId=161475|OccId=1362179|Unsandhied=niviṣṭe|UnsandhiedReconstructed=True|WordSem=93361
 3	ca	ca	CONJ	_		_	_	_	LemmaId=157144|OccId=1361942|Unsandhied=ca|UnsandhiedReconstructed=True|WordSem=104004
 4	vraṇaṃ	vraṇa	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	_	_	_	LemmaId=116236|OccId=1361943|Unsandhied=vraṇam|UnsandhiedReconstructed=True|WordSem=128294
-5-6	sīvyedatandritaḥ	_	_	_	_	_	_	_	_
-5	sīvyet	sīv	VERB	_	Tense=Pres|Mood=Opt|Person=3|Number=Sing	_	_	_	LemmaId=159063|OccId=1362180|Unsandhied=sīvyet|WordSem=90129
-6	atandritaḥ	atandrita	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=6802|OccId=1362181|Unsandhied=atandritaḥ|UnsandhiedReconstructed=True|WordSem=80366
+5	sīvyed	sīv	VERB	_	Tense=Pres|Mood=Opt|Person=3|Number=Sing	_	_	_	LemmaId=159063|OccId=5875518|Unsandhied=sīvyet
+6-7	atandritaḥ	_	_	_	_	_	_	_	_
+6	a	a	PART	_		_	_	_	LemmaId=213048|OccId=5875519|Unsandhied=a
+7	tandritaḥ	tandray	VERB	_	Case=Nom|Gender=Masc|Number=Sing|VerbForm=Part	_	_	_	LemmaId=222353|OccId=5875520|Unsandhied=tandritaḥ|Punctuation=fullStop
 
 # text = sthānādapetamādatte prāṇān gupitam eva vā
 # sent_id = 6971
