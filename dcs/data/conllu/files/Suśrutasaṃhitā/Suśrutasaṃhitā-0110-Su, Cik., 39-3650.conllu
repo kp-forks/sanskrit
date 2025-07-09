@@ -192,7 +192,7 @@
 6	kṛtām	kṛ	VERB	_	Case=Acc|Gender=Fem|Number=Sing|VerbForm=Part	_	_	_	LemmaId=156168|OccId=1417902|Unsandhied=kṛtām|UnsandhiedReconstructed=True
 7	tataḥ	tatas	ADV	_		_	_	_	LemmaId=95922|OccId=1417903|Unsandhied=tatas|UnsandhiedReconstructed=True
 
-# text = dadyāduktena vidhinā klinnasikthāmapicchilām
+# text = dadyāduktena vidhinā klinnasikthām apicchilām
 # sent_id = 10356
 # sent_counter = 9
 # sent_subcounter = 1
@@ -200,10 +200,12 @@
 1	dadyāt	dā	VERB	_	Tense=Pres|Mood=Opt|Person=3|Number=Sing	_	_	_	LemmaId=157372|OccId=1417904|Unsandhied=dadyāt
 2	uktena	vac	VERB	_	Case=Ins|Gender=Masc|Number=Sing|VerbForm=Part	_	_	_	LemmaId=157264|OccId=1417905|Unsandhied=uktena|UnsandhiedReconstructed=True
 3	vidhinā	vidhi	NOUN	_	Case=Ins|Gender=Masc|Number=Sing	_	_	_	LemmaId=122846|OccId=1417906|Unsandhied=vidhinā|UnsandhiedReconstructed=True
-4-6	klinnasikthāmapicchilām	_	_	_	_	_	_	_	_
-4	klinna	klid	VERB	_	Case=Cpd|VerbForm=Part	_	_	_	LemmaId=156186|OccId=1417907|Unsandhied=klinna|UnsandhiedReconstructed=True
-5	sikthām	siktha	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	_	_	_	LemmaId=105863|OccId=1417908|Unsandhied=sikthām|UnsandhiedReconstructed=True
-6	apicchilām	apicchila	ADJ	_	Case=Acc|Gender=Fem|Number=Sing	_	_	_	LemmaId=21375|OccId=1417909|Unsandhied=apicchilām|UnsandhiedReconstructed=True
+4-5	klinnasikthām	_	_	_	_	_	_	_	_
+4	klinna	klid	VERB	_	Case=Cpd|VerbForm=Part	_	_	_	LemmaId=156186|OccId=5902278|Unsandhied=klinna
+5	sikthām	siktha	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	_	_	_	LemmaId=105863|OccId=5902279|Unsandhied=sikthām
+6-7	apicchilām	_	_	_	_	_	_	_	_
+6	a	a	PART	_		_	_	_	LemmaId=213048|OccId=5902280|Unsandhied=a
+7	picchilām	picchila	ADJ	_	Case=Acc|Gender=Fem|Number=Sing	_	_	_	LemmaId=94654|OccId=5902281|Unsandhied=picchilām
 
 # text = asnigdhalavaṇaṃ svacchamudgayūṣayutaṃ tataḥ
 # sent_id = 10357

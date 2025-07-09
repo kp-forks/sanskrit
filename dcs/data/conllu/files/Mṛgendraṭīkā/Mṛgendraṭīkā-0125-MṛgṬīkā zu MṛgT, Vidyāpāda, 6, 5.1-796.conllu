@@ -3,7 +3,7 @@
 ## chapter: MṛgṬīkā zu MṛgT, Vidyāpāda, 6, 5.1
 ## chapter_id: 796
 # text = so 'pyevaṃ dehaścetanaḥ kadācin na bhavati bhogyatvādvikāritvāc ca
-# sent_id = 45720
+# sent_id = 45725
 # sent_counter = 1
 # sent_subcounter = 
 1	so	tad	PRON	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=37875|OccId=208621|Unsandhied=saḥ|UnsandhiedReconstructed=True
@@ -16,14 +16,15 @@
 6	kadācin	kadācid	ADV	_		_	_	_	LemmaId=167010|OccId=208435|Unsandhied=kadācid|UnsandhiedReconstructed=True
 7	na	na	PART	_		_	_	_	LemmaId=43432|OccId=208436|Unsandhied=na|UnsandhiedReconstructed=True
 8	bhavati	bhū	VERB	_	Tense=Pres|Mood=Ind|Person=3|Number=Sing	_	_	_	LemmaId=157250|OccId=208437|Unsandhied=bhavati
-9-11	bhogyatvādvikāritvāc	_	_	_	_	_	_	_	_
-9	bhogyatvāt	bhogyatva	NOUN	_	Case=Abl|Gender=Neut|Number=Sing	_	_	_	LemmaId=26096|OccId=208438|Unsandhied=bhogyatvāt|UnsandhiedReconstructed=True
-10	vikāri	vikārin	ADJ	_	Case=Cpd	_	_	_	LemmaId=47810|OccId=208439|Unsandhied=vikāri|UnsandhiedReconstructed=True
-11	tvāt	tva	NOUN	_	Case=Abl|Gender=Neut|Number=Sing	_	_	_	LemmaId=163754|OccId=208440|Unsandhied=tvāt|UnsandhiedReconstructed=True
-12	ca	ca	CONJ	_		_	_	_	LemmaId=157144|OccId=208441|Unsandhied=ca|UnsandhiedReconstructed=True
+9-12	bhogyatvādvikāritvāc	_	_	_	_	_	_	_	_
+9	bhogya	bhuj	VERB	_	Case=Cpd|VerbForm=Gdv	_	_	_	LemmaId=157293|OccId=5907773|Unsandhied=bhogya
+10	tvāt	tva	NOUN	_	Case=Abl|Gender=Neut|Number=Sing	_	_	_	LemmaId=163754|OccId=5907774|Unsandhied=tvāt
+11	vikāri	vikārin	ADJ	_	Case=Cpd	_	_	_	LemmaId=47810|OccId=5907775|Unsandhied=vikāri
+12	tvāt	tva	NOUN	_	Case=Abl|Gender=Neut|Number=Sing	_	_	_	LemmaId=163754|OccId=5907776|Unsandhied=tvāt
+13	ca	ca	CONJ	_		_	_	_	LemmaId=157144|OccId=208441|Unsandhied=ca|UnsandhiedReconstructed=True
 
 # text = ye ye kecana vikāriṇaḥ pariṇāmino bhogyāśca te te hy acetanā dṛṣṭāḥ yathā paṭādayaḥ
-# sent_id = 45721
+# sent_id = 45726
 # sent_counter = 2
 # sent_subcounter = 
 1	ye	yad	PRON	_	Case=Nom|Gender=Masc|Number=Plur	_	_	_	LemmaId=37877|OccId=208442|Unsandhied=ye|UnsandhiedReconstructed=True
@@ -45,7 +46,7 @@
 15	ādayaḥ	ādi	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	_	_	_	LemmaId=57973|OccId=208452|Unsandhied=ādayaḥ|UnsandhiedReconstructed=True
 
 # text = sa deho'pyevaṃvidhaḥ tasmān na cetanaḥ
-# sent_id = 45722
+# sent_id = 45727
 # sent_counter = 3
 # sent_subcounter = 
 1	sa	tad	PRON	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=37875|OccId=208453|Unsandhied=saḥ|UnsandhiedReconstructed=True
@@ -58,26 +59,28 @@
 7	cetanaḥ	cetana	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=51671|OccId=208459|Unsandhied=cetanaḥ|UnsandhiedReconstructed=True
 
 # text = nanv aṅganādibhir bhogyatvamanaikāntikaṃ bhogyatve'pi tatrācaitanyābhāvāt
-# sent_id = 45723
+# sent_id = 45728
 # sent_counter = 4
 # sent_subcounter = 
 1	nanv	nanu	PART	_		_	_	_	LemmaId=43922|OccId=208460|Unsandhied=nanu|UnsandhiedReconstructed=True
 2-3	aṅganādibhir	_	_	_	_	_	_	_	_
 2	aṅganā	aṅganā	NOUN	_	Case=Cpd	_	_	_	LemmaId=6223|OccId=208461|Unsandhied=aṅganā|UnsandhiedReconstructed=True
 3	ādibhiḥ	ādi	NOUN	_	Case=Ins|Gender=Masc|Number=Plur	_	_	_	LemmaId=57973|OccId=208462|Unsandhied=ādibhiḥ|UnsandhiedReconstructed=True
-4-5	bhogyatvamanaikāntikaṃ	_	_	_	_	_	_	_	_
-4	bhogyatvam	bhogyatva	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=26096|OccId=208463|Unsandhied=bhogyatvam|UnsandhiedReconstructed=True
-5	anaikāntikam	anaikāntika	ADJ	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=11640|OccId=208464|Unsandhied=anaikāntikam|UnsandhiedReconstructed=True
-6-7	bhogyatve'pi	_	_	_	_	_	_	_	_
-6	bhogyatve	bhogyatva	NOUN	_	Case=Loc|Gender=Neut|Number=Sing	_	_	_	LemmaId=26096|OccId=208465|Unsandhied=bhogyatve|UnsandhiedReconstructed=True
-7	api	api	PART	_		_	_	_	LemmaId=21365|OccId=208466|Unsandhied=api|UnsandhiedReconstructed=True
-8-10	tatrācaitanyābhāvāt	_	_	_	_	_	_	_	_
-8	tatra	tatra	ADV	_		_	_	_	LemmaId=95978|OccId=208467|Unsandhied=tatra|UnsandhiedReconstructed=True
-9	ācaitanya	ācaitanya	NOUN	_	Case=Cpd	_	_	_	LemmaId=170164|OccId=208468|Unsandhied=ācaitanya|UnsandhiedReconstructed=True
-10	abhāvāt	abhāva	NOUN	_	Case=Abl|Gender=Masc|Number=Sing	_	_	_	LemmaId=22065|OccId=208469|Unsandhied=abhāvāt|UnsandhiedReconstructed=True
+4-6	bhogyatvamanaikāntikaṃ	_	_	_	_	_	_	_	_
+4	bhogya	bhuj	VERB	_	Case=Cpd|VerbForm=Gdv	_	_	_	LemmaId=157293|OccId=5907777|Unsandhied=bhogya
+5	tvam	tva	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=163754|OccId=5907778|Unsandhied=tvam
+6	anaikāntikam	anaikāntika	ADJ	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=11640|OccId=5907779|Unsandhied=anaikāntikam
+7-9	bhogyatve'pi	_	_	_	_	_	_	_	_
+7	bhogya	bhuj	VERB	_	Case=Cpd|VerbForm=Gdv	_	_	_	LemmaId=157293|OccId=5907780|Unsandhied=bhogya
+8	tve	tva	NOUN	_	Case=Loc|Gender=Neut|Number=Sing	_	_	_	LemmaId=163754|OccId=5907781|Unsandhied=tve
+9	api	api	PART	_		_	_	_	LemmaId=21365|OccId=5907782|Unsandhied=api
+10-12	tatrācaitanyābhāvāt	_	_	_	_	_	_	_	_
+10	tatra	tatra	ADV	_		_	_	_	LemmaId=95978|OccId=208467|Unsandhied=tatra|UnsandhiedReconstructed=True
+11	ācaitanya	ācaitanya	NOUN	_	Case=Cpd	_	_	_	LemmaId=170164|OccId=208468|Unsandhied=ācaitanya|UnsandhiedReconstructed=True
+12	abhāvāt	abhāva	NOUN	_	Case=Abl|Gender=Masc|Number=Sing	_	_	_	LemmaId=22065|OccId=208469|Unsandhied=abhāvāt|UnsandhiedReconstructed=True
 
 # text = nānaikāntikaṃ tadīyasya dehasyaiva bhogyatvāt
-# sent_id = 45724
+# sent_id = 45729
 # sent_counter = 5
 # sent_subcounter = 
 1-2	nānaikāntikaṃ	_	_	_	_	_	_	_	_
@@ -87,10 +90,12 @@
 4-5	dehasyaiva	_	_	_	_	_	_	_	_
 4	dehasya	deha	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	_	_	_	LemmaId=89764|OccId=208473|Unsandhied=dehasya|UnsandhiedReconstructed=True
 5	eva	eva	PART	_		_	_	_	LemmaId=39754|OccId=208474|Unsandhied=eva|UnsandhiedReconstructed=True
-6	bhogyatvāt	bhogyatva	NOUN	_	Case=Abl|Gender=Neut|Number=Sing	_	_	_	LemmaId=26096|OccId=208475|Unsandhied=bhogyatvāt|UnsandhiedReconstructed=True
+6-7	bhogyatvāt	_	_	_	_	_	_	_	_
+6	bhogya	bhuj	VERB	_	Case=Cpd|VerbForm=Gdv	_	_	_	LemmaId=157293|OccId=5907783|Unsandhied=bhogya
+7	tvāt	tva	NOUN	_	Case=Abl|Gender=Neut|Number=Sing	_	_	_	LemmaId=163754|OccId=5907784|Unsandhied=tvāt
 
 # text = yadyevaṃ nirjīvasya dehasya kathaṃ nopabhogaḥ
-# sent_id = 45725
+# sent_id = 45730
 # sent_counter = 6
 # sent_subcounter = 
 1-2	yadyevaṃ	_	_	_	_	_	_	_	_
@@ -104,7 +109,7 @@
 7	upabhogaḥ	upabhoga	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=45282|OccId=208482|Unsandhied=upabhogaḥ|UnsandhiedReconstructed=True
 
 # text = bhavatyeva tadavasthocita upabhogaḥ kravyādādeḥ na punaḥ kāntādeḥ kāminyādyavasthāyā yenāvasthāntarāpatter vikāritvena bībhatsarasahetutvāt
-# sent_id = 45726
+# sent_id = 45731
 # sent_counter = 7
 # sent_subcounter = 
 1-2	bhavatyeva	_	_	_	_	_	_	_	_
@@ -141,7 +146,7 @@
 24	hetutvāt	hetutva	NOUN	_	Case=Abl|Gender=Neut|Number=Sing	_	_	_	LemmaId=168070|OccId=208506|Unsandhied=hetutvāt|UnsandhiedReconstructed=True
 
 # text = taduktir atraiva
-# sent_id = 45727
+# sent_id = 45732
 # sent_counter = 8
 # sent_subcounter = 1
 1-2	taduktir	_	_	_	_	_	_	_	_
@@ -152,7 +157,7 @@
 4	eva	eva	PART	_		_	_	_	LemmaId=39754|OccId=208510|Unsandhied=eva|UnsandhiedReconstructed=True
 
 # text = kva tadvaktraṃ kva tadadharamadhu kvāyatākṣyāḥ kaṭākṣaḥ
-# sent_id = 45728
+# sent_id = 45733
 # sent_counter = 8
 # sent_subcounter = 2
 1	kva	kva	ADV	_		_	_	_	LemmaId=134289|OccId=208511|Unsandhied=kva|UnsandhiedReconstructed=True
@@ -171,13 +176,13 @@
 11	kaṭākṣaḥ	kaṭākṣa	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=742|OccId=208518|Unsandhied=kaṭākṣaḥ|UnsandhiedReconstructed=True
 
 # text = ityādi
-# sent_id = 45729
+# sent_id = 45734
 # sent_counter = 8
 # sent_subcounter = 3
 1	ityādi	ityādi	ADJ	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=63350|OccId=208519|Unsandhied=ityādi|UnsandhiedReconstructed=True
 
 # text = evaṃ gajāśvādāv api jñeyam
-# sent_id = 45730
+# sent_id = 45735
 # sent_counter = 9
 # sent_subcounter = 
 1	evaṃ	evam	ADV	_		_	_	_	LemmaId=39758|OccId=208520|Unsandhied=evam|UnsandhiedReconstructed=True
@@ -189,29 +194,30 @@
 6	jñeyam	jñā	VERB	_	Case=Nom|Gender=Neut|Number=Sing|VerbForm=Gdv	_	_	_	LemmaId=157151|OccId=208521|Unsandhied=jñeyam|UnsandhiedReconstructed=True
 
 # text = tasmāt sthitametat vikāritvādbhogyatvāc ca dehasyācaitanyam ācaitanyāc ca pārārthyamiti
-# sent_id = 45731
+# sent_id = 45736
 # sent_counter = 10
 # sent_subcounter = 
 1	tasmāt	tad	PRON	_	Case=Abl|Gender=Neut|Number=Sing	_	_	_	LemmaId=37875|OccId=208522|Unsandhied=tasmāt|UnsandhiedReconstructed=True
 2-3	sthitametat	_	_	_	_	_	_	_	_
 2	sthitam	sthā	VERB	_	Case=Nom|Gender=Neut|Number=Sing|VerbForm=Part	_	_	_	LemmaId=157340|OccId=208523|Unsandhied=sthitam|UnsandhiedReconstructed=True
 3	etat	etad	PRON	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=163744|OccId=208524|Unsandhied=etat|UnsandhiedReconstructed=True
-4-6	vikāritvādbhogyatvāc	_	_	_	_	_	_	_	_
-4	vikāri	vikārin	ADJ	_	Case=Cpd	_	_	_	LemmaId=47810|OccId=208632|Unsandhied=vikāri|UnsandhiedReconstructed=True
-5	tvāt	tva	NOUN	_	Case=Abl|Gender=Neut|Number=Sing	_	_	_	LemmaId=163754|OccId=208633|Unsandhied=tvāt|UnsandhiedReconstructed=True
-6	bhogyatvāt	bhogyatva	NOUN	_	Case=Abl|Gender=Neut|Number=Sing	_	_	_	LemmaId=26096|OccId=208634|Unsandhied=bhogyatvāt|UnsandhiedReconstructed=True
-7	ca	ca	CONJ	_		_	_	_	LemmaId=157144|OccId=208635|Unsandhied=ca|UnsandhiedReconstructed=True
-8-9	dehasyācaitanyam	_	_	_	_	_	_	_	_
-8	dehasya	deha	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	_	_	_	LemmaId=89764|OccId=208525|Unsandhied=dehasya|UnsandhiedReconstructed=True
-9	ācaitanyam	ācaitanya	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=170164|OccId=208526|Unsandhied=ācaitanyam|UnsandhiedReconstructed=True
-10	ācaitanyāc	ācaitanya	NOUN	_	Case=Abl|Gender=Neut|Number=Sing	_	_	_	LemmaId=170164|OccId=208636|Unsandhied=ācaitanyāt|UnsandhiedReconstructed=True
-11	ca	ca	CONJ	_		_	_	_	LemmaId=157144|OccId=208637|Unsandhied=ca|UnsandhiedReconstructed=True
-12-13	pārārthyamiti	_	_	_	_	_	_	_	_
-12	pārārthyam	pārārthya	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=94036|OccId=208527|Unsandhied=pārārthyam|UnsandhiedReconstructed=True
-13	iti	iti	PART	_		_	_	_	LemmaId=63331|OccId=208528|Unsandhied=iti|UnsandhiedReconstructed=True
+4-7	vikāritvādbhogyatvāc	_	_	_	_	_	_	_	_
+4	vikāri	vikārin	ADJ	_	Case=Cpd	_	_	_	LemmaId=47810|OccId=5907785|Unsandhied=vikāri
+5	tvāt	tva	NOUN	_	Case=Abl|Gender=Neut|Number=Sing	_	_	_	LemmaId=163754|OccId=5907786|Unsandhied=tvāt
+6	bhogya	bhuj	VERB	_	Case=Cpd|VerbForm=Gdv	_	_	_	LemmaId=157293|OccId=5907787|Unsandhied=bhogya
+7	tvāt	tva	NOUN	_	Case=Abl|Gender=Neut|Number=Sing	_	_	_	LemmaId=163754|OccId=5907788|Unsandhied=tvāt
+8	ca	ca	CONJ	_		_	_	_	LemmaId=157144|OccId=208635|Unsandhied=ca|UnsandhiedReconstructed=True
+9-10	dehasyācaitanyam	_	_	_	_	_	_	_	_
+9	dehasya	deha	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	_	_	_	LemmaId=89764|OccId=208525|Unsandhied=dehasya|UnsandhiedReconstructed=True
+10	ācaitanyam	ācaitanya	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=170164|OccId=208526|Unsandhied=ācaitanyam|UnsandhiedReconstructed=True
+11	ācaitanyāc	ācaitanya	NOUN	_	Case=Abl|Gender=Neut|Number=Sing	_	_	_	LemmaId=170164|OccId=208636|Unsandhied=ācaitanyāt|UnsandhiedReconstructed=True
+12	ca	ca	CONJ	_		_	_	_	LemmaId=157144|OccId=208637|Unsandhied=ca|UnsandhiedReconstructed=True
+13-14	pārārthyamiti	_	_	_	_	_	_	_	_
+13	pārārthyam	pārārthya	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=94036|OccId=208527|Unsandhied=pārārthyam|UnsandhiedReconstructed=True
+14	iti	iti	PART	_		_	_	_	LemmaId=63331|OccId=208528|Unsandhied=iti|UnsandhiedReconstructed=True
 
 # text = punarapi paramatam āśaṅkate
-# sent_id = 45732
+# sent_id = 45737
 # sent_counter = 11
 # sent_subcounter = 
 1-2	punarapi	_	_	_	_	_	_	_	_

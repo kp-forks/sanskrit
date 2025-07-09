@@ -3,7 +3,7 @@
 ## chapter: MṛgṬīkā zu MṛgT, Vidyāpāda, 7, 4.2
 ## chapter_id: 827
 # text = tasminn ātmanaḥ pāratantrye nitye'bhyupagamyamāne kadācidapi tadanucchedān muktisādhanakalāpaḥ parair apīṣṭo jñānayogādir anarthakaḥ svātantryābhivyaktyabhāvāt sadaivātmano baddhatayāvasthiter ity alam anayā dhiyā nivāryatām īdṛśī saṃsārānucchittiheturmatiriti bhāvaḥ
-# sent_id = 45810
+# sent_id = 45815
 # sent_counter = 1
 # sent_subcounter = 
 1	tasminn	tad	PRON	_	Case=Loc|Gender=Neut|Number=Sing	_	_	_	LemmaId=37875|OccId=217943|Unsandhied=tasmin|UnsandhiedReconstructed=True
@@ -49,16 +49,17 @@
 32	dhiyā	dhī	NOUN	_	Case=Ins|Gender=Fem|Number=Sing	_	_	_	LemmaId=42661|OccId=217969|Unsandhied=dhyā|UnsandhiedReconstructed=True
 33	nivāryatām	nivāray	VERB	_	Tense=Pres|Mood=Imp|Voice=Pass|Person=3|Number=Sing	_	_	_	LemmaId=161479|OccId=218038|Unsandhied=nivāryatām
 34	īdṛśī	īdṛśa	ADJ	_	Case=Nom|Gender=Fem|Number=Sing	_	_	_	LemmaId=64006|OccId=217970|Unsandhied=īdṛśā|UnsandhiedReconstructed=True
-35-39	saṃsārānucchittiheturmatiriti	_	_	_	_	_	_	_	_
-35	saṃsāra	saṃsāra	NOUN	_	Case=Cpd	_	_	_	LemmaId=8295|OccId=217971|Unsandhied=saṃsāra|UnsandhiedReconstructed=True
-36	anucchitti	anucchitti	NOUN	_	Case=Cpd	_	_	_	LemmaId=10798|OccId=217972|Unsandhied=anucchitti|UnsandhiedReconstructed=True
-37	hetuḥ	hetu	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=110756|OccId=217973|Unsandhied=hetuḥ|UnsandhiedReconstructed=True
-38	matiḥ	mati	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	_	_	_	LemmaId=36010|OccId=217974|Unsandhied=matiḥ|UnsandhiedReconstructed=True
-39	iti	iti	PART	_		_	_	_	LemmaId=63331|OccId=217975|Unsandhied=iti|UnsandhiedReconstructed=True
-40	bhāvaḥ	bhāva	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=49850|OccId=217976|Unsandhied=bhāvaḥ|UnsandhiedReconstructed=True
+35-40	saṃsārānucchittiheturmatiriti	_	_	_	_	_	_	_	_
+35	saṃsāra	saṃsāra	NOUN	_	Case=Cpd	_	_	_	LemmaId=8295|OccId=5894693|Unsandhied=saṃsāra
+36	an	an	PART	_		_	_	_	LemmaId=213304|OccId=5894694|Unsandhied=an
+37	ucchitti	ucchitti	NOUN	_	Case=Cpd	_	_	_	LemmaId=55287|OccId=5894695|Unsandhied=ucchitti
+38	hetuḥ	hetu	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	_	_	_	LemmaId=110756|OccId=5894696|Unsandhied=hetuḥ
+39	matiḥ	mati	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	_	_	_	LemmaId=36010|OccId=5894697|Unsandhied=matiḥ
+40	iti	iti	PART	_		_	_	_	LemmaId=63331|OccId=5894698|Unsandhied=iti
+41	bhāvaḥ	bhāva	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=49850|OccId=217976|Unsandhied=bhāvaḥ|UnsandhiedReconstructed=True
 
 # text = tasmāt sthitam etatpāśakṛtaṃ pāratantryaṃ pāśāś cāñjanādayaḥ
-# sent_id = 45811
+# sent_id = 45816
 # sent_counter = 2
 # sent_subcounter = 
 1	tasmāt	tad	PRON	_	Case=Abl|Gender=Neut|Number=Sing	_	_	_	LemmaId=37875|OccId=217977|Unsandhied=tasmāt|UnsandhiedReconstructed=True
@@ -75,7 +76,7 @@
 10	ādayaḥ	ādi	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	_	_	_	LemmaId=57973|OccId=217986|Unsandhied=ādayaḥ|UnsandhiedReconstructed=True
 
 # text = sa kilātmā
-# sent_id = 45812
+# sent_id = 45817
 # sent_counter = 3
 # sent_subcounter = 
 1	sa	tad	PRON	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=37875|OccId=217987|Unsandhied=saḥ|UnsandhiedReconstructed=True

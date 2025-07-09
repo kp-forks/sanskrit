@@ -645,12 +645,16 @@
 6	hasta	hasta	NOUN	_	Case=Cpd	_	_	_	LemmaId=166517|OccId=1343387|Unsandhied=hasta|UnsandhiedReconstructed=True|WordSem=12002
 7	parikṣepam	parikṣepa	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	_	_	_	LemmaId=18871|OccId=1343388|Unsandhied=parikṣepam|UnsandhiedReconstructed=True|WordSem=25248
 8	ṛjum	ṛju	ADJ	_	Case=Acc|Gender=Masc|Number=Sing	_	_	_	LemmaId=38884|OccId=1343389|Unsandhied=ṛjum|UnsandhiedReconstructed=True|WordSem=79679
-9	anāviddham	anāviddha	ADJ	_	Case=Acc|Gender=Masc|Number=Sing	_	_	_	LemmaId=10382|OccId=1343390|Unsandhied=anāviddham|UnsandhiedReconstructed=True|WordSem=79660
-10	asaṃkucitaṃ	asaṃkucita	ADJ	_	Case=Acc|Gender=Masc|Number=Sing	_	_	_	LemmaId=168463|OccId=1343391|Unsandhied=asaṃkucitam|UnsandhiedReconstructed=True|WordSem=71654
-11	mṛdu	mṛdu	ADJ	_	Case=Acc|Gender=Neut|Number=Sing	_	_	_	LemmaId=137707|OccId=1343347|Unsandhied=mṛdu|UnsandhiedReconstructed=True|WordSem=73086
-12	paṭṭaṃ	paṭṭa	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	_	_	_	LemmaId=15312|OccId=1343348|Unsandhied=paṭṭam|UnsandhiedReconstructed=True|WordSem=21136
-13	niveśya	niveśay	VERB	_	VerbForm=Conv	_	_	_	LemmaId=161476|OccId=1343349|Unsandhied=niveśya|UnsandhiedReconstructed=True|WordSem=90744
-14	badhnīyāt	bandh	VERB	_	Tense=Pres|Mood=Opt|Person=3|Number=Sing	_	_	_	LemmaId=157929|OccId=1343350|Unsandhied=badhnīyāt|WordSem=90077
+9-10	anāviddham	_	_	_	_	_	_	_	_
+9	an	an	PART	_		_	_	_	LemmaId=213304|OccId=5887181|Unsandhied=an
+10	āviddham	āvyadh	VERB	_	Case=Acc|Gender=Masc|Number=Sing|VerbForm=Part	_	_	_	LemmaId=159965|OccId=5887182|Unsandhied=āviddham
+11-12	asaṃkucitaṃ	_	_	_	_	_	_	_	_
+11	a	a	PART	_		_	_	_	LemmaId=213048|OccId=5887183|Unsandhied=a
+12	saṃkucitam	saṃkuñc	VERB	_	Case=Acc|Gender=Masc|Number=Sing|VerbForm=Part	_	_	_	LemmaId=164853|OccId=5887184|Unsandhied=saṃkucitam
+13	mṛdu	mṛdu	ADJ	_	Case=Acc|Gender=Neut|Number=Sing	_	_	_	LemmaId=137707|OccId=1343347|Unsandhied=mṛdu|UnsandhiedReconstructed=True|WordSem=73086
+14	paṭṭaṃ	paṭṭa	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	_	_	_	LemmaId=15312|OccId=1343348|Unsandhied=paṭṭam|UnsandhiedReconstructed=True|WordSem=21136
+15	niveśya	niveśay	VERB	_	VerbForm=Conv	_	_	_	LemmaId=161476|OccId=1343349|Unsandhied=niveśya|UnsandhiedReconstructed=True|WordSem=90744
+16	badhnīyāt	bandh	VERB	_	Tense=Pres|Mood=Opt|Person=3|Number=Sing	_	_	_	LemmaId=157929|OccId=1343350|Unsandhied=badhnīyāt|WordSem=90077
 
 # text = na ca vraṇasyopari kuryādgranthimābādhakaraṃ ca
 # sent_id = 1665
@@ -1020,34 +1024,36 @@
 # sent_id = 1681
 # sent_counter = 32
 # sent_subcounter = 1
-1	abandhyāḥ	abandhya	ADJ	_	Case=Nom|Gender=Masc|Number=Plur	_	_	_	LemmaId=21904|OccId=1343760|Unsandhied=abandhyāḥ|UnsandhiedReconstructed=True
-2-6	pittaraktābhighātaviṣanimittā	_	_	_	_	_	_	_	_
-2	pitta	pitta	NOUN	_	Case=Cpd	_	_	_	LemmaId=95032|OccId=1343761|Unsandhied=pitta|UnsandhiedReconstructed=True|WordSem=100531
-3	rakta	rakta	NOUN	_	Case=Cpd	_	_	_	LemmaId=65581|OccId=1343762|Unsandhied=rakta|UnsandhiedReconstructed=True|WordSem=26502
-4	abhighāta	abhighāta	NOUN	_	Case=Cpd	_	_	_	LemmaId=22141|OccId=1343763|Unsandhied=abhighāta|UnsandhiedReconstructed=True|WordSem=62123
-5	viṣa	viṣa	NOUN	_	Case=Cpd	_	_	_	LemmaId=139407|OccId=1343764|Unsandhied=viṣa|UnsandhiedReconstructed=True|WordSem=65358
-6	nimittāḥ	nimitta	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	_	_	_	LemmaId=27462|OccId=1343765|Unsandhied=nimittāḥ|UnsandhiedReconstructed=True|WordSem=34283
-7	yadā	yadā	SCONJ	_		_	_	_	LemmaId=73645|OccId=1343766|Unsandhied=yadā|UnsandhiedReconstructed=True
-8	ca	ca	CONJ	_		_	_	_	LemmaId=157144|OccId=1343767|Unsandhied=ca|UnsandhiedReconstructed=True
-9-15	śophadāhapākarāgatodavedanābhibhūtāḥ	_	_	_	_	_	_	_	_
-9	śopha	śopha	NOUN	_	Case=Cpd	_	_	_	LemmaId=127819|OccId=1343768|Unsandhied=śopha|UnsandhiedReconstructed=True|WordSem=128427
-10	dāha	dāha	NOUN	_	Case=Cpd	_	_	_	LemmaId=147050|OccId=1343769|Unsandhied=dāha|UnsandhiedReconstructed=True|WordSem=128460
-11	pāka	pāka	NOUN	_	Case=Cpd	_	_	_	LemmaId=93038|OccId=1343770|Unsandhied=pāka|UnsandhiedReconstructed=True|WordSem=58767
-12	rāga	rāga	NOUN	_	Case=Cpd	_	_	_	LemmaId=69955|OccId=1343771|Unsandhied=rāga|UnsandhiedReconstructed=True|WordSem=62314
-13	toda	toda	NOUN	_	Case=Cpd	_	_	_	LemmaId=83588|OccId=1343772|Unsandhied=toda|UnsandhiedReconstructed=True|WordSem=62253
-14	vedanā	vedanā	NOUN	_	Case=Cpd	_	_	_	LemmaId=143044|OccId=1343773|Unsandhied=vedanā|UnsandhiedReconstructed=True|WordSem=62252
-15	abhibhūtāḥ	abhibhū	VERB	_	Case=Nom|Gender=Masc|Number=Plur|VerbForm=Part	_	_	_	LemmaId=158873|OccId=1343774|Unsandhied=abhibhūtāḥ|UnsandhiedReconstructed=True
-16-18	kṣārāgnidagdhāḥ	_	_	_	_	_	_	_	_
-16	kṣāra	kṣāra	NOUN	_	Case=Cpd	_	_	_	LemmaId=135428|OccId=1364978|Unsandhied=kṣāra|UnsandhiedReconstructed=True|WordSem=65290
-17	agni	agni	NOUN	_	Case=Cpd	_	_	_	LemmaId=5705|OccId=1364979|Unsandhied=agni|UnsandhiedReconstructed=True|WordSem=3412
-18	dagdhāḥ	dah	VERB	_	Case=Nom|Gender=Masc|Number=Plur|VerbForm=Part	_	_	_	LemmaId=157371|OccId=1364980|Unsandhied=dagdhāḥ|UnsandhiedReconstructed=True|WordSem=86130
-19	pākāt	pāka	NOUN	_	Case=Abl|Gender=Masc|Number=Sing	_	_	_	LemmaId=93038|OccId=1343778|Unsandhied=pākāt|UnsandhiedReconstructed=True|WordSem=58767
-20-22	prakuthitapraśīrṇamāṃsāś	_	_	_	_	_	_	_	_
-20	prakuthita	prakuthita	ADJ	_	Case=Cpd	_	_	_	LemmaId=150497|OccId=1343961|Unsandhied=prakuthita|UnsandhiedReconstructed=True|WordSem=72590
-21	praśīrṇa	praśṛ	VERB	_	Case=Cpd|VerbForm=Part	_	_	_	LemmaId=163091|OccId=1343962|Unsandhied=praśīrṇa|UnsandhiedReconstructed=True|WordSem=93167
-22	māṃsāḥ	māṃsa	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	_	_	_	LemmaId=78223|OccId=1343963|Unsandhied=māṃsāḥ|UnsandhiedReconstructed=True|WordSem=25895
-23	ca	ca	CONJ	_		_	_	_	LemmaId=157144|OccId=1343779|Unsandhied=ca|UnsandhiedReconstructed=True|WordSem=104004
-24	bhavanti	bhū	VERB	_	Tense=Pres|Mood=Ind|Person=3|Number=Plur	_	_	_	LemmaId=157250|OccId=1343780|Unsandhied=bhavanti
+1-2	abandhyāḥ	_	_	_	_	_	_	_	_
+1	a	a	PART	_		_	_	_	LemmaId=213048|OccId=5898856|Unsandhied=a
+2	bandhyāḥ	bandh	VERB	_	Case=Nom|Gender=Masc|Number=Plur|VerbForm=Gdv	_	_	_	LemmaId=157929|OccId=5898857|Unsandhied=bandhyāḥ
+3-7	pittaraktābhighātaviṣanimittā	_	_	_	_	_	_	_	_
+3	pitta	pitta	NOUN	_	Case=Cpd	_	_	_	LemmaId=95032|OccId=1343761|Unsandhied=pitta|UnsandhiedReconstructed=True|WordSem=100531
+4	rakta	rakta	NOUN	_	Case=Cpd	_	_	_	LemmaId=65581|OccId=1343762|Unsandhied=rakta|UnsandhiedReconstructed=True|WordSem=26502
+5	abhighāta	abhighāta	NOUN	_	Case=Cpd	_	_	_	LemmaId=22141|OccId=1343763|Unsandhied=abhighāta|UnsandhiedReconstructed=True|WordSem=62123
+6	viṣa	viṣa	NOUN	_	Case=Cpd	_	_	_	LemmaId=139407|OccId=1343764|Unsandhied=viṣa|UnsandhiedReconstructed=True|WordSem=65358
+7	nimittāḥ	nimitta	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	_	_	_	LemmaId=27462|OccId=1343765|Unsandhied=nimittāḥ|UnsandhiedReconstructed=True|WordSem=34283
+8	yadā	yadā	SCONJ	_		_	_	_	LemmaId=73645|OccId=1343766|Unsandhied=yadā|UnsandhiedReconstructed=True
+9	ca	ca	CONJ	_		_	_	_	LemmaId=157144|OccId=1343767|Unsandhied=ca|UnsandhiedReconstructed=True
+10-16	śophadāhapākarāgatodavedanābhibhūtāḥ	_	_	_	_	_	_	_	_
+10	śopha	śopha	NOUN	_	Case=Cpd	_	_	_	LemmaId=127819|OccId=1343768|Unsandhied=śopha|UnsandhiedReconstructed=True|WordSem=128427
+11	dāha	dāha	NOUN	_	Case=Cpd	_	_	_	LemmaId=147050|OccId=1343769|Unsandhied=dāha|UnsandhiedReconstructed=True|WordSem=128460
+12	pāka	pāka	NOUN	_	Case=Cpd	_	_	_	LemmaId=93038|OccId=1343770|Unsandhied=pāka|UnsandhiedReconstructed=True|WordSem=58767
+13	rāga	rāga	NOUN	_	Case=Cpd	_	_	_	LemmaId=69955|OccId=1343771|Unsandhied=rāga|UnsandhiedReconstructed=True|WordSem=62314
+14	toda	toda	NOUN	_	Case=Cpd	_	_	_	LemmaId=83588|OccId=1343772|Unsandhied=toda|UnsandhiedReconstructed=True|WordSem=62253
+15	vedanā	vedanā	NOUN	_	Case=Cpd	_	_	_	LemmaId=143044|OccId=1343773|Unsandhied=vedanā|UnsandhiedReconstructed=True|WordSem=62252
+16	abhibhūtāḥ	abhibhū	VERB	_	Case=Nom|Gender=Masc|Number=Plur|VerbForm=Part	_	_	_	LemmaId=158873|OccId=1343774|Unsandhied=abhibhūtāḥ|UnsandhiedReconstructed=True
+17-19	kṣārāgnidagdhāḥ	_	_	_	_	_	_	_	_
+17	kṣāra	kṣāra	NOUN	_	Case=Cpd	_	_	_	LemmaId=135428|OccId=1364978|Unsandhied=kṣāra|UnsandhiedReconstructed=True|WordSem=65290
+18	agni	agni	NOUN	_	Case=Cpd	_	_	_	LemmaId=5705|OccId=1364979|Unsandhied=agni|UnsandhiedReconstructed=True|WordSem=3412
+19	dagdhāḥ	dah	VERB	_	Case=Nom|Gender=Masc|Number=Plur|VerbForm=Part	_	_	_	LemmaId=157371|OccId=1364980|Unsandhied=dagdhāḥ|UnsandhiedReconstructed=True|WordSem=86130
+20	pākāt	pāka	NOUN	_	Case=Abl|Gender=Masc|Number=Sing	_	_	_	LemmaId=93038|OccId=1343778|Unsandhied=pākāt|UnsandhiedReconstructed=True|WordSem=58767
+21-23	prakuthitapraśīrṇamāṃsāś	_	_	_	_	_	_	_	_
+21	prakuthita	prakuthita	ADJ	_	Case=Cpd	_	_	_	LemmaId=150497|OccId=1343961|Unsandhied=prakuthita|UnsandhiedReconstructed=True|WordSem=72590
+22	praśīrṇa	praśṛ	VERB	_	Case=Cpd|VerbForm=Part	_	_	_	LemmaId=163091|OccId=1343962|Unsandhied=praśīrṇa|UnsandhiedReconstructed=True|WordSem=93167
+23	māṃsāḥ	māṃsa	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	_	_	_	LemmaId=78223|OccId=1343963|Unsandhied=māṃsāḥ|UnsandhiedReconstructed=True|WordSem=25895
+24	ca	ca	CONJ	_		_	_	_	LemmaId=157144|OccId=1343779|Unsandhied=ca|UnsandhiedReconstructed=True|WordSem=104004
+25	bhavanti	bhū	VERB	_	Tense=Pres|Mood=Ind|Person=3|Number=Plur	_	_	_	LemmaId=157250|OccId=1343780|Unsandhied=bhavanti
 
 # text = kuṣṭhināmagnidagdhānāṃ piḍakā madhumehinām
 # sent_id = 1682

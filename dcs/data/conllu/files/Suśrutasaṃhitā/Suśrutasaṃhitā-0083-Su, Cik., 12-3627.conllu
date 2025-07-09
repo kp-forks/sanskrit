@@ -61,7 +61,7 @@
 3	pramehiṇam	pramehin	ADJ	_	Case=Acc|Gender=Masc|Number=Sing	_	_	_	LemmaId=154457|OccId=1396581|Unsandhied=pramehinam|UnsandhiedReconstructed=True|WordSem=129182
 4	upacaret	upacar	VERB	_	Tense=Pres|Mood=Opt|Person=3|Number=Sing	_	_	_	LemmaId=160377|OccId=1396582|Unsandhied=upacaret|WordSem=84866
 
-# text = tatra pūrvarūpeṣvapatarpaṇaṃ vanaspatikaṣāyaṃ bastamūtraṃ copadiśet evam akurvatastasya madhurāhārasya mūtraṃ svedaḥ śleṣmā ca madhurībhavati pramehaścābhivyakto bhavati tatrobhayataḥ saṃśodhanamāseveta evamakurvatastasya doṣāḥ pravṛddhā māṃsaśoṇite pradūṣya śophaṃ janayantyupadravān vā kāṃścit tatroktaḥ pratīkāraḥ sirāmokṣaśca evamakurvatastasya śopho vṛddho 'timātraṃ rujo vidāhamāpadyate tatra śastrapraṇidhānamuktaṃ vraṇakriyopasevā ca evamakurvatastasya pūyo 'bhyantaramavadāryotsaṅgaṃ mahāntamavakāśaṃ kṛtvā pravṛddho bhavatyasādhyas tasmād ādita eva pramehiṇam upakramet
+# text = tatra pūrvarūpeṣvapatarpaṇaṃ vanaspatikaṣāyaṃ bastamūtraṃ copadiśet evam akurvatas tasya madhurāhārasya mūtraṃ svedaḥ śleṣmā ca madhurībhavati pramehaścābhivyakto bhavati tatrobhayataḥ saṃśodhanamāseveta evam akurvatas tasya doṣāḥ pravṛddhā māṃsaśoṇite pradūṣya śophaṃ janayantyupadravān vā kāṃścit tatroktaḥ pratīkāraḥ sirāmokṣaśca evam akurvatas tasya śopho vṛddho 'timātraṃ rujo vidāhamāpadyate tatra śastrapraṇidhānamuktaṃ vraṇakriyopasevā ca evam akurvatas tasya pūyo 'bhyantaramavadāryotsaṅgaṃ mahāntamavakāśaṃ kṛtvā pravṛddho bhavatyasādhyas tasmād ādita eva pramehiṇam upakramet
 # sent_id = 7733
 # sent_counter = 4
 # sent_subcounter = 2
@@ -79,94 +79,98 @@
 8	ca	ca	CONJ	_		_	_	_	LemmaId=157144|OccId=1396590|Unsandhied=ca|UnsandhiedReconstructed=True|WordSem=104004
 9	upadiśet	upadiś	VERB	_	Tense=Pres|Mood=Opt|Person=3|Number=Sing	_	_	_	LemmaId=160400|OccId=1396591|Unsandhied=upadiśet|WordSem=84872
 10	evam	evam	ADV	_		_	_	_	LemmaId=39758|OccId=1396916|Unsandhied=evam|UnsandhiedReconstructed=True|WordSem=97363
-11-12	akurvatastasya	_	_	_	_	_	_	_	_
-11	akurvataḥ	akurvat	ADJ	_	Case=Gen|Gender=Masc|Number=Sing	_	_	_	LemmaId=167372|OccId=1396917|Unsandhied=akurvataḥ|UnsandhiedReconstructed=True
-12	tasya	tad	PRON	_	Case=Gen|Gender=Masc|Number=Sing	_	_	_	LemmaId=37875|OccId=1396918|Unsandhied=tasya|UnsandhiedReconstructed=True
-13-14	madhurāhārasya	_	_	_	_	_	_	_	_
-13	madhura	madhura	ADJ	_	Case=Cpd	_	_	_	LemmaId=35704|OccId=1396592|Unsandhied=madhura|UnsandhiedReconstructed=True|WordSem=80171
-14	āhārasya	āhāra	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	_	_	_	LemmaId=63136|OccId=1396593|Unsandhied=āhārasya|UnsandhiedReconstructed=True|WordSem=35360
-15	mūtraṃ	mūtra	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=136408|OccId=1396594|Unsandhied=mūtram|UnsandhiedReconstructed=True|WordSem=64525
-16	svedaḥ	sveda	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=121812|OccId=1396595|Unsandhied=svedaḥ|UnsandhiedReconstructed=True|WordSem=26521
-17	śleṣmā	śleṣman	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=41184|OccId=1396596|Unsandhied=śleṣmā|UnsandhiedReconstructed=True|WordSem=26545
-18	ca	ca	CONJ	_		_	_	_	LemmaId=157144|OccId=1396597|Unsandhied=ca|UnsandhiedReconstructed=True|WordSem=104004
-19	madhurībhavati	madhurībhū	VERB	_	Tense=Pres|Mood=Ind|Person=3|Number=Sing	_	_	_	LemmaId=172530|OccId=1396598|Unsandhied=madhurībhavati|WordSem=129521
-20-22	pramehaścābhivyakto	_	_	_	_	_	_	_	_
-20	pramehaḥ	prameha	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=154456|OccId=1396599|Unsandhied=pramehaḥ|UnsandhiedReconstructed=True|WordSem=100354
-21	ca	ca	CONJ	_		_	_	_	LemmaId=157144|OccId=1396600|Unsandhied=ca|UnsandhiedReconstructed=True|WordSem=104004
-22	abhivyaktaḥ	abhivyañj	VERB	_	Case=Nom|Gender=Masc|Number=Sing|VerbForm=Part	_	_	_	LemmaId=159025|OccId=1396601|Unsandhied=abhivyaktaḥ|UnsandhiedReconstructed=True|WordSem=86338
-23	bhavati	bhū	VERB	_	Tense=Pres|Mood=Ind|Person=3|Number=Sing	_	_	_	LemmaId=157250|OccId=1396602|Unsandhied=bhavati|Punctuation=fullStop|WordSem=85114
-24-25	tatrobhayataḥ	_	_	_	_	_	_	_	_
-24	tatra	tatra	ADV	_		_	_	_	LemmaId=95978|OccId=1396603|Unsandhied=tatra|UnsandhiedReconstructed=True|WordSem=97344
-25	ubhayatas	ubhayatas	ADV	_		_	_	_	LemmaId=46229|OccId=1396604|Unsandhied=ubhayatas|UnsandhiedReconstructed=True
-26-27	saṃśodhanamāseveta	_	_	_	_	_	_	_	_
-26	saṃśodhanam	saṃśodhana	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	_	_	_	LemmaId=8203|OccId=1396605|Unsandhied=saṃśodhanam|UnsandhiedReconstructed=True|WordSem=128309
-27	āseveta	āsev	VERB	_	Tense=Pres|Mood=Opt|Person=3|Number=Sing	_	_	_	LemmaId=160009|OccId=1396606|Unsandhied=āseveta|WordSem=92041
-28-30	evamakurvatastasya	_	_	_	_	_	_	_	_
-28	evam	evam	ADV	_		_	_	_	LemmaId=39758|OccId=1396607|Unsandhied=evam|UnsandhiedReconstructed=True|WordSem=97363
-29	akurvataḥ	akurvat	ADJ	_	Case=Gen|Gender=Masc|Number=Sing	_	_	_	LemmaId=167372|OccId=1396608|Unsandhied=akurvataḥ|UnsandhiedReconstructed=True
-30	tasya	tad	PRON	_	Case=Gen|Gender=Masc|Number=Sing	_	_	_	LemmaId=37875|OccId=1396609|Unsandhied=tasya|UnsandhiedReconstructed=True
-31	doṣāḥ	doṣa	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	_	_	_	LemmaId=90071|OccId=1396610|Unsandhied=doṣāḥ|UnsandhiedReconstructed=True|WordSem=100530
-32	pravṛddhā	pravṛdh	VERB	_	Case=Nom|Gender=Masc|Number=Plur|VerbForm=Part	_	_	_	LemmaId=163068|OccId=1396611|Unsandhied=pravṛddhāḥ|UnsandhiedReconstructed=True|WordSem=85144
-33-34	māṃsaśoṇite	_	_	_	_	_	_	_	_
-33	māṃsa	māṃsa	NOUN	_	Case=Cpd	_	_	_	LemmaId=78223|OccId=1396612|Unsandhied=māṃsa|UnsandhiedReconstructed=True|WordSem=25895
-34	śoṇite	śoṇita	NOUN	_	Case=Acc|Gender=Neut|Number=Dual	_	_	_	LemmaId=127801|OccId=1396613|Unsandhied=śoṇite|UnsandhiedReconstructed=True|WordSem=26502
-35	pradūṣya	pradūṣay	VERB	_	VerbForm=Conv	_	_	_	LemmaId=162882|OccId=1396614|Unsandhied=pradūṣya|UnsandhiedReconstructed=True|WordSem=85357
-36	śophaṃ	śopha	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	_	_	_	LemmaId=127819|OccId=1396615|Unsandhied=śopham|UnsandhiedReconstructed=True|WordSem=128427
-37-38	janayantyupadravān	_	_	_	_	_	_	_	_
-37	janayanti	janay	VERB	_	Tense=Pres|Mood=Ind|Person=3|Number=Plur	_	_	_	LemmaId=157870|OccId=1396616|Unsandhied=janayanti|WordSem=91730
-38	upadravān	upadrava	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	_	_	_	LemmaId=45083|OccId=1396617|Unsandhied=upadravān|UnsandhiedReconstructed=True|WordSem=126605
-39	vā	vā	CONJ	_		_	_	_	LemmaId=75765|OccId=1396618|Unsandhied=vā|UnsandhiedReconstructed=True|WordSem=127042
-40	kāṃścit	kaścit	PRON	_	Case=Acc|Gender=Masc|Number=Plur	_	_	_	LemmaId=164309|OccId=1396619|Unsandhied=kāṃścid|UnsandhiedReconstructed=True|Punctuation=fullStop|WordSem=75414
-41-42	tatroktaḥ	_	_	_	_	_	_	_	_
-41	tatra	tatra	ADV	_		_	_	_	LemmaId=95978|OccId=1396620|Unsandhied=tatra|UnsandhiedReconstructed=True|WordSem=97344
-42	uktaḥ	vac	VERB	_	Case=Nom|Gender=Masc|Number=Sing|VerbForm=Part	_	_	_	LemmaId=157264|OccId=1396621|Unsandhied=uktaḥ|UnsandhiedReconstructed=True|WordSem=88645
-43	pratīkāraḥ	pratīkāra	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=139904|OccId=1396622|Unsandhied=pratīkāraḥ|UnsandhiedReconstructed=True|WordSem=3318
-44-45	sirāmokṣaśca	_	_	_	_	_	_	_	_
-44	sirāmokṣaḥ	sirāmokṣa	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=106417|OccId=1396623|Unsandhied=sirāmokṣaḥ|UnsandhiedReconstructed=True|WordSem=128392
-45	ca	ca	CONJ	_		_	_	_	LemmaId=157144|OccId=1396624|Unsandhied=ca|UnsandhiedReconstructed=True|Punctuation=fullStop|WordSem=104004
-46-48	evamakurvatastasya	_	_	_	_	_	_	_	_
-46	evam	evam	ADV	_		_	_	_	LemmaId=39758|OccId=1396625|Unsandhied=evam|UnsandhiedReconstructed=True|WordSem=97363
-47	akurvataḥ	akurvat	ADJ	_	Case=Gen|Gender=Masc|Number=Sing	_	_	_	LemmaId=167372|OccId=1396626|Unsandhied=akurvataḥ|UnsandhiedReconstructed=True
-48	tasya	tad	PRON	_	Case=Gen|Gender=Masc|Number=Sing	_	_	_	LemmaId=37875|OccId=1396627|Unsandhied=tasya|UnsandhiedReconstructed=True
-49	śopho	śopha	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=127819|OccId=1396628|Unsandhied=śophaḥ|UnsandhiedReconstructed=True|WordSem=128427
-50	vṛddho	vṛdh	VERB	_	Case=Nom|Gender=Masc|Number=Sing|VerbForm=Part	_	_	_	LemmaId=157334|OccId=1396629|Unsandhied=vṛddhaḥ|UnsandhiedReconstructed=True|WordSem=85144
-51	'timātraṃ	atimātram	ADV	_		_	_	_	LemmaId=7230|OccId=1396630|Unsandhied=atimātram|UnsandhiedReconstructed=True|WordSem=96881
-52	rujo	ruj	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	_	_	_	LemmaId=71545|OccId=1396631|Unsandhied=rujaḥ|UnsandhiedReconstructed=True|WordSem=62252
-53-54	vidāhamāpadyate	_	_	_	_	_	_	_	_
-53	vidāham	vidāha	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	_	_	_	LemmaId=122750|OccId=1396632|Unsandhied=vidāham|UnsandhiedReconstructed=True|WordSem=62263
-54	āpadyate	āpad	VERB	_	Tense=Pres|Mood=Ind|Person=3|Number=Sing	_	_	_	LemmaId=159812|OccId=1396633|Unsandhied=āpadyate|WordSem=128654
-55	tatra	tatra	ADV	_		_	_	_	LemmaId=95978|OccId=1396634|Unsandhied=tatra|UnsandhiedReconstructed=True|WordSem=97344
-56-58	śastrapraṇidhānamuktaṃ	_	_	_	_	_	_	_	_
-56	śastra	śastra	NOUN	_	Case=Cpd	_	_	_	LemmaId=131110|OccId=1396635|Unsandhied=śastra|UnsandhiedReconstructed=True|WordSem=21812
-57	praṇidhānam	praṇidhāna	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=150877|OccId=1396636|Unsandhied=praṇidhānam|UnsandhiedReconstructed=True|WordSem=3468
-58	uktam	vac	VERB	_	Case=Nom|Gender=Neut|Number=Sing|VerbForm=Part	_	_	_	LemmaId=157264|OccId=1396637|Unsandhied=uktam|UnsandhiedReconstructed=True
-59-61	vraṇakriyopasevā	_	_	_	_	_	_	_	_
-59	vraṇa	vraṇa	NOUN	_	Case=Cpd	_	_	_	LemmaId=116236|OccId=1396638|Unsandhied=vraṇa|UnsandhiedReconstructed=True|WordSem=62124
-60	kriyā	kriyā	NOUN	_	Case=Cpd	_	_	_	LemmaId=133808|OccId=1396639|Unsandhied=kriyā|UnsandhiedReconstructed=True|WordSem=3309
-61	upasevā	upasevā	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	_	_	_	LemmaId=45804|OccId=1396640|Unsandhied=upasevā|UnsandhiedReconstructed=True|WordSem=4417
-62	ca	ca	CONJ	_		_	_	_	LemmaId=157144|OccId=1396641|Unsandhied=ca|UnsandhiedReconstructed=True|Punctuation=fullStop|WordSem=104004
-63-65	evamakurvatastasya	_	_	_	_	_	_	_	_
-63	evam	evam	ADV	_		_	_	_	LemmaId=39758|OccId=1396642|Unsandhied=evam|UnsandhiedReconstructed=True|WordSem=97363
-64	akurvataḥ	akurvat	ADJ	_	Case=Gen|Gender=Masc|Number=Sing	_	_	_	LemmaId=167372|OccId=1396643|Unsandhied=akurvataḥ|UnsandhiedReconstructed=True
-65	tasya	tad	PRON	_	Case=Gen|Gender=Masc|Number=Sing	_	_	_	LemmaId=37875|OccId=1396644|Unsandhied=tasya|UnsandhiedReconstructed=True
-66	pūyo	pūya	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=145564|OccId=1396645|Unsandhied=pūyaḥ|UnsandhiedReconstructed=True|WordSem=26554
-67-69	'bhyantaramavadāryotsaṅgaṃ	_	_	_	_	_	_	_	_
-67	abhyantaram	abhyantara	ADJ	_	Case=Acc|Gender=Masc|Number=Sing	_	_	_	LemmaId=31320|OccId=1396646|Unsandhied=abhyantaram|UnsandhiedReconstructed=True|WordSem=71885
-68	avadārya	avadāray	VERB	_	VerbForm=Conv	_	_	_	LemmaId=159530|OccId=1396647|Unsandhied=avadārya|UnsandhiedReconstructed=True|WordSem=95294
-69	utsaṅgam	utsaṅga	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	_	_	_	LemmaId=56069|OccId=1396648|Unsandhied=utsaṅgam|UnsandhiedReconstructed=True|WordSem=62225
-70-71	mahāntamavakāśaṃ	_	_	_	_	_	_	_	_
-70	mahantam	mahat	ADJ	_	Case=Acc|Gender=Masc|Number=Sing	_	_	_	LemmaId=37544|OccId=1396649|Unsandhied=mahantam|UnsandhiedReconstructed=True|WordSem=74403
-71	avakāśam	avakāśa	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	_	_	_	LemmaId=53938|OccId=1396650|Unsandhied=avakāśam|UnsandhiedReconstructed=True|WordSem=26043
-72	kṛtvā	kṛ	VERB	_	VerbForm=Conv	_	_	_	LemmaId=156168|OccId=1396651|Unsandhied=kṛtvā|UnsandhiedReconstructed=True|WordSem=91730
-73	pravṛddho	pravṛdh	VERB	_	Case=Nom|Gender=Masc|Number=Sing|VerbForm=Part	_	_	_	LemmaId=163068|OccId=1396652|Unsandhied=pravṛddhaḥ|UnsandhiedReconstructed=True|WordSem=85144
-74-75	bhavatyasādhyas	_	_	_	_	_	_	_	_
-74	bhavati	bhū	VERB	_	Tense=Pres|Mood=Ind|Person=3|Number=Sing	_	_	_	LemmaId=157250|OccId=1396919|Unsandhied=bhavati|WordSem=85114
-75	asādhyaḥ	asādhya	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=60934|OccId=1396920|Unsandhied=asādhyaḥ|UnsandhiedReconstructed=True|Punctuation=fullStop|WordSem=72128
-76	tasmād	tad	PRON	_	Case=Abl|Gender=Neut|Number=Sing	_	_	_	LemmaId=37875|OccId=1396653|Unsandhied=tasmāt|UnsandhiedReconstructed=True
-77	ādita	āditas	ADV	_		_	_	_	LemmaId=57987|OccId=1396654|Unsandhied=āditas|UnsandhiedReconstructed=True
-78	eva	eva	PART	_		_	_	_	LemmaId=39754|OccId=1396655|Unsandhied=eva|UnsandhiedReconstructed=True
-79	pramehiṇam	pramehin	ADJ	_	Case=Acc|Gender=Masc|Number=Sing	_	_	_	LemmaId=154457|OccId=1396656|Unsandhied=pramehinam|UnsandhiedReconstructed=True|WordSem=129182
-80	upakramet	upakram	VERB	_	Tense=Pres|Mood=Opt|Person=3|Number=Sing	_	_	_	LemmaId=160353|OccId=1396657|Unsandhied=upakramet|Punctuation=fullStop|WordSem=94431
+11-12	akurvatas	_	_	_	_	_	_	_	_
+11	a	a	PART	_		_	_	_	LemmaId=213048|OccId=5884332|Unsandhied=a
+12	kurvataḥ	kṛ	VERB	_	Case=Gen|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part	_	_	_	LemmaId=156168|OccId=5884333|Unsandhied=kurvataḥ
+13	tasya	tad	PRON	_	Case=Gen|Gender=Masc|Number=Sing	_	_	_	LemmaId=37875|OccId=5884325|Unsandhied=tasya
+14-15	madhurāhārasya	_	_	_	_	_	_	_	_
+14	madhura	madhura	ADJ	_	Case=Cpd	_	_	_	LemmaId=35704|OccId=1396592|Unsandhied=madhura|UnsandhiedReconstructed=True|WordSem=80171
+15	āhārasya	āhāra	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	_	_	_	LemmaId=63136|OccId=1396593|Unsandhied=āhārasya|UnsandhiedReconstructed=True|WordSem=35360
+16	mūtraṃ	mūtra	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=136408|OccId=1396594|Unsandhied=mūtram|UnsandhiedReconstructed=True|WordSem=64525
+17	svedaḥ	sveda	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=121812|OccId=1396595|Unsandhied=svedaḥ|UnsandhiedReconstructed=True|WordSem=26521
+18	śleṣmā	śleṣman	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=41184|OccId=1396596|Unsandhied=śleṣmā|UnsandhiedReconstructed=True|WordSem=26545
+19	ca	ca	CONJ	_		_	_	_	LemmaId=157144|OccId=1396597|Unsandhied=ca|UnsandhiedReconstructed=True|WordSem=104004
+20	madhurībhavati	madhurībhū	VERB	_	Tense=Pres|Mood=Ind|Person=3|Number=Sing	_	_	_	LemmaId=172530|OccId=1396598|Unsandhied=madhurībhavati|WordSem=129521
+21-23	pramehaścābhivyakto	_	_	_	_	_	_	_	_
+21	pramehaḥ	prameha	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=154456|OccId=1396599|Unsandhied=pramehaḥ|UnsandhiedReconstructed=True|WordSem=100354
+22	ca	ca	CONJ	_		_	_	_	LemmaId=157144|OccId=1396600|Unsandhied=ca|UnsandhiedReconstructed=True|WordSem=104004
+23	abhivyaktaḥ	abhivyañj	VERB	_	Case=Nom|Gender=Masc|Number=Sing|VerbForm=Part	_	_	_	LemmaId=159025|OccId=1396601|Unsandhied=abhivyaktaḥ|UnsandhiedReconstructed=True|WordSem=86338
+24	bhavati	bhū	VERB	_	Tense=Pres|Mood=Ind|Person=3|Number=Sing	_	_	_	LemmaId=157250|OccId=1396602|Unsandhied=bhavati|Punctuation=fullStop|WordSem=85114
+25-26	tatrobhayataḥ	_	_	_	_	_	_	_	_
+25	tatra	tatra	ADV	_		_	_	_	LemmaId=95978|OccId=1396603|Unsandhied=tatra|UnsandhiedReconstructed=True|WordSem=97344
+26	ubhayatas	ubhayatas	ADV	_		_	_	_	LemmaId=46229|OccId=1396604|Unsandhied=ubhayatas|UnsandhiedReconstructed=True
+27-28	saṃśodhanamāseveta	_	_	_	_	_	_	_	_
+27	saṃśodhanam	saṃśodhana	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	_	_	_	LemmaId=8203|OccId=1396605|Unsandhied=saṃśodhanam|UnsandhiedReconstructed=True|WordSem=128309
+28	āseveta	āsev	VERB	_	Tense=Pres|Mood=Opt|Person=3|Number=Sing	_	_	_	LemmaId=160009|OccId=1396606|Unsandhied=āseveta|WordSem=92041
+29	evam	evam	ADV	_		_	_	_	LemmaId=39758|OccId=5884326|Unsandhied=evam
+30-31	akurvatas	_	_	_	_	_	_	_	_
+30	a	a	PART	_		_	_	_	LemmaId=213048|OccId=5884334|Unsandhied=a
+31	kurvataḥ	kṛ	VERB	_	Case=Gen|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part	_	_	_	LemmaId=156168|OccId=5884335|Unsandhied=kurvataḥ
+32	tasya	tad	PRON	_	Case=Gen|Gender=Masc|Number=Sing	_	_	_	LemmaId=37875|OccId=5884327|Unsandhied=tasya
+33	doṣāḥ	doṣa	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	_	_	_	LemmaId=90071|OccId=1396610|Unsandhied=doṣāḥ|UnsandhiedReconstructed=True|WordSem=100530
+34	pravṛddhā	pravṛdh	VERB	_	Case=Nom|Gender=Masc|Number=Plur|VerbForm=Part	_	_	_	LemmaId=163068|OccId=1396611|Unsandhied=pravṛddhāḥ|UnsandhiedReconstructed=True|WordSem=85144
+35-36	māṃsaśoṇite	_	_	_	_	_	_	_	_
+35	māṃsa	māṃsa	NOUN	_	Case=Cpd	_	_	_	LemmaId=78223|OccId=1396612|Unsandhied=māṃsa|UnsandhiedReconstructed=True|WordSem=25895
+36	śoṇite	śoṇita	NOUN	_	Case=Acc|Gender=Neut|Number=Dual	_	_	_	LemmaId=127801|OccId=1396613|Unsandhied=śoṇite|UnsandhiedReconstructed=True|WordSem=26502
+37	pradūṣya	pradūṣay	VERB	_	VerbForm=Conv	_	_	_	LemmaId=162882|OccId=1396614|Unsandhied=pradūṣya|UnsandhiedReconstructed=True|WordSem=85357
+38	śophaṃ	śopha	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	_	_	_	LemmaId=127819|OccId=1396615|Unsandhied=śopham|UnsandhiedReconstructed=True|WordSem=128427
+39-40	janayantyupadravān	_	_	_	_	_	_	_	_
+39	janayanti	janay	VERB	_	Tense=Pres|Mood=Ind|Person=3|Number=Plur	_	_	_	LemmaId=157870|OccId=1396616|Unsandhied=janayanti|WordSem=91730
+40	upadravān	upadrava	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	_	_	_	LemmaId=45083|OccId=1396617|Unsandhied=upadravān|UnsandhiedReconstructed=True|WordSem=126605
+41	vā	vā	CONJ	_		_	_	_	LemmaId=75765|OccId=1396618|Unsandhied=vā|UnsandhiedReconstructed=True|WordSem=127042
+42	kāṃścit	kaścit	PRON	_	Case=Acc|Gender=Masc|Number=Plur	_	_	_	LemmaId=164309|OccId=1396619|Unsandhied=kāṃścid|UnsandhiedReconstructed=True|Punctuation=fullStop|WordSem=75414
+43-44	tatroktaḥ	_	_	_	_	_	_	_	_
+43	tatra	tatra	ADV	_		_	_	_	LemmaId=95978|OccId=1396620|Unsandhied=tatra|UnsandhiedReconstructed=True|WordSem=97344
+44	uktaḥ	vac	VERB	_	Case=Nom|Gender=Masc|Number=Sing|VerbForm=Part	_	_	_	LemmaId=157264|OccId=1396621|Unsandhied=uktaḥ|UnsandhiedReconstructed=True|WordSem=88645
+45	pratīkāraḥ	pratīkāra	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=139904|OccId=1396622|Unsandhied=pratīkāraḥ|UnsandhiedReconstructed=True|WordSem=3318
+46-47	sirāmokṣaśca	_	_	_	_	_	_	_	_
+46	sirāmokṣaḥ	sirāmokṣa	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=106417|OccId=1396623|Unsandhied=sirāmokṣaḥ|UnsandhiedReconstructed=True|WordSem=128392
+47	ca	ca	CONJ	_		_	_	_	LemmaId=157144|OccId=1396624|Unsandhied=ca|UnsandhiedReconstructed=True|Punctuation=fullStop|WordSem=104004
+48	evam	evam	ADV	_		_	_	_	LemmaId=39758|OccId=5884328|Unsandhied=evam
+49-50	akurvatas	_	_	_	_	_	_	_	_
+49	a	a	PART	_		_	_	_	LemmaId=213048|OccId=5884336|Unsandhied=a
+50	kurvataḥ	kṛ	VERB	_	Case=Gen|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part	_	_	_	LemmaId=156168|OccId=5884337|Unsandhied=kurvataḥ
+51	tasya	tad	PRON	_	Case=Gen|Gender=Masc|Number=Sing	_	_	_	LemmaId=37875|OccId=5884329|Unsandhied=tasya
+52	śopho	śopha	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=127819|OccId=1396628|Unsandhied=śophaḥ|UnsandhiedReconstructed=True|WordSem=128427
+53	vṛddho	vṛdh	VERB	_	Case=Nom|Gender=Masc|Number=Sing|VerbForm=Part	_	_	_	LemmaId=157334|OccId=1396629|Unsandhied=vṛddhaḥ|UnsandhiedReconstructed=True|WordSem=85144
+54	'timātraṃ	atimātram	ADV	_		_	_	_	LemmaId=7230|OccId=1396630|Unsandhied=atimātram|UnsandhiedReconstructed=True|WordSem=96881
+55	rujo	ruj	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	_	_	_	LemmaId=71545|OccId=1396631|Unsandhied=rujaḥ|UnsandhiedReconstructed=True|WordSem=62252
+56-57	vidāhamāpadyate	_	_	_	_	_	_	_	_
+56	vidāham	vidāha	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	_	_	_	LemmaId=122750|OccId=1396632|Unsandhied=vidāham|UnsandhiedReconstructed=True|WordSem=62263
+57	āpadyate	āpad	VERB	_	Tense=Pres|Mood=Ind|Person=3|Number=Sing	_	_	_	LemmaId=159812|OccId=1396633|Unsandhied=āpadyate|WordSem=128654
+58	tatra	tatra	ADV	_		_	_	_	LemmaId=95978|OccId=1396634|Unsandhied=tatra|UnsandhiedReconstructed=True|WordSem=97344
+59-61	śastrapraṇidhānamuktaṃ	_	_	_	_	_	_	_	_
+59	śastra	śastra	NOUN	_	Case=Cpd	_	_	_	LemmaId=131110|OccId=1396635|Unsandhied=śastra|UnsandhiedReconstructed=True|WordSem=21812
+60	praṇidhānam	praṇidhāna	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=150877|OccId=1396636|Unsandhied=praṇidhānam|UnsandhiedReconstructed=True|WordSem=3468
+61	uktam	vac	VERB	_	Case=Nom|Gender=Neut|Number=Sing|VerbForm=Part	_	_	_	LemmaId=157264|OccId=1396637|Unsandhied=uktam|UnsandhiedReconstructed=True
+62-64	vraṇakriyopasevā	_	_	_	_	_	_	_	_
+62	vraṇa	vraṇa	NOUN	_	Case=Cpd	_	_	_	LemmaId=116236|OccId=1396638|Unsandhied=vraṇa|UnsandhiedReconstructed=True|WordSem=62124
+63	kriyā	kriyā	NOUN	_	Case=Cpd	_	_	_	LemmaId=133808|OccId=1396639|Unsandhied=kriyā|UnsandhiedReconstructed=True|WordSem=3309
+64	upasevā	upasevā	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	_	_	_	LemmaId=45804|OccId=1396640|Unsandhied=upasevā|UnsandhiedReconstructed=True|WordSem=4417
+65	ca	ca	CONJ	_		_	_	_	LemmaId=157144|OccId=1396641|Unsandhied=ca|UnsandhiedReconstructed=True|Punctuation=fullStop|WordSem=104004
+66	evam	evam	ADV	_		_	_	_	LemmaId=39758|OccId=5884330|Unsandhied=evam
+67-68	akurvatas	_	_	_	_	_	_	_	_
+67	a	a	PART	_		_	_	_	LemmaId=213048|OccId=5884338|Unsandhied=a
+68	kurvataḥ	kṛ	VERB	_	Case=Gen|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part	_	_	_	LemmaId=156168|OccId=5884339|Unsandhied=kurvataḥ
+69	tasya	tad	PRON	_	Case=Gen|Gender=Masc|Number=Sing	_	_	_	LemmaId=37875|OccId=5884331|Unsandhied=tasya
+70	pūyo	pūya	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=145564|OccId=1396645|Unsandhied=pūyaḥ|UnsandhiedReconstructed=True|WordSem=26554
+71-73	'bhyantaramavadāryotsaṅgaṃ	_	_	_	_	_	_	_	_
+71	abhyantaram	abhyantara	ADJ	_	Case=Acc|Gender=Masc|Number=Sing	_	_	_	LemmaId=31320|OccId=1396646|Unsandhied=abhyantaram|UnsandhiedReconstructed=True|WordSem=71885
+72	avadārya	avadāray	VERB	_	VerbForm=Conv	_	_	_	LemmaId=159530|OccId=1396647|Unsandhied=avadārya|UnsandhiedReconstructed=True|WordSem=95294
+73	utsaṅgam	utsaṅga	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	_	_	_	LemmaId=56069|OccId=1396648|Unsandhied=utsaṅgam|UnsandhiedReconstructed=True|WordSem=62225
+74-75	mahāntamavakāśaṃ	_	_	_	_	_	_	_	_
+74	mahantam	mahat	ADJ	_	Case=Acc|Gender=Masc|Number=Sing	_	_	_	LemmaId=37544|OccId=1396649|Unsandhied=mahantam|UnsandhiedReconstructed=True|WordSem=74403
+75	avakāśam	avakāśa	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	_	_	_	LemmaId=53938|OccId=1396650|Unsandhied=avakāśam|UnsandhiedReconstructed=True|WordSem=26043
+76	kṛtvā	kṛ	VERB	_	VerbForm=Conv	_	_	_	LemmaId=156168|OccId=1396651|Unsandhied=kṛtvā|UnsandhiedReconstructed=True|WordSem=91730
+77	pravṛddho	pravṛdh	VERB	_	Case=Nom|Gender=Masc|Number=Sing|VerbForm=Part	_	_	_	LemmaId=163068|OccId=1396652|Unsandhied=pravṛddhaḥ|UnsandhiedReconstructed=True|WordSem=85144
+78-79	bhavatyasādhyas	_	_	_	_	_	_	_	_
+78	bhavati	bhū	VERB	_	Tense=Pres|Mood=Ind|Person=3|Number=Sing	_	_	_	LemmaId=157250|OccId=1396919|Unsandhied=bhavati|WordSem=85114
+79	asādhyaḥ	asādhya	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=60934|OccId=1396920|Unsandhied=asādhyaḥ|UnsandhiedReconstructed=True|Punctuation=fullStop|WordSem=72128
+80	tasmād	tad	PRON	_	Case=Abl|Gender=Neut|Number=Sing	_	_	_	LemmaId=37875|OccId=1396653|Unsandhied=tasmāt|UnsandhiedReconstructed=True
+81	ādita	āditas	ADV	_		_	_	_	LemmaId=57987|OccId=1396654|Unsandhied=āditas|UnsandhiedReconstructed=True
+82	eva	eva	PART	_		_	_	_	LemmaId=39754|OccId=1396655|Unsandhied=eva|UnsandhiedReconstructed=True
+83	pramehiṇam	pramehin	ADJ	_	Case=Acc|Gender=Masc|Number=Sing	_	_	_	LemmaId=154457|OccId=1396656|Unsandhied=pramehinam|UnsandhiedReconstructed=True|WordSem=129182
+84	upakramet	upakram	VERB	_	Tense=Pres|Mood=Opt|Person=3|Number=Sing	_	_	_	LemmaId=160353|OccId=1396657|Unsandhied=upakramet|Punctuation=fullStop|WordSem=94431
 
 # text = bhallātakabilvāmbupippalīmūlodakīryāvarṣābhūpunarnavācitrakaśaṭīsnuhīvaruṇakapuṣkaradantīpathyā daśapalonmitā yavakolakulatthāṃś ca prāsthikān saliladroṇe niṣkvāthya caturbhāgāvaśiṣṭe 'vatārya vacātrivṛtkampillakabhārgīniculaśuṇṭhīgajapippalīviḍaṅgarodhraśirīṣāṇāṃ bhāgair ardhapalikair ghṛtaprasthaṃ vipācayen mehaśvayathukuṣṭhagulmodarārśaḥplīhavidradhipiḍakānāṃ nāśanaṃ nāmnā dhānvantaram
 # sent_id = 7734
@@ -689,16 +693,19 @@
 4	mahā	mahat	ADJ	_	Case=Cpd	_	_	_	LemmaId=37544|OccId=1396903|Unsandhied=mahā|UnsandhiedReconstructed=True
 5	guṇaḥ	guṇa	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=124503|OccId=1396904|Unsandhied=guṇaḥ|UnsandhiedReconstructed=True|WordSem=23542
 
-# text = pramehiṇo yadā mūtramapicchilamanāvilam
+# text = pramehiṇo yadā mūtram apicchilam anāvilam
 # sent_id = 7758
 # sent_counter = 20
 # sent_subcounter = 1
 1	pramehiṇo	pramehin	ADJ	_	Case=Gen|Gender=Masc|Number=Sing	_	_	_	LemmaId=154457|OccId=1396905|Unsandhied=pramehinaḥ|UnsandhiedReconstructed=True|WordSem=129182
 2	yadā	yadā	SCONJ	_		_	_	_	LemmaId=73645|OccId=1396906|Unsandhied=yadā|UnsandhiedReconstructed=True
-3-5	mūtramapicchilamanāvilam	_	_	_	_	_	_	_	_
-3	mūtram	mūtra	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=136408|OccId=1396907|Unsandhied=mūtram|UnsandhiedReconstructed=True|WordSem=64525
-4	apicchilam	apicchila	ADJ	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=21375|OccId=1396908|Unsandhied=apicchilam|UnsandhiedReconstructed=True|WordSem=68997
-5	anāvilam	anāvila	ADJ	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=10383|OccId=1396909|Unsandhied=anāvilam|UnsandhiedReconstructed=True|WordSem=77442
+3	mūtram	mūtra	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=136408|OccId=5901696|Unsandhied=mūtram
+4-5	apicchilam	_	_	_	_	_	_	_	_
+4	a	a	PART	_		_	_	_	LemmaId=213048|OccId=5901697|Unsandhied=a
+5	picchilam	picchila	ADJ	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=94654|OccId=5901698|Unsandhied=picchilam
+6-7	anāvilam	_	_	_	_	_	_	_	_
+6	an	an	PART	_		_	_	_	LemmaId=213304|OccId=5901699|Unsandhied=an
+7	āvilam	āvila	ADJ	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=173599|OccId=5901700|Unsandhied=āvilam|Punctuation=comma
 
 # text = viśadaṃ tiktakaṭukaṃ tadārogyaṃ pracakṣate
 # sent_id = 7759
@@ -711,5 +718,5 @@
 4-5	tadārogyaṃ	_	_	_	_	_	_	_	_
 4	tadā	tadā	ADV	_		_	_	_	LemmaId=96104|OccId=1396913|Unsandhied=tadā|UnsandhiedReconstructed=True|WordSem=97343
 5	ārogyam	ārogya	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	_	_	_	LemmaId=59483|OccId=1396914|Unsandhied=ārogyam|UnsandhiedReconstructed=True|WordSem=62818
-6	pracakṣate	pracakṣ	VERB	_	Tense=Pres|Mood=Ind|Person=3|Number=Plur	_	_	_	LemmaId=162382|OccId=1396915|Unsandhied=pracakṣate|WordSem=88580
+6	pracakṣate	pracakṣ	VERB	_	Tense=Pres|Mood=Ind|Person=3|Number=Plur	_	_	_	LemmaId=162382|OccId=1396915|Unsandhied=pracakṣate|Punctuation=fullStop|WordSem=88580
 

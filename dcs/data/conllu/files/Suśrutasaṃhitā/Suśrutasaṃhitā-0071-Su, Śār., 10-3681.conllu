@@ -1339,7 +1339,7 @@
 16	nām	nāman	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=33597|OccId=1441588|Unsandhied=nām|UnsandhiedReconstructed=True
 17	vā	vā	CONJ	_		_	_	_	LemmaId=75765|OccId=1441589|Unsandhied=vā|UnsandhiedReconstructed=True
 
-# text = tato yathāvarṇaṃ dhātrīmupeyānmadhyamapramāṇāṃ madhyamavayaskāmarogāṃ śīlavatīm acapalām alolupām akṛśām asthūlāṃ prasannakṣīrām alambauṣṭhīm alambordhvastanīm avyaṅgām avyasaninīṃ jīvadvatsāṃ dogdhrīṃ vatsalāmakṣudrakarmiṇīṃ kule jātāmato bhūyiṣṭhaiśca guṇairanvitāṃ śyāmāmārogyabalavṛddhaye bālasya
+# text = tato yathāvarṇaṃ dhātrīmupeyānmadhyamapramāṇāṃ madhyamavayaskāmarogāṃ śīlavatīm acapalām alolupām akṛśām asthūlāṃ prasannakṣīrām alambauṣṭhīm alambordhvastanīm avyaṅgām avyasaninīṃ jīvadvatsāṃ dogdhrīṃ vatsalām akṣudrakarmiṇīṃ kule jātāmato bhūyiṣṭhaiśca guṇairanvitāṃ śyāmāmārogyabalavṛddhaye bālasya
 # sent_id = 6486
 # sent_counter = 25
 # sent_subcounter = 1
@@ -1379,32 +1379,37 @@
 25	lamba	lamba	ADJ	_	Case=Cpd	_	_	_	LemmaId=80938|OccId=5406289|Unsandhied=lamba
 26	ūrdhva	ūrdhva	ADJ	_	Case=Cpd	_	_	_	LemmaId=38446|OccId=5406290|Unsandhied=ūrdhva
 27	stanīm	stana	ADJ	_	Case=Acc|Gender=Fem|Number=Sing	_	_	_	LemmaId=173678|OccId=5406291|Unsandhied=stanīm
-28	avyaṅgām	avyaṅga	ADJ	_	Case=Acc|Gender=Fem|Number=Sing	_	_	_	LemmaId=59744|OccId=1441722|Unsandhied=avyaṅgām|UnsandhiedReconstructed=True
-29	avyasaninīṃ	avyasanin	ADJ	_	Case=Acc|Gender=Fem|Number=Sing	_	_	_	LemmaId=59813|OccId=1441723|Unsandhied=avyasaninīm|UnsandhiedReconstructed=True
-30-31	jīvadvatsāṃ	_	_	_	_	_	_	_	_
-30	jīvat	jīv	VERB	_	Case=Cpd|Tense=Pres|VerbForm=Part	_	_	_	LemmaId=157146|OccId=1441604|Unsandhied=jīvat|UnsandhiedReconstructed=True
-31	vatsām	vatsa	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	_	_	_	LemmaId=68266|OccId=1441605|Unsandhied=vatsām|UnsandhiedReconstructed=True
-32	dogdhrīṃ	dogdhṛ	ADJ	_	Case=Acc|Gender=Fem|Number=Sing	_	_	_	LemmaId=90022|OccId=1441606|Unsandhied=dogdhrīm|UnsandhiedReconstructed=True
-33-35	vatsalāmakṣudrakarmiṇīṃ	_	_	_	_	_	_	_	_
-33	vatsalām	vatsala	ADJ	_	Case=Acc|Gender=Fem|Number=Sing	_	_	_	LemmaId=68332|OccId=1441607|Unsandhied=vatsalām|UnsandhiedReconstructed=True
-34	akṣudra	akṣudra	ADJ	_	Case=Cpd	_	_	_	LemmaId=5564|OccId=1441608|Unsandhied=akṣudra|UnsandhiedReconstructed=True
-35	karmiṇīm	karmin	ADJ	_	Case=Acc|Gender=Fem|Number=Sing	_	_	_	LemmaId=12400|OccId=1441609|Unsandhied=karmiṇīm|UnsandhiedReconstructed=True
-36	kule	kula	NOUN	_	Case=Loc|Gender=Neut|Number=Sing	_	_	_	LemmaId=24793|OccId=1441610|Unsandhied=kule|UnsandhiedReconstructed=True
-37-38	jātāmato	_	_	_	_	_	_	_	_
-37	jātām	jan	VERB	_	Case=Acc|Gender=Fem|Number=Sing|VerbForm=Part	_	_	_	LemmaId=156584|OccId=1441611|Unsandhied=jātām|UnsandhiedReconstructed=True
-38	atas	atas	ADV	_		_	_	_	LemmaId=6823|OccId=1441612|Unsandhied=atas|UnsandhiedReconstructed=True
-39-40	bhūyiṣṭhaiśca	_	_	_	_	_	_	_	_
-39	bhūyiṣṭhaiḥ	bhūyiṣṭha	ADJ	_	Case=Ins|Gender=Masc|Number=Plur	_	_	_	LemmaId=25557|OccId=1441613|Unsandhied=bhūyiṣṭhaiḥ|UnsandhiedReconstructed=True
-40	ca	ca	CONJ	_		_	_	_	LemmaId=157144|OccId=1441614|Unsandhied=ca|UnsandhiedReconstructed=True
-41-42	guṇairanvitāṃ	_	_	_	_	_	_	_	_
-41	guṇaiḥ	guṇa	NOUN	_	Case=Ins|Gender=Masc|Number=Plur	_	_	_	LemmaId=124503|OccId=1441615|Unsandhied=guṇaiḥ|UnsandhiedReconstructed=True
-42	anvitām	anvita	ADJ	_	Case=Acc|Gender=Fem|Number=Sing	_	_	_	LemmaId=20631|OccId=1441616|Unsandhied=anvitām|UnsandhiedReconstructed=True
-43-46	śyāmāmārogyabalavṛddhaye	_	_	_	_	_	_	_	_
-43	śyāmām	śyāma	ADJ	_	Case=Acc|Gender=Fem|Number=Sing	_	_	_	LemmaId=127912|OccId=1441617|Unsandhied=śyāmām|UnsandhiedReconstructed=True
-44	ārogya	ārogya	NOUN	_	Case=Cpd	_	_	_	LemmaId=59483|OccId=1441618|Unsandhied=ārogya|UnsandhiedReconstructed=True
-45	bala	bala	NOUN	_	Case=Cpd	_	_	_	LemmaId=154315|OccId=1441619|Unsandhied=bala|UnsandhiedReconstructed=True
-46	vṛddhaye	vṛddhi	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	_	_	_	LemmaId=142807|OccId=1441620|Unsandhied=vṛddhaye|UnsandhiedReconstructed=True
-47	bālasya	bāla	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	_	_	_	LemmaId=147894|OccId=1441621|Unsandhied=bālasya|UnsandhiedReconstructed=True
+28-29	avyaṅgām	_	_	_	_	_	_	_	_
+28	a	a	PART	_		_	_	_	LemmaId=213048|OccId=5886502|Unsandhied=a
+29	vyaṅgām	vyaṅga	ADJ	_	Case=Acc|Gender=Fem|Number=Sing	_	_	_	LemmaId=120936|OccId=5886503|Unsandhied=vyaṅgām
+30-31	avyasaninīṃ	_	_	_	_	_	_	_	_
+30	a	a	PART	_		_	_	_	LemmaId=213048|OccId=5886504|Unsandhied=a
+31	vyasaninīm	vyasanin	ADJ	_	Case=Acc|Gender=Fem|Number=Sing	_	_	_	LemmaId=119030|OccId=5886505|Unsandhied=vyasaninīm
+32-33	jīvadvatsāṃ	_	_	_	_	_	_	_	_
+32	jīvat	jīv	VERB	_	Case=Cpd|Tense=Pres|VerbForm=Part	_	_	_	LemmaId=157146|OccId=1441604|Unsandhied=jīvat|UnsandhiedReconstructed=True
+33	vatsām	vatsa	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	_	_	_	LemmaId=68266|OccId=1441605|Unsandhied=vatsām|UnsandhiedReconstructed=True
+34	dogdhrīṃ	dogdhṛ	ADJ	_	Case=Acc|Gender=Fem|Number=Sing	_	_	_	LemmaId=90022|OccId=1441606|Unsandhied=dogdhrīm|UnsandhiedReconstructed=True
+35	vatsalām	vatsala	ADJ	_	Case=Acc|Gender=Fem|Number=Sing	_	_	_	LemmaId=68332|OccId=5881503|Unsandhied=vatsalām
+36-38	akṣudrakarmiṇīṃ	_	_	_	_	_	_	_	_
+36	a	a	PART	_		_	_	_	LemmaId=213048|OccId=5881504|Unsandhied=a
+37	kṣudra	kṣudra	ADJ	_	Case=Cpd	_	_	_	LemmaId=135530|OccId=5881505|Unsandhied=kṣudra
+38	karmiṇīm	karmin	ADJ	_	Case=Acc|Gender=Fem|Number=Sing	_	_	_	LemmaId=12400|OccId=5881506|Unsandhied=karmiṇīm
+39	kule	kula	NOUN	_	Case=Loc|Gender=Neut|Number=Sing	_	_	_	LemmaId=24793|OccId=1441610|Unsandhied=kule|UnsandhiedReconstructed=True
+40-41	jātāmato	_	_	_	_	_	_	_	_
+40	jātām	jan	VERB	_	Case=Acc|Gender=Fem|Number=Sing|VerbForm=Part	_	_	_	LemmaId=156584|OccId=1441611|Unsandhied=jātām|UnsandhiedReconstructed=True
+41	atas	atas	ADV	_		_	_	_	LemmaId=6823|OccId=1441612|Unsandhied=atas|UnsandhiedReconstructed=True
+42-43	bhūyiṣṭhaiśca	_	_	_	_	_	_	_	_
+42	bhūyiṣṭhaiḥ	bhūyiṣṭha	ADJ	_	Case=Ins|Gender=Masc|Number=Plur	_	_	_	LemmaId=25557|OccId=1441613|Unsandhied=bhūyiṣṭhaiḥ|UnsandhiedReconstructed=True
+43	ca	ca	CONJ	_		_	_	_	LemmaId=157144|OccId=1441614|Unsandhied=ca|UnsandhiedReconstructed=True
+44-45	guṇairanvitāṃ	_	_	_	_	_	_	_	_
+44	guṇaiḥ	guṇa	NOUN	_	Case=Ins|Gender=Masc|Number=Plur	_	_	_	LemmaId=124503|OccId=1441615|Unsandhied=guṇaiḥ|UnsandhiedReconstructed=True
+45	anvitām	anvita	ADJ	_	Case=Acc|Gender=Fem|Number=Sing	_	_	_	LemmaId=20631|OccId=1441616|Unsandhied=anvitām|UnsandhiedReconstructed=True
+46-49	śyāmāmārogyabalavṛddhaye	_	_	_	_	_	_	_	_
+46	śyāmām	śyāma	ADJ	_	Case=Acc|Gender=Fem|Number=Sing	_	_	_	LemmaId=127912|OccId=1441617|Unsandhied=śyāmām|UnsandhiedReconstructed=True
+47	ārogya	ārogya	NOUN	_	Case=Cpd	_	_	_	LemmaId=59483|OccId=1441618|Unsandhied=ārogya|UnsandhiedReconstructed=True
+48	bala	bala	NOUN	_	Case=Cpd	_	_	_	LemmaId=154315|OccId=1441619|Unsandhied=bala|UnsandhiedReconstructed=True
+49	vṛddhaye	vṛddhi	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	_	_	_	LemmaId=142807|OccId=1441620|Unsandhied=vṛddhaye|UnsandhiedReconstructed=True
+50	bālasya	bāla	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	_	_	_	LemmaId=147894|OccId=1441621|Unsandhied=bālasya|UnsandhiedReconstructed=True
 
 # text = tatrordhvastanī karālaṃ kuryāt lambastanī nāsikāmukhaṃ chādayitvā maraṇam āpādayet
 # sent_id = 6487

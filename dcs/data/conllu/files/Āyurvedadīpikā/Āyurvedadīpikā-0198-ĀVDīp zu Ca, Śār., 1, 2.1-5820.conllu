@@ -2,8 +2,8 @@
 ## text_id: 148
 ## chapter: ĀVDīp zu Ca, Śār., 1, 2.1
 ## chapter_id: 5820
-# text = nidānasthāne jñātahetvādinā tathā vimāne pratītarasadoṣādimānena kartavyacikitsāyā adhikaraṇaṃ śarīraṃ jñātavyaṃ bhavati yato'pratipanne 'śeṣāviśeṣataḥ śarīre na śarīravijñānādhīnā cikitsā sādhvī bhavati ataḥ śarīraṃ kāraṇotpattisthitivṛddhyādiviśeṣaiḥ pratipādayituṃ śārīraṃ sthānamucyate
-# sent_id = 152006
+# text = nidānasthāne jñātahetvādinā tathā vimāne pratītarasadoṣādimānena kartavyacikitsāyā adhikaraṇaṃ śarīraṃ jñātavyaṃ bhavati yato 'pratipanne 'śeṣāviśeṣataḥ śarīre na śarīravijñānādhīnā cikitsā sādhvī bhavati ataḥ śarīraṃ kāraṇotpattisthitivṛddhyādiviśeṣaiḥ pratipādayituṃ śārīraṃ sthānamucyate
+# sent_id = 152008
 # sent_counter = 1
 # sent_subcounter = 
 1	nidānasthāne	nidānasthāna	NOUN	_	Case=Loc|Gender=Neut|Number=Sing	_	_	_	LemmaId=207520|OccId=2502549|Unsandhied=nidānasthāne|UnsandhiedReconstructed=True
@@ -26,12 +26,11 @@
 15	śarīraṃ	śarīra	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=116860|OccId=2502563|Unsandhied=śarīram|UnsandhiedReconstructed=True
 16	jñātavyaṃ	jñā	VERB	_	Case=Nom|Gender=Neut|Number=Sing|VerbForm=Gdv	_	_	_	LemmaId=157151|OccId=2502564|Unsandhied=jñātavyam|UnsandhiedReconstructed=True
 17	bhavati	bhū	VERB	_	Tense=Pres|Mood=Ind|Person=3|Number=Sing	_	_	_	LemmaId=157250|OccId=2502565|Unsandhied=bhavati|Punctuation=fullStop
-18-19	yato'pratipanne	_	_	_	_	_	_	_	_
-18	yatas	yatas	SCONJ	_		_	_	_	LemmaId=73226|OccId=2502590|Unsandhied=yatas|UnsandhiedReconstructed=True
-19	apratipanne	apratipanna	ADJ	_	Case=Loc|Gender=Neut|Number=Sing	_	_	_	LemmaId=21631|OccId=2502591|Unsandhied=apratipanne|UnsandhiedReconstructed=True
-20-21	'śeṣāviśeṣataḥ	_	_	_	_	_	_	_	_
-20	aśeṣa	aśeṣa	ADJ	_	Case=Cpd	_	_	_	LemmaId=60026|OccId=2502592|Unsandhied=aśeṣa|UnsandhiedReconstructed=True
-21	aviśeṣatas	aviśeṣatas	ADV	_		_	_	_	LemmaId=55161|OccId=2502593|Unsandhied=aviśeṣatas|UnsandhiedReconstructed=True
+18	yato	yatas	SCONJ	_		_	_	_	LemmaId=73226|OccId=5896701|Unsandhied=yatas
+19-21	'śeṣāviśeṣataḥ	_	_	_	_	_	_	_	_
+19	aśeṣa	aśeṣa	ADJ	_	Case=Cpd	_	_	_	LemmaId=60026|OccId=5896702|Unsandhied=aśeṣa
+20	a	a	PART	_		_	_	_	LemmaId=213048|OccId=5896703|Unsandhied=a
+21	viśeṣataḥ	viśeṣa	NOUN	_	Case=Abl|Gender=Masc|Number=Sing	_	_	_	LemmaId=139220|OccId=5896704|Unsandhied=viśeṣataḥ
 22	śarīre	śarīra	NOUN	_	Case=Loc|Gender=Neut|Number=Sing	_	_	_	LemmaId=116860|OccId=2502566|Unsandhied=śarīre|UnsandhiedReconstructed=True
 23	na	na	PART	_		_	_	_	LemmaId=43432|OccId=2502567|Unsandhied=na|UnsandhiedReconstructed=True
 24-26	śarīravijñānādhīnā	_	_	_	_	_	_	_	_
@@ -57,7 +56,7 @@
 41	ucyate	vac	VERB	_	Tense=Pres|Mood=Ind|Voice=Pass|Person=3|Number=Sing	_	_	_	LemmaId=157264|OccId=2502585|Unsandhied=ucyate|Punctuation=fullStop
 
 # text = atrāpi cātyantaduḥkhoparamamokṣakāraṇacikitsopayuktapuruṣabhedādipratipādakatayā pradhānatvena katidhāpuruṣīyo 'dhyāyo 'bhidhīyate
-# sent_id = 152007
+# sent_id = 152009
 # sent_counter = 2
 # sent_subcounter = 
 1-2	atrāpi	_	_	_	_	_	_	_	_

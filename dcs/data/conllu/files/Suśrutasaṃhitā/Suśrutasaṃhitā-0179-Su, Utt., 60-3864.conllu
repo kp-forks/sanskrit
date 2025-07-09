@@ -90,9 +90,10 @@
 4	kṣataṃ	kṣan	VERB	_	Case=Acc|Gender=Masc|Number=Sing|VerbForm=Part	_	_	_	LemmaId=156192|OccId=1543270|Unsandhied=kṣatam|UnsandhiedReconstructed=True
 5	vā	vā	CONJ	_		_	_	_	LemmaId=75765|OccId=1543271|Unsandhied=vā|UnsandhiedReconstructed=True
 6	yadi	yadi	SCONJ	_		_	_	_	LemmaId=73699|OccId=1543272|Unsandhied=yadi|UnsandhiedReconstructed=True
-7-8	vākṣatam	_	_	_	_	_	_	_	_
-7	vā	vā	CONJ	_		_	_	_	LemmaId=75765|OccId=1543273|Unsandhied=vā|UnsandhiedReconstructed=True
-8	akṣatam	akṣata	ADJ	_	Case=Acc|Gender=Masc|Number=Sing	_	_	_	LemmaId=5455|OccId=1543274|Unsandhied=akṣatam|UnsandhiedReconstructed=True
+7-9	vākṣatam	_	_	_	_	_	_	_	_
+7	vā	vā	CONJ	_		_	_	_	LemmaId=75765|OccId=5896713|Unsandhied=vā
+8	a	a	PART	_		_	_	_	LemmaId=213048|OccId=5896714|Unsandhied=a
+9	kṣatam	kṣan	VERB	_	Case=Acc|Gender=Masc|Number=Sing|VerbForm=Part	_	_	_	LemmaId=156192|OccId=5896715|Unsandhied=kṣatam
 
 # text = hiṃsyurhiṃsāvihārārthaṃ satkārārthamathāpi vā
 # sent_id = 16254
@@ -177,7 +178,7 @@
 11	graha	graha	NOUN	_	Case=Cpd	_	_	_	LemmaId=125579|OccId=1543317|Unsandhied=graha|UnsandhiedReconstructed=True
 12	ākhyaḥ	ākhyā	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=61995|OccId=1543318|Unsandhied=ākhyaḥ|UnsandhiedReconstructed=True
 
-# text = saṃtuṣṭaḥ śucirapi ceṣṭagandhamālyo nistandrī hyavitathasaṃskṛtaprabhāṣī
+# text = saṃtuṣṭaḥ śucirapi ceṣṭagandhamālyo nistandrī hy avitathasaṃskṛtaprabhāṣī
 # sent_id = 16259
 # sent_counter = 8
 # sent_subcounter = 1
@@ -191,11 +192,12 @@
 6	gandha	gandha	NOUN	_	Case=Cpd	_	_	_	LemmaId=130008|OccId=1543606|Unsandhied=gandha|UnsandhiedReconstructed=True|WordSem=19555
 7	mālyaḥ	mālya	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=79515|OccId=1543607|Unsandhied=mālyaḥ|UnsandhiedReconstructed=True|WordSem=23024
 8	nistandrī	nistandra	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=34680|OccId=1543580|Unsandhied=nistandraḥ|UnsandhiedReconstructed=True|WordSem=72265
-9-12	hyavitathasaṃskṛtaprabhāṣī	_	_	_	_	_	_	_	_
-9	hi	hi	PART	_		_	_	_	LemmaId=109879|OccId=2000972|Unsandhied=hi|UnsandhiedReconstructed=True
-10	avitatha	avitatha	ADJ	_	Case=Cpd	_	_	_	LemmaId=54960|OccId=2000973|Unsandhied=avitatha|UnsandhiedReconstructed=True|WordSem=79560
-11	saṃskṛta	saṃskṛta	NOUN	_	Case=Cpd	_	_	_	LemmaId=8393|OccId=2000974|Unsandhied=saṃskṛta|UnsandhiedReconstructed=True|WordSem=32718
-12	prabhāṣī	prabhāṣin	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=140755|OccId=2000975|Unsandhied=prabhāṣī|UnsandhiedReconstructed=True|WordSem=104003
+9	hy	hi	PART	_		_	_	_	LemmaId=109879|OccId=5883064|Unsandhied=hi
+10-13	avitathasaṃskṛtaprabhāṣī	_	_	_	_	_	_	_	_
+10	a	a	PART	_		_	_	_	LemmaId=213048|OccId=5883065|Unsandhied=a
+11	vitatha	vitatha	ADJ	_	Case=Cpd	_	_	_	LemmaId=122631|OccId=5883066|Unsandhied=vitatha
+12	saṃskṛta	saṃskṛta	NOUN	_	Case=Cpd	_	_	_	LemmaId=8393|OccId=5883067|Unsandhied=saṃskṛta
+13	prabhāṣī	prabhāṣin	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=140755|OccId=5883068|Unsandhied=prabhāṣī
 
 # text = tejasvī sthiranayano varapradātā brahmaṇyo bhavati naraḥ sa devajuṣṭaḥ
 # sent_id = 16260

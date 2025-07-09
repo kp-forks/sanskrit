@@ -3,7 +3,7 @@
 ## chapter: RājMār zu YS, 3, 49.1
 ## chapter_id: 2143
 # text = tasmin śuddhe sāttvike pariṇāme kṛtasaṃyamasya yā sattvapuruṣayor utpadyate vivekakhyātiḥ sā anyatākhyātiḥ
-# sent_id = 351215
+# sent_id = 351217
 # sent_counter = 1
 # sent_subcounter = 
 1	tasmin	tad	PRON	_	Case=Loc|Gender=Masc|Number=Sing	_	_	_	LemmaId=37875|OccId=604784|Unsandhied=tasmin|UnsandhiedReconstructed=True
@@ -27,7 +27,7 @@
 15	khyātiḥ	khyāti	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	_	_	_	LemmaId=128916|OccId=604798|Unsandhied=khyātiḥ|UnsandhiedReconstructed=True
 
 # text = guṇānāṃ kartṛtvābhimānaśithilībhāvasvarūpāt tanmāhātmyāt tatraiva sthitasya yoginaḥ sarvabhāvādhiṣṭhātṛtvaṃ sarvajñātṛtvaṃ vā samādhir bhavati
-# sent_id = 351216
+# sent_id = 351218
 # sent_counter = 2
 # sent_subcounter = 
 1	guṇānāṃ	guṇa	NOUN	_	Case=Gen|Gender=Masc|Number=Plur	_	_	_	LemmaId=124503|OccId=604799|Unsandhied=guṇānām|UnsandhiedReconstructed=True
@@ -58,7 +58,7 @@
 21	bhavati	bhū	VERB	_	Tense=Pres|Mood=Ind|Person=3|Number=Sing	_	_	_	LemmaId=157250|OccId=604810|Unsandhied=bhavati
 
 # text = sarveṣāṃ guṇapariṇāmānāṃ bhāvānāṃ svāmivadākramaṇaṃ sarvabhāvādhiṣṭhātṛtvam
-# sent_id = 351217
+# sent_id = 351219
 # sent_counter = 3
 # sent_subcounter = 
 1	sarveṣāṃ	sarva	PRON	_	Case=Gen|Gender=Masc|Number=Plur	_	_	_	LemmaId=104444|OccId=604811|Unsandhied=sarveṣām|UnsandhiedReconstructed=True
@@ -77,29 +77,30 @@
 11	tvam	tva	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=163754|OccId=2459562|Unsandhied=tvam|UnsandhiedReconstructed=True
 
 # text = teṣāmeva śāntoditāvyapadeśyadharmatvena sthitānāṃ yathāvad vivekajñānaṃ sarvajñātṛtvam
-# sent_id = 351218
+# sent_id = 351220
 # sent_counter = 4
 # sent_subcounter = 
 1-2	teṣāmeva	_	_	_	_	_	_	_	_
 1	teṣām	tad	PRON	_	Case=Gen|Gender=Masc|Number=Plur	_	_	_	LemmaId=37875|OccId=604821|Unsandhied=teṣām|UnsandhiedReconstructed=True
 2	eva	eva	PART	_		_	_	_	LemmaId=39754|OccId=604822|Unsandhied=eva|UnsandhiedReconstructed=True
-3-7	śāntoditāvyapadeśyadharmatvena	_	_	_	_	_	_	_	_
-3	śānta	śam	VERB	_	Case=Cpd|VerbForm=Part	_	_	_	LemmaId=157809|OccId=3122984|Unsandhied=śānta|UnsandhiedReconstructed=True
-4	udita	udi	VERB	_	Case=Cpd|VerbForm=Part	_	_	_	LemmaId=160196|OccId=3122985|Unsandhied=udita|UnsandhiedReconstructed=True
-5	avyapadeśya	avyapadeśya	ADJ	_	Case=Cpd	_	_	_	LemmaId=59774|OccId=3122986|Unsandhied=avyapadeśya|UnsandhiedReconstructed=True
-6	dharma	dharma	NOUN	_	Case=Cpd	_	_	_	LemmaId=91970|OccId=3122987|Unsandhied=dharma|UnsandhiedReconstructed=True
-7	tvena	tva	NOUN	_	Case=Ins|Gender=Neut|Number=Sing	_	_	_	LemmaId=163754|OccId=3122988|Unsandhied=tvena|UnsandhiedReconstructed=True
-8	sthitānāṃ	sthā	VERB	_	Case=Gen|Gender=Masc|Number=Plur|VerbForm=Part	_	_	_	LemmaId=157340|OccId=604827|Unsandhied=sthitānām|UnsandhiedReconstructed=True
-9	yathāvad	yathāvat	ADV	_		_	_	_	LemmaId=73486|OccId=604856|Unsandhied=yathāvat|UnsandhiedReconstructed=True
-10-11	vivekajñānaṃ	_	_	_	_	_	_	_	_
-10	viveka	viveka	NOUN	_	Case=Cpd	_	_	_	LemmaId=138678|OccId=604828|Unsandhied=viveka|UnsandhiedReconstructed=True
-11	jñānam	jñāna	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=89644|OccId=604829|Unsandhied=jñānam|UnsandhiedReconstructed=True
-12-13	sarvajñātṛtvam	_	_	_	_	_	_	_	_
-12	sarvajñātṛ	sarvajñātṛ	ADJ	_	Case=Cpd	_	_	_	LemmaId=104541|OccId=604830|Unsandhied=sarvajñātṛ|UnsandhiedReconstructed=True
-13	tvam	tva	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=163754|OccId=604831|Unsandhied=tvam|UnsandhiedReconstructed=True
+3-8	śāntoditāvyapadeśyadharmatvena	_	_	_	_	_	_	_	_
+3	śānta	śam	VERB	_	Case=Cpd|VerbForm=Part	_	_	_	LemmaId=157809|OccId=5892792|Unsandhied=śānta
+4	udita	udi	VERB	_	Case=Cpd|VerbForm=Part	_	_	_	LemmaId=160196|OccId=5892793|Unsandhied=udita
+5	a	a	PART	_		_	_	_	LemmaId=213048|OccId=5892794|Unsandhied=a
+6	vyapadeśya	vyapadiś	VERB	_	Case=Cpd|VerbForm=Gdv	_	_	_	LemmaId=164552|OccId=5892795|Unsandhied=vyapadeśya
+7	dharma	dharma	NOUN	_	Case=Cpd	_	_	_	LemmaId=91970|OccId=5892796|Unsandhied=dharma
+8	tvena	tva	NOUN	_	Case=Ins|Gender=Neut|Number=Sing	_	_	_	LemmaId=163754|OccId=5892797|Unsandhied=tvena
+9	sthitānāṃ	sthā	VERB	_	Case=Gen|Gender=Masc|Number=Plur|VerbForm=Part	_	_	_	LemmaId=157340|OccId=604827|Unsandhied=sthitānām|UnsandhiedReconstructed=True
+10	yathāvad	yathāvat	ADV	_		_	_	_	LemmaId=73486|OccId=604856|Unsandhied=yathāvat|UnsandhiedReconstructed=True
+11-12	vivekajñānaṃ	_	_	_	_	_	_	_	_
+11	viveka	viveka	NOUN	_	Case=Cpd	_	_	_	LemmaId=138678|OccId=604828|Unsandhied=viveka|UnsandhiedReconstructed=True
+12	jñānam	jñāna	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=89644|OccId=604829|Unsandhied=jñānam|UnsandhiedReconstructed=True
+13-14	sarvajñātṛtvam	_	_	_	_	_	_	_	_
+13	sarvajñātṛ	sarvajñātṛ	ADJ	_	Case=Cpd	_	_	_	LemmaId=104541|OccId=604830|Unsandhied=sarvajñātṛ|UnsandhiedReconstructed=True
+14	tvam	tva	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=163754|OccId=604831|Unsandhied=tvam|UnsandhiedReconstructed=True
 
 # text = eṣā ca asmin śāstre parasyāṃ vaśīkārasaṃjñāyāṃ prāptāyāṃ viśokā nāma siddhir ityucyate
-# sent_id = 351219
+# sent_id = 351221
 # sent_counter = 5
 # sent_subcounter = 
 1	eṣā	etad	PRON	_	Case=Nom|Gender=Fem|Number=Sing	_	_	_	LemmaId=163744|OccId=604832|Unsandhied=eṣā|UnsandhiedReconstructed=True
@@ -119,7 +120,7 @@
 13	ucyate	vac	VERB	_	Tense=Pres|Mood=Ind|Voice=Pass|Person=3|Number=Sing	_	_	_	LemmaId=157264|OccId=604844|Unsandhied=ucyate
 
 # text = krameṇa bhūmikāntaram āha
-# sent_id = 351220
+# sent_id = 351222
 # sent_counter = 6
 # sent_subcounter = 1
 1	krameṇa	krameṇa	ADV	_		_	_	_	LemmaId=202973|OccId=3163527|Unsandhied=krameṇa|UnsandhiedReconstructed=True

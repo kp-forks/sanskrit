@@ -1194,7 +1194,7 @@
 6	pibet	pā	VERB	_	Tense=Pres|Mood=Opt|Person=3|Number=Sing	_	_	_	LemmaId=157391|OccId=1363855|Unsandhied=pibet|WordSem=89497
 7	ghṛtam	ghṛta	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	_	_	_	LemmaId=161166|OccId=1363856|Unsandhied=ghṛtam|UnsandhiedReconstructed=True|WordSem=37171
 
-# text = patanādabhighātādvā śūnamaṅgaṃ yadakṣatam
+# text = patanādabhighātādvā śūnamaṅgaṃ yad akṣatam
 # sent_id = 7133
 # sent_counter = 47
 # sent_subcounter = 1
@@ -1205,9 +1205,10 @@
 4-5	śūnamaṅgaṃ	_	_	_	_	_	_	_	_
 4	śūnam	śūna	ADJ	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=127175|OccId=1363860|Unsandhied=śūnam|UnsandhiedReconstructed=True|WordSem=73207
 5	aṅgam	aṅga	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=6145|OccId=1363861|Unsandhied=aṅgam|UnsandhiedReconstructed=True|WordSem=25729
-6-7	yadakṣatam	_	_	_	_	_	_	_	_
-6	yat	yad	PRON	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=37877|OccId=1363862|Unsandhied=yat|UnsandhiedReconstructed=True
-7	akṣatam	akṣata	ADJ	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=5455|OccId=1363863|Unsandhied=akṣatam|UnsandhiedReconstructed=True|WordSem=74034
+6	yad	yad	PRON	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=37877|OccId=5896708|Unsandhied=yat
+7-8	akṣatam	_	_	_	_	_	_	_	_
+7	a	a	PART	_		_	_	_	LemmaId=213048|OccId=5896709|Unsandhied=a
+8	kṣatam	kṣan	VERB	_	Case=Nom|Gender=Neut|Number=Sing|VerbForm=Part	_	_	_	LemmaId=156192|OccId=5896710|Unsandhied=kṣatam
 
 # text = śītān pradehān sekāṃśca bhiṣak tasyāvacārayet
 # sent_id = 7134
@@ -1809,17 +1810,22 @@
 7	kṛcchreṇa	kṛcchra	NOUN	_	Case=Ins|Gender=Neut|Number=Sing	_	_	_	LemmaId=3818|OccId=1364298|Unsandhied=kṛcchreṇa|UnsandhiedReconstructed=True|WordSem=23483
 8	sidhyati	sidh	VERB	_	Tense=Pres|Mood=Ind|Person=3|Number=Sing	_	_	_	LemmaId=158146|OccId=1364299|Unsandhied=sidhyati|WordSem=84956
 
-# text = bhagnaṃ sandhimanāviddhamahīnāṅgamanulbaṇam
+# text = bhagnaṃ sandhim anāviddham ahīnāṅgam anulbaṇam
 # sent_id = 7179
 # sent_counter = 70
 # sent_subcounter = 1
 1	bhagnaṃ	bhañj	VERB	_	Case=Acc|Gender=Masc|Number=Sing|VerbForm=Part	_	_	_	LemmaId=158867|OccId=1364300|Unsandhied=bhagnam|UnsandhiedReconstructed=True|WordSem=85000
-2-6	sandhimanāviddhamahīnāṅgamanulbaṇam	_	_	_	_	_	_	_	_
-2	saṃdhim	saṃdhi	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	_	_	_	LemmaId=17663|OccId=1364301|Unsandhied=saṃdhim|UnsandhiedReconstructed=True|WordSem=27250
-3	anāviddham	anāviddha	ADJ	_	Case=Acc|Gender=Masc|Number=Sing	_	_	_	LemmaId=10382|OccId=1364302|Unsandhied=anāviddham|UnsandhiedReconstructed=True|WordSem=74037
-4	ahīna	ahīna	ADJ	_	Case=Cpd	_	_	_	LemmaId=61668|OccId=1364303|Unsandhied=ahīna|UnsandhiedReconstructed=True|WordSem=73792
-5	aṅgam	aṅga	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	_	_	_	LemmaId=6145|OccId=1364304|Unsandhied=aṅgam|UnsandhiedReconstructed=True|WordSem=25729
-6	anulbaṇam	anulbaṇa	ADJ	_	Case=Acc|Gender=Masc|Number=Sing	_	_	_	LemmaId=11266|OccId=1364305|Unsandhied=anulbaṇam|UnsandhiedReconstructed=True|WordSem=71655
+2	sandhim	saṃdhi	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	_	_	_	LemmaId=17663|OccId=5887173|Unsandhied=sandhim
+3-4	anāviddham	_	_	_	_	_	_	_	_
+3	an	an	PART	_		_	_	_	LemmaId=213304|OccId=5887179|Unsandhied=an
+4	āviddham	āvyadh	VERB	_	Case=Acc|Gender=Masc|Number=Sing|VerbForm=Part	_	_	_	LemmaId=159965|OccId=5887180|Unsandhied=āviddham
+5-7	ahīnāṅgam	_	_	_	_	_	_	_	_
+5	a	a	PART	_		_	_	_	LemmaId=213048|OccId=5887174|Unsandhied=a
+6	hīna	hā	VERB	_	Case=Cpd|VerbForm=Part	_	_	_	LemmaId=157412|OccId=5887175|Unsandhied=hīna
+7	aṅgam	aṅga	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	_	_	_	LemmaId=6145|OccId=5887176|Unsandhied=aṅgam
+8-9	anulbaṇam	_	_	_	_	_	_	_	_
+8	an	an	PART	_		_	_	_	LemmaId=213304|OccId=5887177|Unsandhied=an
+9	ulbaṇam	ulbaṇa	ADJ	_	Case=Acc|Gender=Masc|Number=Sing	_	_	_	LemmaId=166331|OccId=5887178|Unsandhied=ulbaṇam
 
 # text = sukhaceṣṭāpracāraṃ ca saṃhitaṃ samyagādiśet
 # sent_id = 7180

@@ -3,7 +3,7 @@
 ## chapter: MṛgṬīkā zu MṛgT, Vidyāpāda, 10, 23.2
 ## chapter_id: 1991
 # text = vakṣyamāṇalakṣaṇā dharmādayo bhāvāstathā viparyayāśaktyādayaḥ pratyayāḥ ta eva liṅgaṃ sattāgamakaṃ yasya tat abhidhāsyamānair arthair viṣayaiḥ saṃskṛtam uparaktaṃ buddhitattvaṃ paraṃ prakṛṣṭam avyavahitam ātmano bhogyaṃ viṣayāṇāṃ bhogyatve 'pi tatpratibimbitatvenāsaṃnikṛṣṭatvād apakṛṣṭatvaṃ yataḥ
-# sent_id = 46163
+# sent_id = 46168
 # sent_counter = 1
 # sent_subcounter = 
 1-2	vakṣyamāṇalakṣaṇā	_	_	_	_	_	_	_	_
@@ -42,19 +42,24 @@
 28	ātmano	ātman	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	_	_	_	LemmaId=57749|OccId=574873|Unsandhied=ātmanaḥ|UnsandhiedReconstructed=True
 29	bhogyaṃ	bhuj	VERB	_	Case=Nom|Gender=Neut|Number=Sing|VerbForm=Gdv	_	_	_	LemmaId=157293|OccId=574874|Unsandhied=bhogyam|UnsandhiedReconstructed=True
 30	viṣayāṇāṃ	viṣaya	NOUN	_	Case=Gen|Gender=Masc|Number=Plur	_	_	_	LemmaId=138935|OccId=574875|Unsandhied=viṣayāṇām|UnsandhiedReconstructed=True
-31	bhogyatve	bhogyatva	NOUN	_	Case=Loc|Gender=Neut|Number=Sing	_	_	_	LemmaId=26096|OccId=574876|Unsandhied=bhogyatve|UnsandhiedReconstructed=True
-32	'pi	api	PART	_		_	_	_	LemmaId=21365|OccId=574877|Unsandhied=api|UnsandhiedReconstructed=True
-33-37	tatpratibimbitatvenāsaṃnikṛṣṭatvād	_	_	_	_	_	_	_	_
-33	tad	tad	PRON	_	Case=Cpd	_	_	_	LemmaId=37875|OccId=574878|Unsandhied=tad|UnsandhiedReconstructed=True
-34	pratibimbita	pratibimbita	ADJ	_	Case=Cpd	_	_	_	LemmaId=164288|OccId=574879|Unsandhied=pratibimbita|UnsandhiedReconstructed=True
-35	tvena	tva	NOUN	_	Case=Ins|Gender=Neut|Number=Sing	_	_	_	LemmaId=163754|OccId=574880|Unsandhied=tvena|UnsandhiedReconstructed=True
-36	asaṃnikṛṣṭa	asaṃnikṛṣṭa	ADJ	_	Case=Cpd	_	_	_	LemmaId=60782|OccId=574881|Unsandhied=asaṃnikṛṣṭa|UnsandhiedReconstructed=True
-37	tvāt	tva	NOUN	_	Case=Abl|Gender=Neut|Number=Sing	_	_	_	LemmaId=163754|OccId=574882|Unsandhied=tvāt|UnsandhiedReconstructed=True
-38	apakṛṣṭatvaṃ	apakṛṣṭatva	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=20706|OccId=574883|Unsandhied=apakṛṣṭatvam|UnsandhiedReconstructed=True
-39	yataḥ	yatas	SCONJ	_		_	_	_	LemmaId=73226|OccId=574884|Unsandhied=yatas|UnsandhiedReconstructed=True
+31-32	bhogyatve	_	_	_	_	_	_	_	_
+31	bhogya	bhuj	VERB	_	Case=Cpd|VerbForm=Gdv	_	_	_	LemmaId=157293|OccId=5887122|Unsandhied=bhogya
+32	tve	tva	NOUN	_	Case=Loc|Gender=Neut|Number=Sing	_	_	_	LemmaId=163754|OccId=5887123|Unsandhied=tve
+33	'pi	api	PART	_		_	_	_	LemmaId=21365|OccId=574877|Unsandhied=api|UnsandhiedReconstructed=True
+34-39	tatpratibimbitatvenāsaṃnikṛṣṭatvād	_	_	_	_	_	_	_	_
+34	tad	tad	PRON	_	Case=Cpd	_	_	_	LemmaId=37875|OccId=5887116|Unsandhied=tad
+35	pratibimbita	pratibimb	VERB	_	Case=Cpd|VerbForm=Part	_	_	_	LemmaId=217991|OccId=5887117|Unsandhied=pratibimbita
+36	tvena	tva	NOUN	_	Case=Ins|Gender=Neut|Number=Sing	_	_	_	LemmaId=163754|OccId=5887118|Unsandhied=tvena
+37	a	a	PART	_		_	_	_	LemmaId=213048|OccId=5887119|Unsandhied=a
+38	saṃnikṛṣṭa	saṃnikṛṣṭa	ADJ	_	Case=Cpd	_	_	_	LemmaId=17812|OccId=5887120|Unsandhied=saṃnikṛṣṭa
+39	tvāt	tva	NOUN	_	Case=Abl|Gender=Neut|Number=Sing	_	_	_	LemmaId=163754|OccId=5887121|Unsandhied=tvāt
+40-41	apakṛṣṭatvaṃ	_	_	_	_	_	_	_	_
+40	apakṛṣṭa	apakṛṣṭa	ADJ	_	Case=Cpd	_	_	_	LemmaId=20701|OccId=5887124|Unsandhied=apakṛṣṭa
+41	tvam	tva	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=163754|OccId=5887125|Unsandhied=tvam
+42	yataḥ	yatas	SCONJ	_		_	_	_	LemmaId=73226|OccId=574884|Unsandhied=yatas|UnsandhiedReconstructed=True
 
 # text = uktaṃ ca tatrabhavatsadyojyotiḥpādaiḥ
-# sent_id = 46164
+# sent_id = 46169
 # sent_counter = 2
 # sent_subcounter = 1
 1	uktaṃ	vac	VERB	_	Case=Acc|Gender=Masc|Number=Sing|VerbForm=Part	_	_	_	LemmaId=157264|OccId=574885|Unsandhied=uktam|UnsandhiedReconstructed=True
@@ -65,7 +70,7 @@
 5	pādaiḥ	pāda	NOUN	_	Case=Ins|Gender=Masc|Number=Plur	_	_	_	LemmaId=93551|OccId=574889|Unsandhied=pādaiḥ|UnsandhiedReconstructed=True
 
 # text = buddhirviṣayākārā sukhādirūpā samāsato bhogyā
-# sent_id = 46165
+# sent_id = 46170
 # sent_counter = 2
 # sent_subcounter = 2
 1-3	buddhirviṣayākārā	_	_	_	_	_	_	_	_
@@ -80,13 +85,13 @@
 8	bhogyā	bhuj	VERB	_	Case=Nom|Gender=Fem|Number=Sing|VerbForm=Gdv	_	_	_	LemmaId=157293|OccId=574897|Unsandhied=bhogyā|UnsandhiedReconstructed=True
 
 # text = iti
-# sent_id = 46166
+# sent_id = 46171
 # sent_counter = 2
 # sent_subcounter = 3
 1	iti	iti	PART	_		_	_	_	LemmaId=63331|OccId=574898|Unsandhied=iti|UnsandhiedReconstructed=True
 
 # text = bhāvān vaktum āha
-# sent_id = 46167
+# sent_id = 46172
 # sent_counter = 3
 # sent_subcounter = 
 1	bhāvān	bhāva	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	_	_	_	LemmaId=49850|OccId=574899|Unsandhied=bhāvān|UnsandhiedReconstructed=True

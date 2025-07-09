@@ -214,7 +214,7 @@
 6	tīkṣṇaḥ	tīkṣṇa	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=82524|OccId=861524|Unsandhied=tīkṣṇaḥ|UnsandhiedReconstructed=True|WordSem=79728
 7	ca	ca	CONJ	_		_	_	_	LemmaId=157144|OccId=861525|Unsandhied=ca|UnsandhiedReconstructed=True|WordSem=104004
 
-# text = taṃ cikīrṣuḥ śaradi girisānujaṃ śucirupoṣya praśaste 'hani praśastadeśajātamanupahataṃ madhyamavayasaṃ mahāntam asitamuṣkakam adhivāsyāparedyuḥ pāṭayitvā khaṇḍaśaḥ prakalpyāvapāṭya nirvāte deśe nicitiṃ kṛtvā sudhāśarkarāś ca prakṣipya tilanālair ādīpayet
+# text = taṃ cikīrṣuḥ śaradi girisānujaṃ śucirupoṣya praśaste 'hani praśastadeśajātam anupahataṃ madhyamavayasaṃ mahāntam asitamuṣkakam adhivāsyāparedyuḥ pāṭayitvā khaṇḍaśaḥ prakalpyāvapāṭya nirvāte deśe nicitiṃ kṛtvā sudhāśarkarāś ca prakṣipya tilanālair ādīpayet
 # sent_id = 1228
 # sent_counter = 11
 # sent_subcounter = 2
@@ -230,37 +230,39 @@
 8	upoṣya	upavas	VERB	_	VerbForm=Conv	_	_	_	LemmaId=160542|OccId=861530|Unsandhied=upoṣya|UnsandhiedReconstructed=True|WordSem=89591
 9	praśaste	praśaṃs	VERB	_	Case=Loc|Gender=Neut|Number=Sing|VerbForm=Part	_	_	_	LemmaId=163082|OccId=861531|Unsandhied=praśaste|UnsandhiedReconstructed=True
 10	'hani	ahar	NOUN	_	Case=Loc|Gender=Neut|Number=Sing	_	_	_	LemmaId=168349|OccId=861532|Unsandhied=ahani|UnsandhiedReconstructed=True|WordSem=65905
-11-14	praśastadeśajātamanupahataṃ	_	_	_	_	_	_	_	_
-11	praśasta	praśaṃs	VERB	_	Case=Cpd|VerbForm=Part	_	_	_	LemmaId=163082|OccId=861533|Unsandhied=praśasta|UnsandhiedReconstructed=True
-12	deśa	deśa	NOUN	_	Case=Cpd	_	_	_	LemmaId=87204|OccId=861534|Unsandhied=deśa|UnsandhiedReconstructed=True|WordSem=40093
-13	jātam	jan	VERB	_	Case=Acc|Gender=Masc|Number=Sing|VerbForm=Part	_	_	_	LemmaId=156584|OccId=861535|Unsandhied=jātam|UnsandhiedReconstructed=True
-14	anupahatam	anupahata	ADJ	_	Case=Acc|Gender=Masc|Number=Sing	_	_	_	LemmaId=11035|OccId=861536|Unsandhied=anupahatam|UnsandhiedReconstructed=True
-15-16	madhyamavayasaṃ	_	_	_	_	_	_	_	_
-15	madhyama	madhyama	ADJ	_	Case=Cpd	_	_	_	LemmaId=35895|OccId=861537|Unsandhied=madhyama|UnsandhiedReconstructed=True
-16	vayasam	vayas	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	_	_	_	LemmaId=68966|OccId=861538|Unsandhied=vayasam|UnsandhiedReconstructed=True|WordSem=65857
-17	mahāntam	mahat	ADJ	_	Case=Acc|Gender=Masc|Number=Sing	_	_	_	LemmaId=37544|OccId=861883|Unsandhied=mahantam|UnsandhiedReconstructed=True
-18	asitamuṣkakam	asitamuṣkaka	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	_	_	_	LemmaId=61011|OccId=861884|Unsandhied=asitamuṣkakam|UnsandhiedReconstructed=True
-19-20	adhivāsyāparedyuḥ	_	_	_	_	_	_	_	_
-19	adhivāsya	adhivāsay	VERB	_	VerbForm=Conv	_	_	_	LemmaId=176800|OccId=861885|Unsandhied=adhivāsya|UnsandhiedReconstructed=True
-20	aparedyus	aparedyus	ADV	_		_	_	_	LemmaId=20988|OccId=861886|Unsandhied=aparedyus|UnsandhiedReconstructed=True
-21	pāṭayitvā	pāṭay	VERB	_	VerbForm=Conv	_	_	_	LemmaId=159553|OccId=861539|Unsandhied=pāṭayitvā|UnsandhiedReconstructed=True
-22	khaṇḍaśaḥ	khaṇḍaśas	ADV	_		_	_	_	LemmaId=125692|OccId=861887|Unsandhied=khaṇḍaśas|UnsandhiedReconstructed=True
-23-24	prakalpyāvapāṭya	_	_	_	_	_	_	_	_
-23	prakalpya	prakalpay	VERB	_	VerbForm=Conv	_	_	_	LemmaId=162341|OccId=861955|Unsandhied=prakalpya|UnsandhiedReconstructed=True
-24	avapāṭya	avapāṭay	VERB	_	VerbForm=Conv	_	_	_	LemmaId=159556|OccId=861956|Unsandhied=avapāṭya|UnsandhiedReconstructed=True|WordSem=89925
-25	nirvāte	nirvāta	ADJ	_	Case=Loc|Gender=Masc|Number=Sing	_	_	_	LemmaId=34449|OccId=861540|Unsandhied=nirvāte|UnsandhiedReconstructed=True|WordSem=77312
-26	deśe	deśa	NOUN	_	Case=Loc|Gender=Masc|Number=Sing	_	_	_	LemmaId=87204|OccId=861541|Unsandhied=deśe|UnsandhiedReconstructed=True|WordSem=40093
-27	nicitiṃ	niciti	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	_	_	_	LemmaId=199315|OccId=861957|Unsandhied=nicitim|UnsandhiedReconstructed=True
-28	kṛtvā	kṛ	VERB	_	VerbForm=Conv	_	_	_	LemmaId=156168|OccId=861542|Unsandhied=kṛtvā|UnsandhiedReconstructed=True
-29-30	sudhāśarkarāś	_	_	_	_	_	_	_	_
-29	sudhā	sudhā	NOUN	_	Case=Cpd	_	_	_	LemmaId=107577|OccId=861543|Unsandhied=sudhā|UnsandhiedReconstructed=True
-30	śarkarāḥ	śarkarā	NOUN	_	Case=Acc|Gender=Fem|Number=Plur	_	_	_	LemmaId=116207|OccId=861544|Unsandhied=śarkarāḥ|UnsandhiedReconstructed=True
-31	ca	ca	CONJ	_		_	_	_	LemmaId=157144|OccId=861545|Unsandhied=ca|UnsandhiedReconstructed=True
-32	prakṣipya	prakṣip	VERB	_	VerbForm=Conv	_	_	_	LemmaId=162353|OccId=861546|Unsandhied=prakṣipya|UnsandhiedReconstructed=True
-33-34	tilanālair	_	_	_	_	_	_	_	_
-33	tila	tila	NOUN	_	Case=Cpd	_	_	_	LemmaId=82410|OccId=861888|Unsandhied=tila|UnsandhiedReconstructed=True
-34	nālaiḥ	nāla	NOUN	_	Case=Ins|Gender=Masc|Number=Plur	_	_	_	LemmaId=33770|OccId=861889|Unsandhied=nālaiḥ|UnsandhiedReconstructed=True
-35	ādīpayet	ādīpay	VERB	_	Tense=Pres|Mood=Opt|Person=3|Number=Sing	_	_	_	LemmaId=159777|OccId=861547|Unsandhied=ādīpayet|WordSem=96581
+11-13	praśastadeśajātam	_	_	_	_	_	_	_	_
+11	praśasta	praśaṃs	VERB	_	Case=Cpd|VerbForm=Part	_	_	_	LemmaId=163082|OccId=5885287|Unsandhied=praśasta
+12	deśa	deśa	NOUN	_	Case=Cpd	_	_	_	LemmaId=87204|OccId=5885288|Unsandhied=deśa
+13	jātam	jan	VERB	_	Case=Acc|Gender=Masc|Number=Sing|VerbForm=Part	_	_	_	LemmaId=156584|OccId=5885289|Unsandhied=jātam
+14-15	anupahataṃ	_	_	_	_	_	_	_	_
+14	an	an	PART	_		_	_	_	LemmaId=213304|OccId=5885290|Unsandhied=an
+15	upahatam	upahan	VERB	_	Case=Acc|Gender=Masc|Number=Sing|VerbForm=Part	_	_	_	LemmaId=160654|OccId=5885291|Unsandhied=upahatam
+16-17	madhyamavayasaṃ	_	_	_	_	_	_	_	_
+16	madhyama	madhyama	ADJ	_	Case=Cpd	_	_	_	LemmaId=35895|OccId=861537|Unsandhied=madhyama|UnsandhiedReconstructed=True
+17	vayasam	vayas	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	_	_	_	LemmaId=68966|OccId=861538|Unsandhied=vayasam|UnsandhiedReconstructed=True|WordSem=65857
+18	mahāntam	mahat	ADJ	_	Case=Acc|Gender=Masc|Number=Sing	_	_	_	LemmaId=37544|OccId=861883|Unsandhied=mahantam|UnsandhiedReconstructed=True
+19	asitamuṣkakam	asitamuṣkaka	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	_	_	_	LemmaId=61011|OccId=861884|Unsandhied=asitamuṣkakam|UnsandhiedReconstructed=True
+20-21	adhivāsyāparedyuḥ	_	_	_	_	_	_	_	_
+20	adhivāsya	adhivāsay	VERB	_	VerbForm=Conv	_	_	_	LemmaId=176800|OccId=861885|Unsandhied=adhivāsya|UnsandhiedReconstructed=True
+21	aparedyus	aparedyus	ADV	_		_	_	_	LemmaId=20988|OccId=861886|Unsandhied=aparedyus|UnsandhiedReconstructed=True
+22	pāṭayitvā	pāṭay	VERB	_	VerbForm=Conv	_	_	_	LemmaId=159553|OccId=861539|Unsandhied=pāṭayitvā|UnsandhiedReconstructed=True
+23	khaṇḍaśaḥ	khaṇḍaśas	ADV	_		_	_	_	LemmaId=125692|OccId=861887|Unsandhied=khaṇḍaśas|UnsandhiedReconstructed=True
+24-25	prakalpyāvapāṭya	_	_	_	_	_	_	_	_
+24	prakalpya	prakalpay	VERB	_	VerbForm=Conv	_	_	_	LemmaId=162341|OccId=861955|Unsandhied=prakalpya|UnsandhiedReconstructed=True
+25	avapāṭya	avapāṭay	VERB	_	VerbForm=Conv	_	_	_	LemmaId=159556|OccId=861956|Unsandhied=avapāṭya|UnsandhiedReconstructed=True|WordSem=89925
+26	nirvāte	nirvāta	ADJ	_	Case=Loc|Gender=Masc|Number=Sing	_	_	_	LemmaId=34449|OccId=861540|Unsandhied=nirvāte|UnsandhiedReconstructed=True|WordSem=77312
+27	deśe	deśa	NOUN	_	Case=Loc|Gender=Masc|Number=Sing	_	_	_	LemmaId=87204|OccId=861541|Unsandhied=deśe|UnsandhiedReconstructed=True|WordSem=40093
+28	nicitiṃ	niciti	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	_	_	_	LemmaId=199315|OccId=861957|Unsandhied=nicitim|UnsandhiedReconstructed=True
+29	kṛtvā	kṛ	VERB	_	VerbForm=Conv	_	_	_	LemmaId=156168|OccId=861542|Unsandhied=kṛtvā|UnsandhiedReconstructed=True
+30-31	sudhāśarkarāś	_	_	_	_	_	_	_	_
+30	sudhā	sudhā	NOUN	_	Case=Cpd	_	_	_	LemmaId=107577|OccId=861543|Unsandhied=sudhā|UnsandhiedReconstructed=True
+31	śarkarāḥ	śarkarā	NOUN	_	Case=Acc|Gender=Fem|Number=Plur	_	_	_	LemmaId=116207|OccId=861544|Unsandhied=śarkarāḥ|UnsandhiedReconstructed=True
+32	ca	ca	CONJ	_		_	_	_	LemmaId=157144|OccId=861545|Unsandhied=ca|UnsandhiedReconstructed=True
+33	prakṣipya	prakṣip	VERB	_	VerbForm=Conv	_	_	_	LemmaId=162353|OccId=861546|Unsandhied=prakṣipya|UnsandhiedReconstructed=True
+34-35	tilanālair	_	_	_	_	_	_	_	_
+34	tila	tila	NOUN	_	Case=Cpd	_	_	_	LemmaId=82410|OccId=861888|Unsandhied=tila|UnsandhiedReconstructed=True
+35	nālaiḥ	nāla	NOUN	_	Case=Ins|Gender=Masc|Number=Plur	_	_	_	LemmaId=33770|OccId=861889|Unsandhied=nālaiḥ|UnsandhiedReconstructed=True
+36	ādīpayet	ādīpay	VERB	_	Tense=Pres|Mood=Opt|Person=3|Number=Sing	_	_	_	LemmaId=159777|OccId=861547|Unsandhied=ādīpayet|WordSem=96581
 
 # text = athopaśānte 'gnau tadbhasma pṛthaggṛhṇīyādbhasmaśarkarāś ca
 # sent_id = 1229

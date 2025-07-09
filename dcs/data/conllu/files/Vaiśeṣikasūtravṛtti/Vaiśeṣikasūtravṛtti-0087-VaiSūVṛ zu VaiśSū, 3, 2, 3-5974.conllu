@@ -2,8 +2,8 @@
 ## text_id: 371
 ## chapter: VaiSūVṛ zu VaiśSū, 3, 2, 3
 ## chapter_id: 5974
-# text = bahuṣu kāryeṣu jñeyeṣu ca yugapat prayatnā jñānāni vā na prādurbhavantītyataḥ prayatnajñānāyaugapadyādekaṃ manaḥ pratiśarīraṃ mūrtamasparśaṃ niravayavaṃ nityamaṇu āśucārīti
-# sent_id = 474469
+# text = bahuṣu kāryeṣu jñeyeṣu ca yugapat prayatnā jñānāni vā na prādurbhavantītyataḥ prayatnajñānāyaugapadyād ekaṃ manaḥ pratiśarīraṃ mūrtamasparśaṃ niravayavaṃ nityamaṇu āśucārīti
+# sent_id = 474795
 # sent_counter = 1
 # sent_subcounter = 
 1	bahuṣu	bahu	ADJ	_	Case=Loc|Gender=Neut|Number=Plur	_	_	_	LemmaId=154412|OccId=2522907|Unsandhied=bahubhiḥ|UnsandhiedReconstructed=True
@@ -19,22 +19,23 @@
 10	prādurbhavanti	prādurbhū	VERB	_	Tense=Pres|Mood=Ind|Person=3|Number=Plur	_	_	_	LemmaId=168086|OccId=2523070|Unsandhied=prādurbhavanti
 11	iti	iti	PART	_		_	_	_	LemmaId=63331|OccId=2523071|Unsandhied=iti|UnsandhiedReconstructed=True
 12	atas	atas	ADV	_		_	_	_	LemmaId=6823|OccId=2523072|Unsandhied=atas|UnsandhiedReconstructed=True
-13-16	prayatnajñānāyaugapadyādekaṃ	_	_	_	_	_	_	_	_
-13	prayatna	prayatna	NOUN	_	Case=Cpd	_	_	_	LemmaId=155461|OccId=2522916|Unsandhied=prayatna|UnsandhiedReconstructed=True
-14	jñāna	jñāna	NOUN	_	Case=Cpd	_	_	_	LemmaId=89644|OccId=2522917|Unsandhied=jñāna|UnsandhiedReconstructed=True
-15	ayaugapadyāt	ayaugapadya	NOUN	_	Case=Abl|Gender=Neut|Number=Sing	_	_	_	LemmaId=32436|OccId=2522918|Unsandhied=ayaugapadyāt|UnsandhiedReconstructed=True
-16	ekam	eka	NUM	_	Case=Acc|Gender=Neut|Number=Sing	_	_	_	LemmaId=39102|OccId=2522919|Unsandhied=ekam|UnsandhiedReconstructed=True
-17	manaḥ	manas	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=36096|OccId=2522920|Unsandhied=manaḥ|UnsandhiedReconstructed=True
-18	pratiśarīraṃ	pratiśarīram	ADV	_		_	_	_	LemmaId=151583|OccId=2522921|Unsandhied=pratiśarīram|UnsandhiedReconstructed=True
-19-20	mūrtamasparśaṃ	_	_	_	_	_	_	_	_
-19	mūrtam	mūrch	VERB	_	Case=Nom|Gender=Neut|Number=Sing|VerbForm=Part	_	_	_	LemmaId=159163|OccId=2522922|Unsandhied=mūrtam|UnsandhiedReconstructed=True
-20	asparśam	asparśa	ADJ	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=61357|OccId=2522923|Unsandhied=asparśam|UnsandhiedReconstructed=True
-21	niravayavaṃ	niravayava	ADJ	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=34099|OccId=2522924|Unsandhied=niravayavam|UnsandhiedReconstructed=True
-22-23	nityamaṇu	_	_	_	_	_	_	_	_
-22	nityam	nitya	ADJ	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=35023|OccId=2522925|Unsandhied=nityam|UnsandhiedReconstructed=True
-23	aṇu	aṇu	ADJ	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=169683|OccId=2522926|Unsandhied=aṇu|UnsandhiedReconstructed=True
-24-26	āśucārīti	_	_	_	_	_	_	_	_
-24	āśu	āśu	ADV	_		_	_	_	LemmaId=202704|OccId=2522927|Unsandhied=āśu|UnsandhiedReconstructed=True
-25	cāri	cārin	ADJ	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=51105|OccId=2522928|Unsandhied=cāri|UnsandhiedReconstructed=True
-26	iti	iti	PART	_		_	_	_	LemmaId=63331|OccId=2522929|Unsandhied=iti|UnsandhiedReconstructed=True|Punctuation=fullStop
+13-16	prayatnajñānāyaugapadyād	_	_	_	_	_	_	_	_
+13	prayatna	prayatna	NOUN	_	Case=Cpd	_	_	_	LemmaId=155461|OccId=5906095|Unsandhied=prayatna
+14	jñāna	jñāna	NOUN	_	Case=Cpd	_	_	_	LemmaId=89644|OccId=5906096|Unsandhied=jñāna
+15	a	a	PART	_		_	_	_	LemmaId=213048|OccId=5906097|Unsandhied=a
+16	yaugapadyāt	yaugapadya	NOUN	_	Case=Abl|Gender=Neut|Number=Sing	_	_	_	LemmaId=65317|OccId=5906098|Unsandhied=yaugapadyāt
+17	ekaṃ	eka	NUM	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=39102|OccId=5906099|Unsandhied=ekam
+18	manaḥ	manas	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=36096|OccId=2522920|Unsandhied=manaḥ|UnsandhiedReconstructed=True
+19	pratiśarīraṃ	pratiśarīram	ADV	_		_	_	_	LemmaId=151583|OccId=2522921|Unsandhied=pratiśarīram|UnsandhiedReconstructed=True
+20-21	mūrtamasparśaṃ	_	_	_	_	_	_	_	_
+20	mūrtam	mūrch	VERB	_	Case=Nom|Gender=Neut|Number=Sing|VerbForm=Part	_	_	_	LemmaId=159163|OccId=2522922|Unsandhied=mūrtam|UnsandhiedReconstructed=True
+21	asparśam	asparśa	ADJ	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=61357|OccId=2522923|Unsandhied=asparśam|UnsandhiedReconstructed=True
+22	niravayavaṃ	niravayava	ADJ	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=34099|OccId=2522924|Unsandhied=niravayavam|UnsandhiedReconstructed=True
+23-24	nityamaṇu	_	_	_	_	_	_	_	_
+23	nityam	nitya	ADJ	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=35023|OccId=2522925|Unsandhied=nityam|UnsandhiedReconstructed=True
+24	aṇu	aṇu	ADJ	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=169683|OccId=2522926|Unsandhied=aṇu|UnsandhiedReconstructed=True
+25-27	āśucārīti	_	_	_	_	_	_	_	_
+25	āśu	āśu	ADV	_		_	_	_	LemmaId=202704|OccId=2522927|Unsandhied=āśu|UnsandhiedReconstructed=True
+26	cāri	cārin	ADJ	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=51105|OccId=2522928|Unsandhied=cāri|UnsandhiedReconstructed=True
+27	iti	iti	PART	_		_	_	_	LemmaId=63331|OccId=2522929|Unsandhied=iti|UnsandhiedReconstructed=True|Punctuation=fullStop
 

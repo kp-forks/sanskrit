@@ -3,7 +3,7 @@
 ## chapter: YSBhā zu YS, 3, 49.1
 ## chapter_id: 7110
 # text = nirdhūtarajastamomalasya buddhisattvasya pare vaiśāradye parasyāṃ vaśīkārasaṃjñāyāṃ vartamānasya sattvapuruṣānyatākhyātimātrarūpapratiṣṭhasya sarvabhāvādhiṣṭhātṛtvam
-# sent_id = 479518
+# sent_id = 479844
 # sent_counter = 1
 # sent_subcounter = 1
 1-4	nirdhūtarajastamomalasya	_	_	_	_	_	_	_	_
@@ -36,7 +36,7 @@
 23	tvam	tva	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=163754|OccId=2599045|Unsandhied=tvam|UnsandhiedReconstructed=True
 
 # text = sarvātmāno guṇā vyavasāyavyavaseyātmakāḥ svāminaṃ kṣetrajñaṃ praty aśeṣadṛśyātmatvenopasthitā ity arthaḥ
-# sent_id = 479519
+# sent_id = 479845
 # sent_counter = 2
 # sent_subcounter = 1
 1-2	sarvātmāno	_	_	_	_	_	_	_	_
@@ -60,7 +60,7 @@
 16	arthaḥ	artha	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=53136|OccId=2599058|Unsandhied=arthaḥ|UnsandhiedReconstructed=True
 
 # text = sarvajñātṛtvaṃ sarvātmanāṃ guṇānāṃ śāntoditāvyapadeśyadharmatvena vyavasthitānām akramopārūḍhaṃ vivekajaṃ jñānam ity artha iti
-# sent_id = 479520
+# sent_id = 479846
 # sent_counter = 3
 # sent_subcounter = 1
 1-3	sarvajñātṛtvaṃ	_	_	_	_	_	_	_	_
@@ -71,26 +71,27 @@
 4	sarva	sarva	PRON	_	Case=Cpd	_	_	_	LemmaId=104444|OccId=2599062|Unsandhied=sarva|UnsandhiedReconstructed=True
 5	ātmanām	ātman	NOUN	_	Case=Gen|Gender=Masc|Number=Plur	_	_	_	LemmaId=57749|OccId=2599063|Unsandhied=ātmanām|UnsandhiedReconstructed=True
 6	guṇānāṃ	guṇa	NOUN	_	Case=Gen|Gender=Masc|Number=Plur	_	_	_	LemmaId=124503|OccId=2599064|Unsandhied=guṇānām|UnsandhiedReconstructed=True
-7-11	śāntoditāvyapadeśyadharmatvena	_	_	_	_	_	_	_	_
-7	śānta	śānta	ADJ	_	Case=Cpd	_	_	_	LemmaId=132271|OccId=2599065|Unsandhied=śānta|UnsandhiedReconstructed=True
-8	udita	udita	ADJ	_	Case=Cpd	_	_	_	LemmaId=56534|OccId=2599066|Unsandhied=udita|UnsandhiedReconstructed=True
-9	avyapadeśya	avyapadeśya	ADJ	_	Case=Cpd	_	_	_	LemmaId=59774|OccId=2599067|Unsandhied=avyapadeśya|UnsandhiedReconstructed=True
-10	dharma	dharma	NOUN	_	Case=Cpd	_	_	_	LemmaId=91970|OccId=2599068|Unsandhied=dharma|UnsandhiedReconstructed=True
-11	tvena	tva	NOUN	_	Case=Ins|Gender=Neut|Number=Sing	_	_	_	LemmaId=163754|OccId=2599069|Unsandhied=tvena|UnsandhiedReconstructed=True
-12	vyavasthitānām	vyavasthā	VERB	_	Case=Gen|Gender=Masc|Number=Plur|VerbForm=Part	_	_	_	LemmaId=164603|OccId=2599070|Unsandhied=vyavasthitānām|UnsandhiedReconstructed=True
-13-14	akramopārūḍhaṃ	_	_	_	_	_	_	_	_
-13	akrama	akrama	NOUN	_	Case=Cpd	_	_	_	LemmaId=5356|OccId=2599071|Unsandhied=akrama|UnsandhiedReconstructed=True
-14	upārūḍham	upāruh	VERB	_	Case=Nom|Gender=Neut|Number=Sing|VerbForm=Part	_	_	_	LemmaId=160696|OccId=2599072|Unsandhied=upārūḍham|UnsandhiedReconstructed=True
-15-16	vivekajaṃ	_	_	_	_	_	_	_	_
-15	viveka	viveka	NOUN	_	Case=Cpd	_	_	_	LemmaId=138678|OccId=2599073|Unsandhied=viveka|UnsandhiedReconstructed=True
-16	jam	ja	ADJ	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=52879|OccId=2599074|Unsandhied=jam|UnsandhiedReconstructed=True
-17	jñānam	jñāna	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=89644|OccId=2599075|Unsandhied=jñānam|UnsandhiedReconstructed=True
-18	ity	iti	PART	_		_	_	_	LemmaId=63331|OccId=2599076|Unsandhied=iti|UnsandhiedReconstructed=True
-19	artha	artha	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=53136|OccId=2599077|Unsandhied=arthaḥ|UnsandhiedReconstructed=True
-20	iti	iti	PART	_		_	_	_	LemmaId=63331|OccId=2599078|Unsandhied=iti|UnsandhiedReconstructed=True
+7-12	śāntoditāvyapadeśyadharmatvena	_	_	_	_	_	_	_	_
+7	śānta	śam	VERB	_	Case=Cpd|VerbForm=Part	_	_	_	LemmaId=157809|OccId=5892798|Unsandhied=śānta
+8	udita	udi	VERB	_	Case=Cpd|VerbForm=Part	_	_	_	LemmaId=160196|OccId=5892799|Unsandhied=udita
+9	a	a	PART	_		_	_	_	LemmaId=213048|OccId=5892800|Unsandhied=a
+10	vyapadeśya	vyapadiś	VERB	_	Case=Cpd|VerbForm=Gdv	_	_	_	LemmaId=164552|OccId=5892801|Unsandhied=vyapadeśya
+11	dharma	dharma	NOUN	_	Case=Cpd	_	_	_	LemmaId=91970|OccId=5892802|Unsandhied=dharma
+12	tvena	tva	NOUN	_	Case=Ins|Gender=Neut|Number=Sing	_	_	_	LemmaId=163754|OccId=5892803|Unsandhied=tvena
+13	vyavasthitānām	vyavasthā	VERB	_	Case=Gen|Gender=Masc|Number=Plur|VerbForm=Part	_	_	_	LemmaId=164603|OccId=2599070|Unsandhied=vyavasthitānām|UnsandhiedReconstructed=True
+14-15	akramopārūḍhaṃ	_	_	_	_	_	_	_	_
+14	akrama	akrama	NOUN	_	Case=Cpd	_	_	_	LemmaId=5356|OccId=2599071|Unsandhied=akrama|UnsandhiedReconstructed=True
+15	upārūḍham	upāruh	VERB	_	Case=Nom|Gender=Neut|Number=Sing|VerbForm=Part	_	_	_	LemmaId=160696|OccId=2599072|Unsandhied=upārūḍham|UnsandhiedReconstructed=True
+16-17	vivekajaṃ	_	_	_	_	_	_	_	_
+16	viveka	viveka	NOUN	_	Case=Cpd	_	_	_	LemmaId=138678|OccId=2599073|Unsandhied=viveka|UnsandhiedReconstructed=True
+17	jam	ja	ADJ	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=52879|OccId=2599074|Unsandhied=jam|UnsandhiedReconstructed=True
+18	jñānam	jñāna	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=89644|OccId=2599075|Unsandhied=jñānam|UnsandhiedReconstructed=True
+19	ity	iti	PART	_		_	_	_	LemmaId=63331|OccId=2599076|Unsandhied=iti|UnsandhiedReconstructed=True
+20	artha	artha	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=53136|OccId=2599077|Unsandhied=arthaḥ|UnsandhiedReconstructed=True
+21	iti	iti	PART	_		_	_	_	LemmaId=63331|OccId=2599078|Unsandhied=iti|UnsandhiedReconstructed=True
 
 # text = eṣā viśokā nāma siddhir yāṃ prāpya yogī sarvajñaḥ kṣīṇakleśabandhano vaśī viharati
-# sent_id = 479521
+# sent_id = 479847
 # sent_counter = 4
 # sent_subcounter = 1
 1	eṣā	etad	PRON	_	Case=Nom|Gender=Fem|Number=Sing	_	_	_	LemmaId=163744|OccId=2599079|Unsandhied=eṣā|UnsandhiedReconstructed=True

@@ -3,7 +3,7 @@
 ## chapter: RRSBoṬ zu RRS, 1, 84.1
 ## chapter_id: 5317
 # text = rasasya pañcavidhagatimāha jalaga iti
-# sent_id = 365035
+# sent_id = 365037
 # sent_counter = 1
 # sent_subcounter = 
 1	rasasya	rasa	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	_	_	_	LemmaId=69571|OccId=2111130|Unsandhied=rasasya|UnsandhiedReconstructed=True
@@ -15,7 +15,7 @@
 6	iti	iti	PART	_		_	_	_	LemmaId=63331|OccId=2111135|Unsandhied=iti|UnsandhiedReconstructed=True
 
 # text = jalarūpeṇa dravatvena jalagaḥ jalena saha gamanaśīlaḥ bhavet rasasya cūrṇaprāyo 'tisūkṣmāṃśa iti bhāvaḥ tvaritaḥ cañcalaḥ cāñcalyādityarthaḥ haṃsagaḥ haṃsavad gamanaśīlaḥ bhavet malarūpeṇa malavattvāt malagaḥ malena saha miśritaḥ doṣasaṃśliṣṭaḥ bhavet sadhūmaḥ vahnidṛṣṭatvāt dhūmagaḥ dhūmena saha gamanaśīlaḥ uḍḍayanasvabhāvaḥ bhavet anyā aparā pañcamītyarthaḥ daivī adṛśyarūpā jīvasya rasasya gatiḥ gamanam astīti śeṣaḥ tayā gatyā aṇḍāt deharūpakośāt jīvaḥ ātmā iva niṣkramet rasa iti bhāvaḥ kena pathā dehāt jīvo nirgacchati tat yathā na dṛśyate tathā pāradasya pañcamī gatirapi na jñātum śakyate ityarthaḥ
-# sent_id = 365036
+# sent_id = 365038
 # sent_counter = 2
 # sent_subcounter = 
 1-2	jalarūpeṇa	_	_	_	_	_	_	_	_
@@ -93,55 +93,56 @@
 57	iti	iti	PART	_		_	_	_	LemmaId=63331|OccId=2111187|Unsandhied=iti|UnsandhiedReconstructed=True
 58	arthaḥ	artha	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=53136|OccId=2111188|Unsandhied=arthaḥ|UnsandhiedReconstructed=True
 59	daivī	daiva	ADJ	_	Case=Nom|Gender=Fem|Number=Sing	_	_	_	LemmaId=89891|OccId=2111189|Unsandhied=daivā|UnsandhiedReconstructed=True
-60-61	adṛśyarūpā	_	_	_	_	_	_	_	_
-60	adṛśya	adṛśya	ADJ	_	Case=Cpd	_	_	_	LemmaId=7604|OccId=2111190|Unsandhied=adṛśya|UnsandhiedReconstructed=True
-61	rūpā	rūpa	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	_	_	_	LemmaId=71929|OccId=2111191|Unsandhied=rūpā|UnsandhiedReconstructed=True
-62	jīvasya	jīva	ADJ	_	Case=Gen|Gender=Masc|Number=Sing	_	_	_	LemmaId=89209|OccId=2111192|Unsandhied=jīvasya|UnsandhiedReconstructed=True
-63	rasasya	rasa	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	_	_	_	LemmaId=69571|OccId=2111193|Unsandhied=rasasya|UnsandhiedReconstructed=True
-64	gatiḥ	gati	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	_	_	_	LemmaId=130098|OccId=2111194|Unsandhied=gatiḥ|UnsandhiedReconstructed=True
-65	gamanam	gamana	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=129464|OccId=2111195|Unsandhied=gamanam|UnsandhiedReconstructed=True
-66-67	astīti	_	_	_	_	_	_	_	_
-66	asti	as	VERB	_	Tense=Pres|Mood=Ind|Person=3|Number=Sing	_	_	_	LemmaId=156122|OccId=2111196|Unsandhied=asti
-67	iti	iti	PART	_		_	_	_	LemmaId=63331|OccId=2111197|Unsandhied=iti|UnsandhiedReconstructed=True
-68	śeṣaḥ	śeṣa	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=127336|OccId=2111198|Unsandhied=śeṣaḥ|UnsandhiedReconstructed=True
-69	tayā	tad	PRON	_	Case=Ins|Gender=Fem|Number=Sing	_	_	_	LemmaId=37875|OccId=2111273|Unsandhied=tayā|UnsandhiedReconstructed=True
-70	gatyā	gati	NOUN	_	Case=Ins|Gender=Fem|Number=Sing	_	_	_	LemmaId=130098|OccId=2111274|Unsandhied=gatyā|UnsandhiedReconstructed=True
-71	aṇḍāt	aṇḍa	NOUN	_	Case=Abl|Gender=Neut|Number=Sing	_	_	_	LemmaId=6758|OccId=2111199|Unsandhied=aṇḍāt|UnsandhiedReconstructed=True
-72-74	deharūpakośāt	_	_	_	_	_	_	_	_
-72	deha	deha	NOUN	_	Case=Cpd	_	_	_	LemmaId=89764|OccId=2111275|Unsandhied=deha|UnsandhiedReconstructed=True
-73	rūpa	rūpa	NOUN	_	Case=Cpd	_	_	_	LemmaId=71929|OccId=2111276|Unsandhied=rūpa|UnsandhiedReconstructed=True
-74	kośāt	kośa	NOUN	_	Case=Abl|Gender=Masc|Number=Sing	_	_	_	LemmaId=5065|OccId=2111277|Unsandhied=kośāt|UnsandhiedReconstructed=True
-75	jīvaḥ	jīva	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=89211|OccId=2111200|Unsandhied=jīvaḥ|UnsandhiedReconstructed=True
-76	ātmā	ātman	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=57749|OccId=2111201|Unsandhied=ātmā|UnsandhiedReconstructed=True
-77	iva	iva	PART	_		_	_	_	LemmaId=63807|OccId=2111202|Unsandhied=iva|UnsandhiedReconstructed=True
-78	niṣkramet	niṣkram	VERB	_	Tense=Pres|Mood=Opt|Person=3|Number=Sing	_	_	_	LemmaId=161515|OccId=2111203|Unsandhied=niṣkramet
-79	rasa	rasa	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=69571|OccId=2111204|Unsandhied=rasaḥ|UnsandhiedReconstructed=True
-80	iti	iti	PART	_		_	_	_	LemmaId=63331|OccId=2111205|Unsandhied=iti|UnsandhiedReconstructed=True
-81	bhāvaḥ	bhāva	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=49850|OccId=2111206|Unsandhied=bhāvaḥ|UnsandhiedReconstructed=True
-82	kena	ka	PRON	_	Case=Ins|Gender=Masc|Number=Sing	_	_	_	LemmaId=37878|OccId=2111207|Unsandhied=kena|UnsandhiedReconstructed=True
-83	pathā	pathin	NOUN	_	Case=Ins|Gender=Masc|Number=Sing	_	_	_	LemmaId=170015|OccId=2111208|Unsandhied=pathinā|UnsandhiedReconstructed=True
-84	dehāt	deha	NOUN	_	Case=Abl|Gender=Neut|Number=Sing	_	_	_	LemmaId=89764|OccId=2111209|Unsandhied=dehāt|UnsandhiedReconstructed=True
-85	jīvo	jīva	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=89211|OccId=2111210|Unsandhied=jīvaḥ|UnsandhiedReconstructed=True
-86	nirgacchati	nirgam	VERB	_	Tense=Pres|Mood=Ind|Person=3|Number=Sing	_	_	_	LemmaId=161374|OccId=2111211|Unsandhied=nirgacchati
-87	tat	tad	PRON	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=37875|OccId=2111212|Unsandhied=tat|UnsandhiedReconstructed=True
-88	yathā	yathā	PART	_		_	_	_	LemmaId=73250|OccId=2111213|Unsandhied=yathā|UnsandhiedReconstructed=True
-89	na	na	PART	_		_	_	_	LemmaId=43432|OccId=2111214|Unsandhied=na|UnsandhiedReconstructed=True
-90	dṛśyate	dṛś	VERB	_	Tense=Pres|Mood=Ind|Voice=Pass|Person=3|Number=Sing	_	_	_	LemmaId=157766|OccId=2111215|Unsandhied=dṛśyate
-91	tathā	tathā	ADV	_		_	_	_	LemmaId=95987|OccId=2111216|Unsandhied=tathā|UnsandhiedReconstructed=True
-92	pāradasya	pārada	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	_	_	_	LemmaId=94045|OccId=2111217|Unsandhied=pāradasya|UnsandhiedReconstructed=True
-93	pañcamī	pañcama	ADJ	_	Case=Nom|Gender=Fem|Number=Sing	_	_	_	LemmaId=15172|OccId=2111218|Unsandhied=pañcamā|UnsandhiedReconstructed=True
-94-95	gatirapi	_	_	_	_	_	_	_	_
-94	gatiḥ	gati	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	_	_	_	LemmaId=130098|OccId=2111219|Unsandhied=gatiḥ|UnsandhiedReconstructed=True
-95	api	api	PART	_		_	_	_	LemmaId=21365|OccId=2111220|Unsandhied=api|UnsandhiedReconstructed=True
-96	na	na	PART	_		_	_	_	LemmaId=43432|OccId=2111221|Unsandhied=na|UnsandhiedReconstructed=True
-97	jñātum	jñā	VERB	_	VerbForm=Inf	_	_	_	LemmaId=157151|OccId=2111222|Unsandhied=jñātum|UnsandhiedReconstructed=True
-98	śakyate	śak	VERB	_	Tense=Pres|Mood=Ind|Voice=Pass|Person=3|Number=Sing	_	_	_	LemmaId=158120|OccId=2111223|Unsandhied=śakyate
-99-100	ityarthaḥ	_	_	_	_	_	_	_	_
-99	iti	iti	PART	_		_	_	_	LemmaId=63331|OccId=2111224|Unsandhied=iti|UnsandhiedReconstructed=True
-100	arthaḥ	artha	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=53136|OccId=2111225|Unsandhied=arthaḥ|UnsandhiedReconstructed=True
+60-62	adṛśyarūpā	_	_	_	_	_	_	_	_
+60	a	a	PART	_		_	_	_	LemmaId=213048|OccId=5882267|Unsandhied=a
+61	dṛśya	dṛś	VERB	_	Case=Cpd|VerbForm=Gdv	_	_	_	LemmaId=157766|OccId=5882268|Unsandhied=dṛśya
+62	rūpā	rūpa	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	_	_	_	LemmaId=71929|OccId=5882269|Unsandhied=rūpā
+63	jīvasya	jīva	ADJ	_	Case=Gen|Gender=Masc|Number=Sing	_	_	_	LemmaId=89209|OccId=2111192|Unsandhied=jīvasya|UnsandhiedReconstructed=True
+64	rasasya	rasa	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	_	_	_	LemmaId=69571|OccId=2111193|Unsandhied=rasasya|UnsandhiedReconstructed=True
+65	gatiḥ	gati	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	_	_	_	LemmaId=130098|OccId=2111194|Unsandhied=gatiḥ|UnsandhiedReconstructed=True
+66	gamanam	gamana	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=129464|OccId=2111195|Unsandhied=gamanam|UnsandhiedReconstructed=True
+67-68	astīti	_	_	_	_	_	_	_	_
+67	asti	as	VERB	_	Tense=Pres|Mood=Ind|Person=3|Number=Sing	_	_	_	LemmaId=156122|OccId=2111196|Unsandhied=asti
+68	iti	iti	PART	_		_	_	_	LemmaId=63331|OccId=2111197|Unsandhied=iti|UnsandhiedReconstructed=True
+69	śeṣaḥ	śeṣa	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=127336|OccId=2111198|Unsandhied=śeṣaḥ|UnsandhiedReconstructed=True
+70	tayā	tad	PRON	_	Case=Ins|Gender=Fem|Number=Sing	_	_	_	LemmaId=37875|OccId=2111273|Unsandhied=tayā|UnsandhiedReconstructed=True
+71	gatyā	gati	NOUN	_	Case=Ins|Gender=Fem|Number=Sing	_	_	_	LemmaId=130098|OccId=2111274|Unsandhied=gatyā|UnsandhiedReconstructed=True
+72	aṇḍāt	aṇḍa	NOUN	_	Case=Abl|Gender=Neut|Number=Sing	_	_	_	LemmaId=6758|OccId=2111199|Unsandhied=aṇḍāt|UnsandhiedReconstructed=True
+73-75	deharūpakośāt	_	_	_	_	_	_	_	_
+73	deha	deha	NOUN	_	Case=Cpd	_	_	_	LemmaId=89764|OccId=2111275|Unsandhied=deha|UnsandhiedReconstructed=True
+74	rūpa	rūpa	NOUN	_	Case=Cpd	_	_	_	LemmaId=71929|OccId=2111276|Unsandhied=rūpa|UnsandhiedReconstructed=True
+75	kośāt	kośa	NOUN	_	Case=Abl|Gender=Masc|Number=Sing	_	_	_	LemmaId=5065|OccId=2111277|Unsandhied=kośāt|UnsandhiedReconstructed=True
+76	jīvaḥ	jīva	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=89211|OccId=2111200|Unsandhied=jīvaḥ|UnsandhiedReconstructed=True
+77	ātmā	ātman	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=57749|OccId=2111201|Unsandhied=ātmā|UnsandhiedReconstructed=True
+78	iva	iva	PART	_		_	_	_	LemmaId=63807|OccId=2111202|Unsandhied=iva|UnsandhiedReconstructed=True
+79	niṣkramet	niṣkram	VERB	_	Tense=Pres|Mood=Opt|Person=3|Number=Sing	_	_	_	LemmaId=161515|OccId=2111203|Unsandhied=niṣkramet
+80	rasa	rasa	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=69571|OccId=2111204|Unsandhied=rasaḥ|UnsandhiedReconstructed=True
+81	iti	iti	PART	_		_	_	_	LemmaId=63331|OccId=2111205|Unsandhied=iti|UnsandhiedReconstructed=True
+82	bhāvaḥ	bhāva	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=49850|OccId=2111206|Unsandhied=bhāvaḥ|UnsandhiedReconstructed=True
+83	kena	ka	PRON	_	Case=Ins|Gender=Masc|Number=Sing	_	_	_	LemmaId=37878|OccId=2111207|Unsandhied=kena|UnsandhiedReconstructed=True
+84	pathā	pathin	NOUN	_	Case=Ins|Gender=Masc|Number=Sing	_	_	_	LemmaId=170015|OccId=2111208|Unsandhied=pathinā|UnsandhiedReconstructed=True
+85	dehāt	deha	NOUN	_	Case=Abl|Gender=Neut|Number=Sing	_	_	_	LemmaId=89764|OccId=2111209|Unsandhied=dehāt|UnsandhiedReconstructed=True
+86	jīvo	jīva	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=89211|OccId=2111210|Unsandhied=jīvaḥ|UnsandhiedReconstructed=True
+87	nirgacchati	nirgam	VERB	_	Tense=Pres|Mood=Ind|Person=3|Number=Sing	_	_	_	LemmaId=161374|OccId=2111211|Unsandhied=nirgacchati
+88	tat	tad	PRON	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=37875|OccId=2111212|Unsandhied=tat|UnsandhiedReconstructed=True
+89	yathā	yathā	PART	_		_	_	_	LemmaId=73250|OccId=2111213|Unsandhied=yathā|UnsandhiedReconstructed=True
+90	na	na	PART	_		_	_	_	LemmaId=43432|OccId=2111214|Unsandhied=na|UnsandhiedReconstructed=True
+91	dṛśyate	dṛś	VERB	_	Tense=Pres|Mood=Ind|Voice=Pass|Person=3|Number=Sing	_	_	_	LemmaId=157766|OccId=2111215|Unsandhied=dṛśyate
+92	tathā	tathā	ADV	_		_	_	_	LemmaId=95987|OccId=2111216|Unsandhied=tathā|UnsandhiedReconstructed=True
+93	pāradasya	pārada	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	_	_	_	LemmaId=94045|OccId=2111217|Unsandhied=pāradasya|UnsandhiedReconstructed=True
+94	pañcamī	pañcama	ADJ	_	Case=Nom|Gender=Fem|Number=Sing	_	_	_	LemmaId=15172|OccId=2111218|Unsandhied=pañcamā|UnsandhiedReconstructed=True
+95-96	gatirapi	_	_	_	_	_	_	_	_
+95	gatiḥ	gati	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	_	_	_	LemmaId=130098|OccId=2111219|Unsandhied=gatiḥ|UnsandhiedReconstructed=True
+96	api	api	PART	_		_	_	_	LemmaId=21365|OccId=2111220|Unsandhied=api|UnsandhiedReconstructed=True
+97	na	na	PART	_		_	_	_	LemmaId=43432|OccId=2111221|Unsandhied=na|UnsandhiedReconstructed=True
+98	jñātum	jñā	VERB	_	VerbForm=Inf	_	_	_	LemmaId=157151|OccId=2111222|Unsandhied=jñātum|UnsandhiedReconstructed=True
+99	śakyate	śak	VERB	_	Tense=Pres|Mood=Ind|Voice=Pass|Person=3|Number=Sing	_	_	_	LemmaId=158120|OccId=2111223|Unsandhied=śakyate
+100-101	ityarthaḥ	_	_	_	_	_	_	_	_
+100	iti	iti	PART	_		_	_	_	LemmaId=63331|OccId=2111224|Unsandhied=iti|UnsandhiedReconstructed=True
+101	arthaḥ	artha	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=53136|OccId=2111225|Unsandhied=arthaḥ|UnsandhiedReconstructed=True
 
 # text = pūrvaśloke jīvagatiśabdena rasagatiriti pradarśitaṃ jīvaśabdasya rasārthatve hetumāha sa iti
-# sent_id = 365037
+# sent_id = 365039
 # sent_counter = 3
 # sent_subcounter = 
 1-2	pūrvaśloke	_	_	_	_	_	_	_	_
@@ -170,7 +171,7 @@
 18	iti	iti	PART	_		_	_	_	LemmaId=63331|OccId=2111243|Unsandhied=iti|UnsandhiedReconstructed=True
 
 # text = saḥ rasaḥ tān jīvān jīvayet jarāmaraṇādivināśanadvārā dīrghajīvanaṃ pradāpayet tena hetunā rasaḥ jīvaḥ jīvayatīti vyutpattyā jīvanadāyakaḥ smṛtaḥ kathitaḥ
-# sent_id = 365038
+# sent_id = 365040
 # sent_counter = 4
 # sent_subcounter = 
 1	saḥ	tad	PRON	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=37875|OccId=2111244|Unsandhied=saḥ|UnsandhiedReconstructed=True

@@ -198,12 +198,14 @@
 # sent_id = 1397
 # sent_counter = 5
 # sent_subcounter = 3
-1	avyāpannāḥ	avyāpanna	ADJ	_	Case=Nom|Gender=Masc|Number=Plur	_	_	_	LemmaId=59828|OccId=603936|Unsandhied=avyāpannāḥ|UnsandhiedReconstructed=True|WordSem=70076
-2	prasannena	prasad	VERB	_	Case=Ins|Gender=Neut|Number=Sing|VerbForm=Part	_	_	_	LemmaId=163102|OccId=604505|Unsandhied=prasannena|UnsandhiedReconstructed=True|WordSem=96630
-3-5	raktamityabhidhīyate	_	_	_	_	_	_	_	_
-3	raktam	rakta	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=65581|OccId=603938|Unsandhied=raktam|UnsandhiedReconstructed=True|WordSem=26502
-4	iti	iti	PART	_		_	_	_	LemmaId=63331|OccId=603939|Unsandhied=iti|UnsandhiedReconstructed=True|WordSem=97363
-5	abhidhīyate	abhidhā	VERB	_	Tense=Pres|Mood=Ind|Voice=Pass|Person=3|Number=Sing	_	_	_	LemmaId=158673|OccId=603940|Unsandhied=abhidhīyate|Punctuation=fullStop|WordSem=88820
+1-2	avyāpannāḥ	_	_	_	_	_	_	_	_
+1	a	a	PART	_		_	_	_	LemmaId=213048|OccId=5886414|Unsandhied=a
+2	vyāpannāḥ	vyāpad	VERB	_	Case=Nom|Gender=Fem|Number=Plur|VerbForm=Part	_	_	_	LemmaId=164633|OccId=5886415|Unsandhied=vyāpannāḥ
+3	prasannena	prasad	VERB	_	Case=Ins|Gender=Neut|Number=Sing|VerbForm=Part	_	_	_	LemmaId=163102|OccId=604505|Unsandhied=prasannena|UnsandhiedReconstructed=True|WordSem=96630
+4-6	raktamityabhidhīyate	_	_	_	_	_	_	_	_
+4	raktam	rakta	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=65581|OccId=603938|Unsandhied=raktam|UnsandhiedReconstructed=True|WordSem=26502
+5	iti	iti	PART	_		_	_	_	LemmaId=63331|OccId=603939|Unsandhied=iti|UnsandhiedReconstructed=True|WordSem=97363
+6	abhidhīyate	abhidhā	VERB	_	Tense=Pres|Mood=Ind|Voice=Pass|Person=3|Number=Sing	_	_	_	LemmaId=158673|OccId=603940|Unsandhied=abhidhīyate|Punctuation=fullStop|WordSem=88820
 
 # text = rasādeva striyā raktaṃ rajaḥsaṃjñaṃ pravartate
 # sent_id = 1398
@@ -228,7 +230,7 @@
 3	dvādaśād	dvādaśa	ADJ	_	Case=Abl|Gender=Masc|Number=Sing	_	_	_	LemmaId=90814|OccId=603981|Unsandhied=dvādaśāt|UnsandhiedReconstructed=True|WordSem=79078
 4	ūrdhvaṃ	ūrdhvam	ADV	_		_	_	_	LemmaId=202659|OccId=2101073|Unsandhied=ūrdhvam|UnsandhiedReconstructed=True|WordSem=97194
 5	yāti	yā	VERB	_	Tense=Pres|Mood=Ind|Person=3|Number=Sing	_	_	_	LemmaId=157263|OccId=603946|Unsandhied=yāti|WordSem=93601
-6	pañcāśataḥ	pañcāśat	NUM	_	Case=Abl|Gender=Fem|Number=Sing	_	_	_	LemmaId=167539|OccId=603947|Unsandhied=pañcāśatyāḥ|UnsandhiedReconstructed=True|WordSem=59946
+6	pañcāśataḥ	pañcāśat	NUM	_	Case=Abl|Gender=Fem|Number=Sing	_	_	_	LemmaId=167539|OccId=603947|Unsandhied=pañcāśataḥ|UnsandhiedReconstructed=True|WordSem=59946
 7	kṣayam	kṣaya	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	_	_	_	LemmaId=135459|OccId=603948|Unsandhied=kṣayam|UnsandhiedReconstructed=True|Punctuation=fullStop|WordSem=66453
 
 # text = ārtavaṃ śoṇitaṃ tv āgneyam agnīṣomīyatvād garbhasya

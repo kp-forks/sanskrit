@@ -3,7 +3,7 @@
 ## chapter: VaiSūVṛ zu VaiśSū, 2, 1, 21.1
 ## chapter_id: 6769
 # text = niṣkramaṇādi karma puruṣe vartamānam ekadravyaṃ karma ityuktatvānniṣkriyatvāccākāśasya ākāśāvṛtti kathaṃ tad gamayed asaṃbandhāt
-# sent_id = 474305
+# sent_id = 474631
 # sent_counter = 1
 # sent_subcounter = 
 1-2	niṣkramaṇādi	_	_	_	_	_	_	_	_
@@ -30,10 +30,12 @@
 18	kathaṃ	katham	ADV	_		_	_	_	LemmaId=1340|OccId=2547775|Unsandhied=katham|UnsandhiedReconstructed=True
 19	tad	tad	PRON	_	Case=Acc|Gender=Neut|Number=Sing	_	_	_	LemmaId=37875|OccId=2547776|Unsandhied=tat|UnsandhiedReconstructed=True
 20	gamayed	gamay	VERB	_	Tense=Pres|Mood=Opt|Person=3|Number=Sing	_	_	_	LemmaId=157710|OccId=2547855|Unsandhied=gamayet
-21	asaṃbandhāt	asaṃbandha	NOUN	_	Case=Abl|Gender=Masc|Number=Sing	_	_	_	LemmaId=60853|OccId=2547865|Unsandhied=asaṃbandhāt|UnsandhiedReconstructed=True
+21-22	asaṃbandhāt	_	_	_	_	_	_	_	_
+21	a	a	PART	_		_	_	_	LemmaId=213048|OccId=5889176|Unsandhied=a
+22	saṃbandhāt	sambandha	NOUN	_	Case=Abl|Gender=Masc|Number=Sing	_	_	_	LemmaId=103761|OccId=5889177|Unsandhied=saṃbandhāt
 
 # text = yathā loṣṭavṛtti patanaṃ gurutvasya liṅgamevaṃ puruṣavṛtti niṣkramaṇamākāśasya liṅgamiti cet na
-# sent_id = 474306
+# sent_id = 474632
 # sent_counter = 2
 # sent_subcounter = 
 1	yathā	yathā	PART	_		_	_	_	LemmaId=73250|OccId=2547777|Unsandhied=yathā|UnsandhiedReconstructed=True

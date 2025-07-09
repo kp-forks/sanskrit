@@ -1,0 +1,75 @@
+## text: Mīmāṃsāsūtrabhāṣya
+## text_id: 572
+## chapter: MīSūBhā, 1, 1, 12
+## chapter_id: 17256
+# text = tuśabdāt pakṣo viparivartate
+# sent_id = 753417
+# sent_counter = 1
+# sent_subcounter = 
+1	tuśabdāt	tuśabda	NOUN	_	Case=Abl|Gender=Masc|Number=Sing	_	_	_	LemmaId=167509|OccId=5896653|Unsandhied=tuśabdāt
+2	pakṣo	pakṣa	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=14543|OccId=5896654|Unsandhied=pakṣaḥ
+3	viparivartate	viparivṛt	VERB	_	Tense=Pres|Mood=Ind|Person=3|Number=Sing	_	_	_	LemmaId=163452|OccId=5896655|Unsandhied=viparivartate|Punctuation=fullStop
+
+# text = yad uktaṃ prayatnād uttarakāle darśanāt kṛtako 'yam iti
+# sent_id = 753418
+# sent_counter = 2
+# sent_subcounter = 
+1	yad	yad	PRON	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=37877|OccId=5896656|Unsandhied=yat
+2	uktaṃ	vac	VERB	_	Case=Nom|Gender=Neut|Number=Sing|VerbForm=Part	_	_	_	LemmaId=157264|OccId=5896657|Unsandhied=uktam
+3	prayatnād	prayatna	NOUN	_	Case=Abl|Gender=Masc|Number=Sing	_	_	_	LemmaId=155461|OccId=5896658|Unsandhied=prayatnāt
+4-5	uttarakāle	_	_	_	_	_	_	_	_
+4	uttara	uttara	ADJ	_	Case=Cpd	_	_	_	LemmaId=55672|OccId=5896659|Unsandhied=uttara
+5	kāle	kāla	NOUN	_	Case=Loc|Gender=Masc|Number=Sing	_	_	_	LemmaId=22761|OccId=5896660|Unsandhied=kāle
+6	darśanāt	darśana	NOUN	_	Case=Abl|Gender=Neut|Number=Sing	_	_	_	LemmaId=146419|OccId=5896661|Unsandhied=darśanāt
+7	kṛtako	kṛtaka	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=3715|OccId=5896662|Unsandhied=kṛtakaḥ
+8	'yam	idam	PRON	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=37876|OccId=5896663|Unsandhied=ayam
+9	iti	iti	PART	_		_	_	_	LemmaId=63331|OccId=5896664|Unsandhied=iti|Punctuation=fullStop
+
+# text = yadi vispaṣṭena hetunā śabdasya nityatvaṃ vaktuṃ śakṣyāmas tato nityapratyayasāmarthyāt prayatnenābhivyajyata iti bhaviṣyati
+# sent_id = 753419
+# sent_counter = 3
+# sent_subcounter = 
+1	yadi	yadi	SCONJ	_		_	_	_	LemmaId=73699|OccId=5896665|Unsandhied=yadi
+2	vispaṣṭena	vipaś	VERB	_	Case=Ins|Gender=Masc|Number=Sing|VerbForm=Part	_	_	_	LemmaId=163458|OccId=5896666|Unsandhied=vispaṣṭena
+3	hetunā	hetu	NOUN	_	Case=Ins|Gender=Masc|Number=Sing	_	_	_	LemmaId=110756|OccId=5896667|Unsandhied=hetunā
+4	śabdasya	śabda	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	_	_	_	LemmaId=116648|OccId=5896668|Unsandhied=śabdasya
+5-6	nityatvaṃ	_	_	_	_	_	_	_	_
+5	nitya	nitya	ADJ	_	Case=Cpd	_	_	_	LemmaId=35023|OccId=5896669|Unsandhied=nitya
+6	tvam	tva	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	_	_	_	LemmaId=163754|OccId=5896670|Unsandhied=tvam
+7	vaktuṃ	vac	VERB	_	VerbForm=Inf	_	_	_	LemmaId=157264|OccId=5896671|Unsandhied=vaktum
+8	śakṣyāmas	śak	VERB	_	Tense=Fut|Mood=Ind|Person=1|Number=Plur	_	_	_	LemmaId=158120|OccId=5896672|Unsandhied=śakṣyāmaḥ|Punctuation=comma
+9	tato	tatas	ADV	_		_	_	_	LemmaId=95922|OccId=5896673|Unsandhied=tatas
+10-12	nityapratyayasāmarthyāt	_	_	_	_	_	_	_	_
+10	nitya	nitya	ADJ	_	Case=Cpd	_	_	_	LemmaId=35023|OccId=5896674|Unsandhied=nitya
+11	pratyaya	pratyaya	NOUN	_	Case=Cpd	_	_	_	LemmaId=140053|OccId=5896675|Unsandhied=pratyaya
+12	sāmarthyāt	sāmarthya	NOUN	_	Case=Abl|Gender=Neut|Number=Sing	_	_	_	LemmaId=112682|OccId=5896676|Unsandhied=sāmarthyāt|Punctuation=comma
+13-14	prayatnenābhivyajyata	_	_	_	_	_	_	_	_
+13	prayatnena	prayatna	NOUN	_	Case=Ins|Gender=Masc|Number=Sing	_	_	_	LemmaId=155461|OccId=5896677|Unsandhied=prayatnena
+14	abhivyajyate	abhivyañj	VERB	_	Tense=Pres|Mood=Ind|Voice=Pass|Person=3|Number=Sing	_	_	_	LemmaId=159025|OccId=5896678|Unsandhied=abhivyajyate
+15	iti	iti	PART	_		_	_	_	LemmaId=63331|OccId=5896679|Unsandhied=iti|Punctuation=comma
+16	bhaviṣyati	bhū	VERB	_	Tense=Fut|Mood=Ind|Person=3|Number=Sing	_	_	_	LemmaId=157250|OccId=5896680|Unsandhied=bhaviṣyati|Punctuation=fullStop
+
+# text = yadi prāg uccāraṇād anabhivyaktaḥ prayatnenābhivyajyate
+# sent_id = 753420
+# sent_counter = 4
+# sent_subcounter = 
+1	yadi	yadi	SCONJ	_		_	_	_	LemmaId=73699|OccId=5896681|Unsandhied=yadi
+2	prāg	prāk	ADV	_		_	_	_	LemmaId=202767|OccId=5896682|Unsandhied=prāk
+3	uccāraṇād	uccāraṇa	NOUN	_	Case=Abl|Gender=Neut|Number=Sing	_	_	_	LemmaId=55257|OccId=5896683|Unsandhied=uccāraṇāt
+4-5	anabhivyaktaḥ	_	_	_	_	_	_	_	_
+4	an	an	PART	_		_	_	_	LemmaId=213304|OccId=5896691|Unsandhied=an
+5	abhivyaktaḥ	abhivyañj	VERB	_	Case=Nom|Gender=Masc|Number=Sing|VerbForm=Part	_	_	_	LemmaId=159025|OccId=5896692|Unsandhied=abhivyaktaḥ
+6-7	prayatnenābhivyajyate	_	_	_	_	_	_	_	_
+6	prayatnena	prayatna	NOUN	_	Case=Ins|Gender=Masc|Number=Sing	_	_	_	LemmaId=155461|OccId=5896684|Unsandhied=prayatnena
+7	abhivyajyate	abhivyañj	VERB	_	Tense=Pres|Mood=Ind|Voice=Pass|Person=3|Number=Sing	_	_	_	LemmaId=159025|OccId=5896685|Unsandhied=abhivyajyate|Punctuation=fullStop
+
+# text = tasmād ubhayoḥ pakṣayoḥ samam etat
+# sent_id = 753421
+# sent_counter = 5
+# sent_subcounter = 
+1	tasmād	tasmāt	ADV	_		_	_	_	LemmaId=203521|OccId=5896686|Unsandhied=tasmāt
+2	ubhayoḥ	ubhaya	ADJ	_	Case=Gen|Gender=Masc|Number=Dual	_	_	_	LemmaId=46179|OccId=5896687|Unsandhied=ubhayoḥ
+3	pakṣayoḥ	pakṣa	NOUN	_	Case=Gen|Gender=Masc|Number=Dual	_	_	_	LemmaId=14543|OccId=5896688|Unsandhied=pakṣayoḥ
+4	samam	sama	PRON	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=166107|OccId=5896689|Unsandhied=samam
+5	etat	etad	PRON	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=163744|OccId=5896690|Unsandhied=etat|Punctuation=fullStop
+

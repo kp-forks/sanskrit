@@ -2,8 +2,8 @@
 ## text_id: 96
 ## chapter: PABh zu PāśupSūtra, 4, 15
 ## chapter_id: 871
-# text = atra caryottarasambandhād gamyate yadetadaninditaṃ karma dharmaḥ sa eva nindyamānasyācarato niṣpadyate
-# sent_id = 85792
+# text = atra caryottarasambandhād gamyate yad etad aninditaṃ karma dharmaḥ sa eva nindyamānasyācarato niṣpadyate
+# sent_id = 85794
 # sent_counter = 1
 # sent_subcounter = 
 1	atra	atra	ADV	_		_	_	_	LemmaId=7442|OccId=231380|Unsandhied=atra|UnsandhiedReconstructed=True
@@ -12,21 +12,22 @@
 3	uttara	uttara	ADJ	_	Case=Cpd	_	_	_	LemmaId=55672|OccId=231382|Unsandhied=uttara|UnsandhiedReconstructed=True
 4	sambandhāt	sambandha	NOUN	_	Case=Abl|Gender=Masc|Number=Sing	_	_	_	LemmaId=103761|OccId=231383|Unsandhied=sambandhāt|UnsandhiedReconstructed=True
 5	gamyate	gam	VERB	_	Tense=Pres|Mood=Ind|Voice=Pass|Person=3|Number=Sing	_	_	_	LemmaId=156214|OccId=231384|Unsandhied=gamyate
-6-8	yadetadaninditaṃ	_	_	_	_	_	_	_	_
-6	yat	yad	PRON	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=37877|OccId=231385|Unsandhied=yat|UnsandhiedReconstructed=True
-7	etat	etad	PRON	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=163744|OccId=231386|Unsandhied=etat|UnsandhiedReconstructed=True
-8	aninditam	anindita	ADJ	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=10478|OccId=231387|Unsandhied=aninditam|UnsandhiedReconstructed=True
-9	karma	karman	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=12243|OccId=231388|Unsandhied=karma|UnsandhiedReconstructed=True
-10	dharmaḥ	dharma	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=91970|OccId=231389|Unsandhied=dharmaḥ|UnsandhiedReconstructed=True
-11	sa	tad	PRON	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=37875|OccId=231390|Unsandhied=saḥ|UnsandhiedReconstructed=True
-12	eva	eva	PART	_		_	_	_	LemmaId=39754|OccId=231391|Unsandhied=eva|UnsandhiedReconstructed=True
-13-14	nindyamānasyācarato	_	_	_	_	_	_	_	_
-13	nindyamānasya	nind	VERB	_	Case=Gen|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Pass	_	_	_	LemmaId=159181|OccId=231392|Unsandhied=nindyamānasya|UnsandhiedReconstructed=True
-14	ācarataḥ	ācar	VERB	_	Case=Gen|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part	_	_	_	LemmaId=159738|OccId=231393|Unsandhied=ācarataḥ|UnsandhiedReconstructed=True
-15	niṣpadyate	niṣpad	VERB	_	Tense=Pres|Mood=Ind|Person=3|Number=Sing	_	_	_	LemmaId=161526|OccId=231394|Unsandhied=niṣpadyate
+6	yad	yad	PRON	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=37877|OccId=5881579|Unsandhied=yat
+7	etad	etad	PRON	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=163744|OccId=5881580|Unsandhied=etat
+8-9	aninditaṃ	_	_	_	_	_	_	_	_
+8	a	a	PART	_		_	_	_	LemmaId=213048|OccId=5881581|Unsandhied=a
+9	ninditam	nind	VERB	_	Case=Nom|Gender=Neut|Number=Sing|VerbForm=Part	_	_	_	LemmaId=159181|OccId=5881582|Unsandhied=ninditam
+10	karma	karman	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=12243|OccId=231388|Unsandhied=karma|UnsandhiedReconstructed=True
+11	dharmaḥ	dharma	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=91970|OccId=231389|Unsandhied=dharmaḥ|UnsandhiedReconstructed=True
+12	sa	tad	PRON	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=37875|OccId=231390|Unsandhied=saḥ|UnsandhiedReconstructed=True
+13	eva	eva	PART	_		_	_	_	LemmaId=39754|OccId=231391|Unsandhied=eva|UnsandhiedReconstructed=True
+14-15	nindyamānasyācarato	_	_	_	_	_	_	_	_
+14	nindyamānasya	nind	VERB	_	Case=Gen|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Pass	_	_	_	LemmaId=159181|OccId=231392|Unsandhied=nindyamānasya|UnsandhiedReconstructed=True
+15	ācarataḥ	ācar	VERB	_	Case=Gen|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part	_	_	_	LemmaId=159738|OccId=231393|Unsandhied=ācarataḥ|UnsandhiedReconstructed=True
+16	niṣpadyate	niṣpad	VERB	_	Tense=Pres|Mood=Ind|Person=3|Number=Sing	_	_	_	LemmaId=161526|OccId=231394|Unsandhied=niṣpadyate
 
 # text = ataḥ aninditakarmā bhavatītyarthaḥ
-# sent_id = 85793
+# sent_id = 85795
 # sent_counter = 2
 # sent_subcounter = 
 1	ataḥ	atas	ADV	_		_	_	_	LemmaId=6823|OccId=231395|Unsandhied=atas|UnsandhiedReconstructed=True
@@ -37,23 +38,25 @@
 5	arthaḥ	artha	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=53136|OccId=231398|Unsandhied=arthaḥ|UnsandhiedReconstructed=True
 
 # text = āha nindyamānasyācarato 'ninditaṃ karma bhavatīti kva siddham
-# sent_id = 85794
+# sent_id = 85796
 # sent_counter = 3
 # sent_subcounter = 
 1	āha	ah	VERB	_	Tense=Past|Mood=Ind|Person=3|Number=Sing	_	_	_	LemmaId=156124|OccId=231399|Unsandhied=āha
 2-3	nindyamānasyācarato	_	_	_	_	_	_	_	_
 2	nindyamānasya	nind	VERB	_	Case=Gen|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Pass	_	_	_	LemmaId=159181|OccId=231400|Unsandhied=nindyamānasya|UnsandhiedReconstructed=True
 3	ācarataḥ	ācar	VERB	_	Case=Gen|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part	_	_	_	LemmaId=159738|OccId=231401|Unsandhied=ācarataḥ|UnsandhiedReconstructed=True
-4	'ninditaṃ	anindita	ADJ	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=10478|OccId=231402|Unsandhied=aninditam|UnsandhiedReconstructed=True
-5	karma	karman	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=12243|OccId=231403|Unsandhied=karma|UnsandhiedReconstructed=True
-6-7	bhavatīti	_	_	_	_	_	_	_	_
-6	bhavati	bhū	VERB	_	Tense=Pres|Mood=Ind|Person=3|Number=Sing	_	_	_	LemmaId=157250|OccId=231404|Unsandhied=bhavati
-7	iti	iti	PART	_		_	_	_	LemmaId=63331|OccId=231405|Unsandhied=iti|UnsandhiedReconstructed=True
-8	kva	kva	ADV	_		_	_	_	LemmaId=134289|OccId=231406|Unsandhied=kva|UnsandhiedReconstructed=True
-9	siddham	sidh	VERB	_	Case=Nom|Gender=Neut|Number=Sing|VerbForm=Part	_	_	_	LemmaId=158146|OccId=231407|Unsandhied=siddham|UnsandhiedReconstructed=True
+4-5	'ninditaṃ	_	_	_	_	_	_	_	_
+4	a	a	PART	_		_	_	_	LemmaId=213048|OccId=5881583|Unsandhied=a
+5	ninditam	nind	VERB	_	Case=Nom|Gender=Neut|Number=Sing|VerbForm=Part	_	_	_	LemmaId=159181|OccId=5881584|Unsandhied=ninditam
+6	karma	karman	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=12243|OccId=231403|Unsandhied=karma|UnsandhiedReconstructed=True
+7-8	bhavatīti	_	_	_	_	_	_	_	_
+7	bhavati	bhū	VERB	_	Tense=Pres|Mood=Ind|Person=3|Number=Sing	_	_	_	LemmaId=157250|OccId=231404|Unsandhied=bhavati
+8	iti	iti	PART	_		_	_	_	LemmaId=63331|OccId=231405|Unsandhied=iti|UnsandhiedReconstructed=True
+9	kva	kva	ADV	_		_	_	_	LemmaId=134289|OccId=231406|Unsandhied=kva|UnsandhiedReconstructed=True
+10	siddham	sidh	VERB	_	Case=Nom|Gender=Neut|Number=Sing|VerbForm=Part	_	_	_	LemmaId=158146|OccId=231407|Unsandhied=siddham|UnsandhiedReconstructed=True
 
 # text = taducyate iha yasmādāha
-# sent_id = 85795
+# sent_id = 85797
 # sent_counter = 4
 # sent_subcounter = 
 1-2	taducyate	_	_	_	_	_	_	_	_

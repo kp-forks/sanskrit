@@ -3,7 +3,7 @@
 ## chapter: ṢB, 6, 12
 ## chapter_id: 16689
 # text = sa sarvāṃ diśam anvāvartate
-# sent_id = 751010
+# sent_id = 752849
 # sent_counter = 1
 # sent_subcounter = 1
 1	sa	tad	PRON	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=37875|OccId=5784428|Unsandhied=sa
@@ -12,7 +12,7 @@
 4	anvāvartate	anvāvṛt	VERB	_	Tense=Pres|Mood=Ind|Person=3|Number=Sing	_	_	_	LemmaId=158326|OccId=5784496|Unsandhied=anvāvartate|Punctuation=fullStop
 
 # text = atha yadāsya mānuṣāṇām atidhṛtim atiduḥkhaṃ vā parvatāḥ sphuṭanti nipatanty ākāśād bhūmiḥ kampate mahādrumā unmūlanti aśmānaḥ plavanti taṭākāni prajvalanti catuṣpādaṃ pañcapādaṃ vā bhavanti ity evamādīni tāny etāni sarvāṇi sūryadevatyāny adbhutāni prāyaścittāni bhavanti
-# sent_id = 751011
+# sent_id = 752850
 # sent_counter = 2
 # sent_subcounter = 1
 1	atha	atha	ADV	_		_	_	_	LemmaId=7467|OccId=5784431|Unsandhied=atha
@@ -60,7 +60,7 @@
 37	bhavanti	bhū	VERB	_	Tense=Pres|Mood=Ind|Person=3|Number=Plur	_	_	_	LemmaId=157250|OccId=5784466|Unsandhied=bhavanti|Punctuation=fullStop
 
 # text = ud u tyaṃ jātavedasam iti sthālīpākaṃ hutvā pañcabhir ājyāhutibhir abhijuhoti
-# sent_id = 751012
+# sent_id = 752851
 # sent_counter = 3
 # sent_subcounter = 1
 1	ud	ud	ADP	_		_	_	_	LemmaId=214859|OccId=5784498|Unsandhied=ud
@@ -75,4 +75,31 @@
 9	ājya	ājya	NOUN	_	Case=Cpd	_	_	_	LemmaId=57582|OccId=5784473|Unsandhied=ājya
 10	āhutibhiḥ	āhuti	NOUN	_	Case=Ins|Gender=Fem|Number=Plur	_	_	_	LemmaId=63117|OccId=5784474|Unsandhied=āhutibhiḥ
 11	abhijuhoti	abhihu	VERB	_	Tense=Pres|Mood=Ind|Person=3|Number=Sing	_	_	_	LemmaId=159212|OccId=5784475|Unsandhied=abhijuhoti|Punctuation=fullStop
+
+# text = sūryāya svāhā sarvagrahādhipataye svāhā kiraṇapāṇaye svāhā īśvarāya svāhā sarvapāpaśamanāya svāhā iti vyāhṛtibhir hutvā atha sāma gāyet
+# sent_id = 752852
+# sent_counter = 3
+# sent_subcounter = 2
+1	sūryāya	sūrya	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	_	_	_	LemmaId=99310|OccId=5784476|Unsandhied=sūryāya
+2	svāhā	svāhā	INTJ	_		_	_	_	LemmaId=121803|OccId=5784477|Unsandhied=svāhā
+3-5	sarvagrahādhipataye	_	_	_	_	_	_	_	_
+3	sarva	sarva	PRON	_	Case=Cpd	_	_	_	LemmaId=104444|OccId=5784478|Unsandhied=sarva
+4	graha	graha	NOUN	_	Case=Cpd	_	_	_	LemmaId=125579|OccId=5784479|Unsandhied=graha
+5	adhipataye	adhipati	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	_	_	_	LemmaId=168124|OccId=5784480|Unsandhied=adhipataye
+6	svāhā	svāhā	INTJ	_		_	_	_	LemmaId=121803|OccId=5784481|Unsandhied=svāhā
+7	kiraṇapāṇaye	kiraṇapāṇi	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	_	_	_	LemmaId=23448|OccId=5784482|Unsandhied=kiraṇapāṇaye
+8	svāhā	svāhā	INTJ	_		_	_	_	LemmaId=121803|OccId=5784483|Unsandhied=svāhā
+9	īśvarāya	īśvara	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	_	_	_	LemmaId=64099|OccId=5784484|Unsandhied=īśvarāya
+10	svāhā	svāhā	INTJ	_		_	_	_	LemmaId=121803|OccId=5784485|Unsandhied=svāhā
+11-13	sarvapāpaśamanāya	_	_	_	_	_	_	_	_
+11	sarva	sarva	PRON	_	Case=Cpd	_	_	_	LemmaId=104444|OccId=5784486|Unsandhied=sarva
+12	pāpa	pāpa	NOUN	_	Case=Cpd	_	_	_	LemmaId=93767|OccId=5784487|Unsandhied=pāpa
+13	śamanāya	śamana	ADJ	_	Case=Dat|Gender=Masc|Number=Sing	_	_	_	LemmaId=116701|OccId=5784488|Unsandhied=śamanāya
+14	svāhā	svāhā	INTJ	_		_	_	_	LemmaId=121803|OccId=5784489|Unsandhied=svāhā
+15	iti	iti	PART	_		_	_	_	LemmaId=63331|OccId=5784490|Unsandhied=iti
+16	vyāhṛtibhir	vyāhṛti	NOUN	_	Case=Ins|Gender=Fem|Number=Plur	_	_	_	LemmaId=121160|OccId=5784491|Unsandhied=vyāhṛtibhiḥ
+17	hutvā	hu	VERB	_	VerbForm=Conv	_	_	_	LemmaId=157629|OccId=5784492|Unsandhied=hutvā
+18	atha	atha	ADV	_		_	_	_	LemmaId=7467|OccId=5784493|Unsandhied=atha
+19	sāma	sāman	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	_	_	_	LemmaId=112582|OccId=5784494|Unsandhied=sāma
+20	gāyet	gā	VERB	_	Tense=Pres|Mood=Opt|Person=3|Number=Sing	_	_	_	LemmaId=156220|OccId=5784495|Unsandhied=gāyet|Punctuation=fullStop
 

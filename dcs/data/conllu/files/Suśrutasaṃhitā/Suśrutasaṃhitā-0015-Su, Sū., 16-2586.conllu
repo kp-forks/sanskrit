@@ -677,7 +677,7 @@
 19	ca	ca	CONJ	_		_	_	_	LemmaId=157144|OccId=958008|Unsandhied=ca|UnsandhiedReconstructed=True
 20	iti	iti	PART	_		_	_	_	LemmaId=63331|OccId=958009|Unsandhied=iti|UnsandhiedReconstructed=True
 
-# text = tato 'ṅganāṃ puruṣaṃ vā grathitakeśāntaṃ laghu bhuktavantamāptaiḥ suparigṛhītaṃ ca kṛtvā bandham upadhārya chedyabhedyalekhyavyadhanair upapannair upapādya karṇaśoṇitamavekṣya duṣṭamaduṣṭaṃ veti tatra vātaduṣṭe dhānyāmloṣṇodakābhyāṃ pittaduṣṭe śītodakapayobhyāṃ śleṣmaduṣṭe surāmaṇḍoṣṇodakābhyāṃ prakṣālya karṇau punaravalikhyānunnatamahīnam aviṣamaṃ ca karṇasaṃdhiṃ saṃniveśya sthitaraktaṃ saṃdadhyāt
+# text = tato 'ṅganāṃ puruṣaṃ vā grathitakeśāntaṃ laghu bhuktavantamāptaiḥ suparigṛhītaṃ ca kṛtvā bandham upadhārya chedyabhedyalekhyavyadhanair upapannair upapādya karṇaśoṇitamavekṣya duṣṭamaduṣṭaṃ veti tatra vātaduṣṭe dhānyāmloṣṇodakābhyāṃ pittaduṣṭe śītodakapayobhyāṃ śleṣmaduṣṭe surāmaṇḍoṣṇodakābhyāṃ prakṣālya karṇau punar avalikhyānunnatam ahīnam aviṣamaṃ ca karṇasaṃdhiṃ saṃniveśya sthitaraktaṃ saṃdadhyāt
 # sent_id = 1568
 # sent_counter = 15
 # sent_subcounter = 2
@@ -740,21 +740,26 @@
 44	udakābhyām	udaka	NOUN	_	Case=Ins|Gender=Neut|Number=Dual	_	_	_	LemmaId=56229|OccId=958051|Unsandhied=udakābhyām|UnsandhiedReconstructed=True|WordSem=64492
 45	prakṣālya	prakṣālay	VERB	_	VerbForm=Conv	_	_	_	LemmaId=162351|OccId=958052|Unsandhied=prakṣālya|UnsandhiedReconstructed=True|WordSem=84659
 46	karṇau	karṇa	NOUN	_	Case=Acc|Gender=Masc|Number=Dual	_	_	_	LemmaId=2744|OccId=958053|Unsandhied=karṇau|UnsandhiedReconstructed=True|WordSem=26114
-47-50	punaravalikhyānunnatamahīnam	_	_	_	_	_	_	_	_
-47	punar	punar	ADV	_		_	_	_	LemmaId=143659|OccId=958275|Unsandhied=punar|UnsandhiedReconstructed=True|WordSem=96839
-48	avalikhya	avalikh	VERB	_	VerbForm=Conv	_	_	_	LemmaId=159617|OccId=958276|Unsandhied=avalikhya|UnsandhiedReconstructed=True|WordSem=90023
-49	anunnatam	anunnata	ADJ	_	Case=Acc|Gender=Masc|Number=Sing	_	_	_	LemmaId=10953|OccId=958277|Unsandhied=anunnatam|UnsandhiedReconstructed=True|WordSem=73390
-50	ahīnam	ahīna	ADJ	_	Case=Acc|Gender=Masc|Number=Sing	_	_	_	LemmaId=61668|OccId=958278|Unsandhied=ahīnam|UnsandhiedReconstructed=True
-51	aviṣamaṃ	aviṣama	ADJ	_	Case=Acc|Gender=Masc|Number=Sing	_	_	_	LemmaId=55185|OccId=958279|Unsandhied=aviṣamam|UnsandhiedReconstructed=True|WordSem=71554
-52	ca	ca	CONJ	_		_	_	_	LemmaId=157144|OccId=958054|Unsandhied=ca|UnsandhiedReconstructed=True|WordSem=104004
-53-54	karṇasaṃdhiṃ	_	_	_	_	_	_	_	_
-53	karṇa	karṇa	NOUN	_	Case=Cpd	_	_	_	LemmaId=2744|OccId=958280|Unsandhied=karṇa|UnsandhiedReconstructed=True|WordSem=26114
-54	saṃdhim	saṃdhi	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	_	_	_	LemmaId=17663|OccId=958281|Unsandhied=saṃdhim|UnsandhiedReconstructed=True
-55	saṃniveśya	saṃniveśay	VERB	_	VerbForm=Conv	_	_	_	LemmaId=165000|OccId=958282|Unsandhied=saṃniveśya|UnsandhiedReconstructed=True
-56-57	sthitaraktaṃ	_	_	_	_	_	_	_	_
-56	sthita	sthā	VERB	_	Case=Cpd|VerbForm=Part	_	_	_	LemmaId=157340|OccId=958283|Unsandhied=sthita|UnsandhiedReconstructed=True|WordSem=92632
-57	raktam	rakta	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	_	_	_	LemmaId=65581|OccId=958284|Unsandhied=raktam|UnsandhiedReconstructed=True|WordSem=26502
-58	saṃdadhyāt	saṃdhā	VERB	_	Tense=Pres|Mood=Opt|Person=3|Number=Sing	_	_	_	LemmaId=164962|OccId=958285|Unsandhied=saṃdadhyāt|WordSem=90410
+47	punar	punar	ADV	_		_	_	_	LemmaId=143659|OccId=5887165|Unsandhied=punar
+48-50	avalikhyānunnatam	_	_	_	_	_	_	_	_
+48	avalikhya	avalikh	VERB	_	VerbForm=Conv	_	_	_	LemmaId=159617|OccId=5887170|Unsandhied=avalikhya
+49	an	an	PART	_		_	_	_	LemmaId=213304|OccId=5887171|Unsandhied=an
+50	unnatam	unnam	VERB	_	Case=Acc|Gender=Masc|Number=Sing|VerbForm=Part	_	_	_	LemmaId=160310|OccId=5887172|Unsandhied=unnatam
+51-52	ahīnam	_	_	_	_	_	_	_	_
+51	a	a	PART	_		_	_	_	LemmaId=213048|OccId=5887166|Unsandhied=a
+52	hīnam	hā	VERB	_	Case=Acc|Gender=Masc|Number=Sing|VerbForm=Part	_	_	_	LemmaId=157412|OccId=5887167|Unsandhied=hīnam
+53-54	aviṣamaṃ	_	_	_	_	_	_	_	_
+53	a	a	PART	_		_	_	_	LemmaId=213048|OccId=5887168|Unsandhied=a
+54	viṣamam	viṣama	ADJ	_	Case=Acc|Gender=Masc|Number=Sing	_	_	_	LemmaId=139476|OccId=5887169|Unsandhied=viṣamam
+55	ca	ca	CONJ	_		_	_	_	LemmaId=157144|OccId=958054|Unsandhied=ca|UnsandhiedReconstructed=True|WordSem=104004
+56-57	karṇasaṃdhiṃ	_	_	_	_	_	_	_	_
+56	karṇa	karṇa	NOUN	_	Case=Cpd	_	_	_	LemmaId=2744|OccId=958280|Unsandhied=karṇa|UnsandhiedReconstructed=True|WordSem=26114
+57	saṃdhim	saṃdhi	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	_	_	_	LemmaId=17663|OccId=958281|Unsandhied=saṃdhim|UnsandhiedReconstructed=True
+58	saṃniveśya	saṃniveśay	VERB	_	VerbForm=Conv	_	_	_	LemmaId=165000|OccId=958282|Unsandhied=saṃniveśya|UnsandhiedReconstructed=True
+59-60	sthitaraktaṃ	_	_	_	_	_	_	_	_
+59	sthita	sthā	VERB	_	Case=Cpd|VerbForm=Part	_	_	_	LemmaId=157340|OccId=958283|Unsandhied=sthita|UnsandhiedReconstructed=True|WordSem=92632
+60	raktam	rakta	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	_	_	_	LemmaId=65581|OccId=958284|Unsandhied=raktam|UnsandhiedReconstructed=True|WordSem=26502
+61	saṃdadhyāt	saṃdhā	VERB	_	Tense=Pres|Mood=Opt|Person=3|Number=Sing	_	_	_	LemmaId=164962|OccId=958285|Unsandhied=saṃdadhyāt|WordSem=90410
 
 # text = tato madhughṛtenābhyajya picuplotayor anyatareṇāvaguṇṭhya sūtreṇānavagāḍham anatiśithilaṃ ca baddhvā kapālacūrṇenāvakīryācārikam upadiśeddvivraṇīyoktena ca vidhānenopacaret
 # sent_id = 1569

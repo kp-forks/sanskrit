@@ -3,7 +3,7 @@
 ## chapter: ĀVDīp zu Ca, Sū., 26, 42
 ## chapter_id: 1696
 # text = yathādravyamiti yadyasya rasasya dravyam ādhāras tadanatikrameṇa
-# sent_id = 150928
+# sent_id = 150930
 # sent_counter = 1
 # sent_subcounter = 
 1-2	yathādravyamiti	_	_	_	_	_	_	_	_
@@ -15,12 +15,13 @@
 5	rasasya	rasa	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	_	_	_	LemmaId=69571|OccId=474380|Unsandhied=rasasya|UnsandhiedReconstructed=True
 6	dravyam	dravya	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=90455|OccId=474381|Unsandhied=dravyam|UnsandhiedReconstructed=True
 7	ādhāras	ādhāra	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=58214|OccId=474382|Unsandhied=ādhāraḥ|UnsandhiedReconstructed=True
-8-9	tadanatikrameṇa	_	_	_	_	_	_	_	_
-8	tad	tad	PRON	_	Case=Cpd	_	_	_	LemmaId=37875|OccId=474383|Unsandhied=tad|UnsandhiedReconstructed=True
-9	anatikrameṇa	anatikrama	NOUN	_	Case=Ins|Gender=Masc|Number=Sing	_	_	_	LemmaId=9807|OccId=474384|Unsandhied=anatikrameṇa|UnsandhiedReconstructed=True
+8-10	tadanatikrameṇa	_	_	_	_	_	_	_	_
+8	tad	tad	PRON	_	Case=Cpd	_	_	_	LemmaId=37875|OccId=5881007|Unsandhied=tad
+9	an	an	PART	_		_	_	_	LemmaId=213304|OccId=5881008|Unsandhied=an
+10	atikrameṇa	atikrama	NOUN	_	Case=Ins|Gender=Masc|Number=Sing	_	_	_	LemmaId=7133|OccId=5881009|Unsandhied=atikrameṇa
 
 # text = etena rasānāṃ guṇakarmaṇī rasādhāre dravye boddhavye iti darśayati
-# sent_id = 150929
+# sent_id = 150931
 # sent_counter = 2
 # sent_subcounter = 
 1	etena	etad	PRON	_	Case=Ins|Gender=Neut|Number=Sing	_	_	_	LemmaId=163744|OccId=474385|Unsandhied=etena|UnsandhiedReconstructed=True

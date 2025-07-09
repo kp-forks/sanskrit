@@ -3,7 +3,7 @@
 ## chapter: MṛgṬīkā zu MṛgT, Vidyāpāda, 4, 1.2
 ## chapter_id: 687
 # text = ittham ityanenoktaprakāreṇa mantrātmako vigraho yasya sa bhagavān itthaṃvigrahaḥ
-# sent_id = 45505
+# sent_id = 45510
 # sent_counter = 1
 # sent_subcounter = 
 1	ittham	ittham	ADV	_		_	_	_	LemmaId=63363|OccId=186538|Unsandhied=ittham|UnsandhiedReconstructed=True
@@ -24,7 +24,7 @@
 13	vigrahaḥ	vigraha	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=47980|OccId=186550|Unsandhied=vigrahaḥ|UnsandhiedReconstructed=True
 
 # text = aneneti
-# sent_id = 45506
+# sent_id = 45511
 # sent_counter = 2
 # sent_subcounter = 1
 1-2	aneneti	_	_	_	_	_	_	_	_
@@ -32,7 +32,7 @@
 2	iti	iti	PART	_		_	_	_	LemmaId=63331|OccId=186552|Unsandhied=iti|UnsandhiedReconstructed=True
 
 # text = karaṇaṃ ca na śaktyanyat
-# sent_id = 45507
+# sent_id = 45512
 # sent_counter = 2
 # sent_subcounter = 2
 1	karaṇaṃ	karaṇa	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=2379|OccId=186553|Unsandhied=karaṇam|UnsandhiedReconstructed=True
@@ -43,30 +43,31 @@
 5	anyat	anya	PRON	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=164189|OccId=186557|Unsandhied=anyat|UnsandhiedReconstructed=True
 
 # text = iti prāguktenātmanā apratihatasāmarthyena karaṇena sthityādikāryajātaṃ sarvakālaṃ sarvaṃ nirvartayati
-# sent_id = 45508
+# sent_id = 45513
 # sent_counter = 3
 # sent_subcounter = 
 1	iti	iti	PART	_		_	_	_	LemmaId=63331|OccId=186558|Unsandhied=iti|UnsandhiedReconstructed=True
 2-3	prāguktenātmanā	_	_	_	_	_	_	_	_
 2	prāguktena	prāgukta	ADJ	_	Case=Ins|Gender=Masc|Number=Sing	_	_	_	LemmaId=167339|OccId=186559|Unsandhied=prāguktena|UnsandhiedReconstructed=True
 3	ātmanā	ātman	NOUN	_	Case=Ins|Gender=Masc|Number=Sing	_	_	_	LemmaId=57749|OccId=186560|Unsandhied=ātmanā|UnsandhiedReconstructed=True
-4-5	apratihatasāmarthyena	_	_	_	_	_	_	_	_
-4	apratihata	apratihata	ADJ	_	Case=Cpd	_	_	_	LemmaId=21672|OccId=186561|Unsandhied=apratihata|UnsandhiedReconstructed=True
-5	sāmarthyena	sāmarthya	NOUN	_	Case=Ins|Gender=Masc|Number=Sing	_	_	_	LemmaId=112682|OccId=186562|Unsandhied=sāmarthyena|UnsandhiedReconstructed=True
-6	karaṇena	karaṇa	NOUN	_	Case=Ins|Gender=Neut|Number=Sing	_	_	_	LemmaId=2379|OccId=186563|Unsandhied=karaṇena|UnsandhiedReconstructed=True
-7-10	sthityādikāryajātaṃ	_	_	_	_	_	_	_	_
-7	sthiti	sthiti	NOUN	_	Case=Cpd	_	_	_	LemmaId=102988|OccId=186564|Unsandhied=sthiti|UnsandhiedReconstructed=True|WordSem=60899,4710,25021
-8	ādi	ādi	NOUN	_	Case=Cpd	_	_	_	LemmaId=57973|OccId=186565|Unsandhied=ādi|UnsandhiedReconstructed=True
-9	kārya	kārya	NOUN	_	Case=Cpd	_	_	_	LemmaId=14320|OccId=186566|Unsandhied=kārya|UnsandhiedReconstructed=True
-10	jātam	jan	VERB	_	Case=Acc|Gender=Masc|Number=Sing|VerbForm=Part	_	_	_	LemmaId=156584|OccId=186567|Unsandhied=jātam|UnsandhiedReconstructed=True
-11-12	sarvakālaṃ	_	_	_	_	_	_	_	_
-11	sarva	sarva	PRON	_	Case=Cpd	_	_	_	LemmaId=104444|OccId=186568|Unsandhied=sarva|UnsandhiedReconstructed=True
-12	kālam	kāla	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	_	_	_	LemmaId=22761|OccId=186569|Unsandhied=kālam|UnsandhiedReconstructed=True
-13	sarvaṃ	sarva	PRON	_	Case=Acc|Gender=Neut|Number=Sing	_	_	_	LemmaId=104444|OccId=186570|Unsandhied=sarvam|UnsandhiedReconstructed=True
-14	nirvartayati	nirvartay	VERB	_	Tense=Pres|Mood=Ind|Person=3|Number=Sing	_	_	_	LemmaId=161453|OccId=186571|Unsandhied=nirvartayati
+4-6	apratihatasāmarthyena	_	_	_	_	_	_	_	_
+4	a	a	PART	_		_	_	_	LemmaId=213048|OccId=5892081|Unsandhied=a
+5	pratihata	pratihan	VERB	_	Case=Cpd|VerbForm=Part	_	_	_	LemmaId=162710|OccId=5892082|Unsandhied=pratihata
+6	sāmarthyena	sāmarthya	NOUN	_	Case=Ins|Gender=Masc|Number=Sing	_	_	_	LemmaId=112682|OccId=5892083|Unsandhied=sāmarthyena
+7	karaṇena	karaṇa	NOUN	_	Case=Ins|Gender=Neut|Number=Sing	_	_	_	LemmaId=2379|OccId=186563|Unsandhied=karaṇena|UnsandhiedReconstructed=True
+8-11	sthityādikāryajātaṃ	_	_	_	_	_	_	_	_
+8	sthiti	sthiti	NOUN	_	Case=Cpd	_	_	_	LemmaId=102988|OccId=186564|Unsandhied=sthiti|UnsandhiedReconstructed=True|WordSem=60899,4710,25021
+9	ādi	ādi	NOUN	_	Case=Cpd	_	_	_	LemmaId=57973|OccId=186565|Unsandhied=ādi|UnsandhiedReconstructed=True
+10	kārya	kārya	NOUN	_	Case=Cpd	_	_	_	LemmaId=14320|OccId=186566|Unsandhied=kārya|UnsandhiedReconstructed=True
+11	jātam	jan	VERB	_	Case=Acc|Gender=Masc|Number=Sing|VerbForm=Part	_	_	_	LemmaId=156584|OccId=186567|Unsandhied=jātam|UnsandhiedReconstructed=True
+12-13	sarvakālaṃ	_	_	_	_	_	_	_	_
+12	sarva	sarva	PRON	_	Case=Cpd	_	_	_	LemmaId=104444|OccId=186568|Unsandhied=sarva|UnsandhiedReconstructed=True
+13	kālam	kāla	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	_	_	_	LemmaId=22761|OccId=186569|Unsandhied=kālam|UnsandhiedReconstructed=True
+14	sarvaṃ	sarva	PRON	_	Case=Acc|Gender=Neut|Number=Sing	_	_	_	LemmaId=104444|OccId=186570|Unsandhied=sarvam|UnsandhiedReconstructed=True
+15	nirvartayati	nirvartay	VERB	_	Tense=Pres|Mood=Ind|Person=3|Number=Sing	_	_	_	LemmaId=161453|OccId=186571|Unsandhied=nirvartayati
 
 # text = na paraṃ yugapatkaroti yāvadyadā yadupapadyate tattadā karoti krameṇāpi sarvaṃ kāryaṃ karotītyarthaḥ
-# sent_id = 45509
+# sent_id = 45514
 # sent_counter = 4
 # sent_subcounter = 
 1	na	na	PART	_		_	_	_	LemmaId=43432|OccId=186572|Unsandhied=na|UnsandhiedReconstructed=True
@@ -95,7 +96,7 @@
 18	arthaḥ	artha	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=53136|OccId=186589|Unsandhied=arthaḥ|UnsandhiedReconstructed=True
 
 # text = taduktaṃ prāk
-# sent_id = 45510
+# sent_id = 45515
 # sent_counter = 5
 # sent_subcounter = 1
 1-2	taduktaṃ	_	_	_	_	_	_	_	_
@@ -104,7 +105,7 @@
 3	prāk	prāñc	ADJ	_	Case=Acc|Gender=Neut|Number=Sing	_	_	_	LemmaId=166382|OccId=186592|Unsandhied=prāñcam|UnsandhiedReconstructed=True
 
 # text = kramākramasamutpatteḥ kramādyutpattiśaktimat
-# sent_id = 45511
+# sent_id = 45516
 # sent_counter = 5
 # sent_subcounter = 2
 1-2	kramākramasamutpatteḥ	_	_	_	_	_	_	_	_
@@ -117,13 +118,13 @@
 6	śaktimat	śaktimat	ADJ	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=116317|OccId=186598|Unsandhied=śaktimat|UnsandhiedReconstructed=True
 
 # text = iti
-# sent_id = 45512
+# sent_id = 45517
 # sent_counter = 6
 # sent_subcounter = 
 1	iti	iti	PART	_		_	_	_	LemmaId=63331|OccId=186599|Unsandhied=iti|UnsandhiedReconstructed=True
 
 # text = atha prathamataḥ parameśvaraḥ kiṃ karotītyāha
-# sent_id = 45513
+# sent_id = 45518
 # sent_counter = 7
 # sent_subcounter = 
 1	atha	atha	ADV	_		_	_	_	LemmaId=7467|OccId=186600|Unsandhied=atha|UnsandhiedReconstructed=True

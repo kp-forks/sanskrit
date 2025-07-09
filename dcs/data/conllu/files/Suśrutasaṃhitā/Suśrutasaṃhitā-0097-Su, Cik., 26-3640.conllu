@@ -184,16 +184,17 @@
 5	upavanāni	upavana	NOUN	_	Case=Nom|Gender=Neut|Number=Plur	_	_	_	LemmaId=45540|OccId=1408349|Unsandhied=upavanāni|UnsandhiedReconstructed=True
 6	ca	ca	CONJ	_		_	_	_	LemmaId=157144|OccId=1408350|Unsandhied=ca|UnsandhiedReconstructed=True
 
-# text = manasaścāpratīghāto vājīkurvanti mānavam
+# text = manasaś cāpratīghāto vājīkurvanti mānavam
 # sent_id = 9069
 # sent_counter = 9
 # sent_subcounter = 2
-1-3	manasaścāpratīghāto	_	_	_	_	_	_	_	_
-1	manasaḥ	manas	NOUN	_	Case=Gen|Gender=Neut|Number=Sing	_	_	_	LemmaId=36096|OccId=1408351|Unsandhied=manasaḥ|UnsandhiedReconstructed=True
-2	ca	ca	CONJ	_		_	_	_	LemmaId=157144|OccId=1408352|Unsandhied=ca|UnsandhiedReconstructed=True
-3	apratīghātaḥ	apratīghāta	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=169635|OccId=1408353|Unsandhied=apratīghātaḥ|UnsandhiedReconstructed=True
-4	vājīkurvanti	vājīkṛ	VERB	_	Tense=Pres|Mood=Ind|Person=3|Number=Plur	_	_	_	LemmaId=172313|OccId=1408354|Unsandhied=vājīkurvanti
-5	mānavam	mānava	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	_	_	_	LemmaId=78957|OccId=1408355|Unsandhied=mānavam|UnsandhiedReconstructed=True
+1	manasaś	manas	NOUN	_	Case=Gen|Gender=Neut|Number=Sing	_	_	_	LemmaId=36096|OccId=5892120|Unsandhied=manasaḥ
+2-4	cāpratīghāto	_	_	_	_	_	_	_	_
+2	ca	ca	CONJ	_		_	_	_	LemmaId=157144|OccId=5892121|Unsandhied=ca
+3	a	a	PART	_		_	_	_	LemmaId=213048|OccId=5892122|Unsandhied=a
+4	pratīghātaḥ	pratīghāta	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=140044|OccId=5892123|Unsandhied=pratīghātaḥ
+5	vājīkurvanti	vājīkṛ	VERB	_	Tense=Pres|Mood=Ind|Person=3|Number=Plur	_	_	_	LemmaId=172313|OccId=1408354|Unsandhied=vājīkurvanti
+6	mānavam	mānava	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	_	_	_	LemmaId=78957|OccId=1408355|Unsandhied=mānavam|UnsandhiedReconstructed=True
 
 # text = taistair bhāvair ahṛdyaistu riraṃsor manasi kṣate
 # sent_id = 9070

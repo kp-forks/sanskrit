@@ -734,13 +734,15 @@
 # sent_id = 9185
 # sent_counter = 13
 # sent_subcounter = 2
-1	amoghaṃ	amogha	ADJ	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=32012|OccId=589935|Unsandhied=amogham|UnsandhiedReconstructed=True
-2-3	śatasāhasraṃ	_	_	_	_	_	_	_	_
-2	śata	śata	NUM	_	Case=Cpd	_	_	_	LemmaId=116433|OccId=589936|Unsandhied=śata|UnsandhiedReconstructed=True
-3	sāhasram	sāhasra	ADJ	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=113481|OccId=589937|Unsandhied=sāhasram|UnsandhiedReconstructed=True
-4	yuktaṃ	yuj	VERB	_	Case=Nom|Gender=Neut|Number=Sing|VerbForm=Part	_	_	_	LemmaId=157298|OccId=589938|Unsandhied=yuktam|UnsandhiedReconstructed=True
-5	yuktarathaṃ	yuktaratha	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=64669|OccId=589939|Unsandhied=yuktaratham|UnsandhiedReconstructed=True
-6	smṛtam	smṛ	VERB	_	Case=Nom|Gender=Neut|Number=Sing|VerbForm=Part	_	_	_	LemmaId=158167|OccId=589940|Unsandhied=smṛtam|UnsandhiedReconstructed=True
+1-2	amoghaṃ	_	_	_	_	_	_	_	_
+1	a	a	PART	_		_	_	_	LemmaId=213048|OccId=5883703|Unsandhied=a
+2	mogham	mogha	ADJ	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=72398|OccId=5883704|Unsandhied=mogham
+3-4	śatasāhasraṃ	_	_	_	_	_	_	_	_
+3	śata	śata	NUM	_	Case=Cpd	_	_	_	LemmaId=116433|OccId=589936|Unsandhied=śata|UnsandhiedReconstructed=True
+4	sāhasram	sāhasra	ADJ	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=113481|OccId=589937|Unsandhied=sāhasram|UnsandhiedReconstructed=True
+5	yuktaṃ	yuj	VERB	_	Case=Nom|Gender=Neut|Number=Sing|VerbForm=Part	_	_	_	LemmaId=157298|OccId=589938|Unsandhied=yuktam|UnsandhiedReconstructed=True
+6	yuktarathaṃ	yuktaratha	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=64669|OccId=589939|Unsandhied=yuktaratham|UnsandhiedReconstructed=True
+7	smṛtam	smṛ	VERB	_	Case=Nom|Gender=Neut|Number=Sing|VerbForm=Part	_	_	_	LemmaId=158167|OccId=589940|Unsandhied=smṛtam|UnsandhiedReconstructed=True
 
 # text = suvarṇaṃ padmabījāni madhu lājāḥ priyaṅgavaḥ
 # sent_id = 9186

@@ -3,7 +3,7 @@
 ## chapter: ĀVDīp zu Ca, Śār., 1, 101.2
 ## chapter_id: 6709
 # text = smṛtibhraṃśaṃ vivecayati tattvetyādi
-# sent_id = 152427
+# sent_id = 152429
 # sent_counter = 1
 # sent_subcounter = 
 1-2	smṛtibhraṃśaṃ	_	_	_	_	_	_	_	_
@@ -15,7 +15,7 @@
 5	ityādi	ityādi	ADJ	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=63350|OccId=2532834|Unsandhied=ityādi|UnsandhiedReconstructed=True|Punctuation=fullStop
 
 # text = tattvajñāne smṛtiryasya bhraśyata iti yojanā
-# sent_id = 152428
+# sent_id = 152430
 # sent_counter = 2
 # sent_subcounter = 
 1-2	tattvajñāne	_	_	_	_	_	_	_	_
@@ -29,7 +29,7 @@
 7	yojanā	yojanā	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	_	_	_	LemmaId=65207|OccId=2532841|Unsandhied=yojanā|UnsandhiedReconstructed=True|Punctuation=fullStop|WordSem=29784
 
 # text = smartavyaṃ hi smṛtau sthitam iti smartavyatvena saṃmatasyārthasya smaraṇaṃ praśastasmṛtidharmaḥ
-# sent_id = 152429
+# sent_id = 152431
 # sent_counter = 3
 # sent_subcounter = 
 1	smartavyaṃ	smṛ	VERB	_	Case=Nom|Gender=Neut|Number=Sing|VerbForm=Gdv	_	_	_	LemmaId=158167|OccId=2532842|Unsandhied=smartavyam|UnsandhiedReconstructed=True
@@ -49,8 +49,8 @@
 12	smṛti	smṛti	NOUN	_	Case=Cpd	_	_	_	LemmaId=114062|OccId=2532853|Unsandhied=smṛti|UnsandhiedReconstructed=True
 13	dharmaḥ	dharma	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=91970|OccId=2532854|Unsandhied=dharmaḥ|UnsandhiedReconstructed=True|Punctuation=fullStop
 
-# text = tatra ca tattvajñānasya śiṣṭānāṃ smartavyatvena saṃmatasya yadasmaraṇaṃ tat smṛtyaparādhādbhavatītyarthaḥ
-# sent_id = 152430
+# text = tatra ca tattvajñānasya śiṣṭānāṃ smartavyatvena saṃmatasya yad asmaraṇaṃ tat smṛtyaparādhādbhavatītyarthaḥ
+# sent_id = 152432
 # sent_counter = 4
 # sent_subcounter = 
 1	tatra	tatra	ADV	_		_	_	_	LemmaId=95978|OccId=2532855|Unsandhied=tatra|UnsandhiedReconstructed=True
@@ -63,14 +63,15 @@
 6	smartavya	smṛ	VERB	_	Case=Cpd|VerbForm=Gdv	_	_	_	LemmaId=158167|OccId=2532860|Unsandhied=smartavya|UnsandhiedReconstructed=True
 7	tvena	tva	NOUN	_	Case=Ins|Gender=Neut|Number=Sing	_	_	_	LemmaId=163754|OccId=2532861|Unsandhied=tvena|UnsandhiedReconstructed=True
 8	saṃmatasya	samman	VERB	_	Case=Gen|Gender=Masc|Number=Sing|VerbForm=Part	_	_	_	LemmaId=165590|OccId=2532862|Unsandhied=saṃmatasya|UnsandhiedReconstructed=True
-9-10	yadasmaraṇaṃ	_	_	_	_	_	_	_	_
-9	yat	yad	PRON	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=37877|OccId=2532863|Unsandhied=yat|UnsandhiedReconstructed=True
-10	asmaraṇam	asmaraṇa	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=61391|OccId=2532864|Unsandhied=asmaraṇam|UnsandhiedReconstructed=True
-11	tat	tad	PRON	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=37875|OccId=2532865|Unsandhied=tat|UnsandhiedReconstructed=True
-12-16	smṛtyaparādhādbhavatītyarthaḥ	_	_	_	_	_	_	_	_
-12	smṛti	smṛti	NOUN	_	Case=Cpd	_	_	_	LemmaId=114062|OccId=2532866|Unsandhied=smṛti|UnsandhiedReconstructed=True
-13	aparādhāt	aparādha	NOUN	_	Case=Abl|Gender=Masc|Number=Sing	_	_	_	LemmaId=21005|OccId=2532867|Unsandhied=aparādhāt|UnsandhiedReconstructed=True
-14	bhavati	bhū	VERB	_	Tense=Pres|Mood=Ind|Person=3|Number=Sing	_	_	_	LemmaId=157250|OccId=2532868|Unsandhied=bhavati
-15	iti	iti	PART	_		_	_	_	LemmaId=63331|OccId=2532869|Unsandhied=iti|UnsandhiedReconstructed=True
-16	arthaḥ	artha	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=53136|OccId=2532870|Unsandhied=arthaḥ|UnsandhiedReconstructed=True|Punctuation=fullStop
+9	yad	yad	PRON	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=37877|OccId=5905014|Unsandhied=yat
+10-11	asmaraṇaṃ	_	_	_	_	_	_	_	_
+10	a	a	PART	_		_	_	_	LemmaId=213048|OccId=5905015|Unsandhied=a
+11	smaraṇam	smaraṇa	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=114022|OccId=5905016|Unsandhied=smaraṇam
+12	tat	tad	PRON	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=37875|OccId=2532865|Unsandhied=tat|UnsandhiedReconstructed=True
+13-17	smṛtyaparādhādbhavatītyarthaḥ	_	_	_	_	_	_	_	_
+13	smṛti	smṛti	NOUN	_	Case=Cpd	_	_	_	LemmaId=114062|OccId=2532866|Unsandhied=smṛti|UnsandhiedReconstructed=True
+14	aparādhāt	aparādha	NOUN	_	Case=Abl|Gender=Masc|Number=Sing	_	_	_	LemmaId=21005|OccId=2532867|Unsandhied=aparādhāt|UnsandhiedReconstructed=True
+15	bhavati	bhū	VERB	_	Tense=Pres|Mood=Ind|Person=3|Number=Sing	_	_	_	LemmaId=157250|OccId=2532868|Unsandhied=bhavati
+16	iti	iti	PART	_		_	_	_	LemmaId=63331|OccId=2532869|Unsandhied=iti|UnsandhiedReconstructed=True
+17	arthaḥ	artha	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=53136|OccId=2532870|Unsandhied=arthaḥ|UnsandhiedReconstructed=True|Punctuation=fullStop
 

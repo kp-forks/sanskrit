@@ -2,3 +2,64 @@
 ## text_id: 388
 ## chapter: AgniPur, 251
 ## chapter_id: 7301
+# text = agnir uvāca
+# sent_id = 484404
+# sent_counter = 1
+# sent_subcounter = 1
+1	agnir	agni	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=5705|OccId=5900216|Unsandhied=agniḥ
+2	uvāca	vac	VERB	_	Tense=Past|Mood=Ind|Person=3|Number=Sing	_	_	_	LemmaId=157264|OccId=5900217|Unsandhied=uvāca
+
+# text = bhrāntamudbhrāntam āviddhamāplutaṃ viplutaṃ sṛtaṃ
+# sent_id = 484405
+# sent_counter = 1
+# sent_subcounter = 2
+1-2	bhrāntamudbhrāntam	_	_	_	_	_	_	_	_
+1	bhrāntam	bhrānta	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	_	_	_	LemmaId=26343|OccId=5900218|Unsandhied=bhrāntam
+2	udbhrāntam	udbhrānta	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	_	_	_	LemmaId=56874|OccId=5900219|Unsandhied=udbhrāntam
+3-4	āviddhamāplutaṃ	_	_	_	_	_	_	_	_
+3	āviddham	āviddha	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	_	_	_	LemmaId=62557|OccId=5900220|Unsandhied=āviddham
+4	āplutam	āpluta	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	_	_	_	LemmaId=58767|OccId=5900221|Unsandhied=āplutam
+5	viplutaṃ	vipluta	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	_	_	_	LemmaId=210815|OccId=5900222|Unsandhied=viplutam
+6	sṛtaṃ	sṛta	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	_	_	_	LemmaId=99551|OccId=5900223|Unsandhied=sṛtam
+
+# text = sampātaṃ samudīśaṃ ca śyenapātamathākulaṃ
+# sent_id = 484406
+# sent_counter = 1
+# sent_subcounter = 3
+1	sampātaṃ	sampāta	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	_	_	_	LemmaId=30600|OccId=5900224|Unsandhied=sampātam
+2	ca	ca	CONJ	_		_	_	_	LemmaId=157144|OccId=5900225|Unsandhied=ca
+3-5	śyenapātamathākulaṃ	_	_	_	_	_	_	_	_
+3	śyenapātam	śyenapāta	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	_	_	_	LemmaId=127967|OccId=5900226|Unsandhied=śyenapātam
+4	atha	atha	ADV	_		_	_	_	LemmaId=7467|OccId=5900227|Unsandhied=atha
+5	ākulam	ākula	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	_	_	_	LemmaId=61806|OccId=5900228|Unsandhied=ākulam
+
+# text = uddhūtam avadhūtaṃ ca savyaṃ dakṣiṇameva ca
+# sent_id = 484407
+# sent_counter = 2
+# sent_subcounter = 1
+1	savyaṃ	savya	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	_	_	_	LemmaId=105474|OccId=5900229|Unsandhied=savyam
+2-3	dakṣiṇameva	_	_	_	_	_	_	_	_
+2	dakṣiṇam	dakṣiṇa	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	_	_	_	LemmaId=100607|OccId=5900230|Unsandhied=dakṣiṇam
+3	eva	eva	PART	_		_	_	_	LemmaId=39754|OccId=5900231|Unsandhied=eva
+4	ca	ca	CONJ	_		_	_	_	LemmaId=157144|OccId=5900232|Unsandhied=ca
+
+# text = anālakṣitavisphoṭau karālendramahāsakhau
+# sent_id = 484408
+# sent_counter = 2
+# sent_subcounter = 2
+1-2	anālakṣitavisphoṭau	_	_	_	_	_	_	_	_
+1	anālakṣita	anālakṣita	NOUN	_	Case=Cpd	_	_	_	LemmaId=210816|OccId=5900233|Unsandhied=anālakṣita
+2	visphoṭau	visphoṭa	NOUN	_	Case=Acc|Gender=Masc|Number=Dual	_	_	_	LemmaId=141144|OccId=5900234|Unsandhied=visphoṭau
+
+# text = vikarālanipātau ca vibhīṣaṇabhayānakau
+# sent_id = 484409
+# sent_counter = 3
+# sent_subcounter = 1
+1-2	vikarālanipātau	_	_	_	_	_	_	_	_
+1	vikarāla	vikarāla	ADJ	_	Case=Cpd	_	_	_	LemmaId=47205|OccId=5900235|Unsandhied=vikarāla
+2	nipātau	nipāta	NOUN	_	Case=Acc|Gender=Masc|Number=Dual	_	_	_	LemmaId=35205|OccId=5900236|Unsandhied=nipātau
+3	ca	ca	CONJ	_		_	_	_	LemmaId=157144|OccId=5900237|Unsandhied=ca
+4-5	vibhīṣaṇabhayānakau	_	_	_	_	_	_	_	_
+4	vibhīṣaṇa	vibhīṣaṇa	NOUN	_	Case=Cpd	_	_	_	LemmaId=123069|OccId=5900238|Unsandhied=vibhīṣaṇa
+5	bhayānakau	bhayānaka	NOUN	_	Case=Voc|Gender=Masc|Number=Dual	_	_	_	LemmaId=48967|OccId=5900239|Unsandhied=bhayānakau
+

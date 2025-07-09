@@ -3,7 +3,7 @@
 ## chapter: MṛgṬīkā zu MṛgT, Vidyāpāda, 9, 7.2
 ## chapter_id: 1928
 # text = yat tadbhavatānekatantvātmakaṃ kāraṇaṃ paṭasyoktaṃ tad anekam apyekasmāt tūlakārpāsādidravyād utpannatvād ekam
-# sent_id = 45985
+# sent_id = 45990
 # sent_counter = 1
 # sent_subcounter = 
 1	yat	yad	PRON	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=37877|OccId=557637|Unsandhied=yat|UnsandhiedReconstructed=True
@@ -27,11 +27,13 @@
 15	kārpāsa	kārpāsa	NOUN	_	Case=Cpd	_	_	_	LemmaId=14288|OccId=557651|Unsandhied=kārpāsa|UnsandhiedReconstructed=True
 16	ādi	ādi	NOUN	_	Case=Cpd	_	_	_	LemmaId=57973|OccId=557652|Unsandhied=ādi|UnsandhiedReconstructed=True
 17	dravyāt	dravya	NOUN	_	Case=Abl|Gender=Neut|Number=Sing	_	_	_	LemmaId=90455|OccId=557653|Unsandhied=dravyāt|UnsandhiedReconstructed=True
-18	utpannatvād	utpannatva	NOUN	_	Case=Abl|Gender=Neut|Number=Sing	_	_	_	LemmaId=55951|OccId=557654|Unsandhied=utpannatvāt|UnsandhiedReconstructed=True
-19	ekam	eka	NUM	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=39102|OccId=557655|Unsandhied=ekam|UnsandhiedReconstructed=True
+18-19	utpannatvād	_	_	_	_	_	_	_	_
+18	utpanna	utpad	VERB	_	Case=Cpd|VerbForm=Part	_	_	_	LemmaId=160140|OccId=5887149|Unsandhied=utpanna
+19	tvāt	tva	NOUN	_	Case=Abl|Gender=Neut|Number=Sing	_	_	_	LemmaId=163754|OccId=5887150|Unsandhied=tvāt
+20	ekam	eka	NUM	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=39102|OccId=557655|Unsandhied=ekam|UnsandhiedReconstructed=True
 
 # text = yathā caikasmāt tūlakārpāsādidravyād anekākārapaṭādyutpattiḥ evaṃ paramakāraṇāt sargasthitilayādhārākhyāt sargādau māyātattvājjagadutpattir iti na kaścid doṣaḥ
-# sent_id = 45986
+# sent_id = 45991
 # sent_counter = 2
 # sent_subcounter = 
 1	yathā	yathā	PART	_		_	_	_	LemmaId=73250|OccId=557656|Unsandhied=yathā|UnsandhiedReconstructed=True
@@ -73,7 +75,7 @@
 30	doṣaḥ	doṣa	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=90071|OccId=557685|Unsandhied=doṣaḥ|UnsandhiedReconstructed=True
 
 # text = paramātmana eva sakāśāccidacidāvirbhāvatirobhāvāv iti yeṣāṃ pakṣas tān pratikṣipati
-# sent_id = 45987
+# sent_id = 45992
 # sent_counter = 3
 # sent_subcounter = 
 1	paramātmana	paramātman	NOUN	_	Case=Abl|Gender=Masc|Number=Sing	_	_	_	LemmaId=16459|OccId=557686|Unsandhied=paramātmanaḥ|UnsandhiedReconstructed=True

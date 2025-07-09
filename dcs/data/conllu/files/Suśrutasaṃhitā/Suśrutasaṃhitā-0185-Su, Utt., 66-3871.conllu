@@ -135,7 +135,7 @@
 7	eva	eva	PART	_		_	_	_	LemmaId=39754|OccId=1551388|Unsandhied=eva|UnsandhiedReconstructed=True
 8	ca	ca	CONJ	_		_	_	_	LemmaId=157144|OccId=1551389|Unsandhied=ca|UnsandhiedReconstructed=True
 
-# text = dehaṃ saṃdhārayantyete hyavyāpannā rasair hitaiḥ
+# text = dehaṃ saṃdhārayantyete hy avyāpannā rasair hitaiḥ
 # sent_id = 16793
 # sent_counter = 7
 # sent_subcounter = 1
@@ -143,11 +143,12 @@
 2-3	saṃdhārayantyete	_	_	_	_	_	_	_	_
 2	saṃdhārayanti	saṃdhāray	VERB	_	Tense=Pres|Mood=Ind|Person=3|Number=Plur	_	_	_	LemmaId=164964|OccId=1551543|Unsandhied=saṃdhārayanti
 3	ete	etad	PRON	_	Case=Nom|Gender=Masc|Number=Plur	_	_	_	LemmaId=163744|OccId=1551544|Unsandhied=ete|UnsandhiedReconstructed=True
-4-5	hyavyāpannā	_	_	_	_	_	_	_	_
-4	hi	hi	PART	_		_	_	_	LemmaId=109879|OccId=1551391|Unsandhied=hi|UnsandhiedReconstructed=True
-5	avyāpannāḥ	avyāpanna	ADJ	_	Case=Nom|Gender=Masc|Number=Plur	_	_	_	LemmaId=59828|OccId=1551392|Unsandhied=avyāpannāḥ|UnsandhiedReconstructed=True
-6	rasair	rasa	NOUN	_	Case=Ins|Gender=Masc|Number=Plur	_	_	_	LemmaId=69571|OccId=1551393|Unsandhied=rasaiḥ|UnsandhiedReconstructed=True
-7	hitaiḥ	hita	ADJ	_	Case=Ins|Gender=Masc|Number=Plur	_	_	_	LemmaId=109983|OccId=1551394|Unsandhied=hitaiḥ|UnsandhiedReconstructed=True
+4	hy	hi	PART	_		_	_	_	LemmaId=109879|OccId=5886436|Unsandhied=hi
+5-6	avyāpannā	_	_	_	_	_	_	_	_
+5	a	a	PART	_		_	_	_	LemmaId=213048|OccId=5886437|Unsandhied=a
+6	vyāpannāḥ	vyāpad	VERB	_	Case=Nom|Gender=Masc|Number=Plur|VerbForm=Part	_	_	_	LemmaId=164633|OccId=5886438|Unsandhied=vyāpannāḥ
+7	rasair	rasa	NOUN	_	Case=Ins|Gender=Masc|Number=Plur	_	_	_	LemmaId=69571|OccId=1551393|Unsandhied=rasaiḥ|UnsandhiedReconstructed=True
+8	hitaiḥ	hita	ADJ	_	Case=Ins|Gender=Masc|Number=Plur	_	_	_	LemmaId=109983|OccId=1551394|Unsandhied=hitaiḥ|UnsandhiedReconstructed=True
 
 # text = puruṣaḥ ṣoḍaśakalaḥ prāṇāścaikādaśaiva ye
 # sent_id = 16794

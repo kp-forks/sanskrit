@@ -1,0 +1,44 @@
+## text: Mīmāṃsāsūtrabhāṣya
+## text_id: 572
+## chapter: MīSūBhā, 1, 1, 23
+## chapter_id: 17273
+# text = liṅgaṃ caiva bhavati vācā virūpanityayeti
+# sent_id = 753556
+# sent_counter = 1
+# sent_subcounter = 
+1	liṅgaṃ	liṅga	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=81534|OccId=5902034|Unsandhied=liṅgam
+2-3	caiva	_	_	_	_	_	_	_	_
+2	ca	ca	CONJ	_		_	_	_	LemmaId=157144|OccId=5902035|Unsandhied=ca
+3	eva	eva	PART	_		_	_	_	LemmaId=39754|OccId=5902036|Unsandhied=eva
+4	bhavati	bhū	VERB	_	Tense=Pres|Mood=Ind|Person=3|Number=Sing	_	_	_	LemmaId=157250|OccId=5902037|Unsandhied=bhavati
+5	vācā	vāc	NOUN	_	Case=Ins|Gender=Fem|Number=Sing	_	_	_	LemmaId=76023|OccId=5902038|Unsandhied=vācā
+6-8	virūpanityayeti	_	_	_	_	_	_	_	_
+6	virūpa	virūpa	ADJ	_	Case=Cpd	_	_	_	LemmaId=138239|OccId=5902039|Unsandhied=virūpa
+7	nityayā	nitya	ADJ	_	Case=Ins|Gender=Fem|Number=Sing	_	_	_	LemmaId=35023|OccId=5902040|Unsandhied=nityayā
+8	iti	iti	PART	_		_	_	_	LemmaId=63331|OccId=5902041|Unsandhied=iti|Punctuation=fullStop
+
+# text = anyaparaṃ hīdaṃ vākyaṃ vāco nityatām anuvadati
+# sent_id = 753557
+# sent_counter = 2
+# sent_subcounter = 
+1-2	anyaparaṃ	_	_	_	_	_	_	_	_
+1	anya	anya	PRON	_	Case=Cpd	_	_	_	LemmaId=164189|OccId=5902042|Unsandhied=anya
+2	param	para	PRON	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=163234|OccId=5902043|Unsandhied=param
+3-4	hīdaṃ	_	_	_	_	_	_	_	_
+3	hi	hi	PART	_		_	_	_	LemmaId=109879|OccId=5902044|Unsandhied=hi
+4	idam	idam	PRON	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=37876|OccId=5902045|Unsandhied=idam
+5	vākyaṃ	vākya	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=76075|OccId=5902046|Unsandhied=vākyam
+6	vāco	vāc	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	_	_	_	LemmaId=76023|OccId=5902047|Unsandhied=vācaḥ
+7-8	nityatām	_	_	_	_	_	_	_	_
+7	nitya	nitya	ADJ	_	Case=Cpd	_	_	_	LemmaId=35023|OccId=5902048|Unsandhied=nitya
+8	tām	tā	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	_	_	_	LemmaId=203679|OccId=5902049|Unsandhied=tām
+9	anuvadati	anuvad	VERB	_	Tense=Pres|Mood=Ind|Person=3|Number=Sing	_	_	_	LemmaId=158036|OccId=5902050|Unsandhied=anuvadati|Punctuation=fullStop
+
+# text = tasmān nityaḥ śabdaḥ
+# sent_id = 753558
+# sent_counter = 3
+# sent_subcounter = 
+1	tasmān	tasmāt	ADV	_		_	_	_	LemmaId=203521|OccId=5902051|Unsandhied=tasmāt
+2	nityaḥ	nitya	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=35023|OccId=5902052|Unsandhied=nityaḥ
+3	śabdaḥ	śabda	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=116648|OccId=5902053|Unsandhied=śabdaḥ|Punctuation=fullStop
+

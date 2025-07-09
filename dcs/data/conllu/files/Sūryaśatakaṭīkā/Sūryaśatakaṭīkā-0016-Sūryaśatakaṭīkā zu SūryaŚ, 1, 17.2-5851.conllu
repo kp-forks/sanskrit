@@ -2,8 +2,8 @@
 ## text_id: 352
 ## chapter: Sūryaśatakaṭīkā zu SūryaŚ, 1, 17.2
 ## chapter_id: 5851
-# text = te sahasratviṣaḥ sahasraraśmerusrā gabhastayo'nabhimataṃ duḥkhaṃ visraṃsayantu dhvaṃsayantu
-# sent_id = 462245
+# text = te sahasratviṣaḥ sahasraraśmerusrā gabhastayo 'nabhimataṃ duḥkhaṃ visraṃsayantu dhvaṃsayantu
+# sent_id = 462247
 # sent_counter = 1
 # sent_subcounter = 
 1	te	tad	PRON	_	Case=Nom|Gender=Masc|Number=Plur	_	_	_	LemmaId=37875|OccId=2508183|Unsandhied=te|UnsandhiedReconstructed=True
@@ -11,29 +11,30 @@
 3-4	sahasraraśmerusrā	_	_	_	_	_	_	_	_
 3	sahasraraśmeḥ	sahasraraśmi	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	_	_	_	LemmaId=111525|OccId=2508184|Unsandhied=sahasraraśmeḥ|UnsandhiedReconstructed=True
 4	usrāḥ	usra	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	_	_	_	LemmaId=38320|OccId=2508185|Unsandhied=usrāḥ|UnsandhiedReconstructed=True
-5-6	gabhastayo'nabhimataṃ	_	_	_	_	_	_	_	_
-5	gabhastayaḥ	gabhasti	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	_	_	_	LemmaId=130075|OccId=2508186|Unsandhied=gabhastayaḥ|UnsandhiedReconstructed=True
-6	anabhimatam	anabhimata	ADJ	_	Case=Acc|Gender=Neut|Number=Sing	_	_	_	LemmaId=10005|OccId=2508187|Unsandhied=anabhimatam|UnsandhiedReconstructed=True
-7	duḥkhaṃ	duḥkha	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	_	_	_	LemmaId=85108|OccId=2508188|Unsandhied=duḥkham|UnsandhiedReconstructed=True
-8	visraṃsayantu	visraṃsay	VERB	_	Tense=Pres|Mood=Imp|Person=3|Number=Plur	_	_	_	LemmaId=199778|OccId=2508266|Unsandhied=visraṃsayantu
-9	dhvaṃsayantu	dhvaṃsay	VERB	_	Tense=Pres|Mood=Imp|Person=3|Number=Plur	_	_	_	LemmaId=158683|OccId=2508267|Unsandhied=dhvaṃsayantu|Punctuation=fullStop
+5	gabhastayo	gabhasti	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	_	_	_	LemmaId=130075|OccId=5889283|Unsandhied=gabhastayaḥ
+6-7	'nabhimataṃ	_	_	_	_	_	_	_	_
+6	an	an	PART	_		_	_	_	LemmaId=213304|OccId=5889284|Unsandhied=an
+7	abhimatam	abhiman	VERB	_	Case=Acc|Gender=Neut|Number=Sing|VerbForm=Part	_	_	_	LemmaId=158876|OccId=5889285|Unsandhied=abhimatam
+8	duḥkhaṃ	duḥkha	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	_	_	_	LemmaId=85108|OccId=2508188|Unsandhied=duḥkham|UnsandhiedReconstructed=True
+9	visraṃsayantu	visraṃsay	VERB	_	Tense=Pres|Mood=Imp|Person=3|Number=Plur	_	_	_	LemmaId=199778|OccId=2508266|Unsandhied=visraṃsayantu
+10	dhvaṃsayantu	dhvaṃsay	VERB	_	Tense=Pres|Mood=Imp|Person=3|Number=Plur	_	_	_	LemmaId=158683|OccId=2508267|Unsandhied=dhvaṃsayantu|Punctuation=fullStop
 
 # text = vo yuṣmākam
-# sent_id = 462246
+# sent_id = 462248
 # sent_counter = 2
 # sent_subcounter = 
 1	vo	tvad	PRON	_	Case=Gen|Number=Plur	_	_	_	LemmaId=37880|OccId=2508189|Unsandhied=vaḥ|UnsandhiedReconstructed=True
 2	yuṣmākam	tvad	PRON	_	Case=Gen|Number=Plur	_	_	_	LemmaId=37880|OccId=2508190|Unsandhied=vaḥ|UnsandhiedReconstructed=True
 
 # text = drutaṃ śīghram
-# sent_id = 462247
+# sent_id = 462249
 # sent_counter = 3
 # sent_subcounter = 
 1	drutaṃ	drutam	ADV	_		_	_	_	LemmaId=203548|OccId=2508191|Unsandhied=drutam|UnsandhiedReconstructed=True
 2	śīghram	śīghram	ADV	_		_	_	_	LemmaId=202753|OccId=2508192|Unsandhied=śīghram|UnsandhiedReconstructed=True
 
 # text = yaiḥ padminī jagaccoṣasi prātaḥkāle ucchvāsyate
-# sent_id = 462248
+# sent_id = 462250
 # sent_counter = 4
 # sent_subcounter = 
 1	yaiḥ	yad	PRON	_	Case=Ins|Gender=Masc|Number=Plur	_	_	_	LemmaId=37877|OccId=2508193|Unsandhied=yaiḥ|UnsandhiedReconstructed=True
@@ -46,19 +47,19 @@
 7	ucchvāsyate	ucchvāsay	VERB	_	Tense=Pres|Mood=Ind|Voice=Pass|Person=3|Number=Sing	_	_	_	LemmaId=160069|OccId=2508268|Unsandhied=ucchvāsyate
 
 # text = dhvaṃsayitvā
-# sent_id = 462249
+# sent_id = 462251
 # sent_counter = 5
 # sent_subcounter = 
 1	dhvaṃsayitvā	dhvaṃsay	VERB	_	VerbForm=Conv	_	_	_	LemmaId=158683|OccId=2508199|Unsandhied=dhvaṃsayitvā|UnsandhiedReconstructed=True
 
 # text = kām
-# sent_id = 462250
+# sent_id = 462252
 # sent_counter = 6
 # sent_subcounter = 
 1	kām	ka	PRON	_	Case=Acc|Gender=Fem|Number=Sing	_	_	_	LemmaId=37878|OccId=2508200|Unsandhied=kām|UnsandhiedReconstructed=True
 
 # text = tamisrāmandhakāraṃ rātriṃ vā
-# sent_id = 462251
+# sent_id = 462253
 # sent_counter = 7
 # sent_subcounter = 
 1-2	tamisrāmandhakāraṃ	_	_	_	_	_	_	_	_
@@ -68,14 +69,14 @@
 4	vā	vā	CONJ	_		_	_	_	LemmaId=75765|OccId=2508204|Unsandhied=vā|UnsandhiedReconstructed=True
 
 # text = kiṃ kurvadbhiḥ
-# sent_id = 462252
+# sent_id = 462254
 # sent_counter = 8
 # sent_subcounter = 
 1	kiṃ	ka	PRON	_	Case=Acc|Gender=Neut|Number=Sing	_	_	_	LemmaId=37878|OccId=2508205|Unsandhied=kim|UnsandhiedReconstructed=True
 2	kurvadbhiḥ	kṛ	VERB	_	Case=Ins|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part	_	_	_	LemmaId=156168|OccId=2508206|Unsandhied=kurvadbhiḥ|UnsandhiedReconstructed=True
 
 # text = vistīrṇaṃ pṛthulaṃ vyoma gaganam dīrghā āyatā daśa diśo daśāśāḥ sapadi tatkṣaṇaṃ vyastavelāmbhaso'bdhīn vikṣiptavelājalān samudrān kurvadbhiḥ
-# sent_id = 462253
+# sent_id = 462255
 # sent_counter = 9
 # sent_subcounter = 
 1	vistīrṇaṃ	vistṛ	VERB	_	Case=Acc|Gender=Neut|Number=Sing|VerbForm=Part	_	_	_	LemmaId=164480|OccId=2508207|Unsandhied=vistīrṇam|UnsandhiedReconstructed=True
@@ -104,7 +105,7 @@
 20	kurvadbhiḥ	kṛ	VERB	_	Case=Ins|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part	_	_	_	LemmaId=156168|OccId=2508226|Unsandhied=kurvadbhiḥ|UnsandhiedReconstructed=True|Punctuation=fullStop
 
 # text = pṛthvīṃ ca dharāṃ kurvadbhiḥ
-# sent_id = 462254
+# sent_id = 462256
 # sent_counter = 10
 # sent_subcounter = 
 1	pṛthvīṃ	pṛthvī	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	_	_	_	LemmaId=149910|OccId=2508227|Unsandhied=pṛthvīm|UnsandhiedReconstructed=True
@@ -113,13 +114,13 @@
 4	kurvadbhiḥ	kṛ	VERB	_	Case=Ins|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part	_	_	_	LemmaId=156168|OccId=2508230|Unsandhied=kurvadbhiḥ|UnsandhiedReconstructed=True
 
 # text = kathaṃbhūtām
-# sent_id = 462255
+# sent_id = 462257
 # sent_counter = 11
 # sent_subcounter = 
 1	kathaṃbhūtām	kathaṃbhūta	ADJ	_	Case=Acc|Gender=Fem|Number=Sing	_	_	_	LemmaId=1351|OccId=2508231|Unsandhied=kathaṃbhūtām|UnsandhiedReconstructed=True
 
 # text = dṛśyanānānaganagaranagābhogapṛthvīm
-# sent_id = 462256
+# sent_id = 462258
 # sent_counter = 12
 # sent_subcounter = 
 1-7	dṛśyanānānaganagaranagābhogapṛthvīm	_	_	_	_	_	_	_	_
@@ -132,7 +133,7 @@
 7	pṛthum	pṛthu	ADJ	_	Case=Acc|Gender=Fem|Number=Sing	_	_	_	LemmaId=150040|OccId=2508238|Unsandhied=pṛthum|UnsandhiedReconstructed=True
 
 # text = nagāḥ parvatāḥ nagarāṇi pattanāni nagā vṛkṣāste ca te nānāprakārāśceti samāsaḥ
-# sent_id = 462257
+# sent_id = 462259
 # sent_counter = 13
 # sent_subcounter = 
 1	nagāḥ	naga	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	_	_	_	LemmaId=43669|OccId=2508239|Unsandhied=nagāḥ|UnsandhiedReconstructed=True
@@ -153,14 +154,14 @@
 14	samāsaḥ	samāsa	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=29636|OccId=2508252|Unsandhied=samāsaḥ|UnsandhiedReconstructed=True|Punctuation=fullStop
 
 # text = dṛśyā upalabhyāḥ
-# sent_id = 462258
+# sent_id = 462260
 # sent_counter = 14
 # sent_subcounter = 
 1	dṛśyā	dṛś	VERB	_	Case=Nom|Gender=Masc|Number=Plur|VerbForm=Gdv	_	_	_	LemmaId=157766|OccId=2508253|Unsandhied=dṛśyāḥ|UnsandhiedReconstructed=True
 2	upalabhyāḥ	upalabh	VERB	_	Case=Nom|Gender=Masc|Number=Plur|VerbForm=Gdv	_	_	_	LemmaId=160529|OccId=2508254|Unsandhied=upalabhyāḥ|UnsandhiedReconstructed=True
 
 # text = dṛśyāśca te nānānaganagaranagās teṣām ābhogo vistārastena pṛthvīṃ vistīrṇām
-# sent_id = 462259
+# sent_id = 462261
 # sent_counter = 15
 # sent_subcounter = 
 1-2	dṛśyāśca	_	_	_	_	_	_	_	_

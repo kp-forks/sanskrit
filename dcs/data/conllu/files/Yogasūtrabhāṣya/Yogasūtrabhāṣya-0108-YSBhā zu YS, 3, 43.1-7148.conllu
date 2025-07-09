@@ -3,7 +3,7 @@
 ## chapter: YSBhā zu YS, 3, 43.1
 ## chapter_id: 7148
 # text = śarīrād bahir manaso vṛttilābho videhā nāma dhāraṇā
-# sent_id = 479457
+# sent_id = 479783
 # sent_counter = 1
 # sent_subcounter = 1
 1	śarīrād	śarīra	NOUN	_	Case=Abl|Gender=Neut|Number=Sing	_	_	_	LemmaId=116860|OccId=2605865|Unsandhied=śarīrāt|UnsandhiedReconstructed=True
@@ -17,7 +17,7 @@
 8	dhāraṇā	dhāraṇā	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	_	_	_	LemmaId=42513|OccId=2605872|Unsandhied=dhāraṇā|UnsandhiedReconstructed=True
 
 # text = sā yadi śarīrapratiṣṭhasya manaso bahirvṛttimātreṇa bhavati sā kalpitety ucyate
-# sent_id = 479458
+# sent_id = 479784
 # sent_counter = 2
 # sent_subcounter = 1
 1	sā	tad	PRON	_	Case=Nom|Gender=Fem|Number=Sing	_	_	_	LemmaId=37875|OccId=2605873|Unsandhied=sā|UnsandhiedReconstructed=True
@@ -37,8 +37,8 @@
 12	iti	iti	PART	_		_	_	_	LemmaId=63331|OccId=2605884|Unsandhied=iti|UnsandhiedReconstructed=True
 13	ucyate	vac	VERB	_	Tense=Pres|Mood=Ind|Voice=Pass|Person=3|Number=Sing	_	_	_	LemmaId=157264|OccId=2605885|Unsandhied=ucyate
 
-# text = yā tu śarīranirapekṣā bahirbhūtasyaiva manaso bahirvṛttiḥ sā khalvakalpitā
-# sent_id = 479459
+# text = yā tu śarīranirapekṣā bahirbhūtasyaiva manaso bahirvṛttiḥ sā khalv akalpitā
+# sent_id = 479785
 # sent_counter = 3
 # sent_subcounter = 1
 1	yā	yad	PRON	_	Case=Nom|Gender=Fem|Number=Sing	_	_	_	LemmaId=37877|OccId=2605886|Unsandhied=yā|UnsandhiedReconstructed=True
@@ -55,29 +55,32 @@
 9	bahis	bahis	ADV	_		_	_	_	LemmaId=147329|OccId=2605894|Unsandhied=bahis|UnsandhiedReconstructed=True
 10	vṛttiḥ	vṛtti	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	_	_	_	LemmaId=141805|OccId=2605895|Unsandhied=vṛttiḥ|UnsandhiedReconstructed=True
 11	sā	tad	PRON	_	Case=Nom|Gender=Fem|Number=Sing	_	_	_	LemmaId=37875|OccId=2605896|Unsandhied=sā|UnsandhiedReconstructed=True
-12-13	khalvakalpitā	_	_	_	_	_	_	_	_
-12	khalu	khalu	PART	_		_	_	_	LemmaId=128848|OccId=2605897|Unsandhied=khalu|UnsandhiedReconstructed=True
-13	akalpitā	akalpita	ADJ	_	Case=Nom|Gender=Fem|Number=Sing	_	_	_	LemmaId=1817|OccId=2605898|Unsandhied=akalpitā|UnsandhiedReconstructed=True
+12	khalv	khalu	PART	_		_	_	_	LemmaId=128848|OccId=5889202|Unsandhied=khalu
+13-14	akalpitā	_	_	_	_	_	_	_	_
+13	a	a	PART	_		_	_	_	LemmaId=213048|OccId=5889203|Unsandhied=a
+14	kalpitā	kalpay	VERB	_	Case=Nom|Gender=Fem|Number=Sing|VerbForm=Part	_	_	_	LemmaId=156177|OccId=5889204|Unsandhied=kalpitā
 
 # text = tatra kalpitayā sādhayanty akalpitāṃ mahāvidehām iti yathā paraśarīrāṇy āviśanti yoginaḥ
-# sent_id = 479460
+# sent_id = 479786
 # sent_counter = 4
 # sent_subcounter = 1
 1	tatra	tatra	ADV	_		_	_	_	LemmaId=95978|OccId=2605899|Unsandhied=tatra|UnsandhiedReconstructed=True
 2	kalpitayā	kalpay	VERB	_	Case=Ins|Gender=Fem|Number=Sing|VerbForm=Part	_	_	_	LemmaId=156177|OccId=2605900|Unsandhied=kalpitayā|UnsandhiedReconstructed=True
 3	sādhayanty	sādhay	VERB	_	Tense=Pres|Mood=Ind|Person=3|Number=Plur	_	_	_	LemmaId=159171|OccId=2605901|Unsandhied=sādhayanti
-4	akalpitāṃ	akalpita	ADJ	_	Case=Acc|Gender=Fem|Number=Sing	_	_	_	LemmaId=1817|OccId=2605902|Unsandhied=akalpitām|UnsandhiedReconstructed=True
-5	mahāvidehām	mahāvidehā	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	_	_	_	LemmaId=77614|OccId=2605903|Unsandhied=mahāvidehām|UnsandhiedReconstructed=True
-6	iti	iti	PART	_		_	_	_	LemmaId=63331|OccId=2605904|Unsandhied=iti|UnsandhiedReconstructed=True
-7	yathā	yathā	PART	_		_	_	_	LemmaId=73250|OccId=2605905|Unsandhied=yathā|UnsandhiedReconstructed=True
-8-9	paraśarīrāṇy	_	_	_	_	_	_	_	_
-8	para	para	PRON	_	Case=Cpd	_	_	_	LemmaId=163234|OccId=2605906|Unsandhied=para|UnsandhiedReconstructed=True
-9	śarīrāṇi	śarīra	NOUN	_	Case=Acc|Gender=Neut|Number=Plur	_	_	_	LemmaId=116860|OccId=2605907|Unsandhied=śarīrāṇi|UnsandhiedReconstructed=True
-10	āviśanti	āviś	VERB	_	Tense=Pres|Mood=Ind|Person=3|Number=Plur	_	_	_	LemmaId=159946|OccId=2605908|Unsandhied=āviśanti
-11	yoginaḥ	yogin	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	_	_	_	LemmaId=65186|OccId=2605909|Unsandhied=yoginaḥ|UnsandhiedReconstructed=True
+4-5	akalpitāṃ	_	_	_	_	_	_	_	_
+4	a	a	PART	_		_	_	_	LemmaId=213048|OccId=5889205|Unsandhied=a
+5	kalpitām	kalpay	VERB	_	Case=Acc|Gender=Fem|Number=Sing|VerbForm=Part	_	_	_	LemmaId=156177|OccId=5889206|Unsandhied=kalpitām
+6	mahāvidehām	mahāvidehā	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	_	_	_	LemmaId=77614|OccId=2605903|Unsandhied=mahāvidehām|UnsandhiedReconstructed=True
+7	iti	iti	PART	_		_	_	_	LemmaId=63331|OccId=2605904|Unsandhied=iti|UnsandhiedReconstructed=True
+8	yathā	yathā	PART	_		_	_	_	LemmaId=73250|OccId=2605905|Unsandhied=yathā|UnsandhiedReconstructed=True
+9-10	paraśarīrāṇy	_	_	_	_	_	_	_	_
+9	para	para	PRON	_	Case=Cpd	_	_	_	LemmaId=163234|OccId=2605906|Unsandhied=para|UnsandhiedReconstructed=True
+10	śarīrāṇi	śarīra	NOUN	_	Case=Acc|Gender=Neut|Number=Plur	_	_	_	LemmaId=116860|OccId=2605907|Unsandhied=śarīrāṇi|UnsandhiedReconstructed=True
+11	āviśanti	āviś	VERB	_	Tense=Pres|Mood=Ind|Person=3|Number=Plur	_	_	_	LemmaId=159946|OccId=2605908|Unsandhied=āviśanti
+12	yoginaḥ	yogin	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	_	_	_	LemmaId=65186|OccId=2605909|Unsandhied=yoginaḥ|UnsandhiedReconstructed=True
 
 # text = tataśca dhāraṇātaḥ prakāśātmano buddhisattvasya yad āvaraṇaṃ kleśakarmavipākatrayarajastamomūlaṃ tasya ca kṣayo bhavati
-# sent_id = 479461
+# sent_id = 479787
 # sent_counter = 5
 # sent_subcounter = 1
 1-2	tataśca	_	_	_	_	_	_	_	_

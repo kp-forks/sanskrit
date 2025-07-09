@@ -32,7 +32,7 @@
 3	trayaḥ	tri	NUM	_	Case=Nom|Gender=Masc|Number=Plur	_	_	_	LemmaId=166282|OccId=1449384|Unsandhied=trayaḥ|UnsandhiedReconstructed=True
 4	'sādhyā	asādhya	ADJ	_	Case=Nom|Gender=Masc|Number=Plur	_	_	_	LemmaId=60934|OccId=1449385|Unsandhied=asādhyāḥ|UnsandhiedReconstructed=True
 5	yāpyāḥ	yāpay	VERB	_	Case=Nom|Gender=Masc|Number=Plur|VerbForm=Gdv	_	_	_	LemmaId=158429|OccId=1449386|Unsandhied=yāpyāḥ|UnsandhiedReconstructed=True
-6	ṣaṭ	ṣaṣ	NUM	_	Case=Nom|Gender=Masc|Number=Plur	_	_	_	LemmaId=41703|OccId=1449387|Unsandhied=ṣaṭ|UnsandhiedReconstructed=True
+6	ṣaṭ	ṣaṣ	NUM	_	Case=Nom|Gender=Masc|Number=Plur	_	_	_	LemmaId=41703|OccId=1449387|Unsandhied=ṣaṣ|UnsandhiedReconstructed=True
 7	ca	ca	CONJ	_		_	_	_	LemmaId=157144|OccId=1449388|Unsandhied=ca|UnsandhiedReconstructed=True
 8	bhavanti	bhū	VERB	_	Tense=Pres|Mood=Ind|Person=3|Number=Plur	_	_	_	LemmaId=157250|OccId=1449389|Unsandhied=bhavanti
 9	hi	hi	PART	_		_	_	_	LemmaId=109879|OccId=1449390|Unsandhied=hi|UnsandhiedReconstructed=True
@@ -736,11 +736,11 @@
 3	khalu	khalu	PART	_		_	_	_	LemmaId=128848|OccId=1449743|Unsandhied=khalu|UnsandhiedReconstructed=True
 4	ye	yad	PRON	_	Case=Nom|Gender=Masc|Number=Plur	_	_	_	LemmaId=37877|OccId=1449744|Unsandhied=ye|UnsandhiedReconstructed=True
 5-6	ṣaḍāmayā	_	_	_	_	_	_	_	_
-5	ṣaṭ	ṣaṣ	NUM	_	Case=Nom|Gender=Masc|Number=Plur	_	_	_	LemmaId=41703|OccId=1449745|Unsandhied=ṣaṭ|UnsandhiedReconstructed=True
+5	ṣaṣ	ṣaṣ	NUM	_	Case=Nom|Gender=Masc|Number=Plur	_	_	_	LemmaId=41703|OccId=1449745|Unsandhied=ṣaṣ|UnsandhiedReconstructed=True
 6	āmayāḥ	āmaya	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	_	_	_	LemmaId=58956|OccId=1449746|Unsandhied=āmayāḥ|UnsandhiedReconstructed=True
 7-9	haredasṛkteṣu	_	_	_	_	_	_	_	_
 7	haret	hṛ	VERB	_	Tense=Pres|Mood=Opt|Person=3|Number=Sing	_	_	_	LemmaId=157558|OccId=1449747|Unsandhied=haret
-8	asṛj	asṛj	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	_	_	_	LemmaId=61127|OccId=1449748|Unsandhied=asṛj|UnsandhiedReconstructed=True
+8	asṛk	asṛj	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	_	_	_	LemmaId=61127|OccId=1449748|Unsandhied=asṛk|UnsandhiedReconstructed=True
 9	teṣu	tad	PRON	_	Case=Loc|Gender=Masc|Number=Plur	_	_	_	LemmaId=37875|OccId=1449749|Unsandhied=teṣu|UnsandhiedReconstructed=True
 10-11	sirāvimokṣaṇaiḥ	_	_	_	_	_	_	_	_
 10	sirā	sirā	NOUN	_	Case=Cpd	_	_	_	LemmaId=106411|OccId=1449750|Unsandhied=sirā|UnsandhiedReconstructed=True
@@ -2484,7 +2484,7 @@
 5	mukula	mukula	NOUN	_	Case=Cpd	_	_	_	LemmaId=169563|OccId=1450706|Unsandhied=mukula|UnsandhiedReconstructed=True
 6	ākṛtiḥ	ākṛti	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	_	_	_	LemmaId=61834|OccId=1450707|Unsandhied=ākṛtiḥ|UnsandhiedReconstructed=True
 
-# text = tāmrāyasī śātakumbhī śalākā syādaninditā
+# text = tāmrāyasī śātakumbhī śalākā syād aninditā
 # sent_id = 12518
 # sent_counter = 85
 # sent_subcounter = 1
@@ -2493,9 +2493,10 @@
 2	āyasā	āyasa	ADJ	_	Case=Nom|Gender=Fem|Number=Sing	_	_	_	LemmaId=59180|OccId=1450709|Unsandhied=āyasā|UnsandhiedReconstructed=True
 3	śātakumbhī	śātakumbha	ADJ	_	Case=Nom|Gender=Fem|Number=Sing	_	_	_	LemmaId=131262|OccId=1450929|Unsandhied=śātakumbhā|UnsandhiedReconstructed=True
 4	śalākā	śalākā	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	_	_	_	LemmaId=128012|OccId=1450710|Unsandhied=śalākā|UnsandhiedReconstructed=True
-5-6	syādaninditā	_	_	_	_	_	_	_	_
-5	syāt	as	VERB	_	Tense=Pres|Mood=Opt|Person=3|Number=Sing	_	_	_	LemmaId=156122|OccId=1450711|Unsandhied=syāt
-6	aninditā	anindita	ADJ	_	Case=Nom|Gender=Fem|Number=Sing	_	_	_	LemmaId=10478|OccId=1450712|Unsandhied=aninditā|UnsandhiedReconstructed=True
+5	syād	as	VERB	_	Tense=Pres|Mood=Opt|Person=3|Number=Sing	_	_	_	LemmaId=156122|OccId=5881572|Unsandhied=syāt
+6-7	aninditā	_	_	_	_	_	_	_	_
+6	a	a	PART	_		_	_	_	LemmaId=213048|OccId=5881573|Unsandhied=a
+7	ninditā	nind	VERB	_	Case=Nom|Gender=Fem|Number=Sing|VerbForm=Part	_	_	_	LemmaId=159181|OccId=5881574|Unsandhied=ninditā
 
 # text = rāgaḥ śopho 'rbudaṃ coṣo budbudaṃ śūkarākṣitā
 # sent_id = 12519

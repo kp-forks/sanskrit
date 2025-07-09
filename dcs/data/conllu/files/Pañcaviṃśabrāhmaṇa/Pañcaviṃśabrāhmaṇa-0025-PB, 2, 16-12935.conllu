@@ -3,10 +3,10 @@
 ## chapter: PB, 2, 16
 ## chapter_id: 12935
 # text = navabhyo hiṃkaroti sa tisṛbhiḥ sa tisṛbhiḥ sa tisṛbhiḥ pañcabhyo hiṃkaroti sa ekayā sa tisṛbhiḥ sa ekayā saptabhyo hiṃkaroti sa tisṛbhiḥ sa ekayā sa tisṛbhiḥ pratiṣṭutiḥ
-# sent_id = 562586
+# sent_id = 563988
 # sent_counter = 1
 # sent_subcounter = 
-1	navabhyo	navan	NUM	_	Case=Dat|Gender=Fem|Number=Plur	_	_	_	LemmaId=44669|OccId=3694660|Unsandhied=_
+1	navabhyo	navan	NUM	_	Case=Dat|Gender=Fem|Number=Plur	_	_	_	LemmaId=44669|OccId=3694660|Unsandhied=navabhyaḥ|UnsandhiedReconstructed=True
 2	hiṃkaroti	hiṃkṛ	VERB	_	Tense=Pres|Mood=Ind|Person=3|Number=Sing	_	_	_	LemmaId=216388|OccId=5085777|Unsandhied=hiṃkaroti|Punctuation=fullStop
 3	sa	tad	PRON	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=37875|OccId=3694663|Unsandhied=saḥ|UnsandhiedReconstructed=True
 4	tisṛbhiḥ	tri	NUM	_	Case=Ins|Gender=Fem|Number=Plur	_	_	_	LemmaId=166282|OccId=3694664|Unsandhied=tisṛbhiḥ|UnsandhiedReconstructed=True|Punctuation=fullStop
@@ -14,7 +14,7 @@
 6	tisṛbhiḥ	tri	NUM	_	Case=Ins|Gender=Fem|Number=Plur	_	_	_	LemmaId=166282|OccId=3694666|Unsandhied=tisṛbhiḥ|UnsandhiedReconstructed=True|Punctuation=fullStop
 7	sa	tad	PRON	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=37875|OccId=3694667|Unsandhied=saḥ|UnsandhiedReconstructed=True
 8	tisṛbhiḥ	tri	NUM	_	Case=Ins|Gender=Fem|Number=Plur	_	_	_	LemmaId=166282|OccId=3694668|Unsandhied=tisṛbhiḥ|UnsandhiedReconstructed=True|Punctuation=fullStop
-9	pañcabhyo	pañcan	NUM	_	Case=Dat|Gender=Fem|Number=Plur	_	_	_	LemmaId=165692|OccId=3694669|Unsandhied=_
+9	pañcabhyo	pañcan	NUM	_	Case=Dat|Gender=Fem|Number=Plur	_	_	_	LemmaId=165692|OccId=3694669|Unsandhied=pañcabhyaḥ|UnsandhiedReconstructed=True
 10	hiṃkaroti	hiṃkṛ	VERB	_	Tense=Pres|Mood=Ind|Person=3|Number=Sing	_	_	_	LemmaId=216388|OccId=5085778|Unsandhied=hiṃkaroti|Punctuation=fullStop
 11	sa	tad	PRON	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=37875|OccId=3694672|Unsandhied=saḥ|UnsandhiedReconstructed=True
 12	ekayā	eka	NUM	_	Case=Ins|Gender=Fem|Number=Sing	_	_	_	LemmaId=39102|OccId=3694673|Unsandhied=ekayā|UnsandhiedReconstructed=True|Punctuation=fullStop
@@ -33,7 +33,7 @@
 25	pratiṣṭutiḥ	pratiṣṭuti	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	_	_	_	LemmaId=139806|OccId=3694687|Unsandhied=pratiṣṭutiḥ|UnsandhiedReconstructed=True|Punctuation=fullStop
 
 # text = navabhis trivṛtaṃ pratiṣṭauti pañcabhiḥ pañcabhiḥ pañcadaśaṃ saptabhiḥ saptadaśaṃ svayam ekaviṃśaḥ sampannaḥ
-# sent_id = 562587
+# sent_id = 563989
 # sent_counter = 2
 # sent_subcounter = 
 1	navabhis	navan	NUM	_	Case=Ins|Gender=Fem|Number=Plur	_	_	_	LemmaId=44669|OccId=3694688|Unsandhied=navabhiḥ|UnsandhiedReconstructed=True
@@ -49,7 +49,7 @@
 11	sampannaḥ	sampad	VERB	_	Case=Nom|Gender=Masc|Number=Sing|VerbForm=Part	_	_	_	LemmaId=165414|OccId=3694760|Unsandhied=sampannaḥ|UnsandhiedReconstructed=True|Punctuation=fullStop
 
 # text = ya eva stomā yajñaṃ vahanti tān uttame stotre saṃtarpayati yathānaḍuho vāśvān vāśvatarān voḍhuṣaḥ saṃtarpayed evam etad uttame stotre stomān saṃtarpayati tṛpyati prajayā paśubhir ya etayā stute
-# sent_id = 562588
+# sent_id = 563990
 # sent_counter = 3
 # sent_subcounter = 
 1	ya	yad	PRON	_	Case=Nom|Gender=Masc|Number=Plur	_	_	_	LemmaId=37877|OccId=5085783|Unsandhied=ye
@@ -88,7 +88,7 @@
 30	stute	stu	VERB	_	Tense=Pres|Mood=Ind|Person=3|Number=Sing	_	_	_	LemmaId=157515|OccId=3694724|Unsandhied=stute|Punctuation=fullStop
 
 # text = etām eva purodhākāmāya kuryād brahma vai trivṛt kṣatram ekaviṃśo yat trivṛtaikaviṃśaṃ pratipadyate brahma tat kṣatrasya purastān nidadhāti gacchati purodhāṃ na purodhāyāś cyavate ya etayā stute
-# sent_id = 562589
+# sent_id = 563991
 # sent_counter = 4
 # sent_subcounter = 
 1	etām	etad	PRON	_	Case=Acc|Gender=Fem|Number=Sing	_	_	_	LemmaId=163744|OccId=3694725|Unsandhied=etām|UnsandhiedReconstructed=True
@@ -122,7 +122,7 @@
 27	stute	stu	VERB	_	Tense=Pres|Mood=Ind|Person=3|Number=Sing	_	_	_	LemmaId=157515|OccId=3694751|Unsandhied=stute|Punctuation=fullStop
 
 # text = tām etāṃ prāvāhaṇya upāsate tasmāt te purodhāyā na cyavanta
-# sent_id = 562590
+# sent_id = 563992
 # sent_counter = 5
 # sent_subcounter = 
 1	tām	tad	PRON	_	Case=Acc|Gender=Fem|Number=Sing	_	_	_	LemmaId=37875|OccId=3694752|Unsandhied=tām|UnsandhiedReconstructed=True

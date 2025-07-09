@@ -313,18 +313,19 @@
 6	candana	candana	NOUN	_	Case=Cpd	_	_	_	LemmaId=164351|OccId=592338|Unsandhied=candana|UnsandhiedReconstructed=True
 7	ambaraḥ	ambara	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=32041|OccId=592339|Unsandhied=ambaraḥ|UnsandhiedReconstructed=True
 
-# text = caratyamoghasaṃkalpo nabhasyambudadurgame
+# text = caraty amoghasaṃkalpo nabhasyambudadurgame
 # sent_id = 9323
 # sent_counter = 7
 # sent_subcounter = 2
-1-3	caratyamoghasaṃkalpo	_	_	_	_	_	_	_	_
-1	carati	car	VERB	_	Tense=Pres|Mood=Ind|Person=3|Number=Sing	_	_	_	LemmaId=156249|OccId=592340|Unsandhied=carati
-2	amogha	amogha	ADJ	_	Case=Cpd	_	_	_	LemmaId=32012|OccId=592341|Unsandhied=amogha|UnsandhiedReconstructed=True
-3	saṃkalpaḥ	saṃkalpa	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=8830|OccId=592342|Unsandhied=saṃkalpaḥ|UnsandhiedReconstructed=True
-4-6	nabhasyambudadurgame	_	_	_	_	_	_	_	_
-4	nabhasi	nabhas	NOUN	_	Case=Loc|Gender=Neut|Number=Sing	_	_	_	LemmaId=44077|OccId=592252|Unsandhied=nabhasi|UnsandhiedReconstructed=True
-5	ambuda	ambuda	NOUN	_	Case=Cpd	_	_	_	LemmaId=32099|OccId=592253|Unsandhied=ambuda|UnsandhiedReconstructed=True|WordSem=42217
-6	durgame	durgama	ADJ	_	Case=Loc|Gender=Neut|Number=Sing	_	_	_	LemmaId=85475|OccId=592254|Unsandhied=durgame|UnsandhiedReconstructed=True
+1	caraty	car	VERB	_	Tense=Pres|Mood=Ind|Person=3|Number=Sing	_	_	_	LemmaId=156249|OccId=5883705|Unsandhied=carati
+2-4	amoghasaṃkalpo	_	_	_	_	_	_	_	_
+2	a	a	PART	_		_	_	_	LemmaId=213048|OccId=5883706|Unsandhied=a
+3	mogha	mogha	ADJ	_	Case=Cpd	_	_	_	LemmaId=72398|OccId=5883707|Unsandhied=mogha
+4	saṃkalpaḥ	saṃkalpa	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=8830|OccId=5883708|Unsandhied=saṃkalpaḥ
+5-7	nabhasyambudadurgame	_	_	_	_	_	_	_	_
+5	nabhasi	nabhas	NOUN	_	Case=Loc|Gender=Neut|Number=Sing	_	_	_	LemmaId=44077|OccId=592252|Unsandhied=nabhasi|UnsandhiedReconstructed=True
+6	ambuda	ambuda	NOUN	_	Case=Cpd	_	_	_	LemmaId=32099|OccId=592253|Unsandhied=ambuda|UnsandhiedReconstructed=True|WordSem=42217
+7	durgame	durgama	ADJ	_	Case=Loc|Gender=Neut|Number=Sing	_	_	_	LemmaId=85475|OccId=592254|Unsandhied=durgame|UnsandhiedReconstructed=True
 
 # text = vrajanti pakṣiṇo yena jalalambāś ca toyadāḥ
 # sent_id = 9324
@@ -875,12 +876,14 @@
 # sent_id = 9365
 # sent_counter = 28
 # sent_subcounter = 2
-1	aśraddadhānair	aśraddadhāna	ADJ	_	Case=Ins|Gender=Masc|Number=Plur	_	_	_	LemmaId=170601|OccId=592551|Unsandhied=aśraddadhānaiḥ|UnsandhiedReconstructed=True
-2	alasaiḥ	alasa	ADJ	_	Case=Ins|Gender=Masc|Number=Plur	_	_	_	LemmaId=53711|OccId=592552|Unsandhied=alasaiḥ|UnsandhiedReconstructed=True
-3	kṛtaghnaiḥ	kṛtaghna	ADJ	_	Case=Ins|Gender=Masc|Number=Plur	_	_	_	LemmaId=3478|OccId=592553|Unsandhied=kṛtaghnaiḥ|UnsandhiedReconstructed=True
-4-5	pāpakarmabhiḥ	_	_	_	_	_	_	_	_
-4	pāpa	pāpa	ADJ	_	Case=Cpd	_	_	_	LemmaId=93768|OccId=3461290|Unsandhied=pāpa|UnsandhiedReconstructed=True
-5	karmabhiḥ	karman	NOUN	_	Case=Ins|Gender=Masc|Number=Plur	_	_	_	LemmaId=12243|OccId=3461291|Unsandhied=karmabhiḥ|UnsandhiedReconstructed=True
+1-2	aśraddadhānair	_	_	_	_	_	_	_	_
+1	a	a	PART	_		_	_	_	LemmaId=213048|OccId=5893500|Unsandhied=a
+2	śraddadhānaiḥ	śraddhā	VERB	_	Case=Ins|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part	_	_	_	LemmaId=164686|OccId=5893501|Unsandhied=śraddadhānaiḥ
+3	alasaiḥ	alasa	ADJ	_	Case=Ins|Gender=Masc|Number=Plur	_	_	_	LemmaId=53711|OccId=592552|Unsandhied=alasaiḥ|UnsandhiedReconstructed=True
+4	kṛtaghnaiḥ	kṛtaghna	ADJ	_	Case=Ins|Gender=Masc|Number=Plur	_	_	_	LemmaId=3478|OccId=592553|Unsandhied=kṛtaghnaiḥ|UnsandhiedReconstructed=True
+5-6	pāpakarmabhiḥ	_	_	_	_	_	_	_	_
+5	pāpa	pāpa	ADJ	_	Case=Cpd	_	_	_	LemmaId=93768|OccId=3461290|Unsandhied=pāpa|UnsandhiedReconstructed=True
+6	karmabhiḥ	karman	NOUN	_	Case=Ins|Gender=Masc|Number=Plur	_	_	_	LemmaId=12243|OccId=3461291|Unsandhied=karmabhiḥ|UnsandhiedReconstructed=True
 
 # text = naivāsādayituṃ śakyāḥ somāḥ somasamāstathā
 # sent_id = 9366

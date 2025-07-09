@@ -1,0 +1,53 @@
+## text: Mīmāṃsāsūtrabhāṣya
+## text_id: 572
+## chapter: MīSūBhā, 1, 1, 10
+## chapter_id: 17254
+# text = api ca dadhyatrety atrekāraḥ prakṛtir yakāro vikṛtir ity upadiśanti
+# sent_id = 753411
+# sent_counter = 1
+# sent_subcounter = 
+1	api	api	PART	_		_	_	_	LemmaId=21365|OccId=5896595|Unsandhied=api
+2	ca	ca	CONJ	_		_	_	_	LemmaId=157144|OccId=5896596|Unsandhied=ca
+3-5	dadhyatrety	_	_	_	_	_	_	_	_
+3	dadhi	dadhi	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=100937|OccId=5896597|Unsandhied=dadhi
+4	atra	atra	ADV	_		_	_	_	LemmaId=7442|OccId=5896598|Unsandhied=atra
+5	iti	iti	PART	_		_	_	_	LemmaId=63331|OccId=5896599|Unsandhied=iti
+6-7	atrekāraḥ	_	_	_	_	_	_	_	_
+6	atra	atra	ADV	_		_	_	_	LemmaId=7442|OccId=5896600|Unsandhied=atra
+7	ikāraḥ	ikāra	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=63205|OccId=5896601|Unsandhied=ikāraḥ
+8	prakṛtir	prakṛti	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	_	_	_	LemmaId=151147|OccId=5896602|Unsandhied=prakṛtiḥ
+9	yakāro	yakāra	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=72776|OccId=5896603|Unsandhied=yakāraḥ
+10	vikṛtir	vikṛti	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	_	_	_	LemmaId=47823|OccId=5896604|Unsandhied=vikṛtiḥ
+11	ity	iti	PART	_		_	_	_	LemmaId=63331|OccId=5896605|Unsandhied=iti
+12	upadiśanti	upadiś	VERB	_	Tense=Pres|Mood=Ind|Person=3|Number=Plur	_	_	_	LemmaId=160400|OccId=5896622|Unsandhied=upadiśanti|Punctuation=fullStop
+
+# text = yad vikriyate tad anityam
+# sent_id = 753412
+# sent_counter = 2
+# sent_subcounter = 
+1	yad	yad	PRON	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=37877|OccId=5896606|Unsandhied=yat
+2	vikriyate	vikṛ	VERB	_	Tense=Pres|Mood=Ind|Voice=Pass|Person=3|Number=Sing	_	_	_	LemmaId=163249|OccId=5896607|Unsandhied=vikriyate
+3	tad	tad	PRON	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=37875|OccId=5896608|Unsandhied=tat
+4	anityam	anitya	ADJ	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=10457|OccId=5896609|Unsandhied=anityam|Punctuation=fullStop
+
+# text = ikārasādṛśyaṃ ca yakārasyopalabhyate tenāpi tayoḥ prakṛtivikārabhāvo lakṣyate
+# sent_id = 753413
+# sent_counter = 3
+# sent_subcounter = 
+1-2	ikārasādṛśyaṃ	_	_	_	_	_	_	_	_
+1	ikāra	ikāra	NOUN	_	Case=Cpd	_	_	_	LemmaId=63205|OccId=5896610|Unsandhied=ikāra
+2	sādṛśyam	sādṛśya	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=112116|OccId=5896611|Unsandhied=sādṛśyam
+3	ca	ca	CONJ	_		_	_	_	LemmaId=157144|OccId=5896612|Unsandhied=ca
+4-5	yakārasyopalabhyate	_	_	_	_	_	_	_	_
+4	yakārasya	yakāra	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	_	_	_	LemmaId=72776|OccId=5896613|Unsandhied=yakārasya
+5	upalabhyate	upalabh	VERB	_	Tense=Pres|Mood=Ind|Voice=Pass|Person=3|Number=Sing	_	_	_	LemmaId=160529|OccId=5896614|Unsandhied=upalabhyate|Punctuation=fullStop
+6-7	tenāpi	_	_	_	_	_	_	_	_
+6	tena	tena	ADV	_		_	_	_	LemmaId=205731|OccId=5896615|Unsandhied=tena
+7	api	api	PART	_		_	_	_	LemmaId=21365|OccId=5896616|Unsandhied=api
+8	tayoḥ	tad	PRON	_	Case=Gen|Gender=Masc|Number=Dual	_	_	_	LemmaId=37875|OccId=5896617|Unsandhied=tayoḥ
+9-11	prakṛtivikārabhāvo	_	_	_	_	_	_	_	_
+9	prakṛti	prakṛti	NOUN	_	Case=Cpd	_	_	_	LemmaId=151147|OccId=5896618|Unsandhied=prakṛti
+10	vikāra	vikāra	NOUN	_	Case=Cpd	_	_	_	LemmaId=47808|OccId=5896619|Unsandhied=vikāra
+11	bhāvaḥ	bhāva	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=49850|OccId=5896620|Unsandhied=bhāvaḥ
+12	lakṣyate	lakṣay	VERB	_	Tense=Pres|Mood=Ind|Voice=Pass|Person=3|Number=Sing	_	_	_	LemmaId=159902|OccId=5896621|Unsandhied=lakṣyate|Punctuation=fullStop
+

@@ -3,7 +3,7 @@
 ## chapter: RRSṬīkā zu RRS, 8, 51.2
 ## chapter_id: 4981
 # text = bhajanīlakṣaṇamāha bhāgādrūpyādhiketi
-# sent_id = 433585
+# sent_id = 433587
 # sent_counter = 1
 # sent_subcounter = 
 1-3	bhajanīlakṣaṇamāha	_	_	_	_	_	_	_	_
@@ -17,7 +17,7 @@
 7	iti	iti	PART	_		_	_	_	LemmaId=63331|OccId=1981844|Unsandhied=iti|UnsandhiedReconstructed=True|WordSem=97363
 
 # text = anuvarṇasuvarṇake hīnavarṇasuvarṇe hemakṛṣṭiṃ dattvā śatāṃśavidhinā raktapītavarṇotkarṣārthaṃ yatamānena sādhakena pramādātkāraṇāntareṇa vā yadā rūpyasya yo bhāgaḥ śāstra uktastaṃ vihāya pramāṇāpekṣayādhikaḥ kṣipyate tādṛśakṣepaṃ kṛtvā yadā varṇikāhrāse prāgavasthitapītavarṇasyāpi hrāsaḥ kṣayo bhavati
-# sent_id = 433586
+# sent_id = 433588
 # sent_counter = 2
 # sent_subcounter = 
 1-2	anuvarṇasuvarṇake	_	_	_	_	_	_	_	_
@@ -77,39 +77,41 @@
 45	kṣayo	kṣaya	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=135459|OccId=1981889|Unsandhied=kṣayaḥ|UnsandhiedReconstructed=True|WordSem=58835
 46	bhavati	bhū	VERB	_	Tense=Pres|Mood=Ind|Person=3|Number=Sing	_	_	_	LemmaId=157250|OccId=1981890|Unsandhied=bhavati|WordSem=85977
 
-# text = athavā dravyair vedhādāvanupadiṣṭadravyair vaṅganīlāñjanādibhiḥ saṃmīlanenāpi yo varṇikāhrāsaḥ sā rasaśāstre bhañjanīti kathyate
-# sent_id = 433587
+# text = athavā dravyair vedhādāv anupadiṣṭadravyair vaṅganīlāñjanādibhiḥ saṃmīlanenāpi yo varṇikāhrāsaḥ sā rasaśāstre bhañjanīti kathyate
+# sent_id = 433589
 # sent_counter = 3
 # sent_subcounter = 
 1	athavā	athavā	CONJ	_		_	_	_	LemmaId=7472|OccId=1981891|Unsandhied=athavā|UnsandhiedReconstructed=True|WordSem=127042
 2	dravyair	dravya	NOUN	_	Case=Ins|Gender=Neut|Number=Plur	_	_	_	LemmaId=90455|OccId=1981991|Unsandhied=dravyaiḥ|UnsandhiedReconstructed=True|WordSem=60239
-3-6	vedhādāvanupadiṣṭadravyair	_	_	_	_	_	_	_	_
-3	vedha	vedha	NOUN	_	Case=Cpd	_	_	_	LemmaId=143105|OccId=1981992|Unsandhied=vedha|UnsandhiedReconstructed=True|WordSem=100511
-4	ādau	ādi	NOUN	_	Case=Loc|Gender=Masc|Number=Sing	_	_	_	LemmaId=57973|OccId=1981993|Unsandhied=ādau|UnsandhiedReconstructed=True|WordSem=128322
-5	anupadiṣṭa	anupadiṣṭa	ADJ	_	Case=Cpd	_	_	_	LemmaId=10979|OccId=1981994|Unsandhied=anupadiṣṭa|UnsandhiedReconstructed=True|WordSem=130179
-6	dravyaiḥ	dravya	NOUN	_	Case=Ins|Gender=Neut|Number=Plur	_	_	_	LemmaId=90455|OccId=1981995|Unsandhied=dravyaiḥ|UnsandhiedReconstructed=True|WordSem=60239
-7-9	vaṅganīlāñjanādibhiḥ	_	_	_	_	_	_	_	_
-7	vaṅga	vaṅga	NOUN	_	Case=Cpd	_	_	_	LemmaId=67774|OccId=1981996|Unsandhied=vaṅga|UnsandhiedReconstructed=True|WordSem=63604
-8	nīlāñjana	nīlāñjana	NOUN	_	Case=Cpd	_	_	_	LemmaId=28757|OccId=1981997|Unsandhied=nīlāñjana|UnsandhiedReconstructed=True|WordSem=103811
-9	ādibhiḥ	ādi	NOUN	_	Case=Ins|Gender=Masc|Number=Plur	_	_	_	LemmaId=57973|OccId=1981998|Unsandhied=ādibhiḥ|UnsandhiedReconstructed=True|WordSem=128322
-10-11	saṃmīlanenāpi	_	_	_	_	_	_	_	_
-10	sammīlanena	sammīlana	NOUN	_	Case=Ins|Gender=Neut|Number=Sing	_	_	_	LemmaId=103918|OccId=1981999|Unsandhied=sammīlanena|UnsandhiedReconstructed=True|WordSem=2105
-11	api	api	PART	_		_	_	_	LemmaId=21365|OccId=1982000|Unsandhied=api|UnsandhiedReconstructed=True|WordSem=96882
-12	yo	yad	PRON	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=37877|OccId=1981892|Unsandhied=yaḥ|UnsandhiedReconstructed=True
-13-14	varṇikāhrāsaḥ	_	_	_	_	_	_	_	_
-13	varṇikā	varṇikā	NOUN	_	Case=Cpd	_	_	_	LemmaId=74555|OccId=1981893|Unsandhied=varṇikā|UnsandhiedReconstructed=True|WordSem=130305
-14	hrāsaḥ	hrāsa	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=57295|OccId=1981894|Unsandhied=hrāsaḥ|UnsandhiedReconstructed=True|WordSem=58854
-15	sā	tad	PRON	_	Case=Nom|Gender=Fem|Number=Sing	_	_	_	LemmaId=37875|OccId=1981895|Unsandhied=sā|UnsandhiedReconstructed=True|WordSem=129840
-16-17	rasaśāstre	_	_	_	_	_	_	_	_
-16	rasa	rasa	NOUN	_	Case=Cpd	_	_	_	LemmaId=69571|OccId=1981896|Unsandhied=rasa|UnsandhiedReconstructed=True|WordSem=27966
-17	śāstre	śāstra	NOUN	_	Case=Loc|Gender=Neut|Number=Sing	_	_	_	LemmaId=131506|OccId=1981897|Unsandhied=śāstre|UnsandhiedReconstructed=True|WordSem=101165
-18-19	bhañjanīti	_	_	_	_	_	_	_	_
-18	bhañjanī	bhañjanī	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	_	_	_	LemmaId=173779|OccId=1981898|Unsandhied=bhañjanī|UnsandhiedReconstructed=True|WordSem=127525
-19	iti	iti	PART	_		_	_	_	LemmaId=63331|OccId=1981899|Unsandhied=iti|UnsandhiedReconstructed=True|WordSem=97363
-20	kathyate	kathay	VERB	_	Tense=Pres|Mood=Ind|Voice=Pass|Person=3|Number=Sing	_	_	_	LemmaId=156154|OccId=1981900|Unsandhied=kathyate|WordSem=88820
+3-4	vedhādāv	_	_	_	_	_	_	_	_
+3	vedha	vedha	NOUN	_	Case=Cpd	_	_	_	LemmaId=143105|OccId=5900810|Unsandhied=vedha
+4	ādau	ādi	NOUN	_	Case=Loc|Gender=Masc|Number=Sing	_	_	_	LemmaId=57973|OccId=5900811|Unsandhied=ādau
+5-7	anupadiṣṭadravyair	_	_	_	_	_	_	_	_
+5	an	an	PART	_		_	_	_	LemmaId=213304|OccId=5900812|Unsandhied=an
+6	upadiṣṭa	upadiś	VERB	_	Case=Cpd|VerbForm=Part	_	_	_	LemmaId=160400|OccId=5900813|Unsandhied=upadiṣṭa
+7	dravyaiḥ	dravya	NOUN	_	Case=Ins|Gender=Neut|Number=Plur	_	_	_	LemmaId=90455|OccId=5900814|Unsandhied=dravyaiḥ
+8-10	vaṅganīlāñjanādibhiḥ	_	_	_	_	_	_	_	_
+8	vaṅga	vaṅga	NOUN	_	Case=Cpd	_	_	_	LemmaId=67774|OccId=1981996|Unsandhied=vaṅga|UnsandhiedReconstructed=True|WordSem=63604
+9	nīlāñjana	nīlāñjana	NOUN	_	Case=Cpd	_	_	_	LemmaId=28757|OccId=1981997|Unsandhied=nīlāñjana|UnsandhiedReconstructed=True|WordSem=103811
+10	ādibhiḥ	ādi	NOUN	_	Case=Ins|Gender=Masc|Number=Plur	_	_	_	LemmaId=57973|OccId=1981998|Unsandhied=ādibhiḥ|UnsandhiedReconstructed=True|WordSem=128322
+11-12	saṃmīlanenāpi	_	_	_	_	_	_	_	_
+11	sammīlanena	sammīlana	NOUN	_	Case=Ins|Gender=Neut|Number=Sing	_	_	_	LemmaId=103918|OccId=1981999|Unsandhied=sammīlanena|UnsandhiedReconstructed=True|WordSem=2105
+12	api	api	PART	_		_	_	_	LemmaId=21365|OccId=1982000|Unsandhied=api|UnsandhiedReconstructed=True|WordSem=96882
+13	yo	yad	PRON	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=37877|OccId=1981892|Unsandhied=yaḥ|UnsandhiedReconstructed=True
+14-15	varṇikāhrāsaḥ	_	_	_	_	_	_	_	_
+14	varṇikā	varṇikā	NOUN	_	Case=Cpd	_	_	_	LemmaId=74555|OccId=1981893|Unsandhied=varṇikā|UnsandhiedReconstructed=True|WordSem=130305
+15	hrāsaḥ	hrāsa	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=57295|OccId=1981894|Unsandhied=hrāsaḥ|UnsandhiedReconstructed=True|WordSem=58854
+16	sā	tad	PRON	_	Case=Nom|Gender=Fem|Number=Sing	_	_	_	LemmaId=37875|OccId=1981895|Unsandhied=sā|UnsandhiedReconstructed=True|WordSem=129840
+17-18	rasaśāstre	_	_	_	_	_	_	_	_
+17	rasa	rasa	NOUN	_	Case=Cpd	_	_	_	LemmaId=69571|OccId=1981896|Unsandhied=rasa|UnsandhiedReconstructed=True|WordSem=27966
+18	śāstre	śāstra	NOUN	_	Case=Loc|Gender=Neut|Number=Sing	_	_	_	LemmaId=131506|OccId=1981897|Unsandhied=śāstre|UnsandhiedReconstructed=True|WordSem=101165
+19-20	bhañjanīti	_	_	_	_	_	_	_	_
+19	bhañjanī	bhañjanī	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	_	_	_	LemmaId=173779|OccId=1981898|Unsandhied=bhañjanī|UnsandhiedReconstructed=True|WordSem=127525
+20	iti	iti	PART	_		_	_	_	LemmaId=63331|OccId=1981899|Unsandhied=iti|UnsandhiedReconstructed=True|WordSem=97363
+21	kathyate	kathay	VERB	_	Tense=Pres|Mood=Ind|Voice=Pass|Person=3|Number=Sing	_	_	_	LemmaId=156154|OccId=1981900|Unsandhied=kathyate|WordSem=88820
 
 # text = hemakṛṣṭerlakṣaṇaṃ tu
-# sent_id = 433588
+# sent_id = 433590
 # sent_counter = 4
 # sent_subcounter = 
 1-3	hemakṛṣṭerlakṣaṇaṃ	_	_	_	_	_	_	_	_
@@ -119,7 +121,7 @@
 4	tu	tu	PART	_		_	_	_	LemmaId=82701|OccId=1981904|Unsandhied=tu|UnsandhiedReconstructed=True|WordSem=96893
 
 # text = rūpyaṃ vā jātarūpaṃ vā rasagandhādibhirhatam
-# sent_id = 433589
+# sent_id = 433591
 # sent_counter = 5
 # sent_subcounter = 1
 1	rūpyaṃ	rūpya	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=79614|OccId=1981905|Unsandhied=rūpyam|UnsandhiedReconstructed=True|WordSem=63592
@@ -133,7 +135,7 @@
 8	hatam	han	VERB	_	Case=Nom|Gender=Neut|Number=Sing|VerbForm=Part	_	_	_	LemmaId=157282|OccId=1981912|Unsandhied=hatam|UnsandhiedReconstructed=True|WordSem=129908
 
 # text = samutthitaṃ ca bahuśaḥ sā kṛṣṭī hematārayoḥ
-# sent_id = 433590
+# sent_id = 433592
 # sent_counter = 5
 # sent_subcounter = 2
 1	samutthitaṃ	samutthā	VERB	_	Case=Nom|Gender=Neut|Number=Sing|VerbForm=Part	_	_	_	LemmaId=165292|OccId=1981913|Unsandhied=samutthitam|UnsandhiedReconstructed=True|WordSem=130282
@@ -146,7 +148,7 @@
 7	tārayoḥ	tāra	NOUN	_	Case=Gen|Gender=Neut|Number=Dual	_	_	_	LemmaId=97328|OccId=1981919|Unsandhied=tārayoḥ|UnsandhiedReconstructed=True|WordSem=63592
 
 # text = iti prāguktameva
-# sent_id = 433591
+# sent_id = 433593
 # sent_counter = 6
 # sent_subcounter = 
 1	iti	iti	PART	_		_	_	_	LemmaId=63331|OccId=1981920|Unsandhied=iti|UnsandhiedReconstructed=True|WordSem=97363
@@ -156,7 +158,7 @@
 4	eva	eva	PART	_		_	_	_	LemmaId=39754|OccId=1981923|Unsandhied=eva|UnsandhiedReconstructed=True|WordSem=96832
 
 # text = atra vidhau hemakṛṣṭiḥ
-# sent_id = 433592
+# sent_id = 433594
 # sent_counter = 7
 # sent_subcounter = 
 1	atra	atra	ADV	_		_	_	_	LemmaId=7442|OccId=1981924|Unsandhied=atra|UnsandhiedReconstructed=True|WordSem=96893
@@ -166,7 +168,7 @@
 4	kṛṣṭiḥ	kṛṣṭi	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	_	_	_	LemmaId=4068|OccId=1981927|Unsandhied=kṛṣṭiḥ|UnsandhiedReconstructed=True|WordSem=127483
 
 # text = rasadaradatāpyagandhakamanaḥśilārājavartakaṃ vimalam
-# sent_id = 433593
+# sent_id = 433595
 # sent_counter = 8
 # sent_subcounter = 1
 1-6	rasadaradatāpyagandhakamanaḥśilārājavartakaṃ	_	_	_	_	_	_	_	_
@@ -179,7 +181,7 @@
 7	vimalam	vimala	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=172866|OccId=1981928|Unsandhied=vimalam|UnsandhiedReconstructed=True|WordSem=129880
 
 # text = puṭamṛtaśulbaṃ tāre nirvyūḍhaṃ hemakṛṣṭiriyam
-# sent_id = 433594
+# sent_id = 433596
 # sent_counter = 8
 # sent_subcounter = 2
 1-3	puṭamṛtaśulbaṃ	_	_	_	_	_	_	_	_
@@ -194,13 +196,13 @@
 8	iyam	idam	PRON	_	Case=Nom|Gender=Fem|Number=Sing	_	_	_	LemmaId=37876|OccId=1981936|Unsandhied=iyam|UnsandhiedReconstructed=True|WordSem=129840
 
 # text = iti
-# sent_id = 433595
+# sent_id = 433597
 # sent_counter = 9
 # sent_subcounter = 
 1	iti	iti	PART	_		_	_	_	LemmaId=63331|OccId=1981937|Unsandhied=iti|UnsandhiedReconstructed=True|WordSem=97363
 
 # text = rasadaradādīnāṃ puṭena mṛtaṃ yacchulbaṃ tattāre nirvāhitaṃ kuryāt
-# sent_id = 433596
+# sent_id = 433598
 # sent_counter = 10
 # sent_subcounter = 
 1-3	rasadaradādīnāṃ	_	_	_	_	_	_	_	_
@@ -219,7 +221,7 @@
 11	kuryāt	kṛ	VERB	_	Tense=Pres|Mood=Opt|Person=3|Number=Sing	_	_	_	LemmaId=156168|OccId=1981948|Unsandhied=kuryāt|WordSem=91626
 
 # text = śatāṃśavidhiśca
-# sent_id = 433597
+# sent_id = 433599
 # sent_counter = 11
 # sent_subcounter = 1
 1-2	śatāṃśavidhiśca	_	_	_	_	_	_	_	_
@@ -227,7 +229,7 @@
 2	ca	ca	CONJ	_		_	_	_	LemmaId=157144|OccId=1982008|Unsandhied=ca|UnsandhiedReconstructed=True|WordSem=104004
 
 # text = aṣṭānavatir bhāgāstārastveko'pi kanakabhāgaḥ syāt
-# sent_id = 433598
+# sent_id = 433600
 # sent_counter = 11
 # sent_subcounter = 2
 1	aṣṭānavatir	aṣṭānavati	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	_	_	_	LemmaId=60521|OccId=1981953|Unsandhied=aṣṭānavatiḥ|UnsandhiedReconstructed=True|WordSem=130304
@@ -243,7 +245,7 @@
 9	syāt	as	VERB	_	Tense=Pres|Mood=Opt|Person=3|Number=Sing	_	_	_	LemmaId=156122|OccId=1981961|Unsandhied=syāt|WordSem=95892
 
 # text = sūtasyaiko bhāgaḥ śatāṃśavidhireṣa vikhyātaḥ
-# sent_id = 433599
+# sent_id = 433601
 # sent_counter = 11
 # sent_subcounter = 3
 1-2	sūtasyaiko	_	_	_	_	_	_	_	_
@@ -256,14 +258,14 @@
 6	vikhyātaḥ	vikhyā	VERB	_	Case=Nom|Gender=Masc|Number=Sing|VerbForm=Part	_	_	_	LemmaId=163269|OccId=1981969|Unsandhied=vikhyātaḥ|UnsandhiedReconstructed=True|WordSem=88820
 
 # text = iti rasahṛdaye
-# sent_id = 433600
+# sent_id = 433602
 # sent_counter = 12
 # sent_subcounter = 
 1	iti	iti	PART	_		_	_	_	LemmaId=63331|OccId=1981970|Unsandhied=iti|UnsandhiedReconstructed=True|WordSem=97363
 2	rasahṛdaye	rasahṛdaya	NOUN	_	Case=Loc|Gender=Neut|Number=Sing	_	_	_	LemmaId=69734|OccId=1981971|Unsandhied=rasahṛdaye|UnsandhiedReconstructed=True|WordSem=129598
 
 # text = tatra nirvyūḍhatārabhāgasyādhikakṣepeṇānu varṇasuvarṇe varṇanāśaḥ spaṣṭa eva
-# sent_id = 433601
+# sent_id = 433603
 # sent_counter = 13
 # sent_subcounter = 
 1	tatra	tatra	ADV	_		_	_	_	LemmaId=95978|OccId=1981972|Unsandhied=tatra|UnsandhiedReconstructed=True|WordSem=96893

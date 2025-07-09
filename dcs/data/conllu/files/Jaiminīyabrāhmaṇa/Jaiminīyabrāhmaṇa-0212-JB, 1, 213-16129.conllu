@@ -3,7 +3,7 @@
 ## chapter: JB, 1, 213
 ## chapter_id: 16129
 # text = athaiṣa rāthantaraḥ saṃdhir bhavati
-# sent_id = 652873
+# sent_id = 654275
 # sent_counter = 1
 # sent_subcounter = 
 1-2	athaiṣa	_	_	_	_	_	_	_	_
@@ -14,7 +14,7 @@
 5	bhavati	bhū	VERB	_	Tense=Pres|Mood=Ind|Person=3|Number=Sing	_	_	_	LemmaId=157250|OccId=5656830|Unsandhied=bhavati|Punctuation=fullStop
 
 # text = prajāpatir uṣasaṃ svāṃ duhitaraṃ bṛhaspataye prāyacchat
-# sent_id = 652874
+# sent_id = 654276
 # sent_counter = 2
 # sent_subcounter = 
 1	prajāpatir	prajāpati	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=151290|OccId=5656831|Unsandhied=prajāpatiḥ
@@ -25,7 +25,7 @@
 6	prāyacchat	prayam	VERB	_	Tense=Impf|Mood=Ind|Person=3|Number=Sing	_	_	_	LemmaId=162975|OccId=5656836|Unsandhied=prāyacchat|Punctuation=fullStop
 
 # text = tasyā etat sahasram āśvinaṃ vahatum anvākarot
-# sent_id = 652875
+# sent_id = 654277
 # sent_counter = 3
 # sent_subcounter = 
 1	tasyā	tad	PRON	_	Case=Dat|Gender=Fem|Number=Sing	_	_	_	LemmaId=37875|OccId=5656837|Unsandhied=tasyai
@@ -36,7 +36,7 @@
 6	anvākarot	anvākṛ	VERB	_	Tense=Impf|Mood=Ind|Person=3|Number=Sing	_	_	_	LemmaId=158296|OccId=5656842|Unsandhied=anvākarot|Punctuation=fullStop
 
 # text = sa devān abravīd iyam eva mama yuṣmākam etad itarad iti
-# sent_id = 652876
+# sent_id = 654278
 # sent_counter = 4
 # sent_subcounter = 
 1	sa	tad	PRON	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=37875|OccId=5656843|Unsandhied=sa
@@ -51,21 +51,23 @@
 10	iti	iti	PART	_		_	_	_	LemmaId=63331|OccId=5656852|Unsandhied=iti|Punctuation=fullStop
 
 # text = tasmād yad anṛśaṃso jāyāṃ vindate vy eva vahatum ādiśati
-# sent_id = 652877
+# sent_id = 654279
 # sent_counter = 5
 # sent_subcounter = 
 1	tasmād	tasmāt	ADV	_		_	_	_	LemmaId=203521|OccId=5656853|Unsandhied=tasmāt
 2	yad	yat	SCONJ	_		_	_	_	LemmaId=73227|OccId=5656854|Unsandhied=yat
-3	anṛśaṃso	anṛśaṃsa	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=11583|OccId=5656855|Unsandhied=anṛśaṃsaḥ
-4	jāyāṃ	jāyā	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	_	_	_	LemmaId=88811|OccId=5656856|Unsandhied=jāyām
-5	vindate	vid	VERB	_	Tense=Pres|Mood=Ind|Person=3|Number=Sing	_	_	_	LemmaId=157306|OccId=5656857|Unsandhied=vindate|Punctuation=comma
-6	vy	vi	ADP	_		_	_	_	LemmaId=216733|OccId=5656858|Unsandhied=vi
-7	eva	eva	PART	_		_	_	_	LemmaId=39754|OccId=5656859|Unsandhied=eva
-8	vahatum	vahatu	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	_	_	_	LemmaId=75658|OccId=5656860|Unsandhied=vahatum
-9	ādiśati	ādiś	VERB	_	Tense=Pres|Mood=Ind|Person=3|Number=Sing	_	_	_	LemmaId=159776|OccId=5656861|Unsandhied=ādiśati|Punctuation=fullStop
+3-4	anṛśaṃso	_	_	_	_	_	_	_	_
+3	a	a	PART	_		_	_	_	LemmaId=213048|OccId=5882496|Unsandhied=a
+4	nṛśaṃsaḥ	nṛśaṃsa	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=28910|OccId=5882497|Unsandhied=nṛśaṃsaḥ
+5	jāyāṃ	jāyā	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	_	_	_	LemmaId=88811|OccId=5656856|Unsandhied=jāyām
+6	vindate	vid	VERB	_	Tense=Pres|Mood=Ind|Person=3|Number=Sing	_	_	_	LemmaId=157306|OccId=5656857|Unsandhied=vindate|Punctuation=comma
+7	vy	vi	ADP	_		_	_	_	LemmaId=216733|OccId=5656858|Unsandhied=vi
+8	eva	eva	PART	_		_	_	_	LemmaId=39754|OccId=5656859|Unsandhied=eva
+9	vahatum	vahatu	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	_	_	_	LemmaId=75658|OccId=5656860|Unsandhied=vahatum
+10	ādiśati	ādiś	VERB	_	Tense=Pres|Mood=Ind|Person=3|Number=Sing	_	_	_	LemmaId=159776|OccId=5656861|Unsandhied=ādiśati|Punctuation=fullStop
 
 # text = te devā abruvan vīdaṃ bhajāmahā iti
-# sent_id = 652878
+# sent_id = 654280
 # sent_counter = 6
 # sent_subcounter = 
 1	te	tad	PRON	_	Case=Nom|Gender=Masc|Number=Plur	_	_	_	LemmaId=37875|OccId=5656862|Unsandhied=te
@@ -78,7 +80,7 @@
 7	iti	iti	PART	_		_	_	_	LemmaId=63331|OccId=5656868|Unsandhied=iti|Punctuation=fullStop
 
 # text = tasya vibhāge na samapādayan
-# sent_id = 652879
+# sent_id = 654281
 # sent_counter = 7
 # sent_subcounter = 
 1	tasya	tad	PRON	_	Case=Gen|Gender=Neut|Number=Sing	_	_	_	LemmaId=37875|OccId=5656869|Unsandhied=tasya
@@ -87,7 +89,7 @@
 4	samapādayan	sampāday	VERB	_	Tense=Impf|Mood=Ind|Person=3|Number=Plur	_	_	_	LemmaId=167743|OccId=5656872|Unsandhied=samapādayan|Punctuation=fullStop
 
 # text = te 'bruvann ājim asyāyāmeti
-# sent_id = 652880
+# sent_id = 654282
 # sent_counter = 8
 # sent_subcounter = 
 1	te	tad	PRON	_	Case=Nom|Gender=Masc|Number=Plur	_	_	_	LemmaId=37875|OccId=5656873|Unsandhied=te
@@ -99,7 +101,7 @@
 6	iti	iti	PART	_		_	_	_	LemmaId=63331|OccId=5656878|Unsandhied=iti|Punctuation=fullStop
 
 # text = ta ājim āyan
-# sent_id = 652881
+# sent_id = 654283
 # sent_counter = 9
 # sent_subcounter = 
 1	ta	tad	PRON	_	Case=Nom|Gender=Masc|Number=Plur	_	_	_	LemmaId=37875|OccId=5656879|Unsandhied=te
@@ -107,7 +109,7 @@
 3	āyan	i	VERB	_	Tense=Impf|Mood=Ind|Person=3|Number=Plur	_	_	_	LemmaId=156127|OccId=5656881|Unsandhied=āyan|Punctuation=fullStop
 
 # text = agneḥ prathamo ratha āsīd athoṣaso 'thāśvinoḥ
-# sent_id = 652882
+# sent_id = 654284
 # sent_counter = 10
 # sent_subcounter = 
 1	agneḥ	agni	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	_	_	_	LemmaId=5705|OccId=5656882|Unsandhied=agneḥ
@@ -122,7 +124,7 @@
 8	aśvinoḥ	aśvin	NOUN	_	Case=Gen|Gender=Masc|Number=Dual	_	_	_	LemmaId=60409|OccId=5656889|Unsandhied=aśvinoḥ|Punctuation=fullStop
 
 # text = tāv aśvināv aśvī aśvyām atyakurutām
-# sent_id = 652883
+# sent_id = 654285
 # sent_counter = 11
 # sent_subcounter = 
 1	tāv	tad	PRON	_	Case=Nom|Gender=Masc|Number=Dual	_	_	_	LemmaId=37875|OccId=5656890|Unsandhied=tau
@@ -132,7 +134,7 @@
 5	atyakurutām	atikṛ	VERB	_	Tense=Impf|Mood=Ind|Person=3|Number=Dual	_	_	_	LemmaId=225285|OccId=5656894|Unsandhied=atyakurutām|Punctuation=fullStop
 
 # text = tau devā abruvan vāro 'yaṃ vām atha naḥ sahāstv iti
-# sent_id = 652884
+# sent_id = 654286
 # sent_counter = 12
 # sent_subcounter = 
 1	tau	tad	PRON	_	Case=Acc|Gender=Masc|Number=Dual	_	_	_	LemmaId=37875|OccId=5656895|Unsandhied=tau
@@ -149,7 +151,7 @@
 11	iti	iti	PART	_		_	_	_	LemmaId=63331|OccId=5656905|Unsandhied=iti|Punctuation=fullStop
 
 # text = tasmān nānādevatyāsu stuvanty athāśvinam ity ākhyāyate
-# sent_id = 652885
+# sent_id = 654287
 # sent_counter = 13
 # sent_subcounter = 
 1	tasmān	tasmāt	ADV	_		_	_	_	LemmaId=203521|OccId=5656906|Unsandhied=tasmāt
@@ -164,7 +166,7 @@
 8	ākhyāyate	ākhyā	VERB	_	Tense=Pres|Mood=Ind|Voice=Pass|Person=3|Number=Sing	_	_	_	LemmaId=159722|OccId=5656913|Unsandhied=ākhyāyate|Punctuation=fullStop
 
 # text = agnaye prathamāya stuvanty athoṣase 'thāśvibhyām
-# sent_id = 652886
+# sent_id = 654288
 # sent_counter = 14
 # sent_subcounter = 
 1	agnaye	agni	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	_	_	_	LemmaId=5705|OccId=5656914|Unsandhied=agnaye
@@ -178,7 +180,7 @@
 7	aśvibhyām	aśvin	NOUN	_	Case=Dat|Gender=Masc|Number=Dual	_	_	_	LemmaId=60409|OccId=5656920|Unsandhied=aśvibhyām|Punctuation=fullStop
 
 # text = evaṃ hy eṣām etā ujjitayaḥ
-# sent_id = 652887
+# sent_id = 654289
 # sent_counter = 15
 # sent_subcounter = 
 1	evaṃ	evam	ADV	_		_	_	_	LemmaId=39758|OccId=5656921|Unsandhied=evam
@@ -188,7 +190,7 @@
 5	ujjitayaḥ	ujjiti	NOUN	_	Case=Nom|Gender=Fem|Number=Plur	_	_	_	LemmaId=55361|OccId=5656925|Unsandhied=ujjitayaḥ|Punctuation=fullStop
 
 # text = ekaṃ sāma dve chandasī
-# sent_id = 652888
+# sent_id = 654290
 # sent_counter = 16
 # sent_subcounter = 
 1	ekaṃ	eka	NUM	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=39102|OccId=5656926|Unsandhied=ekam
@@ -197,7 +199,7 @@
 4	chandasī	chandas	NOUN	_	Case=Nom|Gender=Neut|Number=Dual	_	_	_	LemmaId=52557|OccId=5656929|Unsandhied=chandasī|Punctuation=fullStop
 
 # text = dvipadam eva tac catuṣpātsu paśuṣv adhyūhati
-# sent_id = 652889
+# sent_id = 654291
 # sent_counter = 17
 # sent_subcounter = 
 1	dvipadam	dvipad	ADJ	_	Case=Acc|Gender=Masc|Number=Sing	_	_	_	LemmaId=223101|OccId=5656930|Unsandhied=dvipadam
@@ -208,7 +210,7 @@
 6	adhyūhati	adhyūh	VERB	_	Tense=Pres|Mood=Ind|Person=3|Number=Sing	_	_	_	LemmaId=216381|OccId=5656935|Unsandhied=adhyūhati|Punctuation=fullStop
 
 # text = tasmād dvipāc catuṣpadaḥ paśūn adhitiṣṭhati
-# sent_id = 652890
+# sent_id = 654292
 # sent_counter = 18
 # sent_subcounter = 
 1	tasmād	tasmāt	ADV	_		_	_	_	LemmaId=203521|OccId=5656936|Unsandhied=tasmāt
@@ -218,7 +220,7 @@
 5	adhitiṣṭhati	adhiṣṭhā	VERB	_	Tense=Pres|Mood=Ind|Person=3|Number=Sing	_	_	_	LemmaId=157357|OccId=5656940|Unsandhied=adhitiṣṭhati|Punctuation=fullStop
 
 # text = anudite sūrye paridadhyād yaṃ kāmayeta pāpīyān syād iti
-# sent_id = 652891
+# sent_id = 654293
 # sent_counter = 19
 # sent_subcounter = 
 1-2	anudite	_	_	_	_	_	_	_	_
@@ -233,7 +235,7 @@
 9	iti	iti	PART	_		_	_	_	LemmaId=63331|OccId=5656949|Unsandhied=iti|Punctuation=fullStop
 
 # text = pāpīyān eva bhavati
-# sent_id = 652892
+# sent_id = 654294
 # sent_counter = 20
 # sent_subcounter = 
 1	pāpīyān	pāpīyas	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=93893|OccId=5656950|Unsandhied=pāpīyān
@@ -241,7 +243,7 @@
 3	bhavati	bhū	VERB	_	Tense=Pres|Mood=Ind|Person=3|Number=Sing	_	_	_	LemmaId=157250|OccId=5656952|Unsandhied=bhavati|Punctuation=fullStop
 
 # text = vyuṣite paridadhyād yaṃ kāmayeta nārvāṅ na paraḥ syād iti
-# sent_id = 652893
+# sent_id = 654295
 # sent_counter = 21
 # sent_subcounter = 
 1	vyuṣite	vivas	VERB	_	Case=Loc|Gender=Masc|Number=Sing|VerbForm=Part	_	_	_	LemmaId=163586|OccId=5656953|Unsandhied=vyuṣite
@@ -257,7 +259,7 @@
 10	iti	iti	PART	_		_	_	_	LemmaId=63331|OccId=5656962|Unsandhied=iti|Punctuation=fullStop
 
 # text = naivārvāṅ na paro bhavati
-# sent_id = 652894
+# sent_id = 654296
 # sent_counter = 22
 # sent_subcounter = 
 1-3	naivārvāṅ	_	_	_	_	_	_	_	_
@@ -269,7 +271,7 @@
 6	bhavati	bhū	VERB	_	Tense=Pres|Mood=Ind|Person=3|Number=Sing	_	_	_	LemmaId=157250|OccId=5656968|Unsandhied=bhavati|Punctuation=fullStop
 
 # text = bahuvarṣī ha tu parjanyo bhavati
-# sent_id = 652895
+# sent_id = 654297
 # sent_counter = 23
 # sent_subcounter = 
 1-2	bahuvarṣī	_	_	_	_	_	_	_	_
@@ -281,7 +283,7 @@
 6	bhavati	bhū	VERB	_	Tense=Pres|Mood=Ind|Person=3|Number=Sing	_	_	_	LemmaId=157250|OccId=5656974|Unsandhied=bhavati|Punctuation=fullStop
 
 # text = udite paridadhyād yaṃ kāmayeta śreyān syād rucam aśnuvīteti
-# sent_id = 652896
+# sent_id = 654298
 # sent_counter = 24
 # sent_subcounter = 
 1	udite	udi	VERB	_	Case=Loc|Gender=Masc|Number=Sing|VerbForm=Part	_	_	_	LemmaId=160196|OccId=5656975|Unsandhied=udite
@@ -296,7 +298,7 @@
 9	iti	iti	PART	_		_	_	_	LemmaId=63331|OccId=5656983|Unsandhied=iti|Punctuation=fullStop
 
 # text = śreyān eva bhavati rucam aśnute
-# sent_id = 652897
+# sent_id = 654299
 # sent_counter = 25
 # sent_subcounter = 
 1	śreyān	śreyas	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=40931|OccId=5656984|Unsandhied=śreyān

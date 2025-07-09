@@ -1,0 +1,52 @@
+## text: Mīmāṃsāsūtrabhāṣya
+## text_id: 572
+## chapter: MīSūBhā, 1, 1, 11
+## chapter_id: 17255
+# text = api ca bahubhir uccārayadbhir mahān śabdaḥ śrūyate
+# sent_id = 753414
+# sent_counter = 1
+# sent_subcounter = 
+1	api	api	PART	_		_	_	_	LemmaId=21365|OccId=5896623|Unsandhied=api
+2	ca	ca	CONJ	_		_	_	_	LemmaId=157144|OccId=5896624|Unsandhied=ca
+3	bahubhir	bahu	ADJ	_	Case=Ins|Gender=Masc|Number=Plur	_	_	_	LemmaId=154412|OccId=5896625|Unsandhied=bahubhiḥ
+4	uccārayadbhir	uccāray	VERB	_	Case=Ins|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part	_	_	_	LemmaId=160052|OccId=5896626|Unsandhied=uccārayadbhiḥ
+5	mahān	mahat	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=37544|OccId=5896627|Unsandhied=mahān
+6	śabdaḥ	śabda	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=116648|OccId=5896628|Unsandhied=śabdaḥ
+7	śrūyate	śru	VERB	_	Tense=Pres|Mood=Ind|Voice=Pass|Person=3|Number=Sing	_	_	_	LemmaId=157409|OccId=5896629|Unsandhied=śrūyate|Punctuation=fullStop
+
+# text = sa yady abhivyajyate bahubhir alpaiś coccāryamāṇas tāvān evopalabhyeta
+# sent_id = 753415
+# sent_counter = 2
+# sent_subcounter = 
+1	sa	tad	PRON	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=37875|OccId=5896630|Unsandhied=sa
+2	yady	yadi	SCONJ	_		_	_	_	LemmaId=73699|OccId=5896631|Unsandhied=yadi
+3	abhivyajyate	abhivyañj	VERB	_	Tense=Pres|Mood=Ind|Voice=Pass|Person=3|Number=Sing	_	_	_	LemmaId=159025|OccId=5896632|Unsandhied=abhivyajyate|Punctuation=comma
+4	bahubhir	bahu	ADJ	_	Case=Ins|Gender=Masc|Number=Plur	_	_	_	LemmaId=154412|OccId=5896633|Unsandhied=bahubhiḥ
+5	alpaiś	alpa	ADJ	_	Case=Ins|Gender=Masc|Number=Plur	_	_	_	LemmaId=53831|OccId=5896634|Unsandhied=alpaiḥ
+6-7	coccāryamāṇas	_	_	_	_	_	_	_	_
+6	ca	ca	CONJ	_		_	_	_	LemmaId=157144|OccId=5896635|Unsandhied=ca
+7	uccāryamāṇaḥ	uccāray	VERB	_	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Pass	_	_	_	LemmaId=160052|OccId=5896636|Unsandhied=uccāryamāṇaḥ
+8	tāvān	tāvat	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=82070|OccId=5896637|Unsandhied=tāvān
+9-10	evopalabhyeta	_	_	_	_	_	_	_	_
+9	eva	eva	PART	_		_	_	_	LemmaId=39754|OccId=5896638|Unsandhied=eva
+10	upalabhyeta	upalabh	VERB	_	Tense=Pres|Mood=Opt|Voice=Pass|Person=3|Number=Sing	_	_	_	LemmaId=160529|OccId=5896639|Unsandhied=upalabhyeta|Punctuation=fullStop
+
+# text = ato manyāmahe nūnam asyaikaikena kaścid avayavaḥ kriyate yat pracayād ayaṃ mahān upalabhyate
+# sent_id = 753416
+# sent_counter = 3
+# sent_subcounter = 
+1	ato	atas	ADV	_		_	_	_	LemmaId=6823|OccId=5896640|Unsandhied=atas
+2	manyāmahe	man	VERB	_	Tense=Pres|Mood=Ind|Person=1|Number=Plur	_	_	_	LemmaId=157294|OccId=5896641|Unsandhied=manyāmahe
+3	nūnam	nūnam	ADV	_		_	_	_	LemmaId=28839|OccId=5896642|Unsandhied=nūnam
+4-5	asyaikaikena	_	_	_	_	_	_	_	_
+4	asya	idam	PRON	_	Case=Gen|Gender=Masc|Number=Sing	_	_	_	LemmaId=37876|OccId=5896643|Unsandhied=asya
+5	ekaikena	ekaika	PRON	_	Case=Ins|Gender=Masc|Number=Sing	_	_	_	LemmaId=39573|OccId=5896644|Unsandhied=ekaikena
+6	kaścid	kaścit	PRON	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=164309|OccId=5896645|Unsandhied=kaścid
+7	avayavaḥ	avayava	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=54426|OccId=5896646|Unsandhied=avayavaḥ
+8	kriyate	kṛ	VERB	_	Tense=Pres|Mood=Ind|Voice=Pass|Person=3|Number=Sing	_	_	_	LemmaId=156168|OccId=5896647|Unsandhied=kriyate|Punctuation=comma
+9	yat	yat	SCONJ	_		_	_	_	LemmaId=73227|OccId=5896648|Unsandhied=yat
+10	pracayād	pracaya	NOUN	_	Case=Abl|Gender=Masc|Number=Sing	_	_	_	LemmaId=151241|OccId=5896649|Unsandhied=pracayāt
+11	ayaṃ	idam	PRON	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=37876|OccId=5896650|Unsandhied=ayam
+12	mahān	mahat	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=37544|OccId=5896651|Unsandhied=mahān
+13	upalabhyate	upalabh	VERB	_	Tense=Pres|Mood=Ind|Voice=Pass|Person=3|Number=Sing	_	_	_	LemmaId=160529|OccId=5896652|Unsandhied=upalabhyate|Punctuation=fullStop
+

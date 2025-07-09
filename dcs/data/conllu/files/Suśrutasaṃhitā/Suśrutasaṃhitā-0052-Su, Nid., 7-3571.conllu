@@ -315,7 +315,7 @@
 10	cira	cira	ADJ	_	Case=Cpd	_	_	_	LemmaId=51765|OccId=1382284|Unsandhied=cira|UnsandhiedReconstructed=True|WordSem=72045
 11	abhivṛddhi	abhivṛddhi	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=30955|OccId=1382285|Unsandhied=abhivṛddhi|UnsandhiedReconstructed=True|WordSem=58836
 
-# text = striyo 'nnapānaṃ nakharomamūtraviḍārtavair yuktamasādhuvṛttāḥ
+# text = striyo 'nnapānaṃ nakharomamūtraviḍārtavair yuktam asādhuvṛttāḥ
 # sent_id = 5156
 # sent_counter = 11
 # sent_subcounter = 2
@@ -329,10 +329,11 @@
 6	mūtra	mūtra	NOUN	_	Case=Cpd	_	_	_	LemmaId=136408|OccId=1382291|Unsandhied=mūtra|UnsandhiedReconstructed=True|WordSem=64525
 7	viṣ	viṣ	NOUN	_	Case=Cpd	_	_	_	LemmaId=138802|OccId=1382292|Unsandhied=viṣ|UnsandhiedReconstructed=True|WordSem=64517
 8	ārtavaiḥ	ārtava	NOUN	_	Case=Ins|Gender=Neut|Number=Plur	_	_	_	LemmaId=59545|OccId=1382293|Unsandhied=ārtavaiḥ|UnsandhiedReconstructed=True|WordSem=26509
-9-11	yuktamasādhuvṛttāḥ	_	_	_	_	_	_	_	_
-9	yuktam	yuj	VERB	_	Case=Acc|Gender=Neut|Number=Sing|VerbForm=Part	_	_	_	LemmaId=157298|OccId=1382294|Unsandhied=yuktam|UnsandhiedReconstructed=True|WordSem=90919
-10	asādhu	asādhu	ADJ	_	Case=Cpd	_	_	_	LemmaId=60928|OccId=1382295|Unsandhied=asādhu|UnsandhiedReconstructed=True|WordSem=72966
-11	vṛttāḥ	vṛtta	NOUN	_	Case=Nom|Gender=Fem|Number=Plur	_	_	_	LemmaId=170862|OccId=1382296|Unsandhied=vṛttāḥ|UnsandhiedReconstructed=True|WordSem=5588
+9	yuktam	yuj	VERB	_	Case=Acc|Gender=Neut|Number=Sing|VerbForm=Part	_	_	_	LemmaId=157298|OccId=5885998|Unsandhied=yuktam
+10-12	asādhuvṛttāḥ	_	_	_	_	_	_	_	_
+10	a	a	PART	_		_	_	_	LemmaId=213048|OccId=5885999|Unsandhied=a
+11	sādhu	sādhu	ADJ	_	Case=Cpd	_	_	_	LemmaId=112171|OccId=5886000|Unsandhied=sādhu
+12	vṛttāḥ	vṛtta	NOUN	_	Case=Nom|Gender=Fem|Number=Plur	_	_	_	LemmaId=170862|OccId=5886001|Unsandhied=vṛttāḥ
 
 # text = yasmai prayacchantyarayo garāṃśca duṣṭāmbudūṣīviṣasevanādvā
 # sent_id = 5157

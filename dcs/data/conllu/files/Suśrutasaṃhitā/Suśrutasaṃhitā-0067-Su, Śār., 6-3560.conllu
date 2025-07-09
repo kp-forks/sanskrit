@@ -93,7 +93,7 @@
 3	māṃsa	māṃsa	NOUN	_	Case=Cpd	_	_	_	LemmaId=78223|OccId=1352533|Unsandhied=māṃsa|UnsandhiedReconstructed=True|WordSem=25895
 4	marmāṇi	marman	NOUN	_	Case=Nom|Gender=Neut|Number=Plur	_	_	_	LemmaId=37151|OccId=1352534|Unsandhied=marmāṇi|UnsandhiedReconstructed=True|WordSem=101773
 5-7	ekacatvāriṃśatsirāmarmāṇi	_	_	_	_	_	_	_	_
-5	ekacatvāriṃśatī	ekacatvāriṃśat	NUM	_	Case=Nom|Gender=Fem|Number=Sing	_	_	_	LemmaId=39136|OccId=1352535|Unsandhied=ekacatvāriṃśatī|UnsandhiedReconstructed=True|WordSem=129136
+5	ekacatvāriṃśat	ekacatvāriṃśat	NUM	_	Case=Nom|Gender=Fem|Number=Sing	_	_	_	LemmaId=39136|OccId=1352535|Unsandhied=ekacatvāriṃśat|UnsandhiedReconstructed=True|WordSem=129136
 6	sirā	sirā	NOUN	_	Case=Cpd	_	_	_	LemmaId=106411|OccId=1352536|Unsandhied=sirā|UnsandhiedReconstructed=True|WordSem=128417
 7	marmāṇi	marman	NOUN	_	Case=Nom|Gender=Neut|Number=Plur	_	_	_	LemmaId=37151|OccId=1352537|Unsandhied=marmāṇi|UnsandhiedReconstructed=True|WordSem=101773
 8	saptaviṃśatiḥ	saptaviṃśati	NUM	_	Case=Nom|Gender=Fem|Number=Sing	_	_	_	LemmaId=18196|OccId=1352538|Unsandhied=saptaviṃśatiḥ|UnsandhiedReconstructed=True|WordSem=59941
@@ -2181,11 +2181,13 @@
 1	viśalya	viśalya	ADJ	_	Case=Cpd	_	_	_	LemmaId=139190|OccId=1356064|Unsandhied=viśalya|UnsandhiedReconstructed=True
 2	ghneṣu	ghna	ADJ	_	Case=Loc|Gender=Neut|Number=Plur	_	_	_	LemmaId=161718|OccId=1356065|Unsandhied=ghneṣu|UnsandhiedReconstructed=True
 3	vijñeyaṃ	vijñā	VERB	_	Case=Nom|Gender=Neut|Number=Sing|VerbForm=Gdv	_	_	_	LemmaId=163310|OccId=1356066|Unsandhied=vijñeyam|UnsandhiedReconstructed=True
-4	pūrvoktaṃ	pūrvokta	ADJ	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=145707|OccId=1356067|Unsandhied=pūrvoktam|UnsandhiedReconstructed=True
-5-6	yacca	_	_	_	_	_	_	_	_
-5	yat	yad	PRON	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=37877|OccId=1356167|Unsandhied=yat|UnsandhiedReconstructed=True
-6	ca	ca	CONJ	_		_	_	_	LemmaId=157144|OccId=1356168|Unsandhied=ca|UnsandhiedReconstructed=True
-7	kāraṇam	kāraṇa	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=14116|OccId=1356068|Unsandhied=kāraṇam|UnsandhiedReconstructed=True
+4-5	pūrvoktaṃ	_	_	_	_	_	_	_	_
+4	pūrva	pūrva	PRON	_	Case=Cpd	_	_	_	LemmaId=145625|OccId=5905853|Unsandhied=pūrva
+5	uktam	vac	VERB	_	Case=Nom|Gender=Neut|Number=Sing|VerbForm=Part	_	_	_	LemmaId=157264|OccId=5905854|Unsandhied=uktam
+6-7	yacca	_	_	_	_	_	_	_	_
+6	yat	yad	PRON	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=37877|OccId=1356167|Unsandhied=yat|UnsandhiedReconstructed=True
+7	ca	ca	CONJ	_		_	_	_	LemmaId=157144|OccId=1356168|Unsandhied=ca|UnsandhiedReconstructed=True
+8	kāraṇam	kāraṇa	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=14116|OccId=1356068|Unsandhied=kāraṇam|UnsandhiedReconstructed=True
 
 # text = rujākarāṇi marmāṇi kṣatāni vividhā rujaḥ
 # sent_id = 6306

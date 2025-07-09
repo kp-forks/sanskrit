@@ -500,21 +500,22 @@
 5	kṛmīṇāṃ	kṛmi	NOUN	_	Case=Gen|Gender=Masc|Number=Plur	_	_	_	LemmaId=3933|OccId=1527572|Unsandhied=kṛmīṇām|UnsandhiedReconstructed=True
 6	parikīrtitāḥ	parikīrtay	VERB	_	Case=Nom|Gender=Masc|Number=Plur|VerbForm=Part	_	_	_	LemmaId=161640|OccId=1527573|Unsandhied=parikīrtitāḥ|UnsandhiedReconstructed=True
 
-# text = keśādādyās tvadṛśyāste dvāvādyau parivarjayet
+# text = keśādādyās tv adṛśyās te dvāvādyau parivarjayet
 # sent_id = 15824
 # sent_counter = 20
 # sent_subcounter = 1
 1-2	keśādādyās	_	_	_	_	_	_	_	_
 1	keśāda	keśāda	NOUN	_	Case=Cpd	_	_	_	LemmaId=4615|OccId=1527720|Unsandhied=keśāda|UnsandhiedReconstructed=True
 2	ādyāḥ	ādya	ADJ	_	Case=Nom|Gender=Masc|Number=Plur	_	_	_	LemmaId=58029|OccId=1527721|Unsandhied=ādyāḥ|UnsandhiedReconstructed=True
-3-5	tvadṛśyāste	_	_	_	_	_	_	_	_
-3	tu	tu	PART	_		_	_	_	LemmaId=82701|OccId=1527722|Unsandhied=tu|UnsandhiedReconstructed=True
-4	adṛśyāḥ	adṛśya	ADJ	_	Case=Nom|Gender=Masc|Number=Plur	_	_	_	LemmaId=7604|OccId=1527723|Unsandhied=adṛśyāḥ|UnsandhiedReconstructed=True
-5	te	tad	PRON	_	Case=Nom|Gender=Masc|Number=Plur	_	_	_	LemmaId=37875|OccId=1527724|Unsandhied=te|UnsandhiedReconstructed=True
-6-7	dvāvādyau	_	_	_	_	_	_	_	_
-6	dvau	dvi	NUM	_	Case=Acc|Gender=Masc|Number=Dual	_	_	_	LemmaId=166283|OccId=1527574|Unsandhied=dvau|UnsandhiedReconstructed=True
-7	ādyau	ādya	ADJ	_	Case=Acc|Gender=Masc|Number=Dual	_	_	_	LemmaId=58029|OccId=1527575|Unsandhied=ādyau|UnsandhiedReconstructed=True
-8	parivarjayet	parivarjay	VERB	_	Tense=Pres|Mood=Opt|Person=3|Number=Sing	_	_	_	LemmaId=162168|OccId=1527576|Unsandhied=parivarjayet
+3	tv	tu	PART	_		_	_	_	LemmaId=82701|OccId=5880914|Unsandhied=tu
+4-5	adṛśyās	_	_	_	_	_	_	_	_
+4	a	a	PART	_		_	_	_	LemmaId=213048|OccId=5880915|Unsandhied=a
+5	dṛśyāḥ	dṛś	VERB	_	Case=Nom|Gender=Masc|Number=Plur|VerbForm=Gdv	_	_	_	LemmaId=157766|OccId=5880916|Unsandhied=dṛśyāḥ
+6	te	tad	PRON	_	Case=Nom|Gender=Masc|Number=Plur	_	_	_	LemmaId=37875|OccId=5880917|Unsandhied=te
+7-8	dvāvādyau	_	_	_	_	_	_	_	_
+7	dvau	dvi	NUM	_	Case=Acc|Gender=Masc|Number=Dual	_	_	_	LemmaId=166283|OccId=1527574|Unsandhied=dvau|UnsandhiedReconstructed=True
+8	ādyau	ādya	ADJ	_	Case=Acc|Gender=Masc|Number=Dual	_	_	_	LemmaId=58029|OccId=1527575|Unsandhied=ādyau|UnsandhiedReconstructed=True
+9	parivarjayet	parivarjay	VERB	_	Tense=Pres|Mood=Opt|Person=3|Number=Sing	_	_	_	LemmaId=162168|OccId=1527576|Unsandhied=parivarjayet
 
 # text = eṣāmanyatamaṃ jñātvā jighāṃsuḥ snigdhamāturam
 # sent_id = 15825

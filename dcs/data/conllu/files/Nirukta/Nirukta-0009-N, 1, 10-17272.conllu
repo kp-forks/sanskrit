@@ -1,0 +1,145 @@
+## text: Nirukta
+## text_id: 367
+## chapter: N, 1, 10
+## chapter_id: 17272
+# text = niṣṭvaktrāsaś cid in naro bhūritokā vṛkād iva
+# sent_id = 474019
+# sent_counter = 1
+# sent_subcounter = 1
+1	niṣṭvaktrāsaś	niṣṭvaktra	ADJ	_	Case=Nom|Gender=Masc|Number=Plur	_	_	_	LemmaId=226029|OccId=5901552|Unsandhied=niṣṭvaktrāsaḥ
+2	cid	cit	PART	_		_	_	_	LemmaId=217142|OccId=5901500|Unsandhied=cit
+3	in	id	PART	_		_	_	_	LemmaId=217401|OccId=5901501|Unsandhied=id
+4	naro	nṛ	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	_	_	_	LemmaId=169021|OccId=5901502|Unsandhied=naraḥ
+5-6	bhūritokā	_	_	_	_	_	_	_	_
+5	bhūri	bhūri	ADJ	_	Case=Cpd	_	_	_	LemmaId=25575|OccId=5901503|Unsandhied=bhūri
+6	tokāḥ	toka	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	_	_	_	LemmaId=83564|OccId=5901504|Unsandhied=tokāḥ
+7	vṛkād	vṛka	NOUN	_	Case=Abl|Gender=Masc|Number=Sing	_	_	_	LemmaId=142175|OccId=5901505|Unsandhied=vṛkāt
+8	iva	iva	PART	_		_	_	_	LemmaId=63807|OccId=5901506|Unsandhied=iva|Punctuation=comma
+
+# text = bibhyasyanto vavāśire śiśiraṃ jīvanāya kam
+# sent_id = 474020
+# sent_counter = 1
+# sent_subcounter = 2
+1	vavāśire	vāś	VERB	_	Tense=Past|Mood=Ind|Person=3|Number=Plur	_	_	_	LemmaId=158047|OccId=5901507|Unsandhied=vavāśire
+2	śiśiraṃ	śiśira	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	_	_	_	LemmaId=132826|OccId=5901508|Unsandhied=śiśiram
+3	jīvanāya	jīvana	NOUN	_	Case=Dat|Gender=Neut|Number=Sing	_	_	_	LemmaId=89349|OccId=5901509|Unsandhied=jīvanāya
+4	kam	kaṃ	PART	_		_	_	_	LemmaId=169291|OccId=5901510|Unsandhied=kam|Punctuation=fullStop
+
+# text = śiśiraṃ jīvanāya śiśiraṃ śṛṇāteḥ śamnāter vā
+# sent_id = 474021
+# sent_counter = 2
+# sent_subcounter = 1
+1	śiśiraṃ	śiśira	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	_	_	_	LemmaId=132826|OccId=5901511|Unsandhied=śiśiram
+2	jīvanāya	jīvana	NOUN	_	Case=Dat|Gender=Neut|Number=Sing	_	_	_	LemmaId=89349|OccId=5901512|Unsandhied=jīvanāya
+3	śiśiraṃ	śiśira	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	_	_	_	LemmaId=132826|OccId=5901513|Unsandhied=śiśiram
+4	śṛṇāteḥ	śṛṇāti	NOUN	_	Case=Abl|Gender=Masc|Number=Sing	_	_	_	LemmaId=226030|OccId=5901562|Unsandhied=śṛṇāteḥ
+5	śamnāter	śamnāti	NOUN	_	Case=Abl|Gender=Masc|Number=Sing	_	_	_	LemmaId=226031|OccId=5901563|Unsandhied=śamnāteḥ
+6	vā	vā	CONJ	_		_	_	_	LemmaId=75765|OccId=5901514|Unsandhied=vā|Punctuation=fullStop
+
+# text = em enaṃ sṛjatā sute
+# sent_id = 474022
+# sent_counter = 3
+# sent_subcounter = 1
+1-2	em	_	_	_	_	_	_	_	_
+1	ā	ā	ADP	_		_	_	_	LemmaId=213041|OccId=5901553|Unsandhied=ā
+2	īm	īṃ	ADV	_		_	_	_	LemmaId=169227|OccId=5901554|Unsandhied=īm
+3	enaṃ	enad	PRON	_	Case=Acc|Gender=Masc|Number=Sing	_	_	_	LemmaId=166401|OccId=5901515|Unsandhied=enam
+4	sṛjatā	sṛj	VERB	_	Tense=Pres|Mood=Jus|Person=3|Number=Sing	_	_	_	LemmaId=157522|OccId=5901564|Unsandhied=sṛjata
+5	sute	su	VERB	_	Case=Loc|Gender=Masc|Number=Sing|VerbForm=Part	_	_	_	LemmaId=157338|OccId=5901516|Unsandhied=sute|Punctuation=fullStop
+
+# text = āsṛjatainaṃ sute
+# sent_id = 474023
+# sent_counter = 4
+# sent_subcounter = 1
+1-3	āsṛjatainaṃ	_	_	_	_	_	_	_	_
+1	ā	ā	ADP	_		_	_	_	LemmaId=213041|OccId=5901555|Unsandhied=ā
+2	sṛjata	sṛj	VERB	_	Tense=Pres|Mood=Imp|Person=2|Number=Plur	_	_	_	LemmaId=157522|OccId=5901556|Unsandhied=sṛjata
+3	enam	enad	PRON	_	Case=Acc|Gender=Masc|Number=Sing	_	_	_	LemmaId=166401|OccId=5901557|Unsandhied=enam
+4	sute	su	VERB	_	Case=Loc|Gender=Masc|Number=Sing|VerbForm=Part	_	_	_	LemmaId=157338|OccId=5901517|Unsandhied=sute|Punctuation=fullStop
+
+# text = tam id vardhan tu no giraḥ
+# sent_id = 474024
+# sent_counter = 5
+# sent_subcounter = 1
+1	tam	tad	PRON	_	Case=Acc|Gender=Masc|Number=Sing	_	_	_	LemmaId=37875|OccId=5901518|Unsandhied=tam
+2	id	id	PART	_		_	_	_	LemmaId=217401|OccId=5901519|Unsandhied=id
+3	vardhan	vṛdh	VERB	_	Tense=Pres|Mood=Jus|Person=3|Number=Plur	_	_	_	LemmaId=157334|OccId=5901520|Unsandhied=vardhan
+4	tu	tu	PART	_		_	_	_	LemmaId=82701|OccId=5901521|Unsandhied=tu
+5	no	mad	PRON	_	Case=Gen|Number=Plur	_	_	_	LemmaId=37879|OccId=5901522|Unsandhied=naḥ
+6	giraḥ	gir	NOUN	_	Case=Nom|Gender=Fem|Number=Plur	_	_	_	LemmaId=123966|OccId=5901523|Unsandhied=giraḥ|Punctuation=fullStop
+
+# text = taṃ vardhayantu no giraḥ stutayaḥ
+# sent_id = 474025
+# sent_counter = 6
+# sent_subcounter = 1
+1	taṃ	tad	PRON	_	Case=Acc|Gender=Masc|Number=Sing	_	_	_	LemmaId=37875|OccId=5901524|Unsandhied=tam
+2	vardhayantu	vardhay	VERB	_	Tense=Pres|Mood=Imp|Person=3|Number=Plur	_	_	_	LemmaId=158829|OccId=5901525|Unsandhied=vardhayantu
+3	no	mad	PRON	_	Case=Gen|Number=Plur	_	_	_	LemmaId=37879|OccId=5901526|Unsandhied=naḥ
+4	giraḥ	gir	NOUN	_	Case=Nom|Gender=Fem|Number=Plur	_	_	_	LemmaId=123966|OccId=5901527|Unsandhied=giraḥ
+5	stutayaḥ	stuti	NOUN	_	Case=Nom|Gender=Fem|Number=Plur	_	_	_	LemmaId=102403|OccId=5901528|Unsandhied=stutayaḥ|Punctuation=fullStop
+
+# text = giro gṛṇāteḥ
+# sent_id = 474026
+# sent_counter = 7
+# sent_subcounter = 1
+1	giro	gir	NOUN	_	Case=Nom|Gender=Fem|Number=Plur	_	_	_	LemmaId=123966|OccId=5901529|Unsandhied=giraḥ
+2	gṛṇāteḥ	gṛṇāti	NOUN	_	Case=Abl|Gender=Masc|Number=Sing	_	_	_	LemmaId=226032|OccId=5901565|Unsandhied=gṛṇāteḥ|Punctuation=fullStop
+
+# text = ayam u te samatasi
+# sent_id = 474027
+# sent_counter = 8
+# sent_subcounter = 1
+1	ayam	idam	PRON	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=37876|OccId=5901530|Unsandhied=ayam
+2	u	u	PART	_		_	_	_	LemmaId=213150|OccId=5901558|Unsandhied=u
+3	te	tvad	PRON	_	Case=Gen|Number=Sing	_	_	_	LemmaId=37880|OccId=5901531|Unsandhied=te
+4	samatasi	samat	VERB	_	Tense=Pres|Mood=Ind|Person=2|Number=Sing	_	_	_	LemmaId=165015|OccId=5901559|Unsandhied=samatasi|Punctuation=fullStop
+
+# text = ayaṃ te samatasi
+# sent_id = 474028
+# sent_counter = 9
+# sent_subcounter = 1
+1	ayaṃ	idam	PRON	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=37876|OccId=5901532|Unsandhied=ayam
+2	te	tvad	PRON	_	Case=Gen|Number=Sing	_	_	_	LemmaId=37880|OccId=5901533|Unsandhied=te
+3	samatasi	samat	VERB	_	Tense=Pres|Mood=Ind|Person=2|Number=Sing	_	_	_	LemmaId=165015|OccId=5901560|Unsandhied=samatasi|Punctuation=fullStop
+
+# text = ivo 'pi dṛśyate
+# sent_id = 474029
+# sent_counter = 10
+# sent_subcounter = 1
+1	ivo	iva	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=215917|OccId=5901561|Unsandhied=ivaḥ
+2	'pi	api	PART	_		_	_	_	LemmaId=21365|OccId=5901534|Unsandhied=api
+3	dṛśyate	dṛś	VERB	_	Tense=Pres|Mood=Ind|Voice=Pass|Person=3|Number=Sing	_	_	_	LemmaId=157766|OccId=5901535|Unsandhied=dṛśyate|Punctuation=fullStop
+
+# text = su vidur iva
+# sent_id = 474030
+# sent_counter = 11
+# sent_subcounter = 1
+1	su	su	ADV	_		_	_	_	LemmaId=204329|OccId=5901536|Unsandhied=su
+2	vidur	vid	VERB	_	Tense=Past|Mood=Ind|Person=3|Number=Plur	_	_	_	LemmaId=158058|OccId=5901537|Unsandhied=viduḥ
+3	iva	iva	PART	_		_	_	_	LemmaId=63807|OccId=5901538|Unsandhied=iva|Punctuation=fullStop
+
+# text = su vijñāyete iva
+# sent_id = 474031
+# sent_counter = 12
+# sent_subcounter = 1
+1	su	su	ADV	_		_	_	_	LemmaId=204329|OccId=5901539|Unsandhied=su
+2	vijñāyete	vijñā	VERB	_	Tense=Pres|Mood=Ind|Voice=Pass|Person=3|Number=Dual	_	_	_	LemmaId=163310|OccId=5901540|Unsandhied=vijñāyete
+3	iva	iva	PART	_		_	_	_	LemmaId=63807|OccId=5901541|Unsandhied=iva|Punctuation=fullStop
+
+# text = athāpi nety eṣa id ity etena samprayujyate paribhaye
+# sent_id = 474032
+# sent_counter = 13
+# sent_subcounter = 1
+1-2	athāpi	_	_	_	_	_	_	_	_
+1	atha	atha	ADV	_		_	_	_	LemmaId=7467|OccId=5901542|Unsandhied=atha
+2	api	api	PART	_		_	_	_	LemmaId=21365|OccId=5901543|Unsandhied=api
+3-4	nety	_	_	_	_	_	_	_	_
+3	na	na	PART	_		_	_	_	LemmaId=43432|OccId=5901544|Unsandhied=na
+4	iti	iti	PART	_		_	_	_	LemmaId=63331|OccId=5901545|Unsandhied=iti
+5	eṣa	etad	PRON	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=163744|OccId=5901546|Unsandhied=eṣaḥ
+6	id	id	PART	_		_	_	_	LemmaId=217401|OccId=5901547|Unsandhied=id
+7	ity	iti	PART	_		_	_	_	LemmaId=63331|OccId=5901548|Unsandhied=iti
+8	etena	etad	PRON	_	Case=Ins|Gender=Neut|Number=Sing	_	_	_	LemmaId=163744|OccId=5901549|Unsandhied=etena
+9	samprayujyate	samprayuj	VERB	_	Tense=Pres|Mood=Ind|Voice=Pass|Person=3|Number=Sing	_	_	_	LemmaId=165524|OccId=5901550|Unsandhied=samprayujyate
+10	paribhaye	paribhaya	NOUN	_	Case=Loc|Gender=Neut|Number=Sing	_	_	_	LemmaId=19315|OccId=5901551|Unsandhied=paribhaye|Punctuation=fullStop
+

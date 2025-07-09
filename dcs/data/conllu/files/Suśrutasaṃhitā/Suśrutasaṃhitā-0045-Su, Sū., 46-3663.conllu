@@ -9590,7 +9590,7 @@
 6	mala	mala	NOUN	_	Case=Cpd	_	_	_	LemmaId=37215|OccId=1437041|Unsandhied=mala|UnsandhiedReconstructed=True
 7	apahāḥ	apaha	ADJ	_	Case=Nom|Gender=Masc|Number=Plur	_	_	_	LemmaId=21223|OccId=1437042|Unsandhied=apahāḥ|UnsandhiedReconstructed=True
 
-# text = dhānyeṣu māṃseṣu phaleṣu caiva śākeṣu cānuktamihāprameyāt
+# text = dhānyeṣu māṃseṣu phaleṣu caiva śākeṣu cānuktam ihāprameyāt
 # sent_id = 4336
 # sent_counter = 331
 # sent_subcounter = 1
@@ -9601,11 +9601,14 @@
 4	ca	ca	CONJ	_		_	_	_	LemmaId=157144|OccId=1437046|Unsandhied=ca|UnsandhiedReconstructed=True
 5	eva	eva	PART	_		_	_	_	LemmaId=39754|OccId=1437047|Unsandhied=eva|UnsandhiedReconstructed=True
 6	śākeṣu	śāka	NOUN	_	Case=Loc|Gender=Masc|Number=Plur	_	_	_	LemmaId=131137|OccId=1437048|Unsandhied=śākeṣu|UnsandhiedReconstructed=True
-7-10	cānuktamihāprameyāt	_	_	_	_	_	_	_	_
-7	ca	ca	CONJ	_		_	_	_	LemmaId=157144|OccId=1437049|Unsandhied=ca|UnsandhiedReconstructed=True
-8	anuktam	anukta	ADJ	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=10720|OccId=1437050|Unsandhied=anuktam|UnsandhiedReconstructed=True
-9	iha	iha	ADV	_		_	_	_	LemmaId=63959|OccId=1437051|Unsandhied=iha|UnsandhiedReconstructed=True
-10	aprameyāt	aprameya	ADJ	_	Case=Abl|Gender=Neut|Number=Sing	_	_	_	LemmaId=21740|OccId=1437052|Unsandhied=aprameyāt|UnsandhiedReconstructed=True
+7-9	cānuktam	_	_	_	_	_	_	_	_
+7	ca	ca	CONJ	_		_	_	_	LemmaId=157144|OccId=5901566|Unsandhied=ca
+8	an	an	PART	_		_	_	_	LemmaId=213304|OccId=5901567|Unsandhied=an
+9	uktam	vac	VERB	_	Case=Nom|Gender=Neut|Number=Sing|VerbForm=Part	_	_	_	LemmaId=157264|OccId=5901568|Unsandhied=uktam
+10-12	ihāprameyāt	_	_	_	_	_	_	_	_
+10	iha	iha	ADV	_		_	_	_	LemmaId=63959|OccId=5901569|Unsandhied=iha
+11	a	a	PART	_		_	_	_	LemmaId=213048|OccId=5901570|Unsandhied=a
+12	prameyāt	pramā	VERB	_	Case=Abl|Gender=Neut|Number=Sing|VerbForm=Gdv	_	_	_	LemmaId=162954|OccId=5901571|Unsandhied=prameyāt
 
 # text = āsvādato bhūtaguṇaiśca matvā tadādiśed dravyam analpabuddhiḥ
 # sent_id = 4337
@@ -9621,9 +9624,10 @@
 6	tat	tad	PRON	_	Case=Acc|Gender=Neut|Number=Sing	_	_	_	LemmaId=37875|OccId=1437178|Unsandhied=tat|UnsandhiedReconstructed=True
 7	ādiśet	ādiś	VERB	_	Tense=Pres|Mood=Opt|Person=3|Number=Sing	_	_	_	LemmaId=159776|OccId=1437179|Unsandhied=ādiśet
 8	dravyam	dravya	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	_	_	_	LemmaId=90455|OccId=1437180|Unsandhied=dravyam|UnsandhiedReconstructed=True
-9-10	analpabuddhiḥ	_	_	_	_	_	_	_	_
-9	analpa	analpa	ADJ	_	Case=Cpd	_	_	_	LemmaId=10204|OccId=1437181|Unsandhied=analpa|UnsandhiedReconstructed=True
-10	buddhiḥ	buddhi	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=148382|OccId=1437182|Unsandhied=buddhiḥ|UnsandhiedReconstructed=True
+9-11	analpabuddhiḥ	_	_	_	_	_	_	_	_
+9	an	an	PART	_		_	_	_	LemmaId=213304|OccId=5901572|Unsandhied=an
+10	alpa	alpa	ADJ	_	Case=Cpd	_	_	_	LemmaId=53831|OccId=5901573|Unsandhied=alpa
+11	buddhiḥ	buddhi	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=148382|OccId=5901574|Unsandhied=buddhiḥ
 
 # text = ṣaṣṭikā yavagodhūmā lohitā ye ca śālayaḥ
 # sent_id = 4338
@@ -12259,13 +12263,16 @@
 # sent_id = 4531
 # sent_counter = 428
 # sent_subcounter = 1
-1	amadyapānām	amadyapa	ADJ	_	Case=Gen|Gender=Masc|Number=Plur	_	_	_	LemmaId=31616|OccId=1438702|Unsandhied=amadyapānām|UnsandhiedReconstructed=True
-2	udakaṃ	udaka	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=56229|OccId=1438703|Unsandhied=udakam|UnsandhiedReconstructed=True
-3-4	phalāmlaṃ	_	_	_	_	_	_	_	_
-3	phala	phala	NOUN	_	Case=Cpd	_	_	_	LemmaId=154076|OccId=1438415|Unsandhied=phala|UnsandhiedReconstructed=True
-4	amlam	amla	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=32168|OccId=1438416|Unsandhied=amlam|UnsandhiedReconstructed=True
-5	vā	vā	CONJ	_		_	_	_	LemmaId=75765|OccId=1438417|Unsandhied=vā|UnsandhiedReconstructed=True
-6	praśasyate	praśaṃs	VERB	_	Tense=Pres|Mood=Ind|Voice=Pass|Person=3|Number=Sing	_	_	_	LemmaId=163082|OccId=1438418|Unsandhied=praśasyate
+1-3	amadyapānām	_	_	_	_	_	_	_	_
+1	a	a	PART	_		_	_	_	LemmaId=213048|OccId=5908548|Unsandhied=a
+2	madya	madya	NOUN	_	Case=Cpd	_	_	_	LemmaId=35378|OccId=5908549|Unsandhied=madya
+3	pānām	pa	ADJ	_	Case=Gen|Gender=Masc|Number=Plur	_	_	_	LemmaId=223203|OccId=5908550|Unsandhied=pānām
+4	udakaṃ	udaka	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=56229|OccId=1438703|Unsandhied=udakam|UnsandhiedReconstructed=True
+5-6	phalāmlaṃ	_	_	_	_	_	_	_	_
+5	phala	phala	NOUN	_	Case=Cpd	_	_	_	LemmaId=154076|OccId=1438415|Unsandhied=phala|UnsandhiedReconstructed=True
+6	amlam	amla	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=32168|OccId=1438416|Unsandhied=amlam|UnsandhiedReconstructed=True
+7	vā	vā	CONJ	_		_	_	_	LemmaId=75765|OccId=1438417|Unsandhied=vā|UnsandhiedReconstructed=True
+8	praśasyate	praśaṃs	VERB	_	Tense=Pres|Mood=Ind|Voice=Pass|Person=3|Number=Sing	_	_	_	LemmaId=163082|OccId=1438418|Unsandhied=praśasyate
 
 # text = kṣīraṃ gharmādhvabhāṣyastrīklāntānāmamṛtopamam
 # sent_id = 4532
