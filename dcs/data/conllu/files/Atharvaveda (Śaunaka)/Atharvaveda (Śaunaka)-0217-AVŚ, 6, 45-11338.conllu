@@ -3,18 +3,20 @@
 ## chapter: AVŚ, 6, 45
 ## chapter_id: 11338
 # text = paro 'pehi manaspāpa kim aśastāni śaṃsasi
-# sent_id = 627979
+# sent_id = 628196
 # sent_counter = 1
 # sent_subcounter = 1
 1	paro	paras	ADV	_		_	_	_	LemmaId=18606|OccId=4745271|Unsandhied=paras
 2	'pehi	ape	VERB	_	Tense=Pres|Mood=Imp|Person=2|Number=Sing	_	_	_	LemmaId=158559|OccId=4745272|Unsandhied=apehi
 3	manaspāpa	manaspāpa	ADJ	_	Case=Voc|Gender=Masc|Number=Sing	_	_	_	LemmaId=221158|OccId=4745311|Unsandhied=manaspāpa|Punctuation=fullStop
 4	kim	kim	ADV	_		_	_	_	LemmaId=209495|OccId=4745273|Unsandhied=kim
-5	aśastāni	aśasta	ADJ	_	Case=Acc|Gender=Neut|Number=Plur	_	_	_	LemmaId=59921|OccId=4745274|Unsandhied=aśastāni
-6	śaṃsasi	śaṃs	VERB	_	Tense=Pres|Mood=Ind|Person=2|Number=Sing	_	_	_	LemmaId=157408|OccId=4745275|Unsandhied=śaṃsasi|Punctuation=fullStop
+5-6	aśastāni	_	_	_	_	_	_	_	_
+5	a	a	PART	_		_	_	_	LemmaId=213048|OccId=5929273|Unsandhied=a
+6	śastāni	śaṃs	VERB	_	Case=Acc|Gender=Neut|Number=Plur|VerbForm=Part	_	_	_	LemmaId=157408|OccId=5929274|Unsandhied=śastāni
+7	śaṃsasi	śaṃs	VERB	_	Tense=Pres|Mood=Ind|Person=2|Number=Sing	_	_	_	LemmaId=157408|OccId=4745275|Unsandhied=śaṃsasi|Punctuation=fullStop
 
 # text = parehi na tvā kāmaye vṛkṣāṁ vanāni saṃ cara gṛheṣu goṣu me manaḥ
-# sent_id = 627980
+# sent_id = 628197
 # sent_counter = 1
 # sent_subcounter = 2
 1	parehi	pare	VERB	_	Tense=Pres|Mood=Imp|Person=2|Number=Sing	_	_	_	LemmaId=162251|OccId=4745276|Unsandhied=parehi|Punctuation=fullStop
@@ -31,7 +33,7 @@
 12	manaḥ	manas	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=36096|OccId=4745286|Unsandhied=manaḥ|Punctuation=fullStop
 
 # text = avaśasā niḥśasā yat parāśasopārima jāgrato yat svapantaḥ
-# sent_id = 627981
+# sent_id = 628198
 # sent_counter = 2
 # sent_subcounter = 1
 1	avaśasā	avaśas	NOUN	_	Case=Ins|Gender=Fem|Number=Sing	_	_	_	LemmaId=54604|OccId=4745287|Unsandhied=avaśasā
@@ -45,7 +47,7 @@
 8	svapantaḥ	svap	VERB	_	Case=Nom|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part	_	_	_	LemmaId=160029|OccId=4745292|Unsandhied=svapantaḥ|Punctuation=comma
 
 # text = agnir viśvāny apa duṣkṛtāny ajuṣṭāny āre asmad dadhātu
-# sent_id = 627982
+# sent_id = 628199
 # sent_counter = 2
 # sent_subcounter = 2
 1	agnir	agni	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=5705|OccId=4745293|Unsandhied=agniḥ
@@ -60,7 +62,7 @@
 9	dadhātu	dhā	VERB	_	Tense=Pres|Mood=Imp|Person=3|Number=Sing	_	_	_	LemmaId=157327|OccId=4745299|Unsandhied=dadhātu|Punctuation=fullStop
 
 # text = yad indra brahmaṇaspate 'pi mṛṣā carāmasi
-# sent_id = 627983
+# sent_id = 628200
 # sent_counter = 3
 # sent_subcounter = 1
 1	yad	yat	SCONJ	_		_	_	_	LemmaId=73227|OccId=4745300|Unsandhied=yat
@@ -71,7 +73,7 @@
 6	carāmasi	car	VERB	_	Tense=Pres|Mood=Ind|Person=1|Number=Plur	_	_	_	LemmaId=156249|OccId=4745304|Unsandhied=carāmasi|Punctuation=comma
 
 # text = pracetā na āṅgiraso duritāt pātv aṃhasaḥ
-# sent_id = 627984
+# sent_id = 628201
 # sent_counter = 3
 # sent_subcounter = 2
 1	pracetā	pracetas	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=151247|OccId=4745305|Unsandhied=pracetāḥ

@@ -1,0 +1,98 @@
+## text: Mīmāṃsāsūtrabhāṣya
+## text_id: 572
+## chapter: MīSūBhā, 1, 2, 34
+## chapter_id: 17352
+# text = yajñe sādhanabhūtaḥ prakāśayitavyaḥ
+# sent_id = 756981
+# sent_counter = 1
+# sent_subcounter = 
+1	yajñe	yajña	NOUN	_	Case=Loc|Gender=Masc|Number=Sing	_	_	_	LemmaId=72936|OccId=5924307|Unsandhied=yajñe
+2-3	sādhanabhūtaḥ	_	_	_	_	_	_	_	_
+2	sādhana	sādhana	NOUN	_	Case=Cpd	_	_	_	LemmaId=112140|OccId=5924308|Unsandhied=sādhana
+3	bhūtaḥ	bhū	VERB	_	Case=Nom|Gender=Masc|Number=Sing|VerbForm=Part	_	_	_	LemmaId=157250|OccId=5924309|Unsandhied=bhūtaḥ
+4	prakāśayitavyaḥ	prakāśay	VERB	_	Case=Nom|Gender=Masc|Number=Sing|VerbForm=Gdv	_	_	_	LemmaId=162329|OccId=5924310|Unsandhied=prakāśayitavyaḥ
+
+# text = na ca tādṛśo 'rtho 'sti yādṛśam abhidadhati
+# sent_id = 756982
+# sent_counter = 2
+# sent_subcounter = 
+1	na	na	PART	_		_	_	_	LemmaId=43432|OccId=5924311|Unsandhied=na
+2	ca	ca	CONJ	_		_	_	_	LemmaId=157144|OccId=5924312|Unsandhied=ca
+3	tādṛśo	tādṛśa	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=97061|OccId=5924313|Unsandhied=tādṛśaḥ
+4	'rtho	artha	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=53136|OccId=5924314|Unsandhied=arthaḥ
+5	'sti	as	VERB	_	Tense=Pres|Mood=Ind|Person=3|Number=Sing	_	_	_	LemmaId=156122|OccId=5924315|Unsandhied=asti
+6	yādṛśam	yādṛśa	ADJ	_	Case=Acc|Gender=Masc|Number=Sing	_	_	_	LemmaId=64468|OccId=5924316|Unsandhied=yādṛśam
+7	abhidadhati	abhidhā	VERB	_	Tense=Pres|Mood=Ind|Person=3|Number=Plur	_	_	_	LemmaId=158673|OccId=5924317|Unsandhied=abhidadhati
+
+# text = yathā catvāri śṛṅgā iti
+# sent_id = 756983
+# sent_counter = 3
+# sent_subcounter = 
+1	yathā	yathā	PART	_		_	_	_	LemmaId=73250|OccId=5924318|Unsandhied=yathā
+2	catvāri	catur	NUM	_	Case=Nom|Gender=Neut|Number=Plur	_	_	_	LemmaId=163231|OccId=5924319|Unsandhied=catvāri
+3	śṛṅgā	śṛṅga	NOUN	_	Case=Nom|Gender=Neut|Number=Plur	_	_	_	LemmaId=127269|OccId=5924354|Unsandhied=śṛṅgā
+4	iti	iti	PART	_		_	_	_	LemmaId=63331|OccId=5924320|Unsandhied=iti
+
+# text = na hi catuḥśṛṅgaṃ tripādaṃ dviśiraskaṃ saptahastaṃ kiṃcid yajñasādhanam asti
+# sent_id = 756984
+# sent_counter = 4
+# sent_subcounter = 
+1	na	na	PART	_		_	_	_	LemmaId=43432|OccId=5924321|Unsandhied=na
+2	hi	hi	PART	_		_	_	_	LemmaId=109879|OccId=5924322|Unsandhied=hi
+3-4	catuḥśṛṅgaṃ	_	_	_	_	_	_	_	_
+3	catur	catur	NUM	_	Case=Cpd	_	_	_	LemmaId=163231|OccId=5924323|Unsandhied=catur
+4	śṛṅgam	śṛṅga	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=127269|OccId=5924324|Unsandhied=śṛṅgam
+5-6	tripādaṃ	_	_	_	_	_	_	_	_
+5	tri	tri	NUM	_	Case=Cpd	_	_	_	LemmaId=166282|OccId=5924325|Unsandhied=tri
+6	pādam	pāda	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=93551|OccId=5924326|Unsandhied=pādam
+7-8	dviśiraskaṃ	_	_	_	_	_	_	_	_
+7	dvi	dvi	NUM	_	Case=Cpd	_	_	_	LemmaId=166283|OccId=5924327|Unsandhied=dvi
+8	śiraskam	śiraska	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=132631|OccId=5924328|Unsandhied=śiraskam
+9-10	saptahastaṃ	_	_	_	_	_	_	_	_
+9	sapta	saptan	NUM	_	Case=Cpd	_	_	_	LemmaId=166083|OccId=5924329|Unsandhied=sapta
+10	hastam	hasta	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=166517|OccId=5924330|Unsandhied=hastam
+11	kiṃcid	kaścit	PRON	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=164309|OccId=5924331|Unsandhied=kiṃcid
+12-13	yajñasādhanam	_	_	_	_	_	_	_	_
+12	yajña	yajña	NOUN	_	Case=Cpd	_	_	_	LemmaId=72936|OccId=5924332|Unsandhied=yajña
+13	sādhanam	sādhana	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=112140|OccId=5924333|Unsandhied=sādhanam
+14	asti	as	VERB	_	Tense=Pres|Mood=Ind|Person=3|Number=Sing	_	_	_	LemmaId=156122|OccId=5924334|Unsandhied=asti
+
+# text = tad atrābhidhānārthaḥ kim abhidadhyāt
+# sent_id = 756985
+# sent_counter = 5
+# sent_subcounter = 
+1	tad	tad	PRON	_	Case=Acc|Gender=Neut|Number=Sing	_	_	_	LemmaId=37875|OccId=5924335|Unsandhied=tat
+2-4	atrābhidhānārthaḥ	_	_	_	_	_	_	_	_
+2	atra	atra	ADV	_		_	_	_	LemmaId=7442|OccId=5924336|Unsandhied=atra
+3	abhidhāna	abhidhāna	NOUN	_	Case=Cpd	_	_	_	LemmaId=22237|OccId=5924337|Unsandhied=abhidhāna
+4	arthaḥ	artha	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=53136|OccId=5924338|Unsandhied=arthaḥ
+5	kim	ka	PRON	_	Case=Acc|Gender=Neut|Number=Sing	_	_	_	LemmaId=37878|OccId=5924339|Unsandhied=kim
+6	abhidadhyāt	abhidhā	VERB	_	Tense=Pres|Mood=Opt|Person=3|Number=Sing	_	_	_	LemmaId=158673|OccId=5924340|Unsandhied=abhidadhyāt
+
+# text = uccāraṇārthe tv avakalpyate
+# sent_id = 756986
+# sent_counter = 6
+# sent_subcounter = 
+1-2	uccāraṇārthe	_	_	_	_	_	_	_	_
+1	uccāraṇa	uccāraṇa	NOUN	_	Case=Cpd	_	_	_	LemmaId=55257|OccId=5924341|Unsandhied=uccāraṇa
+2	arthe	artha	NOUN	_	Case=Loc|Gender=Masc|Number=Sing	_	_	_	LemmaId=53136|OccId=5924342|Unsandhied=arthe
+3	tv	tu	PART	_		_	_	_	LemmaId=82701|OccId=5924343|Unsandhied=tu
+4	avakalpyate	avakalpay	VERB	_	Tense=Pres|Mood=Ind|Voice=Pass|Person=3|Number=Sing	_	_	_	LemmaId=159440|OccId=5924344|Unsandhied=avakalpyate
+
+# text = tathā mā mā hiṃsīr ity asatyām api hiṃsāyāṃ kim abhidadhyāt
+# sent_id = 756987
+# sent_counter = 7
+# sent_subcounter = 
+1	tathā	tathā	ADV	_		_	_	_	LemmaId=95987|OccId=5924345|Unsandhied=tathā
+2	mā	mā	PART	_		_	_	_	LemmaId=170120|OccId=5924346|Unsandhied=mā
+3	mā	mad	PRON	_	Case=Acc|Number=Sing	_	_	_	LemmaId=37879|OccId=5924347|Unsandhied=mā
+4	hiṃsīr	hiṃs	VERB	_	Tense=Past|Mood=Jus|Person=2|Number=Sing	_	_	_	LemmaId=160035|OccId=5924348|Unsandhied=hiṃsīḥ
+5	ity	iti	PART	_		_	_	_	LemmaId=63331|OccId=5924349|Unsandhied=iti
+6-7	asatyām	_	_	_	_	_	_	_	_
+6	a	a	PART	_		_	_	_	LemmaId=213048|OccId=5924355|Unsandhied=a
+7	satyām	as	VERB	_	Case=Loc|Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Part	_	_	_	LemmaId=156122|OccId=5924356|Unsandhied=satyām
+8	api	api	PART	_		_	_	_	LemmaId=21365|OccId=5924350|Unsandhied=api
+9	hiṃsāyāṃ	hiṃsā	NOUN	_	Case=Loc|Gender=Fem|Number=Sing	_	_	_	LemmaId=109888|OccId=5924351|Unsandhied=hiṃsāyām
+10	kim	ka	PRON	_	Case=Acc|Gender=Neut|Number=Sing	_	_	_	LemmaId=37878|OccId=5924352|Unsandhied=kim
+11	abhidadhyāt	abhidhā	VERB	_	Tense=Pres|Mood=Opt|Person=3|Number=Sing	_	_	_	LemmaId=158673|OccId=5924353|Unsandhied=abhidadhyāt
+

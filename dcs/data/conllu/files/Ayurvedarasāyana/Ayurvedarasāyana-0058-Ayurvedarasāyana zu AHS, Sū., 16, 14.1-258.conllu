@@ -1,0 +1,55 @@
+## text: Ayurvedarasāyana
+## text_id: 16
+## chapter: Ayurvedarasāyana zu AHS, Sū., 16, 14.1
+## chapter_id: 258
+# text = divārātriniyamasya tyāge doṣam āha niśy anyatheti
+# sent_id = 43218
+# sent_counter = 1
+# sent_subcounter = 
+1-3	divārātriniyamasya	_	_	_	_	_	_	_	_
+1	divā	divā	ADV	_		_	_	_	LemmaId=146911|OccId=1998205|Unsandhied=divā|UnsandhiedReconstructed=True
+2	rātri	rātri	NOUN	_	Case=Cpd	_	_	_	LemmaId=70626|OccId=1998206|Unsandhied=rātri|UnsandhiedReconstructed=True
+3	niyamasya	niyama	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	_	_	_	LemmaId=27565|OccId=1998207|Unsandhied=niyamasya|UnsandhiedReconstructed=True
+4	tyāge	tyāga	NOUN	_	Case=Loc|Gender=Masc|Number=Sing	_	_	_	LemmaId=83740|OccId=1998208|Unsandhied=tyāge|UnsandhiedReconstructed=True
+5	doṣam	doṣa	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	_	_	_	LemmaId=90071|OccId=1998209|Unsandhied=doṣam|UnsandhiedReconstructed=True
+6	āha	ah	VERB	_	Tense=Past|Mood=Ind|Person=3|Number=Sing	_	_	_	LemmaId=156124|OccId=1998210|Unsandhied=āha
+7	niśy	niś	NOUN	_	Case=Loc|Gender=Fem|Number=Sing	_	_	_	LemmaId=166514|OccId=1998211|Unsandhied=niśi|UnsandhiedReconstructed=True
+8-9	anyatheti	_	_	_	_	_	_	_	_
+8	anyathā	anyathā	ADV	_		_	_	_	LemmaId=20513|OccId=1998212|Unsandhied=anyathā|UnsandhiedReconstructed=True
+9	iti	iti	PART	_		_	_	_	LemmaId=63331|OccId=1998213|Unsandhied=iti|UnsandhiedReconstructed=True
+
+# text = yeṣāṃ divā snehanam uktaṃ teṣāṃ niśi karaṇe vātakaphajā rogāḥ syuḥ
+# sent_id = 43219
+# sent_counter = 2
+# sent_subcounter = 
+1	yeṣāṃ	yad	PRON	_	Case=Gen|Gender=Masc|Number=Plur	_	_	_	LemmaId=37877|OccId=1998214|Unsandhied=yeṣām|UnsandhiedReconstructed=True
+2	divā	divā	ADV	_		_	_	_	LemmaId=146911|OccId=1998215|Unsandhied=divā|UnsandhiedReconstructed=True
+3	snehanam	snehana	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=103487|OccId=1998216|Unsandhied=snehanam|UnsandhiedReconstructed=True
+4	uktaṃ	vac	VERB	_	Case=Nom|Gender=Neut|Number=Sing|VerbForm=Part	_	_	_	LemmaId=157264|OccId=1998217|Unsandhied=uktam|UnsandhiedReconstructed=True
+5	teṣāṃ	tad	PRON	_	Case=Gen|Gender=Masc|Number=Plur	_	_	_	LemmaId=37875|OccId=1998218|Unsandhied=teṣām|UnsandhiedReconstructed=True
+6	niśi	niś	NOUN	_	Case=Loc|Gender=Fem|Number=Sing	_	_	_	LemmaId=166514|OccId=1998219|Unsandhied=niśi|UnsandhiedReconstructed=True
+7	karaṇe	karaṇa	NOUN	_	Case=Loc|Gender=Neut|Number=Sing	_	_	_	LemmaId=2379|OccId=1998220|Unsandhied=karaṇe|UnsandhiedReconstructed=True
+8-10	vātakaphajā	_	_	_	_	_	_	_	_
+8	vāta	vāta	NOUN	_	Case=Cpd	_	_	_	LemmaId=75767|OccId=1998242|Unsandhied=vāta|UnsandhiedReconstructed=True
+9	kapha	kapha	NOUN	_	Case=Cpd	_	_	_	LemmaId=1984|OccId=1998243|Unsandhied=kapha|UnsandhiedReconstructed=True
+10	jāḥ	ja	ADJ	_	Case=Nom|Gender=Masc|Number=Plur	_	_	_	LemmaId=52879|OccId=1998244|Unsandhied=jāḥ|UnsandhiedReconstructed=True
+11	rogāḥ	roga	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	_	_	_	LemmaId=79830|OccId=1998245|Unsandhied=rogāḥ|UnsandhiedReconstructed=True
+12	syuḥ	as	VERB	_	Tense=Pres|Mood=Opt|Person=3|Number=Plur	_	_	_	LemmaId=156122|OccId=1998246|Unsandhied=syuḥ
+
+# text = yeṣāṃ niśi snehanamuktaṃ teṣāṃ divā karaṇe pittarogāḥ syuḥ
+# sent_id = 43220
+# sent_counter = 3
+# sent_subcounter = 
+1	yeṣāṃ	yad	PRON	_	Case=Gen|Gender=Masc|Number=Plur	_	_	_	LemmaId=37877|OccId=1998247|Unsandhied=yeṣām|UnsandhiedReconstructed=True
+2	niśi	niś	NOUN	_	Case=Loc|Gender=Fem|Number=Sing	_	_	_	LemmaId=166514|OccId=1998248|Unsandhied=niśi|UnsandhiedReconstructed=True
+3-4	snehanamuktaṃ	_	_	_	_	_	_	_	_
+3	snehanam	snehana	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=103487|OccId=1998249|Unsandhied=snehanam|UnsandhiedReconstructed=True
+4	uktam	vac	VERB	_	Case=Nom|Gender=Neut|Number=Sing|VerbForm=Part	_	_	_	LemmaId=157264|OccId=1998250|Unsandhied=uktam|UnsandhiedReconstructed=True
+5	teṣāṃ	tad	PRON	_	Case=Gen|Gender=Masc|Number=Plur	_	_	_	LemmaId=37875|OccId=1998251|Unsandhied=teṣām|UnsandhiedReconstructed=True
+6	divā	divā	ADV	_		_	_	_	LemmaId=146911|OccId=1998252|Unsandhied=divā|UnsandhiedReconstructed=True
+7	karaṇe	karaṇa	NOUN	_	Case=Loc|Gender=Neut|Number=Sing	_	_	_	LemmaId=2379|OccId=1998253|Unsandhied=karaṇe|UnsandhiedReconstructed=True
+8-9	pittarogāḥ	_	_	_	_	_	_	_	_
+8	pitta	pitta	NOUN	_	Case=Cpd	_	_	_	LemmaId=95032|OccId=1998254|Unsandhied=pitta|UnsandhiedReconstructed=True
+9	rogāḥ	roga	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	_	_	_	LemmaId=79830|OccId=1998255|Unsandhied=rogāḥ|UnsandhiedReconstructed=True
+10	syuḥ	as	VERB	_	Tense=Pres|Mood=Opt|Person=3|Number=Plur	_	_	_	LemmaId=156122|OccId=1998256|Unsandhied=syuḥ
+

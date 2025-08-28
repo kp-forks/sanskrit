@@ -1108,18 +1108,21 @@
 5	tu	tu	PART	_		_	_	_	LemmaId=82701|OccId=1361671|Unsandhied=tu|UnsandhiedReconstructed=True
 6	cikitsitam	cikitsita	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	_	_	_	LemmaId=51335|OccId=1361672|Unsandhied=cikitsitam|UnsandhiedReconstructed=True|WordSem=3309
 
-# text = bhinnaṃ netramakarmaṇyamabhinnaṃ lambate tu yat
+# text = bhinnaṃ netram akarmaṇyam abhinnaṃ lambate tu yat
 # sent_id = 6931
 # sent_counter = 42
 # sent_subcounter = 1
 1	bhinnaṃ	bhid	VERB	_	Case=Nom|Gender=Neut|Number=Sing|VerbForm=Part	_	_	_	LemmaId=157945|OccId=1393821|Unsandhied=bhinnam|UnsandhiedReconstructed=True|WordSem=91356
-2-4	netramakarmaṇyamabhinnaṃ	_	_	_	_	_	_	_	_
-2	netram	netra	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=29025|OccId=1361674|Unsandhied=netram|UnsandhiedReconstructed=True|WordSem=26077
-3	akarmaṇyam	akarmaṇya	ADJ	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=1809|OccId=1361675|Unsandhied=akarmaṇyam|UnsandhiedReconstructed=True|WordSem=73790
-4	abhinnam	abhinna	ADJ	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=22325|OccId=1361676|Unsandhied=abhinnam|UnsandhiedReconstructed=True|WordSem=74036
-5	lambate	lamb	VERB	_	Tense=Pres|Mood=Ind|Person=3|Number=Sing	_	_	_	LemmaId=159187|OccId=1361677|Unsandhied=lambate|WordSem=128756
-6	tu	tu	PART	_		_	_	_	LemmaId=82701|OccId=1361678|Unsandhied=tu|UnsandhiedReconstructed=True
-7	yat	yad	PRON	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=37877|OccId=1361679|Unsandhied=yat|UnsandhiedReconstructed=True
+2	netram	netra	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=29025|OccId=5920139|Unsandhied=netram
+3-4	akarmaṇyam	_	_	_	_	_	_	_	_
+3	a	a	PART	_		_	_	_	LemmaId=213048|OccId=5920140|Unsandhied=a
+4	karmaṇyam	karmaṇya	ADJ	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=12385|OccId=5920141|Unsandhied=karmaṇyam
+5-6	abhinnaṃ	_	_	_	_	_	_	_	_
+5	a	a	PART	_		_	_	_	LemmaId=213048|OccId=5920142|Unsandhied=a
+6	bhinnam	bhid	VERB	_	Case=Nom|Gender=Neut|Number=Sing|VerbForm=Part	_	_	_	LemmaId=157945|OccId=5920143|Unsandhied=bhinnam
+7	lambate	lamb	VERB	_	Tense=Pres|Mood=Ind|Person=3|Number=Sing	_	_	_	LemmaId=159187|OccId=1361677|Unsandhied=lambate|WordSem=128756
+8	tu	tu	PART	_		_	_	_	LemmaId=82701|OccId=1361678|Unsandhied=tu|UnsandhiedReconstructed=True
+9	yat	yad	PRON	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=37877|OccId=1361679|Unsandhied=yat|UnsandhiedReconstructed=True
 
 # text = tanniveśya yathāsthānam avyāviddhasiraṃ śanaiḥ
 # sent_id = 6932
@@ -1129,10 +1132,11 @@
 1	tat	tad	PRON	_	Case=Acc|Gender=Neut|Number=Sing	_	_	_	LemmaId=37875|OccId=1361680|Unsandhied=tat|UnsandhiedReconstructed=True
 2	niveśya	niveśay	VERB	_	VerbForm=Conv	_	_	_	LemmaId=161476|OccId=1361681|Unsandhied=niveśya|UnsandhiedReconstructed=True|WordSem=90744
 3	yathāsthānam	yathāsthāna	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	_	_	_	LemmaId=73588|OccId=1361912|Unsandhied=yathāsthānam|UnsandhiedReconstructed=True
-4-5	avyāviddhasiraṃ	_	_	_	_	_	_	_	_
-4	avyāviddha	avyāviddha	ADJ	_	Case=Cpd	_	_	_	LemmaId=202567|OccId=1361913|Unsandhied=avyāviddha|UnsandhiedReconstructed=True|WordSem=76101
-5	siram	sirā	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	_	_	_	LemmaId=106411|OccId=1361914|Unsandhied=siram|UnsandhiedReconstructed=True|WordSem=128417
-6	śanaiḥ	śanais	ADV	_		_	_	_	LemmaId=115776|OccId=1361682|Unsandhied=śanais|UnsandhiedReconstructed=True|WordSem=97680
+4-6	avyāviddhasiraṃ	_	_	_	_	_	_	_	_
+4	a	a	PART	_		_	_	_	LemmaId=213048|OccId=5920144|Unsandhied=a
+5	vyāviddha	vyāvyadh	VERB	_	Case=Cpd|VerbForm=Part	_	_	_	LemmaId=164650|OccId=5920145|Unsandhied=vyāviddha
+6	siram	sirā	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	_	_	_	LemmaId=106411|OccId=5920146|Unsandhied=siram
+7	śanaiḥ	śanais	ADV	_		_	_	_	LemmaId=115776|OccId=1361682|Unsandhied=śanais|UnsandhiedReconstructed=True|WordSem=97680
 
 # text = pīḍayet pāṇinā samyak padmapattrāntareṇa tu
 # sent_id = 6933

@@ -1149,15 +1149,17 @@
 68	sukha	sukha	ADJ	_	Case=Cpd	_	_	_	LemmaId=106814|OccId=1419029|Unsandhied=sukha|UnsandhiedReconstructed=True
 69	uṣṇam	uṣṇa	ADJ	_	Case=Acc|Gender=Masc|Number=Sing	_	_	_	LemmaId=38219|OccId=1419030|Unsandhied=uṣṇam|UnsandhiedReconstructed=True
 70	sneham	sneha	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	_	_	_	LemmaId=103429|OccId=1419131|Unsandhied=sneham|UnsandhiedReconstructed=True
-71	adrutam	adruta	ADJ	_	Case=Acc|Gender=Masc|Number=Sing	_	_	_	LemmaId=203208|OccId=1419142|Unsandhied=adrutam|UnsandhiedReconstructed=True
-72	āsiñced	āsic	VERB	_	Tense=Pres|Mood=Opt|Person=3|Number=Sing	_	_	_	LemmaId=160001|OccId=1419132|Unsandhied=āsiñcet
-73-74	avyavacchinnadhāraṃ	_	_	_	_	_	_	_	_
-73	avyavacchinna	avyavacchinna	ADJ	_	Case=Cpd	_	_	_	LemmaId=59795|OccId=1419133|Unsandhied=avyavacchinna|UnsandhiedReconstructed=True
-74	dhāram	dhārā	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	_	_	_	LemmaId=42551|OccId=1419134|Unsandhied=dhāram|UnsandhiedReconstructed=True
-75	yathā	yathā	PART	_		_	_	_	LemmaId=73250|OccId=1419031|Unsandhied=yathā|UnsandhiedReconstructed=True
-76	netre	netra	NOUN	_	Case=Acc|Gender=Neut|Number=Dual	_	_	_	LemmaId=29025|OccId=1419032|Unsandhied=netre|UnsandhiedReconstructed=True
-77	na	na	PART	_		_	_	_	LemmaId=43432|OccId=1419033|Unsandhied=na|UnsandhiedReconstructed=True
-78	prāpnoti	prāp	VERB	_	Tense=Pres|Mood=Ind|Person=3|Number=Sing	_	_	_	LemmaId=163158|OccId=1419034|Unsandhied=prāpnoti
+71-72	adrutam	_	_	_	_	_	_	_	_
+71	a	a	PART	_		_	_	_	LemmaId=213048|OccId=5927528|Unsandhied=a
+72	drutam	dru	VERB	_	Case=Acc|Gender=Masc|Number=Sing|VerbForm=Part	_	_	_	LemmaId=157255|OccId=5927529|Unsandhied=drutam
+73	āsiñced	āsic	VERB	_	Tense=Pres|Mood=Opt|Person=3|Number=Sing	_	_	_	LemmaId=160001|OccId=1419132|Unsandhied=āsiñcet
+74-75	avyavacchinnadhāraṃ	_	_	_	_	_	_	_	_
+74	avyavacchinna	avyavacchinna	ADJ	_	Case=Cpd	_	_	_	LemmaId=59795|OccId=1419133|Unsandhied=avyavacchinna|UnsandhiedReconstructed=True
+75	dhāram	dhārā	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	_	_	_	LemmaId=42551|OccId=1419134|Unsandhied=dhāram|UnsandhiedReconstructed=True
+76	yathā	yathā	PART	_		_	_	_	LemmaId=73250|OccId=1419031|Unsandhied=yathā|UnsandhiedReconstructed=True
+77	netre	netra	NOUN	_	Case=Acc|Gender=Neut|Number=Dual	_	_	_	LemmaId=29025|OccId=1419032|Unsandhied=netre|UnsandhiedReconstructed=True
+78	na	na	PART	_		_	_	_	LemmaId=43432|OccId=1419033|Unsandhied=na|UnsandhiedReconstructed=True
+79	prāpnoti	prāp	VERB	_	Tense=Pres|Mood=Ind|Person=3|Number=Sing	_	_	_	LemmaId=163158|OccId=1419034|Unsandhied=prāpnoti
 
 # text = snehe 'vasicyamāne tu śiro naiva prakampayet
 # sent_id = 10462
@@ -2283,13 +2285,15 @@
 # sent_id = 10525
 # sent_counter = 62
 # sent_subcounter = 2
-1	asaṃcāryā	asaṃcārya	ADJ	_	Case=Nom|Gender=Fem|Number=Sing	_	_	_	LemmaId=60687|OccId=1419797|Unsandhied=asaṃcāryā|UnsandhiedReconstructed=True
-2	tu	tu	PART	_		_	_	_	LemmaId=82701|OccId=1419798|Unsandhied=tu|UnsandhiedReconstructed=True
-3	yā	yad	PRON	_	Case=Nom|Gender=Fem|Number=Sing	_	_	_	LemmaId=37877|OccId=1419799|Unsandhied=yā|UnsandhiedReconstructed=True
-4	mātrā	mātrā	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	_	_	_	LemmaId=78193|OccId=1419800|Unsandhied=mātrā|UnsandhiedReconstructed=True
-5	gaṇḍūṣaḥ	gaṇḍūṣa	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=129383|OccId=1419801|Unsandhied=gaṇḍūṣaḥ|UnsandhiedReconstructed=True
-6	sa	tad	PRON	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=37875|OccId=1419802|Unsandhied=saḥ|UnsandhiedReconstructed=True
-7	prakīrtitaḥ	prakīrtay	VERB	_	Case=Nom|Gender=Masc|Number=Sing|VerbForm=Part	_	_	_	LemmaId=162330|OccId=1419803|Unsandhied=prakīrtitaḥ|UnsandhiedReconstructed=True
+1-2	asaṃcāryā	_	_	_	_	_	_	_	_
+1	a	a	PART	_		_	_	_	LemmaId=213048|OccId=5928241|Unsandhied=a
+2	saṃcāryā	saṃcāray	VERB	_	Case=Nom|Gender=Fem|Number=Sing|VerbForm=Gdv	_	_	_	LemmaId=164894|OccId=5928242|Unsandhied=saṃcāryā
+3	tu	tu	PART	_		_	_	_	LemmaId=82701|OccId=1419798|Unsandhied=tu|UnsandhiedReconstructed=True
+4	yā	yad	PRON	_	Case=Nom|Gender=Fem|Number=Sing	_	_	_	LemmaId=37877|OccId=1419799|Unsandhied=yā|UnsandhiedReconstructed=True
+5	mātrā	mātrā	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	_	_	_	LemmaId=78193|OccId=1419800|Unsandhied=mātrā|UnsandhiedReconstructed=True
+6	gaṇḍūṣaḥ	gaṇḍūṣa	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=129383|OccId=1419801|Unsandhied=gaṇḍūṣaḥ|UnsandhiedReconstructed=True
+7	sa	tad	PRON	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=37875|OccId=1419802|Unsandhied=saḥ|UnsandhiedReconstructed=True
+8	prakīrtitaḥ	prakīrtay	VERB	_	Case=Nom|Gender=Masc|Number=Sing|VerbForm=Part	_	_	_	LemmaId=162330|OccId=1419803|Unsandhied=prakīrtitaḥ|UnsandhiedReconstructed=True
 
 # text = tāvacca dhārayitavyo 'nanyamanasonnatadehena yāvaddoṣaparipūrṇakapolatvaṃ nāsāsrotonayanapariplāvaśca bhavati tadā vimoktavyaḥ punaścānyo grahītavya iti
 # sent_id = 10526

@@ -1,0 +1,72 @@
+## text: Ayurvedarasāyana
+## text_id: 16
+## chapter: Ayurvedarasāyana zu AHS, Sū., 16, 6.2
+## chapter_id: 113
+# text = snehanīyān āha svedyetyādi
+# sent_id = 43180
+# sent_counter = 1
+# sent_subcounter = 
+1	snehanīyān	snih	VERB	_	Case=Acc|Gender=Masc|Number=Plur|VerbForm=Gdv	_	_	_	LemmaId=159179|OccId=1997394|Unsandhied=snehanīyān|UnsandhiedReconstructed=True
+2	āha	ah	VERB	_	Tense=Past|Mood=Ind|Person=3|Number=Sing	_	_	_	LemmaId=156124|OccId=1997395|Unsandhied=āha
+3-4	svedyetyādi	_	_	_	_	_	_	_	_
+3	svedya	sveday	VERB	_	Case=Cpd|VerbForm=Gdv	_	_	_	LemmaId=159214|OccId=1997396|Unsandhied=svedya|UnsandhiedReconstructed=True
+4	ityādi	ityādi	ADJ	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=63350|OccId=1997397|Unsandhied=ityādi|UnsandhiedReconstructed=True
+
+# text = svedyaḥ kartavyasvedaḥ
+# sent_id = 43181
+# sent_counter = 2
+# sent_subcounter = 
+1	svedyaḥ	sveday	VERB	_	Case=Nom|Gender=Masc|Number=Sing|VerbForm=Gdv	_	_	_	LemmaId=159214|OccId=1997398|Unsandhied=svedyaḥ|UnsandhiedReconstructed=True
+2-3	kartavyasvedaḥ	_	_	_	_	_	_	_	_
+2	kartavya	kṛ	VERB	_	Case=Cpd|VerbForm=Gdv	_	_	_	LemmaId=156168|OccId=1997399|Unsandhied=kartavya|UnsandhiedReconstructed=True
+3	svedaḥ	sveda	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=121812|OccId=1997400|Unsandhied=svedaḥ|UnsandhiedReconstructed=True
+
+# text = saṃśodhyaḥ kartavyaśodhanaḥ
+# sent_id = 43182
+# sent_counter = 3
+# sent_subcounter = 
+1	saṃśodhyaḥ	saṃśodhay	VERB	_	Case=Nom|Gender=Masc|Number=Sing|VerbForm=Gdv	_	_	_	LemmaId=164788|OccId=1997401|Unsandhied=saṃśodhyaḥ|UnsandhiedReconstructed=True
+2-3	kartavyaśodhanaḥ	_	_	_	_	_	_	_	_
+2	kartavya	kṛ	VERB	_	Case=Cpd|VerbForm=Gdv	_	_	_	LemmaId=156168|OccId=1997402|Unsandhied=kartavya|UnsandhiedReconstructed=True
+3	śodhanaḥ	śodhana	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=127813|OccId=1997403|Unsandhied=śodhanaḥ|UnsandhiedReconstructed=True
+
+# text = madyādiṣu triṣvāsaktaḥ
+# sent_id = 43183
+# sent_counter = 4
+# sent_subcounter = 
+1-2	madyādiṣu	_	_	_	_	_	_	_	_
+1	madya	madya	NOUN	_	Case=Cpd	_	_	_	LemmaId=35378|OccId=1997404|Unsandhied=madya|UnsandhiedReconstructed=True
+2	ādiṣu	ādi	NOUN	_	Case=Loc|Gender=Masc|Number=Plur	_	_	_	LemmaId=57973|OccId=1997405|Unsandhied=ādiṣu|UnsandhiedReconstructed=True
+3-4	triṣvāsaktaḥ	_	_	_	_	_	_	_	_
+3	triṣu	tri	NUM	_	Case=Loc|Gender=Masc|Number=Plur	_	_	_	LemmaId=166282|OccId=1997638|Unsandhied=triṣu|UnsandhiedReconstructed=True
+4	āsaktaḥ	āsañj	VERB	_	Case=Nom|Gender=Masc|Number=Sing|VerbForm=Part	_	_	_	LemmaId=159997|OccId=1997639|Unsandhied=āsaktaḥ|UnsandhiedReconstructed=True
+
+# text = cintakaḥ cintāparaḥ
+# sent_id = 43184
+# sent_counter = 5
+# sent_subcounter = 
+1	cintakaḥ	cintaka	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=51702|OccId=1997406|Unsandhied=cintakaḥ|UnsandhiedReconstructed=True
+2-3	cintāparaḥ	_	_	_	_	_	_	_	_
+2	cintā	cintā	NOUN	_	Case=Cpd	_	_	_	LemmaId=51708|OccId=1997407|Unsandhied=cintā|UnsandhiedReconstructed=True
+3	paraḥ	para	PRON	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=163234|OccId=1997408|Unsandhied=paraḥ|UnsandhiedReconstructed=True
+
+# text = syando netrakopaḥ
+# sent_id = 43185
+# sent_counter = 6
+# sent_subcounter = 
+1	syando	syanda	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=114136|OccId=1997409|Unsandhied=syandaḥ|UnsandhiedReconstructed=True
+2-3	netrakopaḥ	_	_	_	_	_	_	_	_
+2	netra	netra	NOUN	_	Case=Cpd	_	_	_	LemmaId=29025|OccId=1997410|Unsandhied=netra|UnsandhiedReconstructed=True
+3	kopaḥ	kopa	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=4957|OccId=1997411|Unsandhied=kopaḥ|UnsandhiedReconstructed=True
+
+# text = dāruṇapratibodhaḥ kṛcchronmīlanaḥ
+# sent_id = 43186
+# sent_counter = 7
+# sent_subcounter = 
+1-2	dāruṇapratibodhaḥ	_	_	_	_	_	_	_	_
+1	dāruṇa	dāruṇa	ADJ	_	Case=Cpd	_	_	_	LemmaId=146676|OccId=1997412|Unsandhied=dāruṇa|UnsandhiedReconstructed=True
+2	pratibodhaḥ	pratibodha	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=139758|OccId=1997413|Unsandhied=pratibodhaḥ|UnsandhiedReconstructed=True
+3-4	kṛcchronmīlanaḥ	_	_	_	_	_	_	_	_
+3	kṛcchra	kṛcchra	ADJ	_	Case=Cpd	_	_	_	LemmaId=3817|OccId=1997414|Unsandhied=kṛcchra|UnsandhiedReconstructed=True
+4	unmīlanaḥ	unmīlana	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=57185|OccId=1997415|Unsandhied=unmīlanaḥ|UnsandhiedReconstructed=True
+

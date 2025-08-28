@@ -1,0 +1,62 @@
+## text: Ayurvedarasāyana
+## text_id: 16
+## chapter: Ayurvedarasāyana zu AHS, Sū., 9, 7.1
+## chapter_id: 1328
+# text = āpyaṃ lakṣayati dravaśīteti
+# sent_id = 42756
+# sent_counter = 1
+# sent_subcounter = 
+1	āpyaṃ	āpya	ADJ	_	Case=Acc|Gender=Neut|Number=Sing	_	_	_	LemmaId=58718|OccId=407519|Unsandhied=āpyam|UnsandhiedReconstructed=True
+2	lakṣayati	lakṣay	VERB	_	Tense=Pres|Mood=Ind|Person=3|Number=Sing	_	_	_	LemmaId=159902|OccId=407520|Unsandhied=lakṣayati
+3-5	dravaśīteti	_	_	_	_	_	_	_	_
+3	drava	drava	ADJ	_	Case=Cpd	_	_	_	LemmaId=166284|OccId=407521|Unsandhied=drava|UnsandhiedReconstructed=True
+4	śīta	śīta	ADJ	_	Case=Cpd	_	_	_	LemmaId=126116|OccId=407522|Unsandhied=śīta|UnsandhiedReconstructed=True
+5	iti	iti	PART	_		_	_	_	LemmaId=63331|OccId=407523|Unsandhied=iti|UnsandhiedReconstructed=True
+
+# text = dravādiguṇotkaṭaṃ snehanādikaraṃ ca dravyam āpyam
+# sent_id = 42757
+# sent_counter = 2
+# sent_subcounter = 
+1-4	dravādiguṇotkaṭaṃ	_	_	_	_	_	_	_	_
+1	drava	drava	ADJ	_	Case=Cpd	_	_	_	LemmaId=166284|OccId=407524|Unsandhied=drava|UnsandhiedReconstructed=True
+2	ādi	ādi	NOUN	_	Case=Cpd	_	_	_	LemmaId=57973|OccId=407525|Unsandhied=ādi|UnsandhiedReconstructed=True
+3	guṇa	guṇa	NOUN	_	Case=Cpd	_	_	_	LemmaId=124503|OccId=407526|Unsandhied=guṇa|UnsandhiedReconstructed=True
+4	utkaṭam	utkaṭa	ADJ	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=55456|OccId=407527|Unsandhied=utkaṭam|UnsandhiedReconstructed=True
+5-7	snehanādikaraṃ	_	_	_	_	_	_	_	_
+5	snehana	snehana	NOUN	_	Case=Cpd	_	_	_	LemmaId=103487|OccId=407528|Unsandhied=snehana|UnsandhiedReconstructed=True
+6	ādi	ādi	NOUN	_	Case=Cpd	_	_	_	LemmaId=57973|OccId=407529|Unsandhied=ādi|UnsandhiedReconstructed=True
+7	karam	kara	ADJ	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=2220|OccId=407530|Unsandhied=karam|UnsandhiedReconstructed=True
+8	ca	ca	CONJ	_		_	_	_	LemmaId=157144|OccId=407531|Unsandhied=ca|UnsandhiedReconstructed=True
+9	dravyam	dravya	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=90455|OccId=407532|Unsandhied=dravyam|UnsandhiedReconstructed=True
+10	āpyam	āpya	ADJ	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=58718|OccId=407533|Unsandhied=āpyam|UnsandhiedReconstructed=True
+
+# text = dravasāndrayoḥ parasparaviparītayor apyārdratvasāmānyād āpyatvam
+# sent_id = 42758
+# sent_counter = 3
+# sent_subcounter = 
+1-2	dravasāndrayoḥ	_	_	_	_	_	_	_	_
+1	drava	drava	ADJ	_	Case=Cpd	_	_	_	LemmaId=166284|OccId=407534|Unsandhied=drava|UnsandhiedReconstructed=True
+2	sāndrayoḥ	sāndra	ADJ	_	Case=Gen|Gender=Masc|Number=Dual	_	_	_	LemmaId=112411|OccId=407535|Unsandhied=sāndrayoḥ|UnsandhiedReconstructed=True
+3-4	parasparaviparītayor	_	_	_	_	_	_	_	_
+3	paraspara	paraspara	PRON	_	Case=Cpd	_	_	_	LemmaId=18611|OccId=407536|Unsandhied=paraspara|UnsandhiedReconstructed=True
+4	viparītayoḥ	viparīta	ADJ	_	Case=Gen|Gender=Masc|Number=Dual	_	_	_	LemmaId=122986|OccId=407537|Unsandhied=viparītayoḥ|UnsandhiedReconstructed=True
+5-8	apyārdratvasāmānyād	_	_	_	_	_	_	_	_
+5	api	api	PART	_		_	_	_	LemmaId=21365|OccId=3388505|Unsandhied=api|UnsandhiedReconstructed=True
+6	ārdra	ārdra	ADJ	_	Case=Cpd	_	_	_	LemmaId=59556|OccId=3388506|Unsandhied=ārdra|UnsandhiedReconstructed=True
+7	tva	tva	NOUN	_	Case=Cpd	_	_	_	LemmaId=163754|OccId=3388507|Unsandhied=tva|UnsandhiedReconstructed=True
+8	sāmānyāt	sāmānya	NOUN	_	Case=Abl|Gender=Neut|Number=Sing	_	_	_	LemmaId=112704|OccId=3388508|Unsandhied=sāmānyāt|UnsandhiedReconstructed=True
+9-10	āpyatvam	_	_	_	_	_	_	_	_
+9	āpya	āpya	ADJ	_	Case=Cpd	_	_	_	LemmaId=58718|OccId=407541|Unsandhied=āpya|UnsandhiedReconstructed=True
+10	tvam	tva	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=163754|OccId=407542|Unsandhied=tvam|UnsandhiedReconstructed=True
+
+# text = viṣyandaḥ srotaḥsrāvaḥ prahlādas tṛptiḥ
+# sent_id = 42759
+# sent_counter = 4
+# sent_subcounter = 
+1	viṣyandaḥ	viṣyanda	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=139163|OccId=407543|Unsandhied=viṣyandaḥ|UnsandhiedReconstructed=True
+2-3	srotaḥsrāvaḥ	_	_	_	_	_	_	_	_
+2	srotas	srotas	NOUN	_	Case=Cpd	_	_	_	LemmaId=114308|OccId=407544|Unsandhied=srotas|UnsandhiedReconstructed=True
+3	srāvaḥ	srāva	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=114272|OccId=407545|Unsandhied=srāvaḥ|UnsandhiedReconstructed=True
+4	prahlādas	prahlāda	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=155847|OccId=407546|Unsandhied=prahlādaḥ|UnsandhiedReconstructed=True
+5	tṛptiḥ	tṛpti	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	_	_	_	LemmaId=83321|OccId=407547|Unsandhied=tṛptiḥ|UnsandhiedReconstructed=True
+

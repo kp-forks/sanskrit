@@ -2,8 +2,8 @@
 ## text_id: 148
 ## chapter: ĀVDīp zu Ca, Sū., 26, 40.2
 ## chapter_id: 1693
-# text = somaguṇātirekāditi atirekaśabdena sarveṣveva raseṣu sarvabhūtasāṃnidhyam asti kvacit tu kasyacid bhūtaguṇasyātirekād rasaviśeṣe bhavatīti darśayati etacca madhuraṃ prati abguṇātiriktatvaṃ viśeṣotpattau kāraṇatvena jñeyaṃ yaccādhārakāraṇatvam apāṃ tat sarvasādhāraṇam
-# sent_id = 150908
+# text = somaguṇātirekāditi atirekaśabdena sarveṣveva raseṣu sarvabhūtasāṃnidhyam asti kvacit tu kasyacid bhūtaguṇasyātirekād rasaviśeṣe bhavatīti darśayati etacca madhuraṃ prati abguṇātiriktatvaṃ viśeṣotpattau kāraṇatvena jñeyaṃ yac cādhārakāraṇatvam apāṃ tat sarvasādhāraṇam
+# sent_id = 150893
 # sent_counter = 1
 # sent_subcounter = 
 1-4	somaguṇātirekāditi	_	_	_	_	_	_	_	_
@@ -53,19 +53,24 @@
 34	kāraṇa	kāraṇa	NOUN	_	Case=Cpd	_	_	_	LemmaId=14116|OccId=473416|Unsandhied=kāraṇa|UnsandhiedReconstructed=True
 35	tvena	tva	NOUN	_	Case=Ins|Gender=Neut|Number=Sing	_	_	_	LemmaId=163754|OccId=473417|Unsandhied=tvena|UnsandhiedReconstructed=True
 36	jñeyaṃ	jñā	VERB	_	Case=Nom|Gender=Neut|Number=Sing|VerbForm=Gdv	_	_	_	LemmaId=157151|OccId=473418|Unsandhied=jñeyam|UnsandhiedReconstructed=True
-37-40	yaccādhārakāraṇatvam	_	_	_	_	_	_	_	_
-37	yat	yad	PRON	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=37877|OccId=473419|Unsandhied=yat|UnsandhiedReconstructed=True
-38	ca	ca	CONJ	_		_	_	_	LemmaId=157144|OccId=473420|Unsandhied=ca|UnsandhiedReconstructed=True
-39	ādhāra	ādhāra	NOUN	_	Case=Cpd	_	_	_	LemmaId=58214|OccId=473421|Unsandhied=ādhāra|UnsandhiedReconstructed=True
-40	kāraṇatvam	kāraṇatva	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	_	_	_	LemmaId=168097|OccId=473422|Unsandhied=kāraṇatvam|UnsandhiedReconstructed=True
-41	apāṃ	ap	NOUN	_	Case=Gen|Gender=Fem|Number=Plur	_	_	_	LemmaId=167009|OccId=473423|Unsandhied=apām|UnsandhiedReconstructed=True
-42	tat	tad	PRON	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=37875|OccId=473424|Unsandhied=tat|UnsandhiedReconstructed=True
-43-44	sarvasādhāraṇam	_	_	_	_	_	_	_	_
-43	sarva	sarva	PRON	_	Case=Cpd	_	_	_	LemmaId=104444|OccId=473425|Unsandhied=sarva|UnsandhiedReconstructed=True
-44	sādhāraṇam	sādhāraṇa	ADJ	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=112279|OccId=473426|Unsandhied=sādhāraṇam|UnsandhiedReconstructed=True
+37	yac	yad	PRON	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=37877|OccId=5915377|Unsandhied=yat
+38-45	cādhārakāraṇatvam	_	_	_	_	_	_	_	_
+38	ca	ca	CONJ	_		_	_	_	LemmaId=157144|OccId=5915378|Unsandhied=ca
+39	ca	ca	CONJ	_		_	_	_	LemmaId=157144|OccId=5941053|Unsandhied=ca
+40	ādhāra	ādhāra	NOUN	_	Case=Cpd	_	_	_	LemmaId=58214|OccId=5915379|Unsandhied=ādhāra
+41	ādhāra	ādhāra	NOUN	_	Case=Cpd	_	_	_	LemmaId=58214|OccId=5941054|Unsandhied=ādhāra
+42	kāraṇa	kāraṇa	NOUN	_	Case=Cpd	_	_	_	LemmaId=14116|OccId=5915380|Unsandhied=kāraṇa
+43	kāraṇa	kāraṇa	NOUN	_	Case=Cpd	_	_	_	LemmaId=14116|OccId=5941055|Unsandhied=kāraṇa
+44	tvam	tvad	PRON	_	Case=Nom|Number=Sing	_	_	_	LemmaId=37880|OccId=5915381|Unsandhied=tvam
+45	tvam	tva	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=163754|OccId=5941056|Unsandhied=tvam
+46	apāṃ	ap	NOUN	_	Case=Gen|Gender=Fem|Number=Plur	_	_	_	LemmaId=167009|OccId=473423|Unsandhied=apām|UnsandhiedReconstructed=True
+47	tat	tad	PRON	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=37875|OccId=473424|Unsandhied=tat|UnsandhiedReconstructed=True
+48-49	sarvasādhāraṇam	_	_	_	_	_	_	_	_
+48	sarva	sarva	PRON	_	Case=Cpd	_	_	_	LemmaId=104444|OccId=473425|Unsandhied=sarva|UnsandhiedReconstructed=True
+49	sādhāraṇam	sādhāraṇa	ADJ	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=112279|OccId=473426|Unsandhied=sādhāraṇam|UnsandhiedReconstructed=True
 
 # text = evaṃ lavaṇe 'py apāṃ kāraṇatvaṃ jñeyam
-# sent_id = 150909
+# sent_id = 150894
 # sent_counter = 2
 # sent_subcounter = 
 1	evaṃ	evam	ADV	_		_	_	_	LemmaId=39758|OccId=473427|Unsandhied=evam|UnsandhiedReconstructed=True
@@ -78,7 +83,7 @@
 7	jñeyam	jñā	VERB	_	Case=Nom|Gender=Neut|Number=Sing|VerbForm=Gdv	_	_	_	LemmaId=157151|OccId=473431|Unsandhied=jñeyam|UnsandhiedReconstructed=True
 
 # text = lavaṇastu suśrute pṛthivyagnyatirekāt paṭhitaḥ asmiṃś ca virodhe kāryavirodho nāstyeva
-# sent_id = 150910
+# sent_id = 150895
 # sent_counter = 3
 # sent_subcounter = 
 1-2	lavaṇastu	_	_	_	_	_	_	_	_
@@ -102,7 +107,7 @@
 15	eva	eva	PART	_		_	_	_	LemmaId=39754|OccId=473446|Unsandhied=eva|UnsandhiedReconstructed=True
 
 # text = nanu uṣṇaśītābhyāmagnisalilābhyāṃ kṛtasya lavaṇasyāpy uṣṇaśītatvena bhavitavyaṃ tal lavaṇaṃ katham uṣṇaṃ bhavati naivaṃ yato bhūtānām ayaṃ svabhāvo yat kenacit prakāreṇa saṃniviṣṭāḥ kaṃcid guṇam ārabhante na sarvam
-# sent_id = 150911
+# sent_id = 150896
 # sent_counter = 4
 # sent_subcounter = 
 1	nanu	nanu	PART	_		_	_	_	LemmaId=43922|OccId=473447|Unsandhied=nanu|UnsandhiedReconstructed=True
@@ -143,7 +148,7 @@
 32	sarvam	sarva	PRON	_	Case=Acc|Gender=Masc|Number=Sing	_	_	_	LemmaId=104444|OccId=473478|Unsandhied=sarvam|UnsandhiedReconstructed=True
 
 # text = yathā makuṣṭhake 'dbhir madhuro rasaḥ kriyate na snehaḥ tathā saindhave vahnināpi noṣṇatvam ārabhyate
-# sent_id = 150912
+# sent_id = 150897
 # sent_counter = 5
 # sent_subcounter = 
 1	yathā	yathā	PART	_		_	_	_	LemmaId=73250|OccId=473479|Unsandhied=yathā|UnsandhiedReconstructed=True
@@ -166,7 +171,7 @@
 16	ārabhyate	ārabh	VERB	_	Tense=Pres|Mood=Ind|Voice=Pass|Person=3|Number=Sing	_	_	_	LemmaId=159885|OccId=473493|Unsandhied=ārabhyate
 
 # text = ayaṃ ca bhūtānāṃ saṃniveśo 'dṛṣṭaprabhāvakṛta eva sa ca saṃniveśaḥ kāryadarśanenonneyaḥ
-# sent_id = 150913
+# sent_id = 150898
 # sent_counter = 6
 # sent_subcounter = 
 1	ayaṃ	idam	PRON	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=37876|OccId=473494|Unsandhied=ayam|UnsandhiedReconstructed=True
@@ -187,7 +192,7 @@
 14	unneyaḥ	unnī	VERB	_	Case=Nom|Gender=Masc|Number=Sing|VerbForm=Gdv	_	_	_	LemmaId=160316|OccId=473535|Unsandhied=unneyaḥ|UnsandhiedReconstructed=True
 
 # text = tena yatra kāryaṃ dṛśyate tatra kalpyate yathā lavaṇe uṣṇatvād agnir viṣyanditvācca jalamanumīyate
-# sent_id = 150914
+# sent_id = 150899
 # sent_counter = 7
 # sent_subcounter = 1
 1	tena	tad	PRON	_	Case=Ins|Gender=Neut|Number=Sing	_	_	_	LemmaId=37875|OccId=473536|Unsandhied=tena|UnsandhiedReconstructed=True
@@ -211,7 +216,7 @@
 16	anumīyate	anumā	VERB	_	Tense=Pres|Mood=Ind|Voice=Pass|Person=3|Number=Sing	_	_	_	LemmaId=157965|OccId=473759|Unsandhied=anumīyate
 
 # text = āgamavedanīyaścāyamartho nātrāsmadvidhānāṃ kalpanāḥ prasaranti
-# sent_id = 150915
+# sent_id = 150900
 # sent_counter = 8
 # sent_subcounter = 
 1-5	āgamavedanīyaścāyamartho	_	_	_	_	_	_	_	_
@@ -228,7 +233,7 @@
 10	prasaranti	prasṛ	VERB	_	Tense=Pres|Mood=Ind|Person=3|Number=Plur	_	_	_	LemmaId=163115|OccId=473559|Unsandhied=prasaranti
 
 # text = etena yaducyate toyavat pṛthivyādayo'pi kimiti pṛthagrasāntaraṃ na kurvanti tathā toyavātādisaṃyogādibhyaḥ kimiti rasāntarāṇi notpadyanta iti tadapi bhūtasvabhāvāparyanuyogād eva pratyuktam
-# sent_id = 150916
+# sent_id = 150901
 # sent_counter = 9
 # sent_subcounter = 
 1	etena	etad	PRON	_	Case=Ins|Gender=Neut|Number=Sing	_	_	_	LemmaId=163744|OccId=473560|Unsandhied=etena|UnsandhiedReconstructed=True
@@ -279,7 +284,7 @@
 35	pratyuktam	prativac	VERB	_	Case=Nom|Gender=Neut|Number=Sing|VerbForm=Part	_	_	_	LemmaId=162613|OccId=473590|Unsandhied=pratyuktam|UnsandhiedReconstructed=True
 
 # text = iha ca kāraṇatvaṃ bhūtānāṃ rasasya madhuratvādiviśeṣa eva nimittakāraṇarūpam ucyate tena nīrasānām api hi dahanādīnāṃ kāraṇatvamupapannam eva vyutpāditam
-# sent_id = 150917
+# sent_id = 150902
 # sent_counter = 10
 # sent_subcounter = 
 1	iha	iha	ADV	_		_	_	_	LemmaId=63959|OccId=473591|Unsandhied=iha|UnsandhiedReconstructed=True
@@ -315,7 +320,7 @@
 26	vyutpāditam	vyutpāday	VERB	_	Case=Nom|Gender=Neut|Number=Sing|VerbForm=Part	_	_	_	LemmaId=164668|OccId=473612|Unsandhied=vyutpāditam|UnsandhiedReconstructed=True
 
 # text = rasabhedaṃ dṛṣṭāntena sādhayannāha evam ityādi
-# sent_id = 150918
+# sent_id = 150903
 # sent_counter = 11
 # sent_subcounter = 
 1-2	rasabhedaṃ	_	_	_	_	_	_	_	_
@@ -329,7 +334,7 @@
 7	ityādi	ityādi	ADJ	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=63350|OccId=473619|Unsandhied=ityādi|UnsandhiedReconstructed=True
 
 # text = rasānāṃ ṣaṭtvaṃ mahābhūtānāṃ nyūnātirekaviśeṣāt somaguṇātirekapṛthivyagnyatirekādeḥ ṣaḍutpādakāraṇādupapannaṃ ṣaḍbhyaḥ kāraṇebhyaḥ ṣaṭ kāryāṇi bhavantīti yuktameveti bhāvaḥ
-# sent_id = 150919
+# sent_id = 150904
 # sent_counter = 12
 # sent_subcounter = 
 1	rasānāṃ	rasa	NOUN	_	Case=Gen|Gender=Masc|Number=Plur	_	_	_	LemmaId=69571|OccId=473620|Unsandhied=rasāṇām|UnsandhiedReconstructed=True
@@ -366,7 +371,7 @@
 27	bhāvaḥ	bhāva	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=49850|OccId=473646|Unsandhied=bhāvaḥ|UnsandhiedReconstructed=True
 
 # text = bhūtānāṃ yathā nānāvarṇākṛtiviśeṣā mahābhūtānāṃ nyūnātirekaviśeṣāt tathā rasānām apīti
-# sent_id = 150920
+# sent_id = 150905
 # sent_counter = 13
 # sent_subcounter = 
 1	bhūtānāṃ	bhūta	NOUN	_	Case=Gen|Gender=Neut|Number=Plur	_	_	_	LemmaId=25207|OccId=473647|Unsandhied=bhūtānām|UnsandhiedReconstructed=True
@@ -388,7 +393,7 @@
 14	iti	iti	PART	_		_	_	_	LemmaId=63331|OccId=473660|Unsandhied=iti|UnsandhiedReconstructed=True
 
 # text = bhūtānāṃ yathoktānām atirekaviśeṣahetum āha ṣaḍṛtukatvād ityādi
-# sent_id = 150921
+# sent_id = 150906
 # sent_counter = 14
 # sent_subcounter = 
 1	bhūtānāṃ	bhūta	NOUN	_	Case=Gen|Gender=Neut|Number=Plur	_	_	_	LemmaId=25207|OccId=473661|Unsandhied=bhūtānām|UnsandhiedReconstructed=True
@@ -406,7 +411,7 @@
 10	ityādi	ityādi	ADJ	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=63350|OccId=473670|Unsandhied=ityādi|UnsandhiedReconstructed=True
 
 # text = ṣaḍṛtukatvena kālo nānāhemantādirūpatayā kaṃcidbhūtaviśeṣaṃ kvacidvardhayati sa cātmakāryaṃ rasaṃ puṣṭaṃ karoti yathā hemantakāle somaguṇātireko bhavati śiśire vāyvākāśātirekaḥ evaṃ tasyāśitīyoktarasotpādakrameṇa vasantādāv api bhūtotkarṣo jñeyaḥ ṣaḍṛtukācceti cakāreṇāhorātrakṛto 'pi bhūtotkarṣo jñeyaḥ tathādṛṣṭakṛtaś ca tena hemantādāv api rasāntarotpādaḥ kvacidvastuny upapanno bhavati
-# sent_id = 150922
+# sent_id = 150907
 # sent_counter = 15
 # sent_subcounter = 
 1-2	ṣaḍṛtukatvena	_	_	_	_	_	_	_	_
@@ -496,7 +501,7 @@
 67	bhavati	bhū	VERB	_	Tense=Pres|Mood=Ind|Person=3|Number=Sing	_	_	_	LemmaId=157250|OccId=473730|Unsandhied=bhavati
 
 # text = yadyapi ca ṛtubhede'pi bhūtotkarṣaviśeṣa eva kāraṇaṃ yaduktaṃ tāv etāv arkavāyū ityādi tathāpi bījāṅkurakāryakāraṇabhāvavat saṃsārānāditayaiva bhūtaviśeṣartvoḥ kāryakāraṇabhāvo vācyaḥ
-# sent_id = 150923
+# sent_id = 150908
 # sent_counter = 16
 # sent_subcounter = 
 1-2	yadyapi	_	_	_	_	_	_	_	_
@@ -532,17 +537,19 @@
 24	kāraṇa	kāraṇa	NOUN	_	Case=Cpd	_	_	_	LemmaId=14116|OccId=473781|Unsandhied=kāraṇa|UnsandhiedReconstructed=True
 25	bhāva	bhāva	NOUN	_	Case=Cpd	_	_	_	LemmaId=49850|OccId=473782|Unsandhied=bhāva|UnsandhiedReconstructed=True
 26	vat	vat	ADV	_		_	_	_	LemmaId=167498|OccId=473783|Unsandhied=vat|UnsandhiedReconstructed=True
-27-29	saṃsārānāditayaiva	_	_	_	_	_	_	_	_
-27	saṃsāra	saṃsāra	NOUN	_	Case=Cpd	_	_	_	LemmaId=8295|OccId=473775|Unsandhied=saṃsāra|UnsandhiedReconstructed=True
-28	anāditayā	anāditā	NOUN	_	Case=Ins|Gender=Fem|Number=Sing	_	_	_	LemmaId=173462|OccId=473776|Unsandhied=anāditayā|UnsandhiedReconstructed=True
-29	eva	eva	PART	_		_	_	_	LemmaId=39754|OccId=473777|Unsandhied=eva|UnsandhiedReconstructed=True
-30-32	bhūtaviśeṣartvoḥ	_	_	_	_	_	_	_	_
-30	bhūta	bhūta	NOUN	_	Case=Cpd	_	_	_	LemmaId=25207|OccId=473751|Unsandhied=bhūta|UnsandhiedReconstructed=True
-31	viśeṣa	viśeṣa	NOUN	_	Case=Cpd	_	_	_	LemmaId=139220|OccId=473752|Unsandhied=viśeṣa|UnsandhiedReconstructed=True
-32	ṛtuvoḥ	ṛtu	NOUN	_	Case=Gen|Gender=Masc|Number=Dual	_	_	_	LemmaId=38726|OccId=473753|Unsandhied=ṛtuvoḥ|UnsandhiedReconstructed=True
-33-35	kāryakāraṇabhāvo	_	_	_	_	_	_	_	_
-33	kārya	kārya	NOUN	_	Case=Cpd	_	_	_	LemmaId=14320|OccId=473754|Unsandhied=kārya|UnsandhiedReconstructed=True
-34	kāraṇa	kāraṇa	NOUN	_	Case=Cpd	_	_	_	LemmaId=14116|OccId=473755|Unsandhied=kāraṇa|UnsandhiedReconstructed=True
-35	bhāvaḥ	bhāva	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=49850|OccId=473756|Unsandhied=bhāvaḥ|UnsandhiedReconstructed=True
-36	vācyaḥ	vac	VERB	_	Case=Nom|Gender=Masc|Number=Sing|VerbForm=Gdv	_	_	_	LemmaId=157264|OccId=473757|Unsandhied=vācyaḥ|UnsandhiedReconstructed=True
+27-31	saṃsārānāditayaiva	_	_	_	_	_	_	_	_
+27	saṃsāra	saṃsāra	NOUN	_	Case=Cpd	_	_	_	LemmaId=8295|OccId=5941057|Unsandhied=saṃsāra
+28	an	an	PART	_		_	_	_	LemmaId=213304|OccId=5941058|Unsandhied=an
+29	ādi	ādi	NOUN	_	Case=Cpd	_	_	_	LemmaId=57973|OccId=5941059|Unsandhied=ādi
+30	tayā	tā	NOUN	_	Case=Ins|Gender=Fem|Number=Sing	_	_	_	LemmaId=203679|OccId=5941060|Unsandhied=tayā
+31	eva	eva	PART	_		_	_	_	LemmaId=39754|OccId=5941061|Unsandhied=eva
+32-34	bhūtaviśeṣartvoḥ	_	_	_	_	_	_	_	_
+32	bhūta	bhūta	NOUN	_	Case=Cpd	_	_	_	LemmaId=25207|OccId=473751|Unsandhied=bhūta|UnsandhiedReconstructed=True
+33	viśeṣa	viśeṣa	NOUN	_	Case=Cpd	_	_	_	LemmaId=139220|OccId=473752|Unsandhied=viśeṣa|UnsandhiedReconstructed=True
+34	ṛtuvoḥ	ṛtu	NOUN	_	Case=Gen|Gender=Masc|Number=Dual	_	_	_	LemmaId=38726|OccId=473753|Unsandhied=ṛtuvoḥ|UnsandhiedReconstructed=True
+35-37	kāryakāraṇabhāvo	_	_	_	_	_	_	_	_
+35	kārya	kārya	NOUN	_	Case=Cpd	_	_	_	LemmaId=14320|OccId=473754|Unsandhied=kārya|UnsandhiedReconstructed=True
+36	kāraṇa	kāraṇa	NOUN	_	Case=Cpd	_	_	_	LemmaId=14116|OccId=473755|Unsandhied=kāraṇa|UnsandhiedReconstructed=True
+37	bhāvaḥ	bhāva	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=49850|OccId=473756|Unsandhied=bhāvaḥ|UnsandhiedReconstructed=True
+38	vācyaḥ	vac	VERB	_	Case=Nom|Gender=Masc|Number=Sing|VerbForm=Gdv	_	_	_	LemmaId=157264|OccId=473757|Unsandhied=vācyaḥ|UnsandhiedReconstructed=True
 

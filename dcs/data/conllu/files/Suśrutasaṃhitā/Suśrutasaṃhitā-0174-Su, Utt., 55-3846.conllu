@@ -289,7 +289,7 @@
 9	tathā	tathā	ADV	_		_	_	_	LemmaId=95987|OccId=1528015|Unsandhied=tathā|UnsandhiedReconstructed=True
 10	vikārāḥ	vikāra	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	_	_	_	LemmaId=47808|OccId=1528016|Unsandhied=vikārāḥ|UnsandhiedReconstructed=True
 
-# text = ānandajaṃ śokasamudbhavaṃ vā netrodakaṃ prāptamamuñcato hi
+# text = ānandajaṃ śokasamudbhavaṃ vā netrodakaṃ prāptam amuñcato hi
 # sent_id = 15886
 # sent_counter = 12
 # sent_subcounter = 1
@@ -303,10 +303,11 @@
 6-7	netrodakaṃ	_	_	_	_	_	_	_	_
 6	netra	netra	NOUN	_	Case=Cpd	_	_	_	LemmaId=29025|OccId=1528022|Unsandhied=netra|UnsandhiedReconstructed=True
 7	udakam	udaka	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	_	_	_	LemmaId=56229|OccId=1528023|Unsandhied=udakam|UnsandhiedReconstructed=True|WordSem=26520
-8-9	prāptamamuñcato	_	_	_	_	_	_	_	_
-8	prāptam	prāp	VERB	_	Case=Acc|Gender=Neut|Number=Sing|VerbForm=Part	_	_	_	LemmaId=163158|OccId=1528024|Unsandhied=prāptam|UnsandhiedReconstructed=True
-9	amuñcataḥ	amuñcat	ADJ	_	Case=Gen|Gender=Masc|Number=Sing	_	_	_	LemmaId=199116|OccId=1528025|Unsandhied=amuñcataḥ|UnsandhiedReconstructed=True
-10	hi	hi	PART	_		_	_	_	LemmaId=109879|OccId=1528026|Unsandhied=hi|UnsandhiedReconstructed=True
+8	prāptam	prāp	VERB	_	Case=Acc|Gender=Neut|Number=Sing|VerbForm=Part	_	_	_	LemmaId=163158|OccId=5927426|Unsandhied=prāptam
+9-10	amuñcato	_	_	_	_	_	_	_	_
+9	a	a	PART	_		_	_	_	LemmaId=213048|OccId=5927427|Unsandhied=a
+10	muñcataḥ	muc	VERB	_	Case=Gen|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part	_	_	_	LemmaId=157281|OccId=5927428|Unsandhied=muñcataḥ
+11	hi	hi	PART	_		_	_	_	LemmaId=109879|OccId=1528026|Unsandhied=hi|UnsandhiedReconstructed=True
 
 # text = śirogurutvaṃ nayanāmayāśca bhavanti tīvrāḥ saha pīnasena
 # sent_id = 15887

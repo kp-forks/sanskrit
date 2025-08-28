@@ -1098,16 +1098,18 @@
 # sent_id = 2634
 # sent_counter = 22
 # sent_subcounter = 1
-1	aprāpte	aprāpta	ADJ	_	Case=Loc|Gender=Masc|Number=Sing	_	_	_	LemmaId=21816|OccId=1267977|Unsandhied=aprāpte|UnsandhiedReconstructed=True|WordSem=67416
-2	vā	vā	CONJ	_		_	_	_	LemmaId=75765|OccId=1267978|Unsandhied=vā|UnsandhiedReconstructed=True|WordSem=127042
-3-4	kriyākāle	_	_	_	_	_	_	_	_
-3	kriyā	kriyā	NOUN	_	Case=Cpd	_	_	_	LemmaId=133808|OccId=1267979|Unsandhied=kriyā|UnsandhiedReconstructed=True|WordSem=3309
-4	kāle	kāla	NOUN	_	Case=Loc|Gender=Masc|Number=Sing	_	_	_	LemmaId=22761|OccId=1267980|Unsandhied=kāle|UnsandhiedReconstructed=True|WordSem=66366
-5	prāpte	prāp	VERB	_	Case=Loc|Gender=Masc|Number=Sing|VerbForm=Part	_	_	_	LemmaId=163158|OccId=1267981|Unsandhied=prāpte|UnsandhiedReconstructed=True|WordSem=85984
-6	vā	vā	CONJ	_		_	_	_	LemmaId=75765|OccId=1267982|Unsandhied=vā|UnsandhiedReconstructed=True|WordSem=127042
-7	na	na	PART	_		_	_	_	LemmaId=43432|OccId=1267983|Unsandhied=na|UnsandhiedReconstructed=True|WordSem=96750
-8	kṛtā	kṛ	VERB	_	Case=Nom|Gender=Fem|Number=Sing|VerbForm=Part	_	_	_	LemmaId=156168|OccId=1267984|Unsandhied=kṛtā|UnsandhiedReconstructed=True|WordSem=92041
-9	kriyā	kriyā	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	_	_	_	LemmaId=133808|OccId=1267985|Unsandhied=kriyā|UnsandhiedReconstructed=True|WordSem=3309
+1-2	aprāpte	_	_	_	_	_	_	_	_
+1	a	a	PART	_		_	_	_	LemmaId=213048|OccId=5938967|Unsandhied=a
+2	prāpte	prāp	VERB	_	Case=Loc|Gender=Masc|Number=Sing|VerbForm=Part	_	_	_	LemmaId=163158|OccId=5938968|Unsandhied=prāpte
+3	vā	vā	CONJ	_		_	_	_	LemmaId=75765|OccId=1267978|Unsandhied=vā|UnsandhiedReconstructed=True|WordSem=127042
+4-5	kriyākāle	_	_	_	_	_	_	_	_
+4	kriyā	kriyā	NOUN	_	Case=Cpd	_	_	_	LemmaId=133808|OccId=1267979|Unsandhied=kriyā|UnsandhiedReconstructed=True|WordSem=3309
+5	kāle	kāla	NOUN	_	Case=Loc|Gender=Masc|Number=Sing	_	_	_	LemmaId=22761|OccId=1267980|Unsandhied=kāle|UnsandhiedReconstructed=True|WordSem=66366
+6	prāpte	prāp	VERB	_	Case=Loc|Gender=Masc|Number=Sing|VerbForm=Part	_	_	_	LemmaId=163158|OccId=1267981|Unsandhied=prāpte|UnsandhiedReconstructed=True|WordSem=85984
+7	vā	vā	CONJ	_		_	_	_	LemmaId=75765|OccId=1267982|Unsandhied=vā|UnsandhiedReconstructed=True|WordSem=127042
+8	na	na	PART	_		_	_	_	LemmaId=43432|OccId=1267983|Unsandhied=na|UnsandhiedReconstructed=True|WordSem=96750
+9	kṛtā	kṛ	VERB	_	Case=Nom|Gender=Fem|Number=Sing|VerbForm=Part	_	_	_	LemmaId=156168|OccId=1267984|Unsandhied=kṛtā|UnsandhiedReconstructed=True|WordSem=92041
+10	kriyā	kriyā	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	_	_	_	LemmaId=133808|OccId=1267985|Unsandhied=kriyā|UnsandhiedReconstructed=True|WordSem=3309
 
 # text = kriyā hīnātiriktā vā sādhyeṣv api na sidhyati
 # sent_id = 2635
@@ -1770,9 +1772,10 @@
 5	kriyā	kriyā	NOUN	_	Case=Cpd	_	_	_	LemmaId=133808|OccId=1275201|Unsandhied=kriyā|UnsandhiedReconstructed=True|WordSem=610
 6	ādi	ādi	NOUN	_	Case=Cpd	_	_	_	LemmaId=57973|OccId=1275202|Unsandhied=ādi|UnsandhiedReconstructed=True|WordSem=128322
 7	sthāneṣu	sthāna	NOUN	_	Case=Loc|Gender=Neut|Number=Plur	_	_	_	LemmaId=102857|OccId=1275203|Unsandhied=sthāneṣu|UnsandhiedReconstructed=True|WordSem=60788
-8-9	aviklavakaram	_	_	_	_	_	_	_	_
-8	aviklava	aviklava	ADJ	_	Case=Cpd	_	_	_	LemmaId=54879|OccId=1275204|Unsandhied=aviklava|UnsandhiedReconstructed=True|WordSem=76664
-9	karam	kara	ADJ	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=2220|OccId=1275205|Unsandhied=karam|UnsandhiedReconstructed=True|WordSem=104013
+8-10	aviklavakaram	_	_	_	_	_	_	_	_
+8	a	a	PART	_		_	_	_	LemmaId=213048|OccId=5912674|Unsandhied=a
+9	viklava	viklava	NOUN	_	Case=Cpd	_	_	_	LemmaId=47896|OccId=5912675|Unsandhied=viklava
+10	karam	kara	ADJ	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=2220|OccId=5912676|Unsandhied=karam
 
 # text = sattvavān sahate sarvaṃ saṃstabhyātmānam ātmanā
 # sent_id = 2670

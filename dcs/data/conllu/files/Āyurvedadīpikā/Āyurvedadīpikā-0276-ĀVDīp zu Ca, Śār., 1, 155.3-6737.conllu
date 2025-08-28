@@ -3,7 +3,7 @@
 ## chapter: ĀVDīp zu Ca, Śār., 1, 155.3
 ## chapter_id: 6737
 # text = sarvavid ityādipraśnasyottaram ataḥ paramityādi
-# sent_id = 152623
+# sent_id = 152608
 # sent_counter = 1
 # sent_subcounter = 
 1-2	sarvavid	_	_	_	_	_	_	_	_
@@ -19,7 +19,7 @@
 8	ityādi	ityādi	ADJ	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=63350|OccId=2537242|Unsandhied=ityādi|UnsandhiedReconstructed=True|Punctuation=fullStop
 
 # text = brahmabhūta iti prakṛtyādirahitaḥ
-# sent_id = 152624
+# sent_id = 152609
 # sent_counter = 2
 # sent_subcounter = 
 1-2	brahmabhūta	_	_	_	_	_	_	_	_
@@ -32,7 +32,7 @@
 6	rahitaḥ	rahita	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=69899|OccId=2537248|Unsandhied=rahitaḥ|UnsandhiedReconstructed=True|Punctuation=fullStop
 
 # text = cihnaṃ yasya na vidyate ityanena muktātmanaḥ prāṇāpānādyātmaliṅgābhāvād gamakaṃ cihnaṃ nāstyeveti darśayati
-# sent_id = 152625
+# sent_id = 152610
 # sent_counter = 3
 # sent_subcounter = 
 1	cihnaṃ	cihna	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=51888|OccId=2537249|Unsandhied=cihnam|UnsandhiedReconstructed=True
@@ -62,7 +62,7 @@
 21	darśayati	darśay	VERB	_	Tense=Pres|Mood=Ind|Person=3|Number=Sing	_	_	_	LemmaId=157768|OccId=2537262|Unsandhied=darśayati|Punctuation=fullStop
 
 # text = na kṣarati anyathātvaṃ na gacchatītyakṣaram
-# sent_id = 152626
+# sent_id = 152611
 # sent_counter = 4
 # sent_subcounter = 
 1	na	na	PART	_		_	_	_	LemmaId=43432|OccId=2537263|Unsandhied=na|UnsandhiedReconstructed=True
@@ -75,18 +75,20 @@
 7	akṣaram	akṣara	ADJ	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=5482|OccId=2537269|Unsandhied=akṣaram|UnsandhiedReconstructed=True|Punctuation=fullStop
 
 # text = avidyamānaṃ lakṣaṇaṃ yasyeti alakṣaṇam
-# sent_id = 152627
+# sent_id = 152612
 # sent_counter = 5
 # sent_subcounter = 
-1	avidyamānaṃ	avidyamāna	ADJ	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=54996|OccId=2537299|Unsandhied=avidyamānam|UnsandhiedReconstructed=True
-2	lakṣaṇaṃ	lakṣaṇa	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=80283|OccId=2537270|Unsandhied=lakṣaṇam|UnsandhiedReconstructed=True
-3-4	yasyeti	_	_	_	_	_	_	_	_
-3	yasya	yad	PRON	_	Case=Gen|Gender=Masc|Number=Sing	_	_	_	LemmaId=37877|OccId=2537271|Unsandhied=yasya|UnsandhiedReconstructed=True
-4	iti	iti	PART	_		_	_	_	LemmaId=63331|OccId=2537272|Unsandhied=iti|UnsandhiedReconstructed=True
-5	alakṣaṇam	alakṣaṇa	ADJ	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=53628|OccId=2537273|Unsandhied=alakṣaṇam|UnsandhiedReconstructed=True|Punctuation=fullStop
+1-2	avidyamānaṃ	_	_	_	_	_	_	_	_
+1	a	a	PART	_		_	_	_	LemmaId=213048|OccId=5919138|Unsandhied=a
+2	vidyamānam	vid	VERB	_	Case=Nom|Gender=Neut|Number=Sing|Tense=Pres|VerbForm=Part	_	_	_	LemmaId=158058|OccId=5919139|Unsandhied=vidyamānam
+3	lakṣaṇaṃ	lakṣaṇa	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=80283|OccId=2537270|Unsandhied=lakṣaṇam|UnsandhiedReconstructed=True
+4-5	yasyeti	_	_	_	_	_	_	_	_
+4	yasya	yad	PRON	_	Case=Gen|Gender=Masc|Number=Sing	_	_	_	LemmaId=37877|OccId=2537271|Unsandhied=yasya|UnsandhiedReconstructed=True
+5	iti	iti	PART	_		_	_	_	LemmaId=63331|OccId=2537272|Unsandhied=iti|UnsandhiedReconstructed=True
+6	alakṣaṇam	alakṣaṇa	ADJ	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=53628|OccId=2537273|Unsandhied=alakṣaṇam|UnsandhiedReconstructed=True|Punctuation=fullStop
 
 # text = etasyaiva mokṣasyetarapuruṣājñeyatāṃ darśayati jñānamityādi
-# sent_id = 152628
+# sent_id = 152613
 # sent_counter = 6
 # sent_subcounter = 
 1-2	etasyaiva	_	_	_	_	_	_	_	_
@@ -104,7 +106,7 @@
 10	ityādi	ityādi	ADJ	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=63350|OccId=2537283|Unsandhied=ityādi|UnsandhiedReconstructed=True|Punctuation=fullStop
 
 # text = brahmavidāmevātra manaḥ pratyeti nājñānām ahaṅkārādivāsanāgṛhītānām ityarthaḥ
-# sent_id = 152629
+# sent_id = 152614
 # sent_counter = 7
 # sent_subcounter = 
 1-4	brahmavidāmevātra	_	_	_	_	_	_	_	_

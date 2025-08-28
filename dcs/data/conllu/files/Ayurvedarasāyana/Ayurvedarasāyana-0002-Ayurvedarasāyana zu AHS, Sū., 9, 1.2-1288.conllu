@@ -1,0 +1,35 @@
+## text: Ayurvedarasāyana
+## text_id: 16
+## chapter: Ayurvedarasāyana zu AHS, Sū., 9, 1.2
+## chapter_id: 1288
+# text = dravyotpattim āha tat tv iti
+# sent_id = 42699
+# sent_counter = 1
+# sent_subcounter = 
+1-2	dravyotpattim	_	_	_	_	_	_	_	_
+1	dravya	dravya	NOUN	_	Case=Cpd	_	_	_	LemmaId=90455|OccId=401083|Unsandhied=dravya|UnsandhiedReconstructed=True
+2	utpattim	utpatti	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	_	_	_	LemmaId=55936|OccId=401084|Unsandhied=utpattim|UnsandhiedReconstructed=True
+3	āha	ah	VERB	_	Tense=Past|Mood=Ind|Person=3|Number=Sing	_	_	_	LemmaId=156124|OccId=401085|Unsandhied=āha
+4	tat	tad	PRON	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=37875|OccId=401086|Unsandhied=tat|UnsandhiedReconstructed=True
+5	tv	tu	PART	_		_	_	_	LemmaId=82701|OccId=401087|Unsandhied=tu|UnsandhiedReconstructed=True
+6	iti	iti	PART	_		_	_	_	LemmaId=63331|OccId=401088|Unsandhied=iti|UnsandhiedReconstructed=True
+
+# text = tat dravyam kṣmāṃ pṛthivīm adhiṣṭhāya jāyate mṛdam iva ghaṭaḥ upādānakāraṇam pṛthvītyarthaḥ
+# sent_id = 42700
+# sent_counter = 2
+# sent_subcounter = 
+1	tat	tad	PRON	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=37875|OccId=401089|Unsandhied=tat|UnsandhiedReconstructed=True
+2	dravyam	dravya	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=90455|OccId=401090|Unsandhied=dravyam|UnsandhiedReconstructed=True
+3	kṣmāṃ	kṣmā	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	_	_	_	LemmaId=135654|OccId=401091|Unsandhied=kṣmām|UnsandhiedReconstructed=True
+4	pṛthivīm	pṛthivī	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	_	_	_	LemmaId=150027|OccId=401092|Unsandhied=pṛthivīm|UnsandhiedReconstructed=True
+5	adhiṣṭhāya	adhiṣṭhā	VERB	_	VerbForm=Conv	_	_	_	LemmaId=157357|OccId=401093|Unsandhied=adhiṣṭhāya|UnsandhiedReconstructed=True
+6	jāyate	jan	VERB	_	Tense=Pres|Mood=Ind|Person=3|Number=Sing	_	_	_	LemmaId=156584|OccId=401094|Unsandhied=jāyate
+7	mṛdam	mṛd	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	_	_	_	LemmaId=137099|OccId=401095|Unsandhied=mṛdam|UnsandhiedReconstructed=True
+8	iva	iva	PART	_		_	_	_	LemmaId=63807|OccId=401096|Unsandhied=iva|UnsandhiedReconstructed=True
+9	ghaṭaḥ	ghaṭa	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=157006|OccId=401097|Unsandhied=ghaṭaḥ|UnsandhiedReconstructed=True
+10	upādānakāraṇam	upādānakāraṇa	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=45999|OccId=401098|Unsandhied=upādānakāraṇam|UnsandhiedReconstructed=True
+11-13	pṛthvītyarthaḥ	_	_	_	_	_	_	_	_
+11	pṛthvī	pṛthvī	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	_	_	_	LemmaId=149910|OccId=401099|Unsandhied=pṛthvī|UnsandhiedReconstructed=True
+12	iti	iti	PART	_		_	_	_	LemmaId=63331|OccId=401100|Unsandhied=iti|UnsandhiedReconstructed=True
+13	arthaḥ	artha	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=53136|OccId=401101|Unsandhied=arthaḥ|UnsandhiedReconstructed=True
+

@@ -1,0 +1,40 @@
+## text: Ayurvedarasāyana
+## text_id: 16
+## chapter: Ayurvedarasāyana zu AHS, Sū., 16, 19.2
+## chapter_id: 5064
+# text = śamanasyācchapeyasya kālaṃ mātrāṃ cāha śamana iti
+# sent_id = 43270
+# sent_counter = 1
+# sent_subcounter = 
+1-3	śamanasyācchapeyasya	_	_	_	_	_	_	_	_
+1	śamanasya	śamana	ADJ	_	Case=Gen|Gender=Masc|Number=Sing	_	_	_	LemmaId=116701|OccId=2002589|Unsandhied=śamanasya|UnsandhiedReconstructed=True
+2	accha	accha	ADJ	_	Case=Cpd	_	_	_	LemmaId=6380|OccId=2002590|Unsandhied=accha|UnsandhiedReconstructed=True
+3	peyasya	pā	VERB	_	Case=Gen|Gender=Masc|Number=Sing|VerbForm=Gdv	_	_	_	LemmaId=157391|OccId=2002591|Unsandhied=peyasya|UnsandhiedReconstructed=True
+4	kālaṃ	kāla	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	_	_	_	LemmaId=22761|OccId=2002592|Unsandhied=kālam|UnsandhiedReconstructed=True
+5	mātrāṃ	mātrā	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	_	_	_	LemmaId=78193|OccId=2002593|Unsandhied=mātrām|UnsandhiedReconstructed=True
+6-7	cāha	_	_	_	_	_	_	_	_
+6	ca	ca	CONJ	_		_	_	_	LemmaId=157144|OccId=2002594|Unsandhied=ca|UnsandhiedReconstructed=True
+7	āha	ah	VERB	_	Tense=Past|Mood=Ind|Person=3|Number=Sing	_	_	_	LemmaId=156124|OccId=2002595|Unsandhied=āha
+8	śamana	śamana	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=116701|OccId=2002596|Unsandhied=śamanaḥ|UnsandhiedReconstructed=True
+9	iti	iti	PART	_		_	_	_	LemmaId=63331|OccId=2002597|Unsandhied=iti|UnsandhiedReconstructed=True
+
+# text = anannaḥ annasambandharahitaḥ yāvad eṣa jīryati tāvanna bhoktavyamityarthaḥ
+# sent_id = 43271
+# sent_counter = 2
+# sent_subcounter = 
+1	anannaḥ	ananna	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=203963|OccId=2002598|Unsandhied=anannaḥ|UnsandhiedReconstructed=True
+2-4	annasambandharahitaḥ	_	_	_	_	_	_	_	_
+2	anna	anna	NOUN	_	Case=Cpd	_	_	_	LemmaId=20377|OccId=2002599|Unsandhied=anna|UnsandhiedReconstructed=True
+3	sambandha	sambandha	NOUN	_	Case=Cpd	_	_	_	LemmaId=103761|OccId=2002600|Unsandhied=sambandha|UnsandhiedReconstructed=True
+4	rahitaḥ	rahita	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=69899|OccId=2002601|Unsandhied=rahitaḥ|UnsandhiedReconstructed=True
+5	yāvad	yāvat	SCONJ	_		_	_	_	LemmaId=64536|OccId=2002602|Unsandhied=yāvat|UnsandhiedReconstructed=True
+6	eṣa	etad	PRON	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=163744|OccId=2002603|Unsandhied=eṣa|UnsandhiedReconstructed=True
+7	jīryati	jṛ	VERB	_	Tense=Pres|Mood=Ind|Person=3|Number=Sing	_	_	_	LemmaId=157149|OccId=2002604|Unsandhied=jīryati
+8-9	tāvanna	_	_	_	_	_	_	_	_
+8	tāvat	tāvat	ADV	_		_	_	_	LemmaId=82069|OccId=2002605|Unsandhied=tāvat|UnsandhiedReconstructed=True
+9	na	na	PART	_		_	_	_	LemmaId=43432|OccId=2002606|Unsandhied=na|UnsandhiedReconstructed=True
+10-12	bhoktavyamityarthaḥ	_	_	_	_	_	_	_	_
+10	bhoktavyam	bhuj	VERB	_	Case=Nom|Gender=Neut|Number=Sing|VerbForm=Gdv	_	_	_	LemmaId=157293|OccId=2002607|Unsandhied=bhoktavyam|UnsandhiedReconstructed=True
+11	iti	iti	PART	_		_	_	_	LemmaId=63331|OccId=2002608|Unsandhied=iti|UnsandhiedReconstructed=True
+12	arthaḥ	artha	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=53136|OccId=2002609|Unsandhied=arthaḥ|UnsandhiedReconstructed=True
+

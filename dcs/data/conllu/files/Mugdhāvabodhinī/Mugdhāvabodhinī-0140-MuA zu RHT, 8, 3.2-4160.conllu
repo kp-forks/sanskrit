@@ -3,7 +3,7 @@
 ## chapter: MuA zu RHT, 8, 3.2
 ## chapter_id: 4160
 # text = rañjitarasapraśaṃsām āha athetyādi
-# sent_id = 329303
+# sent_id = 329288
 # sent_counter = 1
 # sent_subcounter = 
 1-3	rañjitarasapraśaṃsām	_	_	_	_	_	_	_	_
@@ -16,7 +16,7 @@
 6	ityādi	ityādi	ADJ	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=63350|OccId=1659812|Unsandhied=ityādi|UnsandhiedReconstructed=True
 
 # text = athānantaraṃ rasaḥ rasendro yadā vakṣyamāṇaiḥ śvetādibhiḥ rāgaiḥ rajyate tadā nijakarme varṇaṃ svakīyameva svābhāvikaṃ rūpaṃ na jahāti na tyajati punastaireva rāgaiḥ nirṇikto raktaḥ san rañjanaṃ kurute rāgadāyī bhavatīti
-# sent_id = 329304
+# sent_id = 329289
 # sent_counter = 2
 # sent_subcounter = 
 1-2	athānantaraṃ	_	_	_	_	_	_	_	_
@@ -32,35 +32,38 @@
 9	rāgaiḥ	rāga	NOUN	_	Case=Ins|Gender=Masc|Number=Plur	_	_	_	LemmaId=69955|OccId=1659821|Unsandhied=rāgaiḥ|UnsandhiedReconstructed=True
 10	rajyate	rañj	VERB	_	Tense=Pres|Mood=Ind|Voice=Pass|Person=3|Number=Sing	_	_	_	LemmaId=157993|OccId=1659822|Unsandhied=rajyate
 11	tadā	tadā	ADV	_		_	_	_	LemmaId=96104|OccId=1659823|Unsandhied=tadā|UnsandhiedReconstructed=True
-12	varṇaṃ	varṇa	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	_	_	_	LemmaId=74430|OccId=1659824|Unsandhied=varṇam|UnsandhiedReconstructed=True
-13-14	svakīyameva	_	_	_	_	_	_	_	_
-13	svakīyam	svakīya	ADJ	_	Case=Acc|Gender=Masc|Number=Sing	_	_	_	LemmaId=120260|OccId=1659825|Unsandhied=svakīyam|UnsandhiedReconstructed=True
-14	eva	eva	PART	_		_	_	_	LemmaId=39754|OccId=1659826|Unsandhied=eva|UnsandhiedReconstructed=True
-15	svābhāvikaṃ	svābhāvika	ADJ	_	Case=Acc|Gender=Neut|Number=Sing	_	_	_	LemmaId=121780|OccId=1659827|Unsandhied=svābhāvikam|UnsandhiedReconstructed=True
-16	rūpaṃ	rūpa	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	_	_	_	LemmaId=71929|OccId=1659828|Unsandhied=rūpam|UnsandhiedReconstructed=True
-17	na	na	PART	_		_	_	_	LemmaId=43432|OccId=1659829|Unsandhied=na|UnsandhiedReconstructed=True
-18	jahāti	hā	VERB	_	Tense=Pres|Mood=Ind|Person=3|Number=Sing	_	_	_	LemmaId=157412|OccId=1659830|Unsandhied=jahāti
-19	na	na	PART	_		_	_	_	LemmaId=43432|OccId=1659831|Unsandhied=na|UnsandhiedReconstructed=True
-20	tyajati	tyaj	VERB	_	Tense=Pres|Mood=Ind|Person=3|Number=Sing	_	_	_	LemmaId=158636|OccId=1659832|Unsandhied=tyajati|Punctuation=fullStop
-21-23	punastaireva	_	_	_	_	_	_	_	_
-21	punar	punar	ADV	_		_	_	_	LemmaId=143659|OccId=1659833|Unsandhied=punar|UnsandhiedReconstructed=True
-22	taiḥ	tad	PRON	_	Case=Ins|Gender=Masc|Number=Plur	_	_	_	LemmaId=37875|OccId=1659834|Unsandhied=taiḥ|UnsandhiedReconstructed=True
-23	eva	eva	PART	_		_	_	_	LemmaId=39754|OccId=1659835|Unsandhied=eva|UnsandhiedReconstructed=True
-24	rāgaiḥ	rāga	NOUN	_	Case=Ins|Gender=Masc|Number=Plur	_	_	_	LemmaId=69955|OccId=1659836|Unsandhied=rāgaiḥ|UnsandhiedReconstructed=True
-25	nirṇikto	nirṇij	VERB	_	Case=Nom|Gender=Masc|Number=Sing|VerbForm=Part	_	_	_	LemmaId=161382|OccId=1659837|Unsandhied=nirṇiktaḥ|UnsandhiedReconstructed=True
-26	raktaḥ	rañj	VERB	_	Case=Nom|Gender=Masc|Number=Sing|VerbForm=Part	_	_	_	LemmaId=157993|OccId=1659838|Unsandhied=raktaḥ|UnsandhiedReconstructed=True
-27	san	as	VERB	_	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part	_	_	_	LemmaId=156122|OccId=1659839|Unsandhied=san|UnsandhiedReconstructed=True
-28	rañjanaṃ	rañjana	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	_	_	_	LemmaId=66034|OccId=1659840|Unsandhied=rañjanam|UnsandhiedReconstructed=True
-29	kurute	kṛ	VERB	_	Tense=Pres|Mood=Ind|Person=3|Number=Sing	_	_	_	LemmaId=156168|OccId=1659841|Unsandhied=kurute
-30-31	rāgadāyī	_	_	_	_	_	_	_	_
-30	rāga	rāga	NOUN	_	Case=Cpd	_	_	_	LemmaId=69955|OccId=1659842|Unsandhied=rāga|UnsandhiedReconstructed=True
-31	dāyī	dāyin	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=146142|OccId=1659843|Unsandhied=dāyī|UnsandhiedReconstructed=True
-32-33	bhavatīti	_	_	_	_	_	_	_	_
-32	bhavati	bhū	VERB	_	Tense=Pres|Mood=Ind|Person=3|Number=Sing	_	_	_	LemmaId=157250|OccId=1659844|Unsandhied=bhavati
-33	iti	iti	PART	_		_	_	_	LemmaId=63331|OccId=1659845|Unsandhied=iti|UnsandhiedReconstructed=True|Punctuation=fullStop
+12-13	nijakarme	_	_	_	_	_	_	_	_
+12	nija	nija	ADJ	_	Case=Cpd	_	_	_	LemmaId=34970|OccId=5919147|Unsandhied=nija
+13	karme	karma	ADJ	_	Case=Loc|Gender=Neut|Number=Sing	_	_	_	LemmaId=223207|OccId=5919148|Unsandhied=karme
+14	varṇaṃ	varṇa	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	_	_	_	LemmaId=74430|OccId=1659824|Unsandhied=varṇam|UnsandhiedReconstructed=True
+15-16	svakīyameva	_	_	_	_	_	_	_	_
+15	svakīyam	svakīya	ADJ	_	Case=Acc|Gender=Masc|Number=Sing	_	_	_	LemmaId=120260|OccId=1659825|Unsandhied=svakīyam|UnsandhiedReconstructed=True
+16	eva	eva	PART	_		_	_	_	LemmaId=39754|OccId=1659826|Unsandhied=eva|UnsandhiedReconstructed=True
+17	svābhāvikaṃ	svābhāvika	ADJ	_	Case=Acc|Gender=Neut|Number=Sing	_	_	_	LemmaId=121780|OccId=1659827|Unsandhied=svābhāvikam|UnsandhiedReconstructed=True
+18	rūpaṃ	rūpa	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	_	_	_	LemmaId=71929|OccId=1659828|Unsandhied=rūpam|UnsandhiedReconstructed=True
+19	na	na	PART	_		_	_	_	LemmaId=43432|OccId=1659829|Unsandhied=na|UnsandhiedReconstructed=True
+20	jahāti	hā	VERB	_	Tense=Pres|Mood=Ind|Person=3|Number=Sing	_	_	_	LemmaId=157412|OccId=1659830|Unsandhied=jahāti
+21	na	na	PART	_		_	_	_	LemmaId=43432|OccId=1659831|Unsandhied=na|UnsandhiedReconstructed=True
+22	tyajati	tyaj	VERB	_	Tense=Pres|Mood=Ind|Person=3|Number=Sing	_	_	_	LemmaId=158636|OccId=1659832|Unsandhied=tyajati|Punctuation=fullStop
+23-25	punastaireva	_	_	_	_	_	_	_	_
+23	punar	punar	ADV	_		_	_	_	LemmaId=143659|OccId=1659833|Unsandhied=punar|UnsandhiedReconstructed=True
+24	taiḥ	tad	PRON	_	Case=Ins|Gender=Masc|Number=Plur	_	_	_	LemmaId=37875|OccId=1659834|Unsandhied=taiḥ|UnsandhiedReconstructed=True
+25	eva	eva	PART	_		_	_	_	LemmaId=39754|OccId=1659835|Unsandhied=eva|UnsandhiedReconstructed=True
+26	rāgaiḥ	rāga	NOUN	_	Case=Ins|Gender=Masc|Number=Plur	_	_	_	LemmaId=69955|OccId=1659836|Unsandhied=rāgaiḥ|UnsandhiedReconstructed=True
+27	nirṇikto	nirṇij	VERB	_	Case=Nom|Gender=Masc|Number=Sing|VerbForm=Part	_	_	_	LemmaId=161382|OccId=1659837|Unsandhied=nirṇiktaḥ|UnsandhiedReconstructed=True
+28	raktaḥ	rañj	VERB	_	Case=Nom|Gender=Masc|Number=Sing|VerbForm=Part	_	_	_	LemmaId=157993|OccId=1659838|Unsandhied=raktaḥ|UnsandhiedReconstructed=True
+29	san	as	VERB	_	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part	_	_	_	LemmaId=156122|OccId=1659839|Unsandhied=san|UnsandhiedReconstructed=True
+30	rañjanaṃ	rañjana	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	_	_	_	LemmaId=66034|OccId=1659840|Unsandhied=rañjanam|UnsandhiedReconstructed=True
+31	kurute	kṛ	VERB	_	Tense=Pres|Mood=Ind|Person=3|Number=Sing	_	_	_	LemmaId=156168|OccId=1659841|Unsandhied=kurute
+32-33	rāgadāyī	_	_	_	_	_	_	_	_
+32	rāga	rāga	NOUN	_	Case=Cpd	_	_	_	LemmaId=69955|OccId=1659842|Unsandhied=rāga|UnsandhiedReconstructed=True
+33	dāyī	dāyin	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=146142|OccId=1659843|Unsandhied=dāyī|UnsandhiedReconstructed=True
+34-35	bhavatīti	_	_	_	_	_	_	_	_
+34	bhavati	bhū	VERB	_	Tense=Pres|Mood=Ind|Person=3|Number=Sing	_	_	_	LemmaId=157250|OccId=1659844|Unsandhied=bhavati
+35	iti	iti	PART	_		_	_	_	LemmaId=63331|OccId=1659845|Unsandhied=iti|UnsandhiedReconstructed=True|Punctuation=fullStop
 
 # text = tathā no rakto na rañjanaṃ kurute avidyamānatvānniṣedhaḥ
-# sent_id = 329305
+# sent_id = 329290
 # sent_counter = 3
 # sent_subcounter = 
 1	tathā	tathā	ADV	_		_	_	_	LemmaId=95987|OccId=1659846|Unsandhied=tathā|UnsandhiedReconstructed=True
@@ -69,8 +72,9 @@
 4	na	na	PART	_		_	_	_	LemmaId=43432|OccId=1659849|Unsandhied=na|UnsandhiedReconstructed=True
 5	rañjanaṃ	rañjana	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	_	_	_	LemmaId=66034|OccId=1659850|Unsandhied=rañjanam|UnsandhiedReconstructed=True
 6	kurute	kṛ	VERB	_	Tense=Pres|Mood=Ind|Person=3|Number=Sing	_	_	_	LemmaId=156168|OccId=1659851|Unsandhied=kurute
-7-9	avidyamānatvānniṣedhaḥ	_	_	_	_	_	_	_	_
-7	avidyamāna	avidyamāna	ADJ	_	Case=Cpd	_	_	_	LemmaId=54996|OccId=1659852|Unsandhied=avidyamāna|UnsandhiedReconstructed=True
-8	tvāt	tva	NOUN	_	Case=Abl|Gender=Neut|Number=Sing	_	_	_	LemmaId=163754|OccId=1659853|Unsandhied=tvāt|UnsandhiedReconstructed=True
-9	niṣedhaḥ	niṣedha	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=28253|OccId=1659854|Unsandhied=niṣedhaḥ|UnsandhiedReconstructed=True
+7-10	avidyamānatvānniṣedhaḥ	_	_	_	_	_	_	_	_
+7	a	a	PART	_		_	_	_	LemmaId=213048|OccId=5919149|Unsandhied=a
+8	vidyamāna	vid	VERB	_	Case=Cpd|Tense=Pres|VerbForm=Part|Voice=Pass	_	_	_	LemmaId=157306|OccId=5919150|Unsandhied=vidyamāna
+9	tvāt	tva	NOUN	_	Case=Abl|Gender=Neut|Number=Sing	_	_	_	LemmaId=163754|OccId=5919151|Unsandhied=tvāt
+10	niṣedhaḥ	niṣedha	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=28253|OccId=5919152|Unsandhied=niṣedhaḥ
 

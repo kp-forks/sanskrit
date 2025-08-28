@@ -3,7 +3,7 @@
 ## chapter: ĀVDīp zu Ca, Cik., 22, 15.2
 ## chapter_id: 2075
 # text = tṛṣṇetyādināmajām āha
-# sent_id = 152891
+# sent_id = 152876
 # sent_counter = 1
 # sent_subcounter = 
 1-4	tṛṣṇetyādināmajām	_	_	_	_	_	_	_	_
@@ -14,7 +14,7 @@
 5	āha	ah	VERB	_	Tense=Past|Mood=Ind|Person=3|Number=Sing	_	_	_	LemmaId=156124|OccId=597151|Unsandhied=āha
 
 # text = āmaśabdena ceha lakṣaṇayā āmasamānacikitsita āmasamānalakṣaṇaś ca kapho 'pi gṛhyate
-# sent_id = 152892
+# sent_id = 152877
 # sent_counter = 2
 # sent_subcounter = 
 1-2	āmaśabdena	_	_	_	_	_	_	_	_
@@ -38,7 +38,7 @@
 15	gṛhyate	grah	VERB	_	Tense=Pres|Mood=Ind|Voice=Pass|Person=3|Number=Sing	_	_	_	LemmaId=156232|OccId=597166|Unsandhied=gṛhyate
 
 # text = tenāmaprabhavāyā vyutpādanena kaphajāpi suśrutoktā gṛhītaiveha sāpyāgneyetyanena pūrvaparijñātaṃ sarvāsāṃ vātapittajanyatvaṃ samunnayati
-# sent_id = 152893
+# sent_id = 152878
 # sent_counter = 3
 # sent_subcounter = 
 1-3	tenāmaprabhavāyā	_	_	_	_	_	_	_	_
@@ -74,35 +74,39 @@
 24	tvam	tva	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	_	_	_	LemmaId=163754|OccId=2534523|Unsandhied=tvam|UnsandhiedReconstructed=True
 25	samunnayati	samunnī	VERB	_	Tense=Pres|Mood=Ind|Person=3|Number=Sing	_	_	_	LemmaId=165342|OccId=598680|Unsandhied=samunnayati
 
-# text = vātaśca tṛṣṇākāraṇatvenokto'pyatrāpradhānaṃ pittameva ye pradhānam itīha vātākathanād unnīyate
-# sent_id = 152894
+# text = vātaśca tṛṣṇākāraṇatvenokto 'py atrāpradhānaṃ pittameva ye pradhānam itīha vātākathanād unnīyate
+# sent_id = 152879
 # sent_counter = 4
 # sent_subcounter = 
 1-2	vātaśca	_	_	_	_	_	_	_	_
 1	vātaḥ	vāta	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=75767|OccId=598681|Unsandhied=vātaḥ|UnsandhiedReconstructed=True
 2	ca	ca	CONJ	_		_	_	_	LemmaId=157144|OccId=598682|Unsandhied=ca|UnsandhiedReconstructed=True
-3-8	tṛṣṇākāraṇatvenokto'pyatrāpradhānaṃ	_	_	_	_	_	_	_	_
-3	tṛṣṇā	tṛṣṇā	NOUN	_	Case=Cpd	_	_	_	LemmaId=83361|OccId=598683|Unsandhied=tṛṣṇā|UnsandhiedReconstructed=True
-4	kāraṇatvena	kāraṇatva	NOUN	_	Case=Ins|Gender=Neut|Number=Sing	_	_	_	LemmaId=168097|OccId=598684|Unsandhied=kāraṇatvena|UnsandhiedReconstructed=True
-5	uktaḥ	vac	VERB	_	Case=Nom|Gender=Masc|Number=Sing|VerbForm=Part	_	_	_	LemmaId=157264|OccId=598685|Unsandhied=uktaḥ|UnsandhiedReconstructed=True
-6	api	api	PART	_		_	_	_	LemmaId=21365|OccId=598686|Unsandhied=api|UnsandhiedReconstructed=True
-7	atra	atra	ADV	_		_	_	_	LemmaId=7442|OccId=598687|Unsandhied=atra|UnsandhiedReconstructed=True
-8	apradhānam	apradhāna	ADJ	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=21708|OccId=598688|Unsandhied=apradhānam|UnsandhiedReconstructed=True
-9-10	pittameva	_	_	_	_	_	_	_	_
-9	pittam	pitta	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=95032|OccId=598689|Unsandhied=pittam|UnsandhiedReconstructed=True
-10	eva	eva	PART	_		_	_	_	LemmaId=39754|OccId=598690|Unsandhied=eva|UnsandhiedReconstructed=True
-11	ye	yad	PRON	_	Case=Nom|Gender=Masc|Number=Plur	_	_	_	LemmaId=37877|OccId=598691|Unsandhied=ye|UnsandhiedReconstructed=True
-12	pradhānam	pradhāna	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=140873|OccId=598692|Unsandhied=pradhānam|UnsandhiedReconstructed=True
-13-14	itīha	_	_	_	_	_	_	_	_
-13	iti	iti	PART	_		_	_	_	LemmaId=63331|OccId=598693|Unsandhied=iti|UnsandhiedReconstructed=True
-14	iha	iha	ADV	_		_	_	_	LemmaId=63959|OccId=598694|Unsandhied=iha|UnsandhiedReconstructed=True
-15-16	vātākathanād	_	_	_	_	_	_	_	_
-15	vāta	vāta	NOUN	_	Case=Cpd	_	_	_	LemmaId=75767|OccId=598695|Unsandhied=vāta|UnsandhiedReconstructed=True
-16	akathanāt	akathana	NOUN	_	Case=Abl|Gender=Neut|Number=Sing	_	_	_	LemmaId=167489|OccId=598696|Unsandhied=akathanāt|UnsandhiedReconstructed=True
-17	unnīyate	unnī	VERB	_	Tense=Pres|Mood=Ind|Voice=Pass|Person=3|Number=Sing	_	_	_	LemmaId=160316|OccId=598697|Unsandhied=unnīyate
+3-6	tṛṣṇākāraṇatvenokto	_	_	_	_	_	_	_	_
+3	tṛṣṇā	tṛṣṇā	NOUN	_	Case=Cpd	_	_	_	LemmaId=83361|OccId=5915382|Unsandhied=tṛṣṇā
+4	kāraṇa	kāraṇa	NOUN	_	Case=Cpd	_	_	_	LemmaId=14116|OccId=5915383|Unsandhied=kāraṇa
+5	tvena	tva	NOUN	_	Case=Ins|Gender=Neut|Number=Sing	_	_	_	LemmaId=163754|OccId=5915384|Unsandhied=tvena
+6	uktaḥ	vac	VERB	_	Case=Nom|Gender=Masc|Number=Sing|VerbForm=Part	_	_	_	LemmaId=157264|OccId=5915385|Unsandhied=uktaḥ
+7	'py	api	PART	_		_	_	_	LemmaId=21365|OccId=5915386|Unsandhied=api
+8-10	atrāpradhānaṃ	_	_	_	_	_	_	_	_
+8	atra	atra	ADV	_		_	_	_	LemmaId=7442|OccId=5915387|Unsandhied=atra
+9	a	a	PART	_		_	_	_	LemmaId=213048|OccId=5915388|Unsandhied=a
+10	pradhānam	pradhāna	ADJ	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=140870|OccId=5915389|Unsandhied=pradhānam
+11-12	pittameva	_	_	_	_	_	_	_	_
+11	pittam	pitta	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=95032|OccId=598689|Unsandhied=pittam|UnsandhiedReconstructed=True
+12	eva	eva	PART	_		_	_	_	LemmaId=39754|OccId=598690|Unsandhied=eva|UnsandhiedReconstructed=True
+13	ye	yad	PRON	_	Case=Nom|Gender=Masc|Number=Plur	_	_	_	LemmaId=37877|OccId=598691|Unsandhied=ye|UnsandhiedReconstructed=True
+14	pradhānam	pradhāna	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=140873|OccId=598692|Unsandhied=pradhānam|UnsandhiedReconstructed=True
+15-16	itīha	_	_	_	_	_	_	_	_
+15	iti	iti	PART	_		_	_	_	LemmaId=63331|OccId=598693|Unsandhied=iti|UnsandhiedReconstructed=True
+16	iha	iha	ADV	_		_	_	_	LemmaId=63959|OccId=598694|Unsandhied=iha|UnsandhiedReconstructed=True
+17-19	vātākathanād	_	_	_	_	_	_	_	_
+17	vāta	vāta	NOUN	_	Case=Cpd	_	_	_	LemmaId=75767|OccId=5928294|Unsandhied=vāta
+18	a	a	PART	_		_	_	_	LemmaId=213048|OccId=5928295|Unsandhied=a
+19	kathanāt	kathana	NOUN	_	Case=Abl|Gender=Neut|Number=Sing	_	_	_	LemmaId=1292|OccId=5928296|Unsandhied=kathanāt
+20	unnīyate	unnī	VERB	_	Tense=Pres|Mood=Ind|Voice=Pass|Person=3|Number=Sing	_	_	_	LemmaId=160316|OccId=598697|Unsandhied=unnīyate
 
 # text = anyatrāpyuktaṃ darśanapaktirūṣmā ca kṣuttṛṣṇā dehamārdavam
-# sent_id = 152895
+# sent_id = 152880
 # sent_counter = 5
 # sent_subcounter = 
 1-3	anyatrāpyuktaṃ	_	_	_	_	_	_	_	_
@@ -122,7 +126,7 @@
 11	mārdavam	mārdava	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=79434|OccId=598708|Unsandhied=mārdavam|UnsandhiedReconstructed=True
 
 # text = prabhāprasādau medhā ca pittakarmāvikārajam iti
-# sent_id = 152896
+# sent_id = 152881
 # sent_counter = 6
 # sent_subcounter = 
 1-2	prabhāprasādau	_	_	_	_	_	_	_	_
@@ -138,7 +142,7 @@
 9	iti	iti	PART	_		_	_	_	LemmaId=63331|OccId=598717|Unsandhied=iti|UnsandhiedReconstructed=True
 
 # text = āmapittajanitatvād iti āmāvarodhavṛddhapittajanitatvād ityarthaḥ
-# sent_id = 152897
+# sent_id = 152882
 # sent_counter = 7
 # sent_subcounter = 
 1-4	āmapittajanitatvād	_	_	_	_	_	_	_	_

@@ -3,7 +3,7 @@
 ## chapter: AB, 3, 42
 ## chapter_id: 11691
 # text = devā vā asurair vijigyānā ūrdhvāḥ svargaṃ lokam āyan so 'gnir divispṛg ūrdhva udaśrayata sa svargasya lokasya dvāram avṛṇod agnir vai svargasya lokasyādhipatis taṃ vasavaḥ prathamā āgacchaṃs ta enam abruvann ati no 'rjasy ākāśaṃ naḥ kurv iti sa nāstuto 'tisrakṣya ity abravīt stuta nu meti tatheti taṃ te trivṛtā stomenāstuvaṃs tān stuto 'tyārjata te yathālokam agacchan
-# sent_id = 642884
+# sent_id = 642325
 # sent_counter = 1
 # sent_subcounter = 
 1	devā	deva	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	_	_	_	LemmaId=86559|OccId=4826531|Unsandhied=devāḥ
@@ -45,35 +45,36 @@
 36	kurv	kṛ	VERB	_	Tense=Pres|Mood=Imp|Person=2|Number=Sing	_	_	_	LemmaId=156168|OccId=4826563|Unsandhied=kuru
 37	iti	iti	PART	_		_	_	_	LemmaId=63331|OccId=4826564|Unsandhied=iti|Punctuation=fullStop
 38	sa	tad	PRON	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=37875|OccId=4826565|Unsandhied=sa|Punctuation=comma
-39-40	nāstuto	_	_	_	_	_	_	_	_
-39	na	na	PART	_		_	_	_	LemmaId=43432|OccId=4826566|Unsandhied=na
-40	astutaḥ	astuta	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=61231|OccId=4826567|Unsandhied=astutaḥ
-41	'tisrakṣya	atisṛj	VERB	_	Tense=Fut|Mood=Ind|Person=1|Number=Sing	_	_	_	LemmaId=157547|OccId=4826724|Unsandhied=atisrakṣye|Punctuation=comma
-42	ity	iti	PART	_		_	_	_	LemmaId=63331|OccId=4826568|Unsandhied=iti
-43	abravīt	brū	VERB	_	Tense=Impf|Mood=Ind|Person=3|Number=Sing	_	_	_	LemmaId=157262|OccId=4826569|Unsandhied=abravīt|Punctuation=fullStop
-44	stuta	stu	VERB	_	Tense=Pres|Mood=Imp|Person=2|Number=Plur	_	_	_	LemmaId=157515|OccId=4826570|Unsandhied=stuta
-45	nu	nu	PART	_		_	_	_	LemmaId=170168|OccId=4826571|Unsandhied=nu
-46-47	meti	_	_	_	_	_	_	_	_
-46	mā	mad	PRON	_	Case=Acc|Number=Sing	_	_	_	LemmaId=37879|OccId=4826572|Unsandhied=mā
-47	iti	iti	PART	_		_	_	_	LemmaId=63331|OccId=4826573|Unsandhied=iti|Punctuation=fullStop
-48-49	tatheti	_	_	_	_	_	_	_	_
-48	tathā	tathā	ADV	_		_	_	_	LemmaId=95987|OccId=4826574|Unsandhied=tathā
-49	iti	iti	PART	_		_	_	_	LemmaId=63331|OccId=4826575|Unsandhied=iti|Punctuation=fullStop
-50	taṃ	tad	PRON	_	Case=Acc|Gender=Masc|Number=Sing	_	_	_	LemmaId=37875|OccId=4826576|Unsandhied=tam
-51	te	tad	PRON	_	Case=Nom|Gender=Masc|Number=Plur	_	_	_	LemmaId=37875|OccId=4826577|Unsandhied=te
-52	trivṛtā	trivṛt	NOUN	_	Case=Ins|Gender=Masc|Number=Sing	_	_	_	LemmaId=84218|OccId=4826578|Unsandhied=trivṛtā
-53-54	stomenāstuvaṃs	_	_	_	_	_	_	_	_
-53	stomena	stoma	NOUN	_	Case=Ins|Gender=Masc|Number=Sing	_	_	_	LemmaId=102445|OccId=4826579|Unsandhied=stomena
-54	astuvan	stu	VERB	_	Tense=Impf|Mood=Ind|Person=3|Number=Plur	_	_	_	LemmaId=157515|OccId=4826580|Unsandhied=astuvan|Punctuation=fullStop
-55	tān	tad	PRON	_	Case=Acc|Gender=Masc|Number=Plur	_	_	_	LemmaId=37875|OccId=4826581|Unsandhied=tān
-56	stuto	stu	VERB	_	Case=Nom|Gender=Masc|Number=Sing|VerbForm=Part	_	_	_	LemmaId=157515|OccId=4826582|Unsandhied=stutaḥ
-57	'tyārjata	atyṛj	VERB	_	Tense=Impf|Mood=Ind|Person=3|Number=Sing	_	_	_	LemmaId=157595|OccId=4826583|Unsandhied=atyārjata|Punctuation=fullStop
-58	te	tad	PRON	_	Case=Nom|Gender=Masc|Number=Plur	_	_	_	LemmaId=37875|OccId=4826584|Unsandhied=te
-59	yathālokam	yathālokam	ADV	_		_	_	_	LemmaId=73483|OccId=4826585|Unsandhied=yathālokam
-60	agacchan	gam	VERB	_	Tense=Impf|Mood=Ind|Person=3|Number=Plur	_	_	_	LemmaId=156214|OccId=4826725|Unsandhied=agacchan|Punctuation=fullStop
+39-41	nāstuto	_	_	_	_	_	_	_	_
+39	na	na	PART	_		_	_	_	LemmaId=43432|OccId=5921405|Unsandhied=na
+40	a	a	PART	_		_	_	_	LemmaId=213048|OccId=5921406|Unsandhied=a
+41	stutaḥ	stu	VERB	_	Case=Nom|Gender=Masc|Number=Sing|VerbForm=Part	_	_	_	LemmaId=157515|OccId=5921407|Unsandhied=stutaḥ
+42	'tisrakṣya	atisṛj	VERB	_	Tense=Fut|Mood=Ind|Person=1|Number=Sing	_	_	_	LemmaId=157547|OccId=4826724|Unsandhied=atisrakṣye|Punctuation=comma
+43	ity	iti	PART	_		_	_	_	LemmaId=63331|OccId=4826568|Unsandhied=iti
+44	abravīt	brū	VERB	_	Tense=Impf|Mood=Ind|Person=3|Number=Sing	_	_	_	LemmaId=157262|OccId=4826569|Unsandhied=abravīt|Punctuation=fullStop
+45	stuta	stu	VERB	_	Tense=Pres|Mood=Imp|Person=2|Number=Plur	_	_	_	LemmaId=157515|OccId=4826570|Unsandhied=stuta
+46	nu	nu	PART	_		_	_	_	LemmaId=170168|OccId=4826571|Unsandhied=nu
+47-48	meti	_	_	_	_	_	_	_	_
+47	mā	mad	PRON	_	Case=Acc|Number=Sing	_	_	_	LemmaId=37879|OccId=4826572|Unsandhied=mā
+48	iti	iti	PART	_		_	_	_	LemmaId=63331|OccId=4826573|Unsandhied=iti|Punctuation=fullStop
+49-50	tatheti	_	_	_	_	_	_	_	_
+49	tathā	tathā	ADV	_		_	_	_	LemmaId=95987|OccId=4826574|Unsandhied=tathā
+50	iti	iti	PART	_		_	_	_	LemmaId=63331|OccId=4826575|Unsandhied=iti|Punctuation=fullStop
+51	taṃ	tad	PRON	_	Case=Acc|Gender=Masc|Number=Sing	_	_	_	LemmaId=37875|OccId=4826576|Unsandhied=tam
+52	te	tad	PRON	_	Case=Nom|Gender=Masc|Number=Plur	_	_	_	LemmaId=37875|OccId=4826577|Unsandhied=te
+53	trivṛtā	trivṛt	NOUN	_	Case=Ins|Gender=Masc|Number=Sing	_	_	_	LemmaId=84218|OccId=4826578|Unsandhied=trivṛtā
+54-55	stomenāstuvaṃs	_	_	_	_	_	_	_	_
+54	stomena	stoma	NOUN	_	Case=Ins|Gender=Masc|Number=Sing	_	_	_	LemmaId=102445|OccId=4826579|Unsandhied=stomena
+55	astuvan	stu	VERB	_	Tense=Impf|Mood=Ind|Person=3|Number=Plur	_	_	_	LemmaId=157515|OccId=4826580|Unsandhied=astuvan|Punctuation=fullStop
+56	tān	tad	PRON	_	Case=Acc|Gender=Masc|Number=Plur	_	_	_	LemmaId=37875|OccId=4826581|Unsandhied=tān
+57	stuto	stu	VERB	_	Case=Nom|Gender=Masc|Number=Sing|VerbForm=Part	_	_	_	LemmaId=157515|OccId=4826582|Unsandhied=stutaḥ
+58	'tyārjata	atyṛj	VERB	_	Tense=Impf|Mood=Ind|Person=3|Number=Sing	_	_	_	LemmaId=157595|OccId=4826583|Unsandhied=atyārjata|Punctuation=fullStop
+59	te	tad	PRON	_	Case=Nom|Gender=Masc|Number=Plur	_	_	_	LemmaId=37875|OccId=4826584|Unsandhied=te
+60	yathālokam	yathālokam	ADV	_		_	_	_	LemmaId=73483|OccId=4826585|Unsandhied=yathālokam
+61	agacchan	gam	VERB	_	Tense=Impf|Mood=Ind|Person=3|Number=Plur	_	_	_	LemmaId=156214|OccId=4826725|Unsandhied=agacchan|Punctuation=fullStop
 
 # text = taṃ rudrā āgacchaṃs ta enam abruvann ati no 'rjasy ākāśaṃ naḥ kurv iti sa nāstuto 'tisrakṣya ity abravīt stuta nu meti tatheti taṃ te pañcadaśena stomenāstuvaṃs tān stuto 'tyārjata te yathālokam agacchan
-# sent_id = 642885
+# sent_id = 642326
 # sent_counter = 2
 # sent_subcounter = 
 1	taṃ	tad	PRON	_	Case=Acc|Gender=Masc|Number=Sing	_	_	_	LemmaId=37875|OccId=4826586|Unsandhied=tam
@@ -90,35 +91,36 @@
 12	kurv	kṛ	VERB	_	Tense=Pres|Mood=Imp|Person=2|Number=Sing	_	_	_	LemmaId=156168|OccId=4826596|Unsandhied=kuru
 13	iti	iti	PART	_		_	_	_	LemmaId=63331|OccId=4826597|Unsandhied=iti|Punctuation=fullStop
 14	sa	tad	PRON	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=37875|OccId=4826598|Unsandhied=sa|Punctuation=comma
-15-16	nāstuto	_	_	_	_	_	_	_	_
-15	na	na	PART	_		_	_	_	LemmaId=43432|OccId=4826599|Unsandhied=na
-16	astutaḥ	astuta	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=61231|OccId=4826600|Unsandhied=astutaḥ
-17	'tisrakṣya	atisṛj	VERB	_	Tense=Fut|Mood=Ind|Person=1|Number=Sing	_	_	_	LemmaId=157547|OccId=4826727|Unsandhied=atisrakṣye|Punctuation=comma
-18	ity	iti	PART	_		_	_	_	LemmaId=63331|OccId=4826601|Unsandhied=iti
-19	abravīt	brū	VERB	_	Tense=Impf|Mood=Ind|Person=3|Number=Sing	_	_	_	LemmaId=157262|OccId=4826602|Unsandhied=abravīt|Punctuation=fullStop
-20	stuta	stu	VERB	_	Tense=Pres|Mood=Imp|Person=2|Number=Plur	_	_	_	LemmaId=157515|OccId=4826603|Unsandhied=stuta
-21	nu	nu	PART	_		_	_	_	LemmaId=170168|OccId=4826604|Unsandhied=nu
-22-23	meti	_	_	_	_	_	_	_	_
-22	mā	mad	PRON	_	Case=Acc|Number=Sing	_	_	_	LemmaId=37879|OccId=4826605|Unsandhied=mā
-23	iti	iti	PART	_		_	_	_	LemmaId=63331|OccId=4826606|Unsandhied=iti|Punctuation=fullStop
-24-25	tatheti	_	_	_	_	_	_	_	_
-24	tathā	tathā	ADV	_		_	_	_	LemmaId=95987|OccId=4826607|Unsandhied=tathā
-25	iti	iti	PART	_		_	_	_	LemmaId=63331|OccId=4826608|Unsandhied=iti|Punctuation=fullStop
-26	taṃ	tad	PRON	_	Case=Acc|Gender=Masc|Number=Sing	_	_	_	LemmaId=37875|OccId=4826609|Unsandhied=tam
-27	te	tad	PRON	_	Case=Nom|Gender=Masc|Number=Plur	_	_	_	LemmaId=37875|OccId=4826610|Unsandhied=te
-28	pañcadaśena	pañcadaśa	ADJ	_	Case=Ins|Gender=Masc|Number=Sing	_	_	_	LemmaId=14873|OccId=4826611|Unsandhied=pañcadaśena
-29-30	stomenāstuvaṃs	_	_	_	_	_	_	_	_
-29	stomena	stoma	NOUN	_	Case=Ins|Gender=Masc|Number=Sing	_	_	_	LemmaId=102445|OccId=4826612|Unsandhied=stomena
-30	astuvan	stu	VERB	_	Tense=Impf|Mood=Ind|Person=3|Number=Plur	_	_	_	LemmaId=157515|OccId=4826613|Unsandhied=astuvan|Punctuation=fullStop
-31	tān	tad	PRON	_	Case=Acc|Gender=Masc|Number=Plur	_	_	_	LemmaId=37875|OccId=4826614|Unsandhied=tān
-32	stuto	stu	VERB	_	Case=Nom|Gender=Masc|Number=Sing|VerbForm=Part	_	_	_	LemmaId=157515|OccId=4826615|Unsandhied=stutaḥ
-33	'tyārjata	atyṛj	VERB	_	Tense=Impf|Mood=Ind|Person=3|Number=Sing	_	_	_	LemmaId=157595|OccId=4826616|Unsandhied=atyārjata|Punctuation=fullStop
-34	te	tad	PRON	_	Case=Nom|Gender=Masc|Number=Plur	_	_	_	LemmaId=37875|OccId=4826617|Unsandhied=te
-35	yathālokam	yathālokam	ADV	_		_	_	_	LemmaId=73483|OccId=4826618|Unsandhied=yathālokam
-36	agacchan	gam	VERB	_	Tense=Impf|Mood=Ind|Person=3|Number=Plur	_	_	_	LemmaId=156214|OccId=4826728|Unsandhied=agacchan|Punctuation=fullStop
+15-17	nāstuto	_	_	_	_	_	_	_	_
+15	na	na	PART	_		_	_	_	LemmaId=43432|OccId=5921408|Unsandhied=na
+16	a	a	PART	_		_	_	_	LemmaId=213048|OccId=5921409|Unsandhied=a
+17	stutaḥ	stu	VERB	_	Case=Nom|Gender=Masc|Number=Sing|VerbForm=Part	_	_	_	LemmaId=157515|OccId=5921410|Unsandhied=stutaḥ
+18	'tisrakṣya	atisṛj	VERB	_	Tense=Fut|Mood=Ind|Person=1|Number=Sing	_	_	_	LemmaId=157547|OccId=4826727|Unsandhied=atisrakṣye|Punctuation=comma
+19	ity	iti	PART	_		_	_	_	LemmaId=63331|OccId=4826601|Unsandhied=iti
+20	abravīt	brū	VERB	_	Tense=Impf|Mood=Ind|Person=3|Number=Sing	_	_	_	LemmaId=157262|OccId=4826602|Unsandhied=abravīt|Punctuation=fullStop
+21	stuta	stu	VERB	_	Tense=Pres|Mood=Imp|Person=2|Number=Plur	_	_	_	LemmaId=157515|OccId=4826603|Unsandhied=stuta
+22	nu	nu	PART	_		_	_	_	LemmaId=170168|OccId=4826604|Unsandhied=nu
+23-24	meti	_	_	_	_	_	_	_	_
+23	mā	mad	PRON	_	Case=Acc|Number=Sing	_	_	_	LemmaId=37879|OccId=4826605|Unsandhied=mā
+24	iti	iti	PART	_		_	_	_	LemmaId=63331|OccId=4826606|Unsandhied=iti|Punctuation=fullStop
+25-26	tatheti	_	_	_	_	_	_	_	_
+25	tathā	tathā	ADV	_		_	_	_	LemmaId=95987|OccId=4826607|Unsandhied=tathā
+26	iti	iti	PART	_		_	_	_	LemmaId=63331|OccId=4826608|Unsandhied=iti|Punctuation=fullStop
+27	taṃ	tad	PRON	_	Case=Acc|Gender=Masc|Number=Sing	_	_	_	LemmaId=37875|OccId=4826609|Unsandhied=tam
+28	te	tad	PRON	_	Case=Nom|Gender=Masc|Number=Plur	_	_	_	LemmaId=37875|OccId=4826610|Unsandhied=te
+29	pañcadaśena	pañcadaśa	ADJ	_	Case=Ins|Gender=Masc|Number=Sing	_	_	_	LemmaId=14873|OccId=4826611|Unsandhied=pañcadaśena
+30-31	stomenāstuvaṃs	_	_	_	_	_	_	_	_
+30	stomena	stoma	NOUN	_	Case=Ins|Gender=Masc|Number=Sing	_	_	_	LemmaId=102445|OccId=4826612|Unsandhied=stomena
+31	astuvan	stu	VERB	_	Tense=Impf|Mood=Ind|Person=3|Number=Plur	_	_	_	LemmaId=157515|OccId=4826613|Unsandhied=astuvan|Punctuation=fullStop
+32	tān	tad	PRON	_	Case=Acc|Gender=Masc|Number=Plur	_	_	_	LemmaId=37875|OccId=4826614|Unsandhied=tān
+33	stuto	stu	VERB	_	Case=Nom|Gender=Masc|Number=Sing|VerbForm=Part	_	_	_	LemmaId=157515|OccId=4826615|Unsandhied=stutaḥ
+34	'tyārjata	atyṛj	VERB	_	Tense=Impf|Mood=Ind|Person=3|Number=Sing	_	_	_	LemmaId=157595|OccId=4826616|Unsandhied=atyārjata|Punctuation=fullStop
+35	te	tad	PRON	_	Case=Nom|Gender=Masc|Number=Plur	_	_	_	LemmaId=37875|OccId=4826617|Unsandhied=te
+36	yathālokam	yathālokam	ADV	_		_	_	_	LemmaId=73483|OccId=4826618|Unsandhied=yathālokam
+37	agacchan	gam	VERB	_	Tense=Impf|Mood=Ind|Person=3|Number=Plur	_	_	_	LemmaId=156214|OccId=4826728|Unsandhied=agacchan|Punctuation=fullStop
 
 # text = tam ādityā āgacchaṃs ta enam abruvann ati no 'rjasy ākāśaṃ naḥ kurv iti sa nāstuto 'tisrakṣya ity abravīt stuta nu meti tatheti taṃ te saptadaśena stomenāstuvaṃs tān stuto 'tyārjata te yathālokam agacchan
-# sent_id = 642886
+# sent_id = 642327
 # sent_counter = 3
 # sent_subcounter = 
 1	tam	tad	PRON	_	Case=Acc|Gender=Masc|Number=Sing	_	_	_	LemmaId=37875|OccId=4826619|Unsandhied=tam
@@ -135,35 +137,36 @@
 12	kurv	kṛ	VERB	_	Tense=Pres|Mood=Imp|Person=2|Number=Sing	_	_	_	LemmaId=156168|OccId=4826629|Unsandhied=kuru
 13	iti	iti	PART	_		_	_	_	LemmaId=63331|OccId=4826630|Unsandhied=iti|Punctuation=fullStop
 14	sa	tad	PRON	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=37875|OccId=4826631|Unsandhied=sa|Punctuation=comma
-15-16	nāstuto	_	_	_	_	_	_	_	_
-15	na	na	PART	_		_	_	_	LemmaId=43432|OccId=4826632|Unsandhied=na
-16	astutaḥ	astuta	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=61231|OccId=4826633|Unsandhied=astutaḥ
-17	'tisrakṣya	atisṛj	VERB	_	Tense=Fut|Mood=Ind|Person=1|Number=Sing	_	_	_	LemmaId=157547|OccId=4826730|Unsandhied=atisrakṣye|Punctuation=comma
-18	ity	iti	PART	_		_	_	_	LemmaId=63331|OccId=4826634|Unsandhied=iti
-19	abravīt	brū	VERB	_	Tense=Impf|Mood=Ind|Person=3|Number=Sing	_	_	_	LemmaId=157262|OccId=4826635|Unsandhied=abravīt|Punctuation=fullStop
-20	stuta	stu	VERB	_	Tense=Pres|Mood=Imp|Person=2|Number=Plur	_	_	_	LemmaId=157515|OccId=4826636|Unsandhied=stuta
-21	nu	nu	PART	_		_	_	_	LemmaId=170168|OccId=4826637|Unsandhied=nu
-22-23	meti	_	_	_	_	_	_	_	_
-22	mā	mad	PRON	_	Case=Acc|Number=Sing	_	_	_	LemmaId=37879|OccId=4826638|Unsandhied=mā
-23	iti	iti	PART	_		_	_	_	LemmaId=63331|OccId=4826639|Unsandhied=iti|Punctuation=fullStop
-24-25	tatheti	_	_	_	_	_	_	_	_
-24	tathā	tathā	ADV	_		_	_	_	LemmaId=95987|OccId=4826640|Unsandhied=tathā
-25	iti	iti	PART	_		_	_	_	LemmaId=63331|OccId=4826641|Unsandhied=iti|Punctuation=fullStop
-26	taṃ	tad	PRON	_	Case=Acc|Gender=Masc|Number=Sing	_	_	_	LemmaId=37875|OccId=4826642|Unsandhied=tam
-27	te	tad	PRON	_	Case=Nom|Gender=Masc|Number=Plur	_	_	_	LemmaId=37875|OccId=4826643|Unsandhied=te
-28	saptadaśena	saptadaśa	ADJ	_	Case=Ins|Gender=Masc|Number=Sing	_	_	_	LemmaId=18098|OccId=4826644|Unsandhied=saptadaśena
-29-30	stomenāstuvaṃs	_	_	_	_	_	_	_	_
-29	stomena	stoma	NOUN	_	Case=Ins|Gender=Masc|Number=Sing	_	_	_	LemmaId=102445|OccId=4826645|Unsandhied=stomena
-30	astuvan	stu	VERB	_	Tense=Impf|Mood=Ind|Person=3|Number=Plur	_	_	_	LemmaId=157515|OccId=4826646|Unsandhied=astuvan|Punctuation=fullStop
-31	tān	tad	PRON	_	Case=Acc|Gender=Masc|Number=Plur	_	_	_	LemmaId=37875|OccId=4826647|Unsandhied=tān
-32	stuto	stu	VERB	_	Case=Nom|Gender=Masc|Number=Sing|VerbForm=Part	_	_	_	LemmaId=157515|OccId=4826648|Unsandhied=stutaḥ
-33	'tyārjata	atyṛj	VERB	_	Tense=Impf|Mood=Ind|Person=3|Number=Sing	_	_	_	LemmaId=157595|OccId=4826649|Unsandhied=atyārjata|Punctuation=fullStop
-34	te	tad	PRON	_	Case=Nom|Gender=Masc|Number=Plur	_	_	_	LemmaId=37875|OccId=4826650|Unsandhied=te
-35	yathālokam	yathālokam	ADV	_		_	_	_	LemmaId=73483|OccId=4826651|Unsandhied=yathālokam
-36	agacchan	gam	VERB	_	Tense=Impf|Mood=Ind|Person=3|Number=Plur	_	_	_	LemmaId=156214|OccId=4826731|Unsandhied=agacchan|Punctuation=fullStop
+15-17	nāstuto	_	_	_	_	_	_	_	_
+15	na	na	PART	_		_	_	_	LemmaId=43432|OccId=5921411|Unsandhied=na
+16	a	a	PART	_		_	_	_	LemmaId=213048|OccId=5921412|Unsandhied=a
+17	stutaḥ	stu	VERB	_	Case=Nom|Gender=Masc|Number=Sing|VerbForm=Part	_	_	_	LemmaId=157515|OccId=5921413|Unsandhied=stutaḥ
+18	'tisrakṣya	atisṛj	VERB	_	Tense=Fut|Mood=Ind|Person=1|Number=Sing	_	_	_	LemmaId=157547|OccId=4826730|Unsandhied=atisrakṣye|Punctuation=comma
+19	ity	iti	PART	_		_	_	_	LemmaId=63331|OccId=4826634|Unsandhied=iti
+20	abravīt	brū	VERB	_	Tense=Impf|Mood=Ind|Person=3|Number=Sing	_	_	_	LemmaId=157262|OccId=4826635|Unsandhied=abravīt|Punctuation=fullStop
+21	stuta	stu	VERB	_	Tense=Pres|Mood=Imp|Person=2|Number=Plur	_	_	_	LemmaId=157515|OccId=4826636|Unsandhied=stuta
+22	nu	nu	PART	_		_	_	_	LemmaId=170168|OccId=4826637|Unsandhied=nu
+23-24	meti	_	_	_	_	_	_	_	_
+23	mā	mad	PRON	_	Case=Acc|Number=Sing	_	_	_	LemmaId=37879|OccId=4826638|Unsandhied=mā
+24	iti	iti	PART	_		_	_	_	LemmaId=63331|OccId=4826639|Unsandhied=iti|Punctuation=fullStop
+25-26	tatheti	_	_	_	_	_	_	_	_
+25	tathā	tathā	ADV	_		_	_	_	LemmaId=95987|OccId=4826640|Unsandhied=tathā
+26	iti	iti	PART	_		_	_	_	LemmaId=63331|OccId=4826641|Unsandhied=iti|Punctuation=fullStop
+27	taṃ	tad	PRON	_	Case=Acc|Gender=Masc|Number=Sing	_	_	_	LemmaId=37875|OccId=4826642|Unsandhied=tam
+28	te	tad	PRON	_	Case=Nom|Gender=Masc|Number=Plur	_	_	_	LemmaId=37875|OccId=4826643|Unsandhied=te
+29	saptadaśena	saptadaśa	ADJ	_	Case=Ins|Gender=Masc|Number=Sing	_	_	_	LemmaId=18098|OccId=4826644|Unsandhied=saptadaśena
+30-31	stomenāstuvaṃs	_	_	_	_	_	_	_	_
+30	stomena	stoma	NOUN	_	Case=Ins|Gender=Masc|Number=Sing	_	_	_	LemmaId=102445|OccId=4826645|Unsandhied=stomena
+31	astuvan	stu	VERB	_	Tense=Impf|Mood=Ind|Person=3|Number=Plur	_	_	_	LemmaId=157515|OccId=4826646|Unsandhied=astuvan|Punctuation=fullStop
+32	tān	tad	PRON	_	Case=Acc|Gender=Masc|Number=Plur	_	_	_	LemmaId=37875|OccId=4826647|Unsandhied=tān
+33	stuto	stu	VERB	_	Case=Nom|Gender=Masc|Number=Sing|VerbForm=Part	_	_	_	LemmaId=157515|OccId=4826648|Unsandhied=stutaḥ
+34	'tyārjata	atyṛj	VERB	_	Tense=Impf|Mood=Ind|Person=3|Number=Sing	_	_	_	LemmaId=157595|OccId=4826649|Unsandhied=atyārjata|Punctuation=fullStop
+35	te	tad	PRON	_	Case=Nom|Gender=Masc|Number=Plur	_	_	_	LemmaId=37875|OccId=4826650|Unsandhied=te
+36	yathālokam	yathālokam	ADV	_		_	_	_	LemmaId=73483|OccId=4826651|Unsandhied=yathālokam
+37	agacchan	gam	VERB	_	Tense=Impf|Mood=Ind|Person=3|Number=Plur	_	_	_	LemmaId=156214|OccId=4826731|Unsandhied=agacchan|Punctuation=fullStop
 
 # text = taṃ viśve devā āgacchaṃs ta enam abruvann ati no 'rjasy ākāśaṃ naḥ kurv iti sa nāstuto 'tisrakṣya ity abravīt stuta nu meti tatheti taṃ ta ekaviṃśena stomenāstuvaṃs tān stuto 'tyārjata te yathālokam agacchan
-# sent_id = 642887
+# sent_id = 642328
 # sent_counter = 4
 # sent_subcounter = 
 1	taṃ	tad	PRON	_	Case=Acc|Gender=Masc|Number=Sing	_	_	_	LemmaId=37875|OccId=4826652|Unsandhied=tam
@@ -181,35 +184,36 @@
 13	kurv	kṛ	VERB	_	Tense=Pres|Mood=Imp|Person=2|Number=Sing	_	_	_	LemmaId=156168|OccId=4826663|Unsandhied=kuru
 14	iti	iti	PART	_		_	_	_	LemmaId=63331|OccId=4826664|Unsandhied=iti|Punctuation=fullStop
 15	sa	tad	PRON	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=37875|OccId=4826665|Unsandhied=sa|Punctuation=comma
-16-17	nāstuto	_	_	_	_	_	_	_	_
-16	na	na	PART	_		_	_	_	LemmaId=43432|OccId=4826666|Unsandhied=na
-17	astutaḥ	astuta	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=61231|OccId=4826667|Unsandhied=astutaḥ
-18	'tisrakṣya	atisṛj	VERB	_	Tense=Fut|Mood=Ind|Person=1|Number=Sing	_	_	_	LemmaId=157547|OccId=4826733|Unsandhied=atisrakṣye|Punctuation=comma
-19	ity	iti	PART	_		_	_	_	LemmaId=63331|OccId=4826668|Unsandhied=iti
-20	abravīt	brū	VERB	_	Tense=Impf|Mood=Ind|Person=3|Number=Sing	_	_	_	LemmaId=157262|OccId=4826669|Unsandhied=abravīt|Punctuation=fullStop
-21	stuta	stu	VERB	_	Tense=Pres|Mood=Imp|Person=2|Number=Plur	_	_	_	LemmaId=157515|OccId=4826670|Unsandhied=stuta
-22	nu	nu	PART	_		_	_	_	LemmaId=170168|OccId=4826671|Unsandhied=nu
-23-24	meti	_	_	_	_	_	_	_	_
-23	mā	mad	PRON	_	Case=Acc|Number=Sing	_	_	_	LemmaId=37879|OccId=4826672|Unsandhied=mā
-24	iti	iti	PART	_		_	_	_	LemmaId=63331|OccId=4826673|Unsandhied=iti|Punctuation=fullStop
-25-26	tatheti	_	_	_	_	_	_	_	_
-25	tathā	tathā	ADV	_		_	_	_	LemmaId=95987|OccId=4826674|Unsandhied=tathā
-26	iti	iti	PART	_		_	_	_	LemmaId=63331|OccId=4826675|Unsandhied=iti|Punctuation=fullStop
-27	taṃ	tad	PRON	_	Case=Acc|Gender=Masc|Number=Sing	_	_	_	LemmaId=37875|OccId=4826676|Unsandhied=tam
-28	ta	tad	PRON	_	Case=Nom|Gender=Masc|Number=Plur	_	_	_	LemmaId=37875|OccId=4826677|Unsandhied=te
-29	ekaviṃśena	ekaviṃśa	ADJ	_	Case=Ins|Gender=Masc|Number=Sing	_	_	_	LemmaId=39387|OccId=4826678|Unsandhied=ekaviṃśena
-30-31	stomenāstuvaṃs	_	_	_	_	_	_	_	_
-30	stomena	stoma	NOUN	_	Case=Ins|Gender=Masc|Number=Sing	_	_	_	LemmaId=102445|OccId=4826679|Unsandhied=stomena
-31	astuvan	stu	VERB	_	Tense=Impf|Mood=Ind|Person=3|Number=Plur	_	_	_	LemmaId=157515|OccId=4826680|Unsandhied=astuvan|Punctuation=fullStop
-32	tān	tad	PRON	_	Case=Acc|Gender=Masc|Number=Plur	_	_	_	LemmaId=37875|OccId=4826681|Unsandhied=tān
-33	stuto	stu	VERB	_	Case=Nom|Gender=Masc|Number=Sing|VerbForm=Part	_	_	_	LemmaId=157515|OccId=4826682|Unsandhied=stutaḥ
-34	'tyārjata	atyṛj	VERB	_	Tense=Impf|Mood=Ind|Person=3|Number=Sing	_	_	_	LemmaId=157595|OccId=4826683|Unsandhied=atyārjata|Punctuation=fullStop
-35	te	tad	PRON	_	Case=Nom|Gender=Masc|Number=Plur	_	_	_	LemmaId=37875|OccId=4826684|Unsandhied=te
-36	yathālokam	yathālokam	ADV	_		_	_	_	LemmaId=73483|OccId=4826685|Unsandhied=yathālokam
-37	agacchan	gam	VERB	_	Tense=Impf|Mood=Ind|Person=3|Number=Plur	_	_	_	LemmaId=156214|OccId=4826734|Unsandhied=agacchan|Punctuation=fullStop
+16-18	nāstuto	_	_	_	_	_	_	_	_
+16	na	na	PART	_		_	_	_	LemmaId=43432|OccId=5921414|Unsandhied=na
+17	a	a	PART	_		_	_	_	LemmaId=213048|OccId=5921415|Unsandhied=a
+18	stutaḥ	stu	VERB	_	Case=Nom|Gender=Masc|Number=Sing|VerbForm=Part	_	_	_	LemmaId=157515|OccId=5921416|Unsandhied=stutaḥ
+19	'tisrakṣya	atisṛj	VERB	_	Tense=Fut|Mood=Ind|Person=1|Number=Sing	_	_	_	LemmaId=157547|OccId=4826733|Unsandhied=atisrakṣye|Punctuation=comma
+20	ity	iti	PART	_		_	_	_	LemmaId=63331|OccId=4826668|Unsandhied=iti
+21	abravīt	brū	VERB	_	Tense=Impf|Mood=Ind|Person=3|Number=Sing	_	_	_	LemmaId=157262|OccId=4826669|Unsandhied=abravīt|Punctuation=fullStop
+22	stuta	stu	VERB	_	Tense=Pres|Mood=Imp|Person=2|Number=Plur	_	_	_	LemmaId=157515|OccId=4826670|Unsandhied=stuta
+23	nu	nu	PART	_		_	_	_	LemmaId=170168|OccId=4826671|Unsandhied=nu
+24-25	meti	_	_	_	_	_	_	_	_
+24	mā	mad	PRON	_	Case=Acc|Number=Sing	_	_	_	LemmaId=37879|OccId=4826672|Unsandhied=mā
+25	iti	iti	PART	_		_	_	_	LemmaId=63331|OccId=4826673|Unsandhied=iti|Punctuation=fullStop
+26-27	tatheti	_	_	_	_	_	_	_	_
+26	tathā	tathā	ADV	_		_	_	_	LemmaId=95987|OccId=4826674|Unsandhied=tathā
+27	iti	iti	PART	_		_	_	_	LemmaId=63331|OccId=4826675|Unsandhied=iti|Punctuation=fullStop
+28	taṃ	tad	PRON	_	Case=Acc|Gender=Masc|Number=Sing	_	_	_	LemmaId=37875|OccId=4826676|Unsandhied=tam
+29	ta	tad	PRON	_	Case=Nom|Gender=Masc|Number=Plur	_	_	_	LemmaId=37875|OccId=4826677|Unsandhied=te
+30	ekaviṃśena	ekaviṃśa	ADJ	_	Case=Ins|Gender=Masc|Number=Sing	_	_	_	LemmaId=39387|OccId=4826678|Unsandhied=ekaviṃśena
+31-32	stomenāstuvaṃs	_	_	_	_	_	_	_	_
+31	stomena	stoma	NOUN	_	Case=Ins|Gender=Masc|Number=Sing	_	_	_	LemmaId=102445|OccId=4826679|Unsandhied=stomena
+32	astuvan	stu	VERB	_	Tense=Impf|Mood=Ind|Person=3|Number=Plur	_	_	_	LemmaId=157515|OccId=4826680|Unsandhied=astuvan|Punctuation=fullStop
+33	tān	tad	PRON	_	Case=Acc|Gender=Masc|Number=Plur	_	_	_	LemmaId=37875|OccId=4826681|Unsandhied=tān
+34	stuto	stu	VERB	_	Case=Nom|Gender=Masc|Number=Sing|VerbForm=Part	_	_	_	LemmaId=157515|OccId=4826682|Unsandhied=stutaḥ
+35	'tyārjata	atyṛj	VERB	_	Tense=Impf|Mood=Ind|Person=3|Number=Sing	_	_	_	LemmaId=157595|OccId=4826683|Unsandhied=atyārjata|Punctuation=fullStop
+36	te	tad	PRON	_	Case=Nom|Gender=Masc|Number=Plur	_	_	_	LemmaId=37875|OccId=4826684|Unsandhied=te
+37	yathālokam	yathālokam	ADV	_		_	_	_	LemmaId=73483|OccId=4826685|Unsandhied=yathālokam
+38	agacchan	gam	VERB	_	Tense=Impf|Mood=Ind|Person=3|Number=Plur	_	_	_	LemmaId=156214|OccId=4826734|Unsandhied=agacchan|Punctuation=fullStop
 
 # text = ekaikena vai taṃ devāḥ stomenāstuvaṃs tān stuto 'tyārjata te yathālokam agacchan
-# sent_id = 642888
+# sent_id = 642329
 # sent_counter = 5
 # sent_subcounter = 
 1	ekaikena	ekaika	PRON	_	Case=Ins|Gender=Masc|Number=Sing	_	_	_	LemmaId=39573|OccId=4826686|Unsandhied=ekaikena
@@ -227,7 +231,7 @@
 12	agacchan	gam	VERB	_	Tense=Impf|Mood=Ind|Person=3|Number=Plur	_	_	_	LemmaId=156214|OccId=4826737|Unsandhied=agacchan|Punctuation=fullStop
 
 # text = atha hainam eṣa etaiḥ sarvaiḥ stomaiḥ stauti yo yajate
-# sent_id = 642889
+# sent_id = 642330
 # sent_counter = 6
 # sent_subcounter = 
 1	atha	atha	ADV	_		_	_	_	LemmaId=7467|OccId=4826695|Unsandhied=atha
@@ -243,7 +247,7 @@
 10	yajate	yaj	VERB	_	Tense=Pres|Mood=Ind|Person=3|Number=Sing	_	_	_	LemmaId=157422|OccId=4826704|Unsandhied=yajate|Punctuation=fullStop
 
 # text = yaś cainam evaṃ vedātī tu tam arjātāḥ
-# sent_id = 642890
+# sent_id = 642331
 # sent_counter = 7
 # sent_subcounter = 
 1	yaś	yad	PRON	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=37877|OccId=4826705|Unsandhied=yaḥ
@@ -255,7 +259,7 @@
 6	tam	tad	PRON	_	Case=Acc|Gender=Masc|Number=Sing	_	_	_	LemmaId=37875|OccId=4826710|Unsandhied=tam
 
 # text = ati ha vā enam arjate svargaṃ lokam abhi ya evaṃ veda
-# sent_id = 642891
+# sent_id = 642332
 # sent_counter = 8
 # sent_subcounter = 
 1	ati	ati	ADP	_		_	_	_	LemmaId=167215|OccId=4826711|Unsandhied=ati

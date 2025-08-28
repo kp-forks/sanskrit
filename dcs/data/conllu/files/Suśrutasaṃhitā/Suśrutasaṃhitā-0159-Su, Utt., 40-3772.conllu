@@ -4628,7 +4628,7 @@
 8	ca	ca	CONJ	_		_	_	_	LemmaId=157144|OccId=1490090|Unsandhied=ca|UnsandhiedReconstructed=True
 9	apare	apara	PRON	_	Case=Nom|Gender=Masc|Number=Plur	_	_	_	LemmaId=166280|OccId=1490091|Unsandhied=apare|UnsandhiedReconstructed=True
 
-# text = karmadoṣodbhavāścānye karmajāsteṣvahetukāḥ
+# text = karmadoṣodbhavāścānye karmajās teṣv ahetukāḥ
 # sent_id = 14503
 # sent_counter = 163
 # sent_subcounter = 2
@@ -4638,11 +4638,13 @@
 3	udbhavāḥ	udbhava	ADJ	_	Case=Nom|Gender=Masc|Number=Plur	_	_	_	LemmaId=56857|OccId=1490094|Unsandhied=udbhavāḥ|UnsandhiedReconstructed=True
 4	ca	ca	CONJ	_		_	_	_	LemmaId=157144|OccId=1490095|Unsandhied=ca|UnsandhiedReconstructed=True
 5	anye	anya	PRON	_	Case=Nom|Gender=Masc|Number=Plur	_	_	_	LemmaId=164189|OccId=1490096|Unsandhied=anye|UnsandhiedReconstructed=True
-6-9	karmajāsteṣvahetukāḥ	_	_	_	_	_	_	_	_
-6	karma	karman	NOUN	_	Case=Cpd	_	_	_	LemmaId=12243|OccId=1490097|Unsandhied=karma|UnsandhiedReconstructed=True
-7	jāḥ	ja	ADJ	_	Case=Nom|Gender=Masc|Number=Plur	_	_	_	LemmaId=52879|OccId=1490098|Unsandhied=jāḥ|UnsandhiedReconstructed=True
-8	teṣu	tad	PRON	_	Case=Loc|Gender=Masc|Number=Plur	_	_	_	LemmaId=37875|OccId=1490099|Unsandhied=teṣu|UnsandhiedReconstructed=True
-9	ahetukāḥ	ahetuka	ADJ	_	Case=Nom|Gender=Masc|Number=Plur	_	_	_	LemmaId=61692|OccId=1490100|Unsandhied=ahetukāḥ|UnsandhiedReconstructed=True
+6-7	karmajās	_	_	_	_	_	_	_	_
+6	karma	karman	NOUN	_	Case=Cpd	_	_	_	LemmaId=12243|OccId=5945008|Unsandhied=karma
+7	jāḥ	ja	ADJ	_	Case=Nom|Gender=Masc|Number=Plur	_	_	_	LemmaId=52879|OccId=5945009|Unsandhied=jāḥ
+8	teṣv	tad	PRON	_	Case=Loc|Gender=Masc|Number=Plur	_	_	_	LemmaId=37875|OccId=5945010|Unsandhied=teṣu
+9-10	ahetukāḥ	_	_	_	_	_	_	_	_
+9	a	a	PART	_		_	_	_	LemmaId=213048|OccId=5945011|Unsandhied=a
+10	hetukāḥ	hetuka	ADJ	_	Case=Nom|Gender=Masc|Number=Plur	_	_	_	LemmaId=110782|OccId=5945012|Unsandhied=hetukāḥ
 
 # text = naśyanti tvakriyābhiste kriyābhiḥ karmasaṃkṣaye
 # sent_id = 14504

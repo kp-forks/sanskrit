@@ -1,0 +1,51 @@
+## text: Mīmāṃsāsūtrabhāṣya
+## text_id: 572
+## chapter: MīSūBhā, 1, 3, 34
+## chapter_id: 17432
+# text = atha yad uktaṃ na kriyā sambhaved vrīhīn prokṣatīti
+# sent_id = 757548
+# sent_counter = 1
+# sent_subcounter = 
+1	atha	atha	ADV	_		_	_	_	LemmaId=7467|OccId=5947325|Unsandhied=atha
+2	yad	yad	PRON	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=37877|OccId=5947326|Unsandhied=yat
+3	uktaṃ	vac	VERB	_	Case=Nom|Gender=Neut|Number=Sing|VerbForm=Part	_	_	_	LemmaId=157264|OccId=5947327|Unsandhied=uktam
+4	na	na	PART	_		_	_	_	LemmaId=43432|OccId=5947328|Unsandhied=na
+5	kriyā	kriyā	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	_	_	_	LemmaId=133808|OccId=5947329|Unsandhied=kriyā
+6	sambhaved	sambhū	VERB	_	Tense=Pres|Mood=Opt|Person=3|Number=Sing	_	_	_	LemmaId=165581|OccId=5947351|Unsandhied=sambhavet
+7	vrīhīn	vrīhi	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	_	_	_	LemmaId=165641|OccId=5947352|Unsandhied=vrīhīn
+8-9	prokṣatīti	_	_	_	_	_	_	_	_
+8	prokṣati	prokṣ	VERB	_	Tense=Pres|Mood=Ind|Person=3|Number=Sing	_	_	_	LemmaId=163190|OccId=5947330|Unsandhied=prokṣati
+9	iti	iti	PART	_		_	_	_	LemmaId=63331|OccId=5947331|Unsandhied=iti
+
+# text = na dravyaśabdaḥ syāt ṣaḍ deyā iti anyadarśanavacanaṃ ca na syād anyaṃ tadrūpam iti
+# sent_id = 757549
+# sent_counter = 2
+# sent_subcounter = 
+1	na	na	PART	_		_	_	_	LemmaId=43432|OccId=5947332|Unsandhied=na
+2-3	dravyaśabdaḥ	_	_	_	_	_	_	_	_
+2	dravya	dravya	NOUN	_	Case=Cpd	_	_	_	LemmaId=90455|OccId=5947333|Unsandhied=dravya
+3	śabdaḥ	śabda	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=116648|OccId=5947334|Unsandhied=śabdaḥ
+4	syāt	as	VERB	_	Tense=Pres|Mood=Opt|Person=3|Number=Sing	_	_	_	LemmaId=156122|OccId=5947335|Unsandhied=syāt
+5	ṣaḍ	ṣaṣ	NUM	_	Case=Nom|Gender=Masc|Number=Plur	_	_	_	LemmaId=41703|OccId=5947336|Unsandhied=ṣaṭ
+6	deyā	dā	VERB	_	Case=Nom|Gender=Masc|Number=Plur|VerbForm=Gdv	_	_	_	LemmaId=157372|OccId=5947337|Unsandhied=deyāḥ
+7	iti	iti	PART	_		_	_	_	LemmaId=63331|OccId=5947338|Unsandhied=iti
+8-10	anyadarśanavacanaṃ	_	_	_	_	_	_	_	_
+8	anya	anya	PRON	_	Case=Cpd	_	_	_	LemmaId=164189|OccId=5947339|Unsandhied=anya
+9	darśana	darśana	NOUN	_	Case=Cpd	_	_	_	LemmaId=146419|OccId=5947340|Unsandhied=darśana
+10	vacanam	vacana	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=67855|OccId=5947341|Unsandhied=vacanam
+11	ca	ca	CONJ	_		_	_	_	LemmaId=157144|OccId=5947342|Unsandhied=ca
+12	na	na	PART	_		_	_	_	LemmaId=43432|OccId=5947343|Unsandhied=na
+13	syād	as	VERB	_	Tense=Pres|Mood=Opt|Person=3|Number=Sing	_	_	_	LemmaId=156122|OccId=5947344|Unsandhied=syāt
+14	anyaṃ	anya	PRON	_	Case=Acc|Gender=Masc|Number=Sing	_	_	_	LemmaId=164189|OccId=5947345|Unsandhied=anyam
+15-16	tadrūpam	_	_	_	_	_	_	_	_
+15	tad	tad	PRON	_	Case=Cpd	_	_	_	LemmaId=37875|OccId=5947346|Unsandhied=tad
+16	rūpam	rūpa	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	_	_	_	LemmaId=71929|OccId=5947347|Unsandhied=rūpam
+17	iti	iti	PART	_		_	_	_	LemmaId=63331|OccId=5947348|Unsandhied=iti
+
+# text = tat parihartavyam
+# sent_id = 757550
+# sent_counter = 3
+# sent_subcounter = 
+1	tat	tad	PRON	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=37875|OccId=5947349|Unsandhied=tat
+2	parihartavyam	parihṛ	VERB	_	Case=Nom|Gender=Neut|Number=Sing|VerbForm=Gdv	_	_	_	LemmaId=162246|OccId=5947350|Unsandhied=parihartavyam
+

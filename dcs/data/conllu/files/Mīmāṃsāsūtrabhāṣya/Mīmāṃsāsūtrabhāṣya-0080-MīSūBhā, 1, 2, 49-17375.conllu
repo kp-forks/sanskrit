@@ -1,0 +1,99 @@
+## text: Mīmāṃsāsūtrabhāṣya
+## text_id: 572
+## chapter: MīSūBhā, 1, 2, 49
+## chapter_id: 17375
+# text = vidyamāno 'py arthaḥ pramādālasyādibhir nopalabhyate
+# sent_id = 757096
+# sent_counter = 1
+# sent_subcounter = 
+1	vidyamāno	vid	VERB	_	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part	_	_	_	LemmaId=158058|OccId=5929573|Unsandhied=vidyamānaḥ
+2	'py	api	PART	_		_	_	_	LemmaId=21365|OccId=5929574|Unsandhied=api
+3	arthaḥ	artha	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=53136|OccId=5929575|Unsandhied=arthaḥ
+4-6	pramādālasyādibhir	_	_	_	_	_	_	_	_
+4	pramāda	pramāda	NOUN	_	Case=Cpd	_	_	_	LemmaId=141010|OccId=5929576|Unsandhied=pramāda
+5	ālasya	ālasya	NOUN	_	Case=Cpd	_	_	_	LemmaId=62284|OccId=5929577|Unsandhied=ālasya
+6	ādibhiḥ	ādi	NOUN	_	Case=Ins|Gender=Neut|Number=Plur	_	_	_	LemmaId=57973|OccId=5929578|Unsandhied=ādibhiḥ
+7-8	nopalabhyate	_	_	_	_	_	_	_	_
+7	na	na	PART	_		_	_	_	LemmaId=43432|OccId=5929579|Unsandhied=na
+8	upalabhyate	upalabh	VERB	_	Tense=Pres|Mood=Ind|Voice=Pass|Person=3|Number=Sing	_	_	_	LemmaId=160529|OccId=5929580|Unsandhied=upalabhyate
+
+# text = nigamaniruktavyākaraṇavaśena dhātuto 'rthaḥ kalpayitavyaḥ
+# sent_id = 757097
+# sent_counter = 2
+# sent_subcounter = 
+1-4	nigamaniruktavyākaraṇavaśena	_	_	_	_	_	_	_	_
+1	nigama	nigama	NOUN	_	Case=Cpd	_	_	_	LemmaId=34877|OccId=5929581|Unsandhied=nigama
+2	nirukta	nirukta	NOUN	_	Case=Cpd	_	_	_	LemmaId=27659|OccId=5929582|Unsandhied=nirukta
+3	vyākaraṇa	vyākaraṇa	NOUN	_	Case=Cpd	_	_	_	LemmaId=121070|OccId=5929583|Unsandhied=vyākaraṇa
+4	vaśena	vaśa	NOUN	_	Case=Ins|Gender=Masc|Number=Sing	_	_	_	LemmaId=75122|OccId=5929584|Unsandhied=vaśena
+5	dhātuto	dhātu	NOUN	_	Case=Abl|Gender=Masc|Number=Sing	_	_	_	LemmaId=92416|OccId=5929585|Unsandhied=dhātutaḥ
+6	'rthaḥ	artha	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=53136|OccId=5929586|Unsandhied=arthaḥ
+7	kalpayitavyaḥ	kalpay	VERB	_	Case=Nom|Gender=Masc|Number=Sing|VerbForm=Gdv	_	_	_	LemmaId=156177|OccId=5929587|Unsandhied=kalpayitavyaḥ
+
+# text = yathā sṛṇyeva jarbharī turpharītv ityevamādīny aśvinor abhidhānāni dvivacanāntāni lakṣyante
+# sent_id = 757098
+# sent_counter = 3
+# sent_subcounter = 
+1	yathā	yathā	PART	_		_	_	_	LemmaId=73250|OccId=5929588|Unsandhied=yathā
+2-3	sṛṇyeva	_	_	_	_	_	_	_	_
+2	sṛṇyā	sṛṇya	ADJ	_	Case=Nom|Gender=Masc|Number=Dual	_	_	_	LemmaId=99633|OccId=5929622|Unsandhied=sṛṇyā
+3	iva	iva	PART	_		_	_	_	LemmaId=63807|OccId=5929623|Unsandhied=iva
+4	jarbharī	jarbhari	ADJ	_	Case=Nom|Gender=Masc|Number=Dual	_	_	_	LemmaId=88020|OccId=5929591|Unsandhied=jarbharī
+5-6	ityevamādīny	_	_	_	_	_	_	_	_
+5	iti	iti	PART	_		_	_	_	LemmaId=63331|OccId=5929592|Unsandhied=iti
+6	evamādīni	evamādi	ADJ	_	Case=Nom|Gender=Neut|Number=Plur	_	_	_	LemmaId=39790|OccId=5929593|Unsandhied=evamādīni
+7	aśvinor	aśvin	NOUN	_	Case=Gen|Gender=Masc|Number=Dual	_	_	_	LemmaId=60409|OccId=5929594|Unsandhied=aśvinoḥ
+8	abhidhānāni	abhidhāna	NOUN	_	Case=Nom|Gender=Neut|Number=Plur	_	_	_	LemmaId=22237|OccId=5929595|Unsandhied=abhidhānāni
+9-10	dvivacanāntāni	_	_	_	_	_	_	_	_
+9	dvivacana	dvivacana	NOUN	_	Case=Cpd	_	_	_	LemmaId=91163|OccId=5929596|Unsandhied=dvivacana
+10	antāni	anta	NOUN	_	Case=Nom|Gender=Neut|Number=Plur	_	_	_	LemmaId=11658|OccId=5929597|Unsandhied=antāni
+11	lakṣyante	lakṣay	VERB	_	Tense=Pres|Mood=Ind|Voice=Pass|Person=3|Number=Plur	_	_	_	LemmaId=159902|OccId=5929598|Unsandhied=lakṣyante
+
+# text = anenāśvinoḥ kāmam aprā ity āśvinaṃ sūktam avagamyate
+# sent_id = 757099
+# sent_counter = 4
+# sent_subcounter = 
+1-2	anenāśvinoḥ	_	_	_	_	_	_	_	_
+1	anena	idam	PRON	_	Case=Ins|Gender=Neut|Number=Sing	_	_	_	LemmaId=37876|OccId=5929599|Unsandhied=anena
+2	aśvinoḥ	aśvin	NOUN	_	Case=Gen|Gender=Masc|Number=Dual	_	_	_	LemmaId=60409|OccId=5929600|Unsandhied=aśvinoḥ
+3	kāmam	kāma	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	_	_	_	LemmaId=13752|OccId=5929601|Unsandhied=kāmam
+4	aprā	prā	VERB	_	Tense=Past|Mood=Ind|Formation=root|Person=3|Number=Sing	_	_	_	LemmaId=218680|OccId=5929602|Unsandhied=aprāḥ
+5	ity	iti	PART	_		_	_	_	LemmaId=63331|OccId=5929603|Unsandhied=iti
+6	āśvinaṃ	āśvina	ADJ	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=62821|OccId=5929604|Unsandhied=āśvinam
+7	sūktam	sūkta	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=98934|OccId=5929605|Unsandhied=sūktam
+8	avagamyate	avagam	VERB	_	Tense=Pres|Mood=Ind|Voice=Pass|Person=3|Number=Sing	_	_	_	LemmaId=159457|OccId=5929606|Unsandhied=avagamyate
+
+# text = devatābhidhānāni ca ghaṭante jarbharītyevamādīni
+# sent_id = 757100
+# sent_counter = 5
+# sent_subcounter = 
+1-2	devatābhidhānāni	_	_	_	_	_	_	_	_
+1	devatā	devatā	NOUN	_	Case=Cpd	_	_	_	LemmaId=87093|OccId=5929607|Unsandhied=devatā
+2	abhidhānāni	abhidhāna	NOUN	_	Case=Nom|Gender=Neut|Number=Plur	_	_	_	LemmaId=22237|OccId=5929608|Unsandhied=abhidhānāni
+3	ca	ca	CONJ	_		_	_	_	LemmaId=157144|OccId=5929609|Unsandhied=ca
+4	ghaṭante	ghaṭ	VERB	_	Tense=Pres|Mood=Ind|Person=3|Number=Plur	_	_	_	LemmaId=156236|OccId=5929610|Unsandhied=ghaṭante
+5-7	jarbharītyevamādīni	_	_	_	_	_	_	_	_
+5	jarbharī	jarbhari	ADJ	_	Case=Nom|Gender=Masc|Number=Dual	_	_	_	LemmaId=88020|OccId=5929611|Unsandhied=jarbharī
+6	iti	iti	PART	_		_	_	_	LemmaId=63331|OccId=5929612|Unsandhied=iti
+7	evamādīni	evamādi	ADJ	_	Case=Nom|Gender=Neut|Number=Plur	_	_	_	LemmaId=39790|OccId=5929613|Unsandhied=evamādīni
+
+# text = avayavaprasiddhyā ca laukikenārthena viśeṣyante
+# sent_id = 757101
+# sent_counter = 6
+# sent_subcounter = 
+1-2	avayavaprasiddhyā	_	_	_	_	_	_	_	_
+1	avayava	avayava	NOUN	_	Case=Cpd	_	_	_	LemmaId=54426|OccId=5929614|Unsandhied=avayava
+2	prasiddhyā	prasiddhi	NOUN	_	Case=Ins|Gender=Fem|Number=Sing	_	_	_	LemmaId=155717|OccId=5929615|Unsandhied=prasiddhyā
+3	ca	ca	CONJ	_		_	_	_	LemmaId=157144|OccId=5929616|Unsandhied=ca
+4-5	laukikenārthena	_	_	_	_	_	_	_	_
+4	laukikena	laukika	ADJ	_	Case=Ins|Gender=Masc|Number=Sing	_	_	_	LemmaId=67445|OccId=5929617|Unsandhied=laukikena
+5	arthena	artha	NOUN	_	Case=Ins|Gender=Masc|Number=Sing	_	_	_	LemmaId=53136|OccId=5929618|Unsandhied=arthena
+6	viśeṣyante	viśeṣay	VERB	_	Tense=Pres|Mood=Ind|Voice=Pass|Person=3|Number=Plur	_	_	_	LemmaId=163612|OccId=5929619|Unsandhied=viśeṣyante
+
+# text = evaṃ sarvatra
+# sent_id = 757102
+# sent_counter = 7
+# sent_subcounter = 
+1	evaṃ	evam	ADV	_		_	_	_	LemmaId=39758|OccId=5929620|Unsandhied=evam
+2	sarvatra	sarvatra	ADV	_		_	_	_	LemmaId=105151|OccId=5929621|Unsandhied=sarvatra
+

@@ -916,7 +916,7 @@
 19	śāstra	śāstra	NOUN	_	Case=Cpd	_	_	_	LemmaId=131506|OccId=955473|Unsandhied=śāstra|UnsandhiedReconstructed=True|WordSem=101165
 20	siddhāntāt	siddhānta	NOUN	_	Case=Abl|Gender=Masc|Number=Sing	_	_	_	LemmaId=106190|OccId=955474|Unsandhied=siddhāntāt|UnsandhiedReconstructed=True|Punctuation=fullStop|WordSem=28595
 
-# text = tatra balena sthiropacitamāṃsatā sarvaceṣṭāsvapratighātaḥ svaravarṇaprasādo bāhyānāmābhyantarāṇāṃ ca karaṇānāmātmakāryapratipattirbhavati
+# text = tatra balena sthiropacitamāṃsatā sarvaceṣṭāsv apratighātaḥ svaravarṇaprasādo bāhyānāmābhyantarāṇāṃ ca karaṇānāmātmakāryapratipattirbhavati
 # sent_id = 1490
 # sent_counter = 20
 # sent_subcounter = 1
@@ -927,24 +927,26 @@
 4	upacita	upaci	VERB	_	Case=Cpd|VerbForm=Part	_	_	_	LemmaId=160378|OccId=2102434|Unsandhied=upacita|UnsandhiedReconstructed=True|WordSem=85156
 5	māṃsa	māṃsa	NOUN	_	Case=Cpd	_	_	_	LemmaId=78223|OccId=2102435|Unsandhied=māṃsa|UnsandhiedReconstructed=True|WordSem=25895
 6	tā	tā	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	_	_	_	LemmaId=203679|OccId=2102436|Unsandhied=tā|UnsandhiedReconstructed=True|WordSem=592
-7-9	sarvaceṣṭāsvapratighātaḥ	_	_	_	_	_	_	_	_
-7	sarva	sarva	PRON	_	Case=Cpd	_	_	_	LemmaId=104444|OccId=955904|Unsandhied=sarva|UnsandhiedReconstructed=True|WordSem=79411
-8	ceṣṭāsu	ceṣṭā	NOUN	_	Case=Loc|Gender=Fem|Number=Plur	_	_	_	LemmaId=52206|OccId=955905|Unsandhied=ceṣṭāsu|UnsandhiedReconstructed=True|WordSem=610
-9	apratighātaḥ	apratighāta	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=170985|OccId=955906|Unsandhied=apratighātaḥ|UnsandhiedReconstructed=True
-10-12	svaravarṇaprasādo	_	_	_	_	_	_	_	_
-10	svara	svara	NOUN	_	Case=Cpd	_	_	_	LemmaId=121824|OccId=955477|Unsandhied=svara|UnsandhiedReconstructed=True|WordSem=33364
-11	varṇa	varṇa	NOUN	_	Case=Cpd	_	_	_	LemmaId=74430|OccId=955478|Unsandhied=varṇa|UnsandhiedReconstructed=True|WordSem=24672
-12	prasādaḥ	prasāda	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=155687|OccId=955479|Unsandhied=prasādaḥ|UnsandhiedReconstructed=True|WordSem=23450
-13-14	bāhyānāmābhyantarāṇāṃ	_	_	_	_	_	_	_	_
-13	bāhyānām	bāhya	ADJ	_	Case=Gen|Gender=Neut|Number=Plur	_	_	_	LemmaId=148892|OccId=955480|Unsandhied=bāhyānām|UnsandhiedReconstructed=True|WordSem=71881
-14	ābhyantarāṇām	ābhyantara	ADJ	_	Case=Gen|Gender=Neut|Number=Plur	_	_	_	LemmaId=58910|OccId=955481|Unsandhied=ābhyantarāṇām|UnsandhiedReconstructed=True|WordSem=71885
-15	ca	ca	CONJ	_		_	_	_	LemmaId=157144|OccId=955482|Unsandhied=ca|UnsandhiedReconstructed=True|WordSem=104004
-16-20	karaṇānāmātmakāryapratipattirbhavati	_	_	_	_	_	_	_	_
-16	karaṇānām	karaṇa	NOUN	_	Case=Gen|Gender=Neut|Number=Plur	_	_	_	LemmaId=2379|OccId=955483|Unsandhied=karaṇānām|UnsandhiedReconstructed=True|WordSem=26025
-17	ātma	ātman	NOUN	_	Case=Cpd	_	_	_	LemmaId=57749|OccId=955484|Unsandhied=ātma|UnsandhiedReconstructed=True|WordSem=27561
-18	kārya	kārya	NOUN	_	Case=Cpd	_	_	_	LemmaId=14320|OccId=955485|Unsandhied=kārya|UnsandhiedReconstructed=True|WordSem=25445
-19	pratipattiḥ	pratipatti	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	_	_	_	LemmaId=139731|OccId=955486|Unsandhied=pratipattiḥ|UnsandhiedReconstructed=True
-20	bhavati	bhū	VERB	_	Tense=Pres|Mood=Ind|Person=3|Number=Sing	_	_	_	LemmaId=157250|OccId=955487|Unsandhied=bhavati|Punctuation=fullStop|WordSem=96007
+7-8	sarvaceṣṭāsv	_	_	_	_	_	_	_	_
+7	sarva	sarva	PRON	_	Case=Cpd	_	_	_	LemmaId=104444|OccId=5915263|Unsandhied=sarva
+8	ceṣṭāsu	ceṣṭā	NOUN	_	Case=Loc|Gender=Fem|Number=Plur	_	_	_	LemmaId=52206|OccId=5915264|Unsandhied=ceṣṭāsu
+9-10	apratighātaḥ	_	_	_	_	_	_	_	_
+9	a	a	PART	_		_	_	_	LemmaId=213048|OccId=5915261|Unsandhied=a
+10	pratighātaḥ	pratighāta	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=139711|OccId=5915262|Unsandhied=pratighātaḥ
+11-13	svaravarṇaprasādo	_	_	_	_	_	_	_	_
+11	svara	svara	NOUN	_	Case=Cpd	_	_	_	LemmaId=121824|OccId=955477|Unsandhied=svara|UnsandhiedReconstructed=True|WordSem=33364
+12	varṇa	varṇa	NOUN	_	Case=Cpd	_	_	_	LemmaId=74430|OccId=955478|Unsandhied=varṇa|UnsandhiedReconstructed=True|WordSem=24672
+13	prasādaḥ	prasāda	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=155687|OccId=955479|Unsandhied=prasādaḥ|UnsandhiedReconstructed=True|WordSem=23450
+14-15	bāhyānāmābhyantarāṇāṃ	_	_	_	_	_	_	_	_
+14	bāhyānām	bāhya	ADJ	_	Case=Gen|Gender=Neut|Number=Plur	_	_	_	LemmaId=148892|OccId=955480|Unsandhied=bāhyānām|UnsandhiedReconstructed=True|WordSem=71881
+15	ābhyantarāṇām	ābhyantara	ADJ	_	Case=Gen|Gender=Neut|Number=Plur	_	_	_	LemmaId=58910|OccId=955481|Unsandhied=ābhyantarāṇām|UnsandhiedReconstructed=True|WordSem=71885
+16	ca	ca	CONJ	_		_	_	_	LemmaId=157144|OccId=955482|Unsandhied=ca|UnsandhiedReconstructed=True|WordSem=104004
+17-21	karaṇānāmātmakāryapratipattirbhavati	_	_	_	_	_	_	_	_
+17	karaṇānām	karaṇa	NOUN	_	Case=Gen|Gender=Neut|Number=Plur	_	_	_	LemmaId=2379|OccId=955483|Unsandhied=karaṇānām|UnsandhiedReconstructed=True|WordSem=26025
+18	ātma	ātman	NOUN	_	Case=Cpd	_	_	_	LemmaId=57749|OccId=955484|Unsandhied=ātma|UnsandhiedReconstructed=True|WordSem=27561
+19	kārya	kārya	NOUN	_	Case=Cpd	_	_	_	LemmaId=14320|OccId=955485|Unsandhied=kārya|UnsandhiedReconstructed=True|WordSem=25445
+20	pratipattiḥ	pratipatti	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	_	_	_	LemmaId=139731|OccId=955486|Unsandhied=pratipattiḥ|UnsandhiedReconstructed=True
+21	bhavati	bhū	VERB	_	Tense=Pres|Mood=Ind|Person=3|Number=Sing	_	_	_	LemmaId=157250|OccId=955487|Unsandhied=bhavati|Punctuation=fullStop|WordSem=96007
 
 # text = bhavanti cātra
 # sent_id = 1491

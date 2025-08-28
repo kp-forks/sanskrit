@@ -3,7 +3,7 @@
 ## chapter: VaiSūVṛ zu VaiśSū, 3, 2, 13
 ## chapter_id: 5991
 # text = pratyagātmanīti ātmani paratreti śarīre
-# sent_id = 474824
+# sent_id = 475184
 # sent_counter = 1
 # sent_subcounter = 
 1-2	pratyagātmanīti	_	_	_	_	_	_	_	_
@@ -16,7 +16,7 @@
 6	śarīre	śarīra	NOUN	_	Case=Loc|Gender=Neut|Number=Sing	_	_	_	LemmaId=116860|OccId=2524585|Unsandhied=śarīre|UnsandhiedReconstructed=True
 
 # text = yadi ahaṃśabdaḥ śarīravacanaḥ syāt evaṃ sati tasmin piṇḍe devadattaśabda iva sarvaiḥ prayujyeta
-# sent_id = 474825
+# sent_id = 475185
 # sent_counter = 2
 # sent_subcounter = 
 1	yadi	yadi	SCONJ	_		_	_	_	LemmaId=73699|OccId=2524586|Unsandhied=yadi|UnsandhiedReconstructed=True
@@ -37,7 +37,7 @@
 14	prayujyeta	prayuj	VERB	_	Tense=Pres|Mood=Opt|Voice=Pass|Person=3|Number=Sing	_	_	_	LemmaId=162979|OccId=2524598|Unsandhied=prayujyeta
 
 # text = na tvevam ata ātmanyarthāntare
-# sent_id = 474826
+# sent_id = 475186
 # sent_counter = 3
 # sent_subcounter = 
 1	na	na	PART	_		_	_	_	LemmaId=43432|OccId=2524599|Unsandhied=na|UnsandhiedReconstructed=True
@@ -51,14 +51,14 @@
 7	antare	antara	ADJ	_	Case=Loc|Gender=Masc|Number=Sing	_	_	_	LemmaId=11865|OccId=2524605|Unsandhied=antare|UnsandhiedReconstructed=True
 
 # text = ahaṃśabdaḥ pratyakṣaḥ
-# sent_id = 474827
+# sent_id = 475187
 # sent_counter = 4
 # sent_subcounter = 
 1	ahaṃśabdaḥ	ahaṃśabda	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=209908|OccId=2524663|Unsandhied=ahaṃśabdaḥ|UnsandhiedReconstructed=True
 2	pratyakṣaḥ	pratyakṣa	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=140361|OccId=2524606|Unsandhied=pratyakṣaḥ|UnsandhiedReconstructed=True
 
-# text = śarīra iva ātmanyapi parairaprayogānna syāditi cet ata āha
-# sent_id = 474828
+# text = śarīra iva ātmanyapi parair aprayogān na syāditi cet ata āha
+# sent_id = 475188
 # sent_counter = 5
 # sent_subcounter = 
 1	śarīra	śarīra	NOUN	_	Case=Loc|Gender=Neut|Number=Sing	_	_	_	LemmaId=116860|OccId=2524607|Unsandhied=śarīre|UnsandhiedReconstructed=True
@@ -66,14 +66,15 @@
 3-4	ātmanyapi	_	_	_	_	_	_	_	_
 3	ātmani	ātman	NOUN	_	Case=Loc|Gender=Masc|Number=Sing	_	_	_	LemmaId=57749|OccId=2524609|Unsandhied=ātmani|UnsandhiedReconstructed=True
 4	api	api	PART	_		_	_	_	LemmaId=21365|OccId=2524610|Unsandhied=api|UnsandhiedReconstructed=True
-5-7	parairaprayogānna	_	_	_	_	_	_	_	_
-5	paraiḥ	para	PRON	_	Case=Ins|Gender=Masc|Number=Plur	_	_	_	LemmaId=163234|OccId=2524611|Unsandhied=paraiḥ|UnsandhiedReconstructed=True
-6	aprayogān	aprayoga	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	_	_	_	LemmaId=21763|OccId=2524612|Unsandhied=aprayogān|UnsandhiedReconstructed=True
-7	na	na	PART	_		_	_	_	LemmaId=43432|OccId=2524613|Unsandhied=na|UnsandhiedReconstructed=True
-8-9	syāditi	_	_	_	_	_	_	_	_
-8	syāt	as	VERB	_	Tense=Pres|Mood=Opt|Person=3|Number=Sing	_	_	_	LemmaId=156122|OccId=2524614|Unsandhied=syāt
-9	iti	iti	PART	_		_	_	_	LemmaId=63331|OccId=2524615|Unsandhied=iti|UnsandhiedReconstructed=True
-10	cet	ced	SCONJ	_		_	_	_	LemmaId=52168|OccId=2524616|Unsandhied=ced|UnsandhiedReconstructed=True
-11	ata	atas	ADV	_		_	_	_	LemmaId=6823|OccId=2524617|Unsandhied=atas|UnsandhiedReconstructed=True
-12	āha	ah	VERB	_	Tense=Past|Mood=Ind|Person=3|Number=Sing	_	_	_	LemmaId=156124|OccId=2524618|Unsandhied=āha
+5	parair	para	PRON	_	Case=Ins|Gender=Masc|Number=Plur	_	_	_	LemmaId=163234|OccId=5914080|Unsandhied=paraiḥ
+6-7	aprayogān	_	_	_	_	_	_	_	_
+6	a	a	PART	_		_	_	_	LemmaId=213048|OccId=5914081|Unsandhied=a
+7	prayogāt	prayoga	NOUN	_	Case=Abl|Gender=Masc|Number=Sing	_	_	_	LemmaId=154572|OccId=5914082|Unsandhied=prayogāt
+8	na	na	PART	_		_	_	_	LemmaId=43432|OccId=5914083|Unsandhied=na
+9-10	syāditi	_	_	_	_	_	_	_	_
+9	syāt	as	VERB	_	Tense=Pres|Mood=Opt|Person=3|Number=Sing	_	_	_	LemmaId=156122|OccId=2524614|Unsandhied=syāt
+10	iti	iti	PART	_		_	_	_	LemmaId=63331|OccId=2524615|Unsandhied=iti|UnsandhiedReconstructed=True
+11	cet	ced	SCONJ	_		_	_	_	LemmaId=52168|OccId=2524616|Unsandhied=ced|UnsandhiedReconstructed=True
+12	ata	atas	ADV	_		_	_	_	LemmaId=6823|OccId=2524617|Unsandhied=atas|UnsandhiedReconstructed=True
+13	āha	ah	VERB	_	Tense=Past|Mood=Ind|Person=3|Number=Sing	_	_	_	LemmaId=156124|OccId=2524618|Unsandhied=āha
 

@@ -3,7 +3,7 @@
 ## chapter: AB, 5, 4
 ## chapter_id: 11799
 # text = vāg vai devatā caturtham ahar vahaty ekaviṃśaḥ stomo vairājaṃ sāmānuṣṭup chando yathādevatam enena yathāstomaṃ yathāsāma yathāchandasaṃ rādhnoti ya evaṃ veda
-# sent_id = 643358
+# sent_id = 642799
 # sent_counter = 1
 # sent_subcounter = 
 1	vāg	vāc	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	_	_	_	LemmaId=76023|OccId=4867762|Unsandhied=vāc
@@ -30,7 +30,7 @@
 21	veda	vid	VERB	_	Tense=Past|Mood=Ind|Person=3|Number=Sing	_	_	_	LemmaId=158058|OccId=4867782|Unsandhied=veda|Punctuation=fullStop
 
 # text = yad vā eti ca preti ca taccaturthasyāhno rūpaṃ yaddhyeva prathamam ahas tad etat punar yac caturthaṃ yad yuktavad yad rathavad yad āśumad yat pibavad yat prathame pade devatā nirucyate yad ayaṃ loko 'bhyudito yaj jātavad yaddhavavad yacchukravad yad vāco rūpaṃ yad vaimadaṃ yad viriphitaṃ yad vichandā yad ūnātiriktaṃ yad vairājaṃ yad ānuṣṭubhaṃ yat kariṣyad yat prathamasyāhno rūpam etāni vai caturthasyāhno rūpāṇi
-# sent_id = 643359
+# sent_id = 642800
 # sent_counter = 2
 # sent_subcounter = 
 1	yad	yad	PRON	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=37877|OccId=4867783|Unsandhied=yat
@@ -116,7 +116,7 @@
 72	rūpāṇi	rūpa	NOUN	_	Case=Nom|Gender=Neut|Number=Plur	_	_	_	LemmaId=71929|OccId=4867843|Unsandhied=rūpāṇi|Punctuation=fullStop
 
 # text = āgniṃ na svavṛktibhir iti caturthasyāhna ājyam bhavati vaimadaṃ viriphitaṃ viriphitasya ṛṣeś caturthe 'hani caturthasyāhno rūpam
-# sent_id = 643360
+# sent_id = 642801
 # sent_counter = 3
 # sent_subcounter = 
 1	āgniṃ	agni	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	_	_	_	LemmaId=5705|OccId=4868026|Unsandhied=agnim|IsMantra=True
@@ -140,7 +140,7 @@
 17	rūpam	rūpa	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=71929|OccId=4867859|Unsandhied=rūpam|Punctuation=fullStop
 
 # text = aṣṭarcam pāṅktam pāṅkto yajñaḥ pāṅktāḥ paśavaḥ paśūnām avaruddhyai
-# sent_id = 643361
+# sent_id = 642802
 # sent_counter = 4
 # sent_subcounter = 
 1-2	aṣṭarcam	_	_	_	_	_	_	_	_
@@ -155,7 +155,7 @@
 9	avaruddhyai	avaruddhi	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	_	_	_	LemmaId=54469|OccId=4867868|Unsandhied=avaruddhyai|Punctuation=fullStop
 
 # text = tā u daśa jagatyo jagatprātaḥsavana eṣa tryahas tena caturthasyāhno rūpam
-# sent_id = 643362
+# sent_id = 642803
 # sent_counter = 5
 # sent_subcounter = 
 1	tā	tad	PRON	_	Case=Nom|Gender=Fem|Number=Plur	_	_	_	LemmaId=37875|OccId=4867869|Unsandhied=tāḥ
@@ -176,7 +176,7 @@
 13	rūpam	rūpa	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=71929|OccId=4867880|Unsandhied=rūpam|Punctuation=fullStop
 
 # text = tā u pañcadaśānuṣṭubha ānuṣṭubhaṃ hy etad ahas tena caturthasyāhno rūpam
-# sent_id = 643363
+# sent_id = 642804
 # sent_counter = 6
 # sent_subcounter = 
 1	tā	tad	PRON	_	Case=Nom|Gender=Fem|Number=Plur	_	_	_	LemmaId=37875|OccId=4867881|Unsandhied=tāḥ
@@ -195,7 +195,7 @@
 12	rūpam	rūpa	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=71929|OccId=4867891|Unsandhied=rūpam|Punctuation=fullStop
 
 # text = tā u viṃśatir gāyatryaḥ punaḥ prāyaṇīyaṃ hy etad ahas tena caturthasyāhno rūpam
-# sent_id = 643364
+# sent_id = 642805
 # sent_counter = 7
 # sent_subcounter = 
 1	tā	tad	PRON	_	Case=Nom|Gender=Fem|Number=Plur	_	_	_	LemmaId=37875|OccId=4867892|Unsandhied=tāḥ
@@ -214,40 +214,44 @@
 13	rūpam	rūpa	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=71929|OccId=4867903|Unsandhied=rūpam|Punctuation=fullStop
 
 # text = tad etad astutam aśastam ayātayāma sūktaṃ yajña eva sākṣāt tad yad etac caturthasyāhna ājyam bhavati yajñād eva tad yajñaṃ tanvate vācam eva tat punar upayanti saṃtatyai
-# sent_id = 643365
+# sent_id = 642806
 # sent_counter = 8
 # sent_subcounter = 
 1	tad	tad	PRON	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=37875|OccId=4867904|Unsandhied=tat
 2	etad	etad	PRON	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=163744|OccId=4867905|Unsandhied=etat
-3	astutam	astuta	ADJ	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=61231|OccId=4867906|Unsandhied=astutam
-4	aśastam	aśasta	ADJ	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=59921|OccId=4868027|Unsandhied=aśastam
-5	ayātayāma	ayātayāman	ADJ	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=32381|OccId=4867907|Unsandhied=ayātayāma
-6	sūktaṃ	sūkta	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=98934|OccId=4867908|Unsandhied=sūktam
-7	yajña	yajña	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=72936|OccId=4867909|Unsandhied=yajñaḥ
-8	eva	eva	PART	_		_	_	_	LemmaId=39754|OccId=4867910|Unsandhied=eva
-9	sākṣāt	sākṣāt	ADV	_		_	_	_	LemmaId=111778|OccId=4867911|Unsandhied=sākṣāt|Punctuation=fullStop
-10	tad	tad	PRON	_	Case=Acc|Gender=Neut|Number=Sing	_	_	_	LemmaId=37875|OccId=4867912|Unsandhied=tat
-11	yad	yat	SCONJ	_		_	_	_	LemmaId=73227|OccId=4867913|Unsandhied=yat
-12	etac	etad	PRON	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=163744|OccId=4867914|Unsandhied=etat
-13-14	caturthasyāhna	_	_	_	_	_	_	_	_
-13	caturthasya	caturtha	ADJ	_	Case=Gen|Gender=Neut|Number=Sing	_	_	_	LemmaId=164247|OccId=4867915|Unsandhied=caturthasya
-14	ahnaḥ	ahar	NOUN	_	Case=Gen|Gender=Neut|Number=Sing	_	_	_	LemmaId=168349|OccId=4867916|Unsandhied=ahnaḥ
-15	ājyam	ājya	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=57582|OccId=4867917|Unsandhied=ājyam
-16	bhavati	bhū	VERB	_	Tense=Pres|Mood=Ind|Person=3|Number=Sing	_	_	_	LemmaId=157250|OccId=4867918|Unsandhied=bhavati|Punctuation=comma
-17	yajñād	yajña	NOUN	_	Case=Abl|Gender=Masc|Number=Sing	_	_	_	LemmaId=72936|OccId=4867919|Unsandhied=yajñāt
-18	eva	eva	PART	_		_	_	_	LemmaId=39754|OccId=4867920|Unsandhied=eva
-19	tad	tad	PRON	_	Case=Acc|Gender=Neut|Number=Sing	_	_	_	LemmaId=37875|OccId=4867921|Unsandhied=tat
-20	yajñaṃ	yajña	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	_	_	_	LemmaId=72936|OccId=4867922|Unsandhied=yajñam
-21	tanvate	tan	VERB	_	Tense=Pres|Mood=Ind|Person=3|Number=Plur	_	_	_	LemmaId=157173|OccId=4867923|Unsandhied=tanvate|Punctuation=fullStop
-22	vācam	vāc	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	_	_	_	LemmaId=76023|OccId=4867924|Unsandhied=vācam
-23	eva	eva	PART	_		_	_	_	LemmaId=39754|OccId=4867925|Unsandhied=eva
-24	tat	tad	PRON	_	Case=Acc|Gender=Neut|Number=Sing	_	_	_	LemmaId=37875|OccId=4867926|Unsandhied=tat
-25	punar	punar	ADV	_		_	_	_	LemmaId=143659|OccId=4867927|Unsandhied=punar
-26	upayanti	upe	VERB	_	Tense=Pres|Mood=Ind|Person=3|Number=Plur	_	_	_	LemmaId=160734|OccId=4867928|Unsandhied=upayanti
-27	saṃtatyai	saṃtati	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	_	_	_	LemmaId=17478|OccId=4867929|Unsandhied=saṃtatyai|Punctuation=fullStop
+3-4	astutam	_	_	_	_	_	_	_	_
+3	a	a	PART	_		_	_	_	LemmaId=213048|OccId=5921417|Unsandhied=a
+4	stutam	stu	VERB	_	Case=Nom|Gender=Neut|Number=Sing|VerbForm=Part	_	_	_	LemmaId=157515|OccId=5921418|Unsandhied=stutam
+5-6	aśastam	_	_	_	_	_	_	_	_
+5	a	a	PART	_		_	_	_	LemmaId=213048|OccId=5921419|Unsandhied=a
+6	śastam	śaṃs	VERB	_	Case=Nom|Gender=Neut|Number=Sing|VerbForm=Part	_	_	_	LemmaId=157408|OccId=5921420|Unsandhied=śastam
+7	ayātayāma	ayātayāman	ADJ	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=32381|OccId=4867907|Unsandhied=ayātayāma
+8	sūktaṃ	sūkta	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=98934|OccId=4867908|Unsandhied=sūktam
+9	yajña	yajña	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=72936|OccId=4867909|Unsandhied=yajñaḥ
+10	eva	eva	PART	_		_	_	_	LemmaId=39754|OccId=4867910|Unsandhied=eva
+11	sākṣāt	sākṣāt	ADV	_		_	_	_	LemmaId=111778|OccId=4867911|Unsandhied=sākṣāt|Punctuation=fullStop
+12	tad	tad	PRON	_	Case=Acc|Gender=Neut|Number=Sing	_	_	_	LemmaId=37875|OccId=4867912|Unsandhied=tat
+13	yad	yat	SCONJ	_		_	_	_	LemmaId=73227|OccId=4867913|Unsandhied=yat
+14	etac	etad	PRON	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=163744|OccId=4867914|Unsandhied=etat
+15-16	caturthasyāhna	_	_	_	_	_	_	_	_
+15	caturthasya	caturtha	ADJ	_	Case=Gen|Gender=Neut|Number=Sing	_	_	_	LemmaId=164247|OccId=4867915|Unsandhied=caturthasya
+16	ahnaḥ	ahar	NOUN	_	Case=Gen|Gender=Neut|Number=Sing	_	_	_	LemmaId=168349|OccId=4867916|Unsandhied=ahnaḥ
+17	ājyam	ājya	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=57582|OccId=4867917|Unsandhied=ājyam
+18	bhavati	bhū	VERB	_	Tense=Pres|Mood=Ind|Person=3|Number=Sing	_	_	_	LemmaId=157250|OccId=4867918|Unsandhied=bhavati|Punctuation=comma
+19	yajñād	yajña	NOUN	_	Case=Abl|Gender=Masc|Number=Sing	_	_	_	LemmaId=72936|OccId=4867919|Unsandhied=yajñāt
+20	eva	eva	PART	_		_	_	_	LemmaId=39754|OccId=4867920|Unsandhied=eva
+21	tad	tad	PRON	_	Case=Acc|Gender=Neut|Number=Sing	_	_	_	LemmaId=37875|OccId=4867921|Unsandhied=tat
+22	yajñaṃ	yajña	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	_	_	_	LemmaId=72936|OccId=4867922|Unsandhied=yajñam
+23	tanvate	tan	VERB	_	Tense=Pres|Mood=Ind|Person=3|Number=Plur	_	_	_	LemmaId=157173|OccId=4867923|Unsandhied=tanvate|Punctuation=fullStop
+24	vācam	vāc	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	_	_	_	LemmaId=76023|OccId=4867924|Unsandhied=vācam
+25	eva	eva	PART	_		_	_	_	LemmaId=39754|OccId=4867925|Unsandhied=eva
+26	tat	tad	PRON	_	Case=Acc|Gender=Neut|Number=Sing	_	_	_	LemmaId=37875|OccId=4867926|Unsandhied=tat
+27	punar	punar	ADV	_		_	_	_	LemmaId=143659|OccId=4867927|Unsandhied=punar
+28	upayanti	upe	VERB	_	Tense=Pres|Mood=Ind|Person=3|Number=Plur	_	_	_	LemmaId=160734|OccId=4867928|Unsandhied=upayanti
+29	saṃtatyai	saṃtati	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	_	_	_	LemmaId=17478|OccId=4867929|Unsandhied=saṃtatyai|Punctuation=fullStop
 
 # text = saṃtatais tryahair avyavacchinnair yanti ya evaṃ vidvāṃso yanti
-# sent_id = 643366
+# sent_id = 642807
 # sent_counter = 9
 # sent_subcounter = 
 1	saṃtatais	saṃtan	VERB	_	Case=Ins|Gender=Masc|Number=Plur|VerbForm=Part	_	_	_	LemmaId=164926|OccId=4867930|Unsandhied=saṃtataiḥ
@@ -262,7 +266,7 @@
 9	yanti	i	VERB	_	Tense=Pres|Mood=Ind|Person=3|Number=Plur	_	_	_	LemmaId=156127|OccId=4867937|Unsandhied=yanti|Punctuation=fullStop
 
 # text = vāyo śukro ayāmi te vihi hotrā avītā vāyo śataṃ harīṇām indraś ca vāyav eṣāṃ somānām ā cikitāna sukratū ā no viśvābhir ūtibhis tyam u vo aprahaṇam apa tyaṃ vṛjinaṃ ripum ambitame nadītama ity ānuṣṭubham praugam eti ca preti ca śukravac caturthe 'hani caturthasyāhno rūpam
-# sent_id = 643367
+# sent_id = 642808
 # sent_counter = 10
 # sent_subcounter = 
 1	vāyo	vāyu	NOUN	_	Case=Voc|Gender=Masc|Number=Sing	_	_	_	LemmaId=76933|OccId=4867938|Unsandhied=vāyo|IsMantra=True
@@ -319,7 +323,7 @@
 48	rūpam	rūpa	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=71929|OccId=4867972|Unsandhied=rūpam|Punctuation=fullStop
 
 # text = taṃ tvā yajñebhir īmaha iti marutvatīyasya pratipad īmaha ity abhyāyāmyam ivaitad ahas tena caturthasyāhno rūpam
-# sent_id = 643368
+# sent_id = 642809
 # sent_counter = 11
 # sent_subcounter = 
 1	taṃ	tad	PRON	_	Case=Acc|Gender=Masc|Number=Sing	_	_	_	LemmaId=37875|OccId=4867973|Unsandhied=tam|IsMantra=True
@@ -343,7 +347,7 @@
 17	rūpam	rūpa	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=71929|OccId=4867987|Unsandhied=rūpam|Punctuation=fullStop
 
 # text = idaṃ vaso sutam andha indra nedīya ed ihi praitu brahmaṇaspatir agnir netā tvaṃ soma kratubhiḥ pinvanty apaḥ pra va indrāya bṛhata iti prathamenāhnā samāna ātānaś caturthe 'hani caturthasyāhno rūpam
-# sent_id = 643369
+# sent_id = 642810
 # sent_counter = 12
 # sent_subcounter = 
 1	idaṃ	idam	PRON	_	Case=Acc|Gender=Neut|Number=Sing	_	_	_	LemmaId=37876|OccId=4867988|Unsandhied=idam|IsMantra=True
@@ -383,7 +387,7 @@
 32	rūpam	rūpa	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=71929|OccId=4868014|Unsandhied=rūpam|Punctuation=fullStop
 
 # text = śrudhī havam indra mā riṣaṇya iti sūktaṃ havavac caturthe 'hani caturthasyāhno rūpam
-# sent_id = 643370
+# sent_id = 642811
 # sent_counter = 13
 # sent_subcounter = 
 1	śrudhī	śru	VERB	_	Tense=Past|Mood=Imp|Person=2|Number=Sing	_	_	_	LemmaId=157409|OccId=4869132|Unsandhied=śrudhi|IsMantra=True
@@ -402,7 +406,7 @@
 13	rūpam	rūpa	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=71929|OccId=4869015|Unsandhied=rūpam|Punctuation=fullStop
 
 # text = marutvān indra vṛṣabho raṇayeti sūktam ugraṃ sahodām iha taṃ huvemeti havavac caturthe 'hani caturthasyāhno rūpam
-# sent_id = 643371
+# sent_id = 642812
 # sent_counter = 14
 # sent_subcounter = 
 1	marutvān	marutvat	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=37031|OccId=4869133|Unsandhied=marutvān|IsMantra=True
@@ -430,7 +434,7 @@
 19	rūpam	rūpa	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=71929|OccId=4869032|Unsandhied=rūpam|Punctuation=fullStop
 
 # text = tad u traiṣṭubhaṃ tena pratiṣṭhitapadena savanaṃ dādhārāyatanād evaitena na pracyavate
-# sent_id = 643372
+# sent_id = 642813
 # sent_counter = 15
 # sent_subcounter = 
 1	tad	tad	PRON	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=37875|OccId=4869033|Unsandhied=tat
@@ -451,7 +455,7 @@
 13	pracyavate	pracyu	VERB	_	Tense=Pres|Mood=Ind|Person=3|Number=Sing	_	_	_	LemmaId=162397|OccId=4869043|Unsandhied=pracyavate|Punctuation=fullStop
 
 # text = imaṃ nu māyinaṃ huva iti paryāso havavāṃś caturthe 'hani caturthasyāhno rūpam
-# sent_id = 643373
+# sent_id = 642814
 # sent_counter = 16
 # sent_subcounter = 
 1	imaṃ	idam	PRON	_	Case=Acc|Gender=Masc|Number=Sing	_	_	_	LemmaId=37876|OccId=4869044|Unsandhied=imam|IsMantra=True
@@ -469,7 +473,7 @@
 12	rūpam	rūpa	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=71929|OccId=4869055|Unsandhied=rūpam|Punctuation=fullStop
 
 # text = tā u gāyatryo gāyatryo vā etasya tryahasya madhyaṃdinaṃ vahanti
-# sent_id = 643374
+# sent_id = 642815
 # sent_counter = 17
 # sent_subcounter = 
 1	tā	tad	PRON	_	Case=Nom|Gender=Fem|Number=Plur	_	_	_	LemmaId=37875|OccId=4869056|Unsandhied=tāḥ
@@ -485,7 +489,7 @@
 10	vahanti	vah	VERB	_	Tense=Pres|Mood=Ind|Person=3|Number=Plur	_	_	_	LemmaId=157404|OccId=4869065|Unsandhied=vahanti|Punctuation=fullStop
 
 # text = tad vai tac chando vahati yasmin nividdhīyate tasmād gāyatrīṣu nividaṃ dadhāti
-# sent_id = 643375
+# sent_id = 642816
 # sent_counter = 18
 # sent_subcounter = 
 1	tad	tad	PRON	_	Case=Acc|Gender=Neut|Number=Sing	_	_	_	LemmaId=37875|OccId=4869066|Unsandhied=tat
@@ -503,7 +507,7 @@
 12	dadhāti	dhā	VERB	_	Tense=Pres|Mood=Ind|Person=3|Number=Sing	_	_	_	LemmaId=157327|OccId=4869075|Unsandhied=dadhāti|Punctuation=fullStop
 
 # text = pibā somam indra mandatu tvā śrudhī havaṃ vipipānasyādrer iti vairājam pṛṣṭham bhavati bārhate 'hani caturthe 'hani caturthasyāhno rūpam
-# sent_id = 643376
+# sent_id = 642817
 # sent_counter = 19
 # sent_subcounter = 
 1	pibā	pā	VERB	_	Tense=Pres|Mood=Imp|Person=2|Number=Sing	_	_	_	LemmaId=157391|OccId=4869139|Unsandhied=piba|IsMantra=True
@@ -530,7 +534,7 @@
 20	rūpam	rūpa	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=71929|OccId=4869091|Unsandhied=rūpam|Punctuation=fullStop
 
 # text = yad vāvāneti dhāyyācyutā
-# sent_id = 643377
+# sent_id = 642818
 # sent_counter = 20
 # sent_subcounter = 
 1	yad	yad	PRON	_	Case=Acc|Gender=Neut|Number=Sing	_	_	_	LemmaId=37877|OccId=4869092|Unsandhied=yat|IsMantra=True
@@ -542,7 +546,7 @@
 5	acyutā	acyuta	ADJ	_	Case=Nom|Gender=Fem|Number=Sing	_	_	_	LemmaId=6406|OccId=4869096|Unsandhied=acyutā|Punctuation=fullStop
 
 # text = tvām iddhi havāmaha iti bṛhato yonim anu nivartayati bārhataṃ hy etad ahar āyatanena
-# sent_id = 643378
+# sent_id = 642819
 # sent_counter = 21
 # sent_subcounter = 
 1	tvām	tvad	PRON	_	Case=Acc|Number=Sing	_	_	_	LemmaId=37880|OccId=4869097|Unsandhied=tvām|IsMantra=True
@@ -562,7 +566,7 @@
 14	āyatanena	āyatana	NOUN	_	Case=Ins|Gender=Neut|Number=Sing	_	_	_	LemmaId=59137|OccId=4869108|Unsandhied=āyatanena|Punctuation=fullStop
 
 # text = tvam indra pratūrtiṣv iti sāmapragātho 'śastihā janiteti jātavāṃś caturthe 'hani caturthasyāhno rūpam
-# sent_id = 643379
+# sent_id = 642820
 # sent_counter = 22
 # sent_subcounter = 
 1	tvam	tvad	PRON	_	Case=Nom|Number=Sing	_	_	_	LemmaId=37880|OccId=4869109|Unsandhied=tvam|IsMantra=True
@@ -585,7 +589,7 @@
 15	rūpam	rūpa	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=71929|OccId=4869123|Unsandhied=rūpam|Punctuation=fullStop
 
 # text = tyam ū ṣu vājinaṃ devajūtam iti tārkṣyo 'cyutaḥ
-# sent_id = 643380
+# sent_id = 642821
 # sent_counter = 23
 # sent_subcounter = 
 1	tyam	tya	PRON	_	Case=Acc|Gender=Masc|Number=Sing	_	_	_	LemmaId=218695|OccId=4869124|Unsandhied=tyam|IsMantra=True

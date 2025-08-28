@@ -2,8 +2,8 @@
 ## text_id: 27
 ## chapter: MṛgṬīkā zu MṛgT, Vidyāpāda, 8, 1.2
 ## chapter_id: 1908
-# text = athetyāṇavarodhaśaktyākhyapāśadvayavicārānantaram indriyairantaḥkaraṇabahiṣkaraṇaiḥ śarīreṇa ca sthūlasūkṣmarūpeṇa arthaiś cendriyārthair viṣayair yo 'yaṃ cidātmano yogaḥ tasyāgāmibhāvād utpattimattvāt kāraṇaṃ nimittam anumīyate na hy utpattimaccāhetukaṃ kiṃcid bhavati
-# sent_id = 45908
+# text = athetyāṇavarodhaśaktyākhyapāśadvayavicārānantaram indriyairantaḥkaraṇabahiṣkaraṇaiḥ śarīreṇa ca sthūlasūkṣmarūpeṇa arthaiś cendriyārthair viṣayair yo 'yaṃ cidātmano yogaḥ tasyāgāmibhāvād utpattimattvāt kāraṇaṃ nimittam anumīyate na hy utpattimac cāhetukaṃ kiṃcid bhavati
+# sent_id = 45894
 # sent_counter = 1
 # sent_subcounter = 
 1-10	athetyāṇavarodhaśaktyākhyapāśadvayavicārānantaram	_	_	_	_	_	_	_	_
@@ -50,15 +50,16 @@
 35	anumīyate	anumā	VERB	_	Tense=Pres|Mood=Ind|Voice=Pass|Person=3|Number=Sing	_	_	_	LemmaId=157965|OccId=551322|Unsandhied=anumīyate
 36	na	na	PART	_		_	_	_	LemmaId=43432|OccId=551323|Unsandhied=na|UnsandhiedReconstructed=True
 37	hy	hi	PART	_		_	_	_	LemmaId=109879|OccId=551324|Unsandhied=hi|UnsandhiedReconstructed=True
-38-40	utpattimaccāhetukaṃ	_	_	_	_	_	_	_	_
-38	utpattimat	utpattimat	ADJ	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=55944|OccId=551325|Unsandhied=utpattimat|UnsandhiedReconstructed=True
-39	ca	ca	CONJ	_		_	_	_	LemmaId=157144|OccId=551326|Unsandhied=ca|UnsandhiedReconstructed=True
-40	ahetukam	ahetuka	ADJ	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=61692|OccId=551327|Unsandhied=ahetukam|UnsandhiedReconstructed=True
-41	kiṃcid	kaścit	PRON	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=164309|OccId=551328|Unsandhied=kiṃcid|UnsandhiedReconstructed=True
-42	bhavati	bhū	VERB	_	Tense=Pres|Mood=Ind|Person=3|Number=Sing	_	_	_	LemmaId=157250|OccId=551329|Unsandhied=bhavati
+38	utpattimac	utpattimat	ADJ	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=55944|OccId=5945020|Unsandhied=utpattimat
+39-41	cāhetukaṃ	_	_	_	_	_	_	_	_
+39	ca	ca	CONJ	_		_	_	_	LemmaId=157144|OccId=5945021|Unsandhied=ca
+40	a	a	PART	_		_	_	_	LemmaId=213048|OccId=5945022|Unsandhied=a
+41	hetukam	hetuka	ADJ	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=110782|OccId=5945023|Unsandhied=hetukam
+42	kiṃcid	kaścit	PRON	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=164309|OccId=551328|Unsandhied=kiṃcid|UnsandhiedReconstructed=True
+43	bhavati	bhū	VERB	_	Tense=Pres|Mood=Ind|Person=3|Number=Sing	_	_	_	LemmaId=157250|OccId=551329|Unsandhied=bhavati
 
 # text = itthaṃ sāmānyena kāraṇamātraṃ prasādhya tadviśeṣaṃ vaktum āha
-# sent_id = 45909
+# sent_id = 45895
 # sent_counter = 2
 # sent_subcounter = 
 1	itthaṃ	ittham	ADV	_		_	_	_	LemmaId=63363|OccId=551333|Unsandhied=ittham|UnsandhiedReconstructed=True

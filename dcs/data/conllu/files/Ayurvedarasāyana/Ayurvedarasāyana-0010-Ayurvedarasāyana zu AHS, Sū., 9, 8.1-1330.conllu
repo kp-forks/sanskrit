@@ -1,0 +1,77 @@
+## text: Ayurvedarasāyana
+## text_id: 16
+## chapter: Ayurvedarasāyana zu AHS, Sū., 9, 8.1
+## chapter_id: 1330
+# text = āgneyaṃ lakṣayati rūkṣatīkṣṇeti
+# sent_id = 42760
+# sent_counter = 1
+# sent_subcounter = 
+1	āgneyaṃ	āgneya	ADJ	_	Case=Acc|Gender=Neut|Number=Sing	_	_	_	LemmaId=62121|OccId=407557|Unsandhied=āgneyam|UnsandhiedReconstructed=True
+2	lakṣayati	lakṣay	VERB	_	Tense=Pres|Mood=Ind|Person=3|Number=Sing	_	_	_	LemmaId=159902|OccId=407558|Unsandhied=lakṣayati
+3-5	rūkṣatīkṣṇeti	_	_	_	_	_	_	_	_
+3	rūkṣa	rūkṣa	ADJ	_	Case=Cpd	_	_	_	LemmaId=71896|OccId=407559|Unsandhied=rūkṣa|UnsandhiedReconstructed=True
+4	tīkṣṇa	tīkṣṇa	ADJ	_	Case=Cpd	_	_	_	LemmaId=82524|OccId=407560|Unsandhied=tīkṣṇa|UnsandhiedReconstructed=True
+5	iti	iti	PART	_		_	_	_	LemmaId=63331|OccId=407561|Unsandhied=iti|UnsandhiedReconstructed=True
+
+# text = rūkṣādiguṇotkaṭaṃ dāhādikaraṃ ca dravyam āgneyam
+# sent_id = 42761
+# sent_counter = 2
+# sent_subcounter = 
+1-4	rūkṣādiguṇotkaṭaṃ	_	_	_	_	_	_	_	_
+1	rūkṣa	rūkṣa	ADJ	_	Case=Cpd	_	_	_	LemmaId=71896|OccId=407584|Unsandhied=rūkṣa|UnsandhiedReconstructed=True
+2	ādi	ādi	NOUN	_	Case=Cpd	_	_	_	LemmaId=57973|OccId=407585|Unsandhied=ādi|UnsandhiedReconstructed=True
+3	guṇa	guṇa	NOUN	_	Case=Cpd	_	_	_	LemmaId=124503|OccId=407586|Unsandhied=guṇa|UnsandhiedReconstructed=True
+4	utkaṭam	utkaṭa	ADJ	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=55456|OccId=407587|Unsandhied=utkaṭam|UnsandhiedReconstructed=True
+5-7	dāhādikaraṃ	_	_	_	_	_	_	_	_
+5	dāha	dāha	NOUN	_	Case=Cpd	_	_	_	LemmaId=147050|OccId=407562|Unsandhied=dāha|UnsandhiedReconstructed=True
+6	ādi	ādi	NOUN	_	Case=Cpd	_	_	_	LemmaId=57973|OccId=407563|Unsandhied=ādi|UnsandhiedReconstructed=True
+7	karam	kara	ADJ	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=2220|OccId=407564|Unsandhied=karam|UnsandhiedReconstructed=True
+8	ca	ca	CONJ	_		_	_	_	LemmaId=157144|OccId=407565|Unsandhied=ca|UnsandhiedReconstructed=True
+9	dravyam	dravya	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=90455|OccId=407566|Unsandhied=dravyam|UnsandhiedReconstructed=True
+10	āgneyam	āgneya	ADJ	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=62121|OccId=407567|Unsandhied=āgneyam|UnsandhiedReconstructed=True
+
+# text = bhā kāntiḥ
+# sent_id = 42762
+# sent_counter = 3
+# sent_subcounter = 
+1	bhā	bhā	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	_	_	_	LemmaId=172578|OccId=407568|Unsandhied=bhā|UnsandhiedReconstructed=True
+2	kāntiḥ	kānti	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	_	_	_	LemmaId=13625|OccId=407569|Unsandhied=kāntiḥ|UnsandhiedReconstructed=True
+
+# text = varṇo gaurādiḥ
+# sent_id = 42763
+# sent_counter = 4
+# sent_subcounter = 
+1	varṇo	varṇa	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=74430|OccId=407570|Unsandhied=varṇaḥ|UnsandhiedReconstructed=True
+2-3	gaurādiḥ	_	_	_	_	_	_	_	_
+2	gaura	gaura	ADJ	_	Case=Cpd	_	_	_	LemmaId=125519|OccId=407571|Unsandhied=gaura|UnsandhiedReconstructed=True
+3	ādiḥ	ādi	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=57973|OccId=407572|Unsandhied=ādiḥ|UnsandhiedReconstructed=True
+
+# text = prakāśaḥ ālokaḥ
+# sent_id = 42764
+# sent_counter = 5
+# sent_subcounter = 
+1	prakāśaḥ	prakāśa	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=151121|OccId=407573|Unsandhied=prakāśaḥ|UnsandhiedReconstructed=True
+2	ālokaḥ	āloka	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=62355|OccId=407574|Unsandhied=ālokaḥ|UnsandhiedReconstructed=True
+
+# text = pacanaṃ pākaḥ
+# sent_id = 42765
+# sent_counter = 6
+# sent_subcounter = 
+1	pacanaṃ	pacana	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=14773|OccId=407575|Unsandhied=pacanam|UnsandhiedReconstructed=True
+2	pākaḥ	pāka	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=93038|OccId=407576|Unsandhied=pākaḥ|UnsandhiedReconstructed=True
+
+# text = tadātmakatvaṃ kāryakāraṇayor abhedopacārāt
+# sent_id = 42766
+# sent_counter = 7
+# sent_subcounter = 
+1-3	tadātmakatvaṃ	_	_	_	_	_	_	_	_
+1	tad	tad	PRON	_	Case=Cpd	_	_	_	LemmaId=37875|OccId=407577|Unsandhied=tad|UnsandhiedReconstructed=True
+2	ātmaka	ātmaka	ADJ	_	Case=Cpd	_	_	_	LemmaId=163752|OccId=407578|Unsandhied=ātmaka|UnsandhiedReconstructed=True
+3	tvam	tva	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=163754|OccId=407579|Unsandhied=tvam|UnsandhiedReconstructed=True
+4-5	kāryakāraṇayor	_	_	_	_	_	_	_	_
+4	kārya	kārya	NOUN	_	Case=Cpd	_	_	_	LemmaId=14320|OccId=407580|Unsandhied=kārya|UnsandhiedReconstructed=True
+5	kāraṇayoḥ	kāraṇa	NOUN	_	Case=Gen|Gender=Neut|Number=Dual	_	_	_	LemmaId=14116|OccId=407581|Unsandhied=kāraṇayoḥ|UnsandhiedReconstructed=True
+6-7	abhedopacārāt	_	_	_	_	_	_	_	_
+6	abheda	abheda	NOUN	_	Case=Cpd	_	_	_	LemmaId=31281|OccId=407582|Unsandhied=abheda|UnsandhiedReconstructed=True
+7	upacārāt	upacāra	NOUN	_	Case=Abl|Gender=Masc|Number=Sing	_	_	_	LemmaId=44912|OccId=407583|Unsandhied=upacārāt|UnsandhiedReconstructed=True
+

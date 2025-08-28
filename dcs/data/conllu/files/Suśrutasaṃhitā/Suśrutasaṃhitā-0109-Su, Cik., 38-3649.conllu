@@ -940,17 +940,20 @@
 6	tu	tu	PART	_		_	_	_	LemmaId=82701|OccId=1416657|Unsandhied=tu|UnsandhiedReconstructed=True
 7	iyam	idam	PRON	_	Case=Nom|Gender=Fem|Number=Sing	_	_	_	LemmaId=37876|OccId=1416658|Unsandhied=iyam|UnsandhiedReconstructed=True
 
-# text = kalkasnehakaṣāyāṇāmavivekādbhiṣagvaraiḥ
+# text = kalkasnehakaṣāyāṇām avivekād bhiṣagvaraiḥ
 # sent_id = 10167
 # sent_counter = 32
 # sent_subcounter = 1
-1-6	kalkasnehakaṣāyāṇāmavivekādbhiṣagvaraiḥ	_	_	_	_	_	_	_	_
-1	kalka	kalka	NOUN	_	Case=Cpd	_	_	_	LemmaId=12685|OccId=1416659|Unsandhied=kalka|UnsandhiedReconstructed=True
-2	sneha	sneha	NOUN	_	Case=Cpd	_	_	_	LemmaId=103429|OccId=1416660|Unsandhied=sneha|UnsandhiedReconstructed=True
-3	kaṣāyāṇām	kaṣāya	NOUN	_	Case=Gen|Gender=Masc|Number=Plur	_	_	_	LemmaId=13005|OccId=1416661|Unsandhied=kaṣāyāṇām|UnsandhiedReconstructed=True
-4	avivekāt	aviveka	NOUN	_	Case=Abl|Gender=Masc|Number=Sing	_	_	_	LemmaId=55144|OccId=1416662|Unsandhied=avivekāt|UnsandhiedReconstructed=True
-5	bhiṣaj	bhiṣaj	NOUN	_	Case=Cpd	_	_	_	LemmaId=50269|OccId=1416663|Unsandhied=bhiṣaj|UnsandhiedReconstructed=True
-6	varaiḥ	vara	ADJ	_	Case=Ins|Gender=Masc|Number=Plur	_	_	_	LemmaId=69149|OccId=1416664|Unsandhied=varaiḥ|UnsandhiedReconstructed=True
+1-3	kalkasnehakaṣāyāṇām	_	_	_	_	_	_	_	_
+1	kalka	kalka	NOUN	_	Case=Cpd	_	_	_	LemmaId=12685|OccId=5936553|Unsandhied=kalka
+2	sneha	sneha	NOUN	_	Case=Cpd	_	_	_	LemmaId=103429|OccId=5936554|Unsandhied=sneha
+3	kaṣāyāṇām	kaṣāya	NOUN	_	Case=Gen|Gender=Masc|Number=Plur	_	_	_	LemmaId=13005|OccId=5936555|Unsandhied=kaṣāyāṇām
+4-5	avivekād	_	_	_	_	_	_	_	_
+4	a	a	PART	_		_	_	_	LemmaId=213048|OccId=5936556|Unsandhied=a
+5	vivekāt	viveka	NOUN	_	Case=Abl|Gender=Masc|Number=Sing	_	_	_	LemmaId=138678|OccId=5936557|Unsandhied=vivekāt
+6-7	bhiṣagvaraiḥ	_	_	_	_	_	_	_	_
+6	bhiṣaj	bhiṣaj	NOUN	_	Case=Cpd	_	_	_	LemmaId=50269|OccId=5936558|Unsandhied=bhiṣaj
+7	varaiḥ	vara	ADJ	_	Case=Ins|Gender=Masc|Number=Plur	_	_	_	LemmaId=69149|OccId=5936559|Unsandhied=varaiḥ
 
 # text = basteḥ sukalpanā proktā tasya dānaṃ yathārthakṛt
 # sent_id = 10168

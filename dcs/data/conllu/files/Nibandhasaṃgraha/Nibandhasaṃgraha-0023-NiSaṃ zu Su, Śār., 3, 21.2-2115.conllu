@@ -1,0 +1,87 @@
+## text: Nibandhasaṃgraha
+## text_id: 6
+## chapter: NiSaṃ zu Su, Śār., 3, 21.2
+## chapter_id: 2115
+# text = abhidhāya āha garbhāvakramaṇaṃ kāle āha saumyam kāle'patyaphalaprado ityāha tatra nirdiśannāha darśayannāha bhavantītyādi
+# sent_id = 16844
+# sent_counter = 1
+# sent_subcounter = 
+1-12	kāle	_	_	_	_	_	_	_	_
+1	garbha	garbha	NOUN	_	Case=Cpd	_	_	_	LemmaId=129602|OccId=600807|Unsandhied=garbha|UnsandhiedReconstructed=True
+2	saumyam	saumya	ADJ	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=101731|OccId=600837|Unsandhied=saumyam|UnsandhiedReconstructed=True
+3	abhidhāya	abhidhā	VERB	_	VerbForm=Conv	_	_	_	LemmaId=158673|OccId=600938|Unsandhied=abhidhāya|UnsandhiedReconstructed=True
+4	iti	iti	PART	_		_	_	_	LemmaId=63331|OccId=601330|Unsandhied=iti|UnsandhiedReconstructed=True
+5	kāle	kāla	NOUN	_	Case=Loc|Gender=Masc|Number=Sing	_	_	_	LemmaId=22761|OccId=601441|Unsandhied=kāle|UnsandhiedReconstructed=True
+6	āha	ah	VERB	_	Tense=Past|Mood=Ind|Person=3|Number=Sing	_	_	_	LemmaId=156124|OccId=601489|Unsandhied=āha
+7	darśayan	darśay	VERB	_	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part	_	_	_	LemmaId=157768|OccId=601527|Unsandhied=darśayan|UnsandhiedReconstructed=True
+8	nirdiśan	nirdiś	VERB	_	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part	_	_	_	LemmaId=161388|OccId=601557|Unsandhied=nirdiśan|UnsandhiedReconstructed=True
+9	tatra	tatra	ADV	_		_	_	_	LemmaId=95978|OccId=601710|Unsandhied=tatra|UnsandhiedReconstructed=True
+10	āha	ah	VERB	_	Tense=Past|Mood=Ind|Person=3|Number=Sing	_	_	_	LemmaId=156124|OccId=601728|Unsandhied=āha
+11	kāle	kāla	NOUN	_	Case=Loc|Gender=Masc|Number=Sing	_	_	_	LemmaId=22761|OccId=602879|Unsandhied=kāle|UnsandhiedReconstructed=True
+12	bhavanti	bhū	VERB	_	Tense=Pres|Mood=Ind|Person=3|Number=Plur	_	_	_	LemmaId=157250|OccId=603004|Unsandhied=bhavanti
+
+# text = bhavantītyādi
+# sent_id = 16850
+# sent_counter = 1
+# sent_subcounter = 
+1	ityādi	ityādi	ADJ	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=63350|OccId=603005|Unsandhied=ityādi|UnsandhiedReconstructed=True
+
+# text = sa ātmā ityucyate yata boddhavyam
+# sent_id = 16994
+# sent_counter = 2
+# sent_subcounter = 
+1	iti	iti	PART	_		_	_	_	LemmaId=63331|OccId=601034|Unsandhied=iti|UnsandhiedReconstructed=True
+2	yatas	yatas	SCONJ	_		_	_	_	LemmaId=73226|OccId=601341|Unsandhied=yatas|UnsandhiedReconstructed=True
+3	ātmā	ātman	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=57749|OccId=601499|Unsandhied=ātmā|UnsandhiedReconstructed=True
+4	boddhavyam	budh	VERB	_	Case=Nom|Gender=Neut|Number=Sing|VerbForm=Gdv	_	_	_	LemmaId=157933|OccId=603015|Unsandhied=boddhavyam|UnsandhiedReconstructed=True
+5	saḥ	tad	PRON	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=37875|OccId=608265|Unsandhied=saḥ|UnsandhiedReconstructed=True
+
+# text = durdine na saṃyojyante ṣoḍaśadineṣu prāptetyādi
+# sent_id = 17046
+# sent_counter = 3
+# sent_subcounter = 
+1-5	na	_	_	_	_	_	_	_	_
+1	ṣoḍaśa	ṣoḍaśan	NUM	_	Case=Cpd	_	_	_	LemmaId=42059|OccId=601469|Unsandhied=ṣoḍaśa|UnsandhiedReconstructed=True
+2	prāptā	prāp	VERB	_	Case=Nom|Gender=Fem|Number=Sing|VerbForm=Part	_	_	_	LemmaId=163158|OccId=603017|Unsandhied=prāptā|UnsandhiedReconstructed=True
+3	na	na	PART	_		_	_	_	LemmaId=43432|OccId=612479|Unsandhied=na|UnsandhiedReconstructed=True
+4	durdine	durdina	NOUN	_	Case=Loc|Gender=Neut|Number=Sing	_	_	_	LemmaId=85534|OccId=612529|Unsandhied=durdine|UnsandhiedReconstructed=True
+5	saṃyojyante	saṃyojay	VERB	_	Tense=Pres|Mood=Ind|Voice=Pass|Person=3|Number=Plur	_	_	_	LemmaId=164695|OccId=2456296|Unsandhied=saṃyojyante|WordSem=86105
+
+# text = ṣoḍaśadineṣu prāptetyādi
+# sent_id = 17057
+# sent_counter = 3
+# sent_subcounter = 
+1-2	prāptetyādi	_	_	_	_	_	_	_	_
+1	dineṣu	dina	NOUN	_	Case=Loc|Gender=Masc|Number=Plur	_	_	_	LemmaId=147072|OccId=601470|Unsandhied=dineṣu|UnsandhiedReconstructed=True
+2	ityādi	ityādi	ADJ	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=63350|OccId=603018|Unsandhied=ityādi|UnsandhiedReconstructed=True
+
+# text = tejobhūto pāñcabhautikam mokṣānupapattiḥ na tatprabhṛti taduktaṃ prāpnuyāt
+# sent_id = 17214
+# sent_counter = 4
+# sent_subcounter = 
+1	tat	tad	PRON	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=37875|OccId=601645|Unsandhied=tat|UnsandhiedReconstructed=True
+2	prāpnuyāt	prāp	VERB	_	Tense=Pres|Mood=Opt|Person=3|Number=Sing	_	_	_	LemmaId=163158|OccId=603036|Unsandhied=prāpnuyāt
+3	tad	tad	PRON	_	Case=Cpd	_	_	_	LemmaId=37875|OccId=603339|Unsandhied=tad|UnsandhiedReconstructed=True
+4	mokṣa	mokṣa	NOUN	_	Case=Cpd	_	_	_	LemmaId=72351|OccId=603457|Unsandhied=mokṣa|UnsandhiedReconstructed=True|WordSem=100664
+5	tejas	tejas	NOUN	_	Case=Cpd	_	_	_	LemmaId=83387|OccId=604108|Unsandhied=tejas|UnsandhiedReconstructed=True
+6	pāñcabhautikam	pāñcabhautika	ADJ	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=93144|OccId=605077|Unsandhied=pāñcabhautikam|UnsandhiedReconstructed=True
+7	na	na	PART	_		_	_	_	LemmaId=43432|OccId=608303|Unsandhied=na|UnsandhiedReconstructed=True
+
+# text = ārtavaśoṇitayoḥ sutasyārtiḥ alpatā vartate svabhāvābhedād hi pīḍā svabhāvābhedād syād tadātra ārtavasyāgneyatve evaṃ prajāyate
+# sent_id = 17283
+# sent_counter = 5
+# sent_subcounter = 
+1	ārtiḥ	ārti	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	_	_	_	LemmaId=59280|OccId=603059|Unsandhied=ārtiḥ|UnsandhiedReconstructed=True
+2	śoṇitayoḥ	śoṇita	NOUN	_	Case=Gen|Gender=Neut|Number=Dual	_	_	_	LemmaId=127801|OccId=604952|Unsandhied=śoṇitayoḥ|UnsandhiedReconstructed=True
+3	hi	hi	PART	_		_	_	_	LemmaId=109879|OccId=601422|Unsandhied=hi|UnsandhiedReconstructed=True
+4	pīḍā	pīḍā	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	_	_	_	LemmaId=144289|OccId=603060|Unsandhied=pīḍā|UnsandhiedReconstructed=True
+5	svabhāva	svabhāva	NOUN	_	Case=Cpd	_	_	_	LemmaId=114497|OccId=605083|Unsandhied=svabhāva|UnsandhiedReconstructed=True
+6	alpatā	alpatā	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	_	_	_	LemmaId=53841|OccId=605170|Unsandhied=alpatā|UnsandhiedReconstructed=True
+7	vartate	vṛt	VERB	_	Tense=Pres|Mood=Ind|Person=3|Number=Sing	_	_	_	LemmaId=157267|OccId=605913|Unsandhied=vartate
+8	abhedāt	abheda	NOUN	_	Case=Abl|Gender=Masc|Number=Sing	_	_	_	LemmaId=31281|OccId=605084|Unsandhied=abhedāt|UnsandhiedReconstructed=True
+9	evam	evam	ADV	_		_	_	_	LemmaId=39758|OccId=601423|Unsandhied=evam|UnsandhiedReconstructed=True
+10	prajāyate	prajan	VERB	_	Tense=Pres|Mood=Ind|Person=3|Number=Sing	_	_	_	LemmaId=162399|OccId=603061|Unsandhied=prajāyate
+11	ārtavasya	ārtava	NOUN	_	Case=Gen|Gender=Neut|Number=Sing	_	_	_	LemmaId=59545|OccId=605085|Unsandhied=ārtavasya|UnsandhiedReconstructed=True
+12	syāt	as	VERB	_	Tense=Pres|Mood=Opt|Person=3|Number=Sing	_	_	_	LemmaId=156122|OccId=605171|Unsandhied=syāt
+13	tadā	tadā	ADV	_		_	_	_	LemmaId=96104|OccId=605914|Unsandhied=tadā|UnsandhiedReconstructed=True
+

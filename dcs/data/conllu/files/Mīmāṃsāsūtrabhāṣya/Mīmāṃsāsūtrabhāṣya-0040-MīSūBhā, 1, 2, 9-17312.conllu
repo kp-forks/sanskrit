@@ -1,0 +1,62 @@
+## text: Mīmāṃsāsūtrabhāṣya
+## text_id: 572
+## chapter: MīSūBhā, 1, 2, 9
+## chapter_id: 17312
+# text = api ca yaiṣānupapattir uktā śāstradṛṣṭavirodhād ityevamādyā sā so 'rodīd ityevamādiṣu na prāpnoti
+# sent_id = 756749
+# sent_counter = 1
+# sent_subcounter = 
+1	api	api	PART	_		_	_	_	LemmaId=21365|OccId=5913585|Unsandhied=api
+2	ca	ca	CONJ	_		_	_	_	LemmaId=157144|OccId=5913586|Unsandhied=ca
+3-5	yaiṣānupapattir	_	_	_	_	_	_	_	_
+3	yā	yad	PRON	_	Case=Nom|Gender=Fem|Number=Sing	_	_	_	LemmaId=37877|OccId=5913587|Unsandhied=yā
+4	eṣā	etad	PRON	_	Case=Nom|Gender=Fem|Number=Sing	_	_	_	LemmaId=163744|OccId=5913588|Unsandhied=eṣā
+5	anupapattiḥ	anupapatti	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	_	_	_	LemmaId=10986|OccId=5913589|Unsandhied=anupapattiḥ
+6	uktā	vac	VERB	_	Case=Nom|Gender=Fem|Number=Sing|VerbForm=Part	_	_	_	LemmaId=157264|OccId=5913590|Unsandhied=uktā
+7-9	śāstradṛṣṭavirodhād	_	_	_	_	_	_	_	_
+7	śāstra	śāstra	NOUN	_	Case=Cpd	_	_	_	LemmaId=131506|OccId=5913591|Unsandhied=śāstra
+8	dṛṣṭa	dṛś	VERB	_	Case=Cpd|VerbForm=Part	_	_	_	LemmaId=157766|OccId=5913592|Unsandhied=dṛṣṭa
+9	virodhāt	virodha	NOUN	_	Case=Abl|Gender=Masc|Number=Sing	_	_	_	LemmaId=138144|OccId=5913593|Unsandhied=virodhāt
+10-11	ityevamādyā	_	_	_	_	_	_	_	_
+10	iti	iti	PART	_		_	_	_	LemmaId=63331|OccId=5913594|Unsandhied=iti
+11	evamādyā	evamādya	ADJ	_	Case=Nom|Gender=Fem|Number=Sing	_	_	_	LemmaId=39791|OccId=5913595|Unsandhied=evamādyā
+12	sā	tad	PRON	_	Case=Nom|Gender=Fem|Number=Sing	_	_	_	LemmaId=37875|OccId=5913596|Unsandhied=sā
+13	so	tad	PRON	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=37875|OccId=5913597|Unsandhied=saḥ
+14	'rodīd	rud	VERB	_	Tense=Impf|Mood=Ind|Person=3|Number=Sing	_	_	_	LemmaId=158014|OccId=5913598|Unsandhied=arodīt
+15-16	ityevamādiṣu	_	_	_	_	_	_	_	_
+15	iti	iti	PART	_		_	_	_	LemmaId=63331|OccId=5913599|Unsandhied=iti
+16	evamādiṣu	evamādi	ADJ	_	Case=Loc|Gender=Neut|Number=Plur	_	_	_	LemmaId=39790|OccId=5913600|Unsandhied=evamādiṣu
+17	na	na	PART	_		_	_	_	LemmaId=43432|OccId=5913601|Unsandhied=na
+18	prāpnoti	prāp	VERB	_	Tense=Pres|Mood=Ind|Person=3|Number=Sing	_	_	_	LemmaId=163158|OccId=5913602|Unsandhied=prāpnoti
+
+# text = kutaḥ prayoge hi steyādīnām ucyamāne virodhaḥ syācchabdārthas tv aprayogabhūtas tasmād upapadyeta stenaṃ mano 'nṛtavādinī vāg iti
+# sent_id = 756750
+# sent_counter = 2
+# sent_subcounter = 
+1	kutaḥ	kutas	ADV	_		_	_	_	LemmaId=24343|OccId=5913603|Unsandhied=kutas
+2	prayoge	prayoga	NOUN	_	Case=Loc|Gender=Masc|Number=Sing	_	_	_	LemmaId=154572|OccId=5913604|Unsandhied=prayoge
+3	hi	hi	PART	_		_	_	_	LemmaId=109879|OccId=5913605|Unsandhied=hi
+4-5	steyādīnām	_	_	_	_	_	_	_	_
+4	steya	steya	NOUN	_	Case=Cpd	_	_	_	LemmaId=102534|OccId=5913606|Unsandhied=steya
+5	ādīnām	ādi	NOUN	_	Case=Gen|Gender=Neut|Number=Plur	_	_	_	LemmaId=57973|OccId=5913607|Unsandhied=ādīnām
+6	ucyamāne	vac	VERB	_	Case=Loc|Gender=Neut|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Pass	_	_	_	LemmaId=157264|OccId=5913608|Unsandhied=ucyamāne
+7	virodhaḥ	virodha	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=138144|OccId=5913609|Unsandhied=virodhaḥ
+8-10	syācchabdārthas	_	_	_	_	_	_	_	_
+8	syāt	as	VERB	_	Tense=Pres|Mood=Opt|Person=3|Number=Sing	_	_	_	LemmaId=156122|OccId=5913610|Unsandhied=syāt
+9	śabda	śabda	NOUN	_	Case=Cpd	_	_	_	LemmaId=116648|OccId=5913611|Unsandhied=śabda
+10	arthaḥ	artha	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=53136|OccId=5913612|Unsandhied=arthaḥ
+11	tv	tu	PART	_		_	_	_	LemmaId=82701|OccId=5913613|Unsandhied=tu
+12-14	aprayogabhūtas	_	_	_	_	_	_	_	_
+12	a	a	PART	_		_	_	_	LemmaId=213048|OccId=5913621|Unsandhied=a
+13	prayoga	prayoga	NOUN	_	Case=Cpd	_	_	_	LemmaId=154572|OccId=5913622|Unsandhied=prayoga
+14	bhūtaḥ	bhū	VERB	_	Case=Nom|Gender=Masc|Number=Sing|VerbForm=Part	_	_	_	LemmaId=157250|OccId=5913623|Unsandhied=bhūtaḥ
+15	tasmād	tasmāt	ADV	_		_	_	_	LemmaId=203521|OccId=5913614|Unsandhied=tasmāt
+16	upapadyeta	upapad	VERB	_	Tense=Pres|Mood=Opt|Person=3|Number=Sing	_	_	_	LemmaId=160455|OccId=5913615|Unsandhied=upapadyeta
+17	stenaṃ	stena	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	_	_	_	LemmaId=102527|OccId=5913624|Unsandhied=stenam
+18	mano	manas	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	_	_	_	LemmaId=36096|OccId=5913625|Unsandhied=manaḥ
+19-20	'nṛtavādinī	_	_	_	_	_	_	_	_
+19	anṛta	anṛta	NOUN	_	Case=Cpd	_	_	_	LemmaId=11571|OccId=5913617|Unsandhied=anṛta
+20	vādinī	vādin	ADJ	_	Case=Nom|Gender=Fem|Number=Sing	_	_	_	LemmaId=76638|OccId=5913618|Unsandhied=vādinī
+21	vāg	vāc	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	_	_	_	LemmaId=76023|OccId=5913619|Unsandhied=vāc
+22	iti	iti	PART	_		_	_	_	LemmaId=63331|OccId=5913620|Unsandhied=iti
+

@@ -3,7 +3,7 @@
 ## chapter: RājMār zu YS, 3, 44.1
 ## chapter_id: 2121
 # text = pañcānāṃ pṛthivyādīnāṃ bhūtānāṃ ye pañcāvasthāviśeṣarūpā dharmāḥ sthūlatvādayaḥ tatra kṛtasaṃyamasya bhūtajayaḥ bhavati bhūtāni vaśyānyasya bhavantītyarthaḥ
-# sent_id = 351176
+# sent_id = 351161
 # sent_counter = 1
 # sent_subcounter = 
 1	pañcānāṃ	pañcan	NUM	_	Case=Gen|Gender=Neut|Number=Plur	_	_	_	LemmaId=165692|OccId=602500|Unsandhied=pañcānām|UnsandhiedReconstructed=True
@@ -38,7 +38,7 @@
 24	arthaḥ	artha	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=53136|OccId=602523|Unsandhied=arthaḥ|UnsandhiedReconstructed=True
 
 # text = tathāhi bhūtānāṃ paridṛśyamānaṃ viśiṣṭākāravad rūpaṃ sthūlaṃ svarūpaṃ caiṣāṃ yathākramaṃ kāryaṃ gandhasnehoṣṇatāpreraṇāvakāśadānalakṣaṇam
-# sent_id = 351177
+# sent_id = 351162
 # sent_counter = 2
 # sent_subcounter = 
 1-2	tathāhi	_	_	_	_	_	_	_	_
@@ -67,22 +67,24 @@
 20	lakṣaṇam	lakṣaṇa	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=80283|OccId=602543|Unsandhied=lakṣaṇam|UnsandhiedReconstructed=True
 
 # text = sūkṣmaṃ tu yathākramaṃ bhūtānāṃ kāraṇatvena vyavasthitāni gandhāditanmātrāṇi
-# sent_id = 351178
+# sent_id = 351163
 # sent_counter = 3
 # sent_subcounter = 
 1	sūkṣmaṃ	sūkṣma	ADJ	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=98963|OccId=602753|Unsandhied=sūkṣmam|UnsandhiedReconstructed=True
 2	tu	tu	PART	_		_	_	_	LemmaId=82701|OccId=602544|Unsandhied=tu|UnsandhiedReconstructed=True
 3	yathākramaṃ	yathākramam	ADV	_		_	_	_	LemmaId=73273|OccId=602545|Unsandhied=yathākramam|UnsandhiedReconstructed=True
 4	bhūtānāṃ	bhūta	NOUN	_	Case=Gen|Gender=Neut|Number=Plur	_	_	_	LemmaId=25207|OccId=602546|Unsandhied=bhūtānām|UnsandhiedReconstructed=True
-5	kāraṇatvena	kāraṇatva	NOUN	_	Case=Ins|Gender=Neut|Number=Sing	_	_	_	LemmaId=168097|OccId=602547|Unsandhied=kāraṇatvena|UnsandhiedReconstructed=True
-6	vyavasthitāni	vyavasthā	VERB	_	Case=Nom|Gender=Neut|Number=Plur|VerbForm=Part	_	_	_	LemmaId=164603|OccId=602548|Unsandhied=vyavasthitāni|UnsandhiedReconstructed=True
-7-9	gandhāditanmātrāṇi	_	_	_	_	_	_	_	_
-7	gandha	gandha	NOUN	_	Case=Cpd	_	_	_	LemmaId=130008|OccId=602549|Unsandhied=gandha|UnsandhiedReconstructed=True
-8	ādi	ādi	NOUN	_	Case=Cpd	_	_	_	LemmaId=57973|OccId=602550|Unsandhied=ādi|UnsandhiedReconstructed=True
-9	tanmātrāṇi	tanmātra	NOUN	_	Case=Nom|Gender=Neut|Number=Plur	_	_	_	LemmaId=96118|OccId=602551|Unsandhied=tanmātrāṇi|UnsandhiedReconstructed=True
+5-6	kāraṇatvena	_	_	_	_	_	_	_	_
+5	kāraṇa	kāraṇa	NOUN	_	Case=Cpd	_	_	_	LemmaId=14116|OccId=5915404|Unsandhied=kāraṇa
+6	tvena	tva	NOUN	_	Case=Ins|Gender=Neut|Number=Sing	_	_	_	LemmaId=163754|OccId=5915405|Unsandhied=tvena
+7	vyavasthitāni	vyavasthā	VERB	_	Case=Nom|Gender=Neut|Number=Plur|VerbForm=Part	_	_	_	LemmaId=164603|OccId=602548|Unsandhied=vyavasthitāni|UnsandhiedReconstructed=True
+8-10	gandhāditanmātrāṇi	_	_	_	_	_	_	_	_
+8	gandha	gandha	NOUN	_	Case=Cpd	_	_	_	LemmaId=130008|OccId=602549|Unsandhied=gandha|UnsandhiedReconstructed=True
+9	ādi	ādi	NOUN	_	Case=Cpd	_	_	_	LemmaId=57973|OccId=602550|Unsandhied=ādi|UnsandhiedReconstructed=True
+10	tanmātrāṇi	tanmātra	NOUN	_	Case=Nom|Gender=Neut|Number=Plur	_	_	_	LemmaId=96118|OccId=602551|Unsandhied=tanmātrāṇi|UnsandhiedReconstructed=True
 
 # text = anvayino guṇāḥ prakāśapravṛttisthitirūpatayā sarvatraivānvayitvena samupalabhyante
-# sent_id = 351179
+# sent_id = 351164
 # sent_counter = 4
 # sent_subcounter = 
 1	anvayino	anvayin	ADJ	_	Case=Nom|Gender=Masc|Number=Plur	_	_	_	LemmaId=20575|OccId=602552|Unsandhied=anvayinaḥ|UnsandhiedReconstructed=True
@@ -99,7 +101,7 @@
 10	samupalabhyante	samupalabh	VERB	_	Tense=Pres|Mood=Ind|Voice=Pass|Person=3|Number=Plur	_	_	_	LemmaId=165372|OccId=602766|Unsandhied=samupalabhyante
 
 # text = arthavattvaṃ teṣveva guṇeṣu bhogāpavargasampādanākhyā śaktiḥ
-# sent_id = 351180
+# sent_id = 351165
 # sent_counter = 5
 # sent_subcounter = 
 1	arthavattvaṃ	arthavattva	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=53221|OccId=602558|Unsandhied=arthavattvam|UnsandhiedReconstructed=True
@@ -115,7 +117,7 @@
 9	śaktiḥ	śakti	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	_	_	_	LemmaId=116305|OccId=602566|Unsandhied=śaktiḥ|UnsandhiedReconstructed=True
 
 # text = tadevaṃ bhūteṣu pañcasu uktalakṣaṇāvasthāpanneṣu pratyavasthaṃ saṃyamaṃ kurvan yogī bhūtajayī bhavati
-# sent_id = 351181
+# sent_id = 351166
 # sent_counter = 6
 # sent_subcounter = 
 1-2	tadevaṃ	_	_	_	_	_	_	_	_
@@ -140,7 +142,7 @@
 16	bhavati	bhū	VERB	_	Tense=Pres|Mood=Ind|Person=3|Number=Sing	_	_	_	LemmaId=157250|OccId=602582|Unsandhied=bhavati
 
 # text = tadyathā prathamaṃ sthūlarūpe saṃyamaṃ vidhāya tadanu sūkṣmarūpe ityevaṃ krameṇa tasya kṛtasaṃyamasya saṃkalpānuvidhāyinyo vatsānusāriṇya iva gāvo bhūtaprakṛtayo bhavanti
-# sent_id = 351182
+# sent_id = 351167
 # sent_counter = 7
 # sent_subcounter = 
 1-2	tadyathā	_	_	_	_	_	_	_	_
@@ -178,7 +180,7 @@
 25	bhavanti	bhū	VERB	_	Tense=Pres|Mood=Ind|Person=3|Number=Plur	_	_	_	LemmaId=157250|OccId=602607|Unsandhied=bhavanti
 
 # text = tasyaiva bhūtajayasya phalam āha
-# sent_id = 351183
+# sent_id = 351168
 # sent_counter = 8
 # sent_subcounter = 1
 1-2	tasyaiva	_	_	_	_	_	_	_	_

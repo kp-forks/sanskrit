@@ -3,7 +3,7 @@
 ## chapter: AB, 3, 17
 ## chapter_id: 11609
 # text = brāhmaṇaspatyam pragāthaṃ śaṃsati
-# sent_id = 642675
+# sent_id = 642116
 # sent_counter = 1
 # sent_subcounter = 
 1	brāhmaṇaspatyam	brāhmaṇaspatya	ADJ	_	Case=Acc|Gender=Masc|Number=Sing	_	_	_	LemmaId=220585|OccId=4805416|Unsandhied=brāhmaṇaspatyam
@@ -11,7 +11,7 @@
 3	śaṃsati	śaṃs	VERB	_	Tense=Pres|Mood=Ind|Person=3|Number=Sing	_	_	_	LemmaId=157408|OccId=4805418|Unsandhied=śaṃsati|Punctuation=fullStop
 
 # text = bṛhaspatipurohitā vai devā ajayan svargaṃ lokaṃ vy asmiṃlloke 'jayanta tathaivaitad yajamāno bṛhaspatipurohita eva jayati svargaṃ lokaṃ vy asmiṃlloke jayate
-# sent_id = 642676
+# sent_id = 642117
 # sent_counter = 2
 # sent_subcounter = 
 1-2	bṛhaspatipurohitā	_	_	_	_	_	_	_	_
@@ -46,39 +46,50 @@
 25	jayate	ji	VERB	_	Tense=Pres|Mood=Ind|Person=3|Number=Sing	_	_	_	LemmaId=156588|OccId=4805437|Unsandhied=jayate|Punctuation=fullStop
 
 # text = tau vā etau pragāthāv astutau santau punarādāyaṃ śasyete tad āhur yan na kiṃcanāstutaṃ sat punarādāyaṃ śasyate 'tha kasmād etau pragāthāv astutau santau punarādāyaṃ śasyete iti
-# sent_id = 642677
+# sent_id = 642118
 # sent_counter = 3
 # sent_subcounter = 
 1	tau	tad	PRON	_	Case=Nom|Gender=Masc|Number=Dual	_	_	_	LemmaId=37875|OccId=4805438|Unsandhied=tau
 2	vā	vai	PART	_		_	_	_	LemmaId=118154|OccId=4805439|Unsandhied=vai
 3	etau	etad	PRON	_	Case=Nom|Gender=Masc|Number=Dual	_	_	_	LemmaId=163744|OccId=4805440|Unsandhied=etau
 4	pragāthāv	pragātha	NOUN	_	Case=Nom|Gender=Masc|Number=Dual	_	_	_	LemmaId=151214|OccId=4805441|Unsandhied=pragāthau
-5	astutau	astuta	ADJ	_	Case=Nom|Gender=Masc|Number=Dual	_	_	_	LemmaId=61231|OccId=4805442|Unsandhied=astutau
-6	santau	as	VERB	_	Case=Nom|Gender=Masc|Number=Dual|Tense=Pres|VerbForm=Part	_	_	_	LemmaId=156122|OccId=4805443|Unsandhied=santau
-7	punarādāyaṃ	punarādāyam	ADV	_		_	_	_	LemmaId=143674|OccId=4805444|Unsandhied=punarādāyam
-8	śasyete	śaṃs	VERB	_	Tense=Pres|Mood=Ind|Voice=Pass|Person=3|Number=Dual	_	_	_	LemmaId=157408|OccId=4805445|Unsandhied=śasyete|Punctuation=fullStop
-9	tad	tad	PRON	_	Case=Acc|Gender=Neut|Number=Sing	_	_	_	LemmaId=37875|OccId=4805446|Unsandhied=tat
-10	āhur	ah	VERB	_	Tense=Past|Mood=Ind|Person=3|Number=Plur	_	_	_	LemmaId=156124|OccId=4805447|Unsandhied=āhuḥ|Punctuation=fullStop
-11	yan	yat	SCONJ	_		_	_	_	LemmaId=73227|OccId=4805448|Unsandhied=yat
-12	na	na	PART	_		_	_	_	LemmaId=43432|OccId=4805449|Unsandhied=na
-13-14	kiṃcanāstutaṃ	_	_	_	_	_	_	_	_
-13	kiṃcana	kaścana	PRON	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=170034|OccId=4805568|Unsandhied=kiṃcana
-14	astutam	astuta	ADJ	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=61231|OccId=4805569|Unsandhied=astutam
-15	sat	as	VERB	_	Case=Nom|Gender=Neut|Number=Sing|Tense=Pres|VerbForm=Part	_	_	_	LemmaId=156122|OccId=4805450|Unsandhied=sat
-16	punarādāyaṃ	punarādāyam	ADV	_		_	_	_	LemmaId=143674|OccId=4805451|Unsandhied=punarādāyam
-17	śasyate	śaṃs	VERB	_	Tense=Pres|Mood=Ind|Voice=Pass|Person=3|Number=Sing	_	_	_	LemmaId=157408|OccId=4805452|Unsandhied=śasyate|Punctuation=comma
-18	'tha	atha	ADV	_		_	_	_	LemmaId=7467|OccId=4805453|Unsandhied=atha
-19	kasmād	kasmāt	ADV	_		_	_	_	LemmaId=13077|OccId=4805454|Unsandhied=kasmāt
-20	etau	etad	PRON	_	Case=Nom|Gender=Masc|Number=Dual	_	_	_	LemmaId=163744|OccId=4805455|Unsandhied=etau
-21	pragāthāv	pragātha	NOUN	_	Case=Nom|Gender=Masc|Number=Dual	_	_	_	LemmaId=151214|OccId=4805456|Unsandhied=pragāthau
-22	astutau	astuta	ADJ	_	Case=Nom|Gender=Masc|Number=Dual	_	_	_	LemmaId=61231|OccId=4805457|Unsandhied=astutau
-23	santau	as	VERB	_	Case=Nom|Gender=Masc|Number=Dual|Tense=Pres|VerbForm=Part	_	_	_	LemmaId=156122|OccId=4805458|Unsandhied=santau
-24	punarādāyaṃ	punarādāyam	ADV	_		_	_	_	LemmaId=143674|OccId=4805459|Unsandhied=punarādāyam
-25	śasyete	śaṃs	VERB	_	Tense=Pres|Mood=Ind|Voice=Pass|Person=3|Number=Dual	_	_	_	LemmaId=157408|OccId=4805460|Unsandhied=śasyete
-26	iti	iti	PART	_		_	_	_	LemmaId=63331|OccId=4805461|Unsandhied=iti|Punctuation=fullStop
+5-6	astutau	_	_	_	_	_	_	_	_
+5	a	a	PART	_		_	_	_	LemmaId=213048|OccId=5921391|Unsandhied=a
+6	stutau	stu	VERB	_	Case=Nom|Gender=Masc|Number=Dual|VerbForm=Part	_	_	_	LemmaId=157515|OccId=5921392|Unsandhied=stutau
+7	santau	as	VERB	_	Case=Nom|Gender=Masc|Number=Dual|Tense=Pres|VerbForm=Part	_	_	_	LemmaId=156122|OccId=4805443|Unsandhied=santau
+8-9	punarādāyaṃ	_	_	_	_	_	_	_	_
+8	punar	punar	ADV	_		_	_	_	LemmaId=143659|OccId=5921421|Unsandhied=punar
+9	ādāyam	ādā	VERB	_	VerbForm=Conv	_	_	_	LemmaId=159774|OccId=5921422|Unsandhied=ādāyam
+10	śasyete	śaṃs	VERB	_	Tense=Pres|Mood=Ind|Voice=Pass|Person=3|Number=Dual	_	_	_	LemmaId=157408|OccId=4805445|Unsandhied=śasyete|Punctuation=fullStop
+11	tad	tad	PRON	_	Case=Acc|Gender=Neut|Number=Sing	_	_	_	LemmaId=37875|OccId=4805446|Unsandhied=tat
+12	āhur	ah	VERB	_	Tense=Past|Mood=Ind|Person=3|Number=Plur	_	_	_	LemmaId=156124|OccId=4805447|Unsandhied=āhuḥ|Punctuation=fullStop
+13	yan	yat	SCONJ	_		_	_	_	LemmaId=73227|OccId=4805448|Unsandhied=yat
+14	na	na	PART	_		_	_	_	LemmaId=43432|OccId=4805449|Unsandhied=na
+15-17	kiṃcanāstutaṃ	_	_	_	_	_	_	_	_
+15	kiṃcana	kaścana	PRON	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=170034|OccId=5921393|Unsandhied=kiṃcana
+16	a	a	PART	_		_	_	_	LemmaId=213048|OccId=5921394|Unsandhied=a
+17	stutam	stu	VERB	_	Case=Nom|Gender=Neut|Number=Sing|VerbForm=Part	_	_	_	LemmaId=157515|OccId=5921395|Unsandhied=stutam
+18	sat	as	VERB	_	Case=Nom|Gender=Neut|Number=Sing|Tense=Pres|VerbForm=Part	_	_	_	LemmaId=156122|OccId=4805450|Unsandhied=sat
+19-20	punarādāyaṃ	_	_	_	_	_	_	_	_
+19	punar	punar	ADV	_		_	_	_	LemmaId=143659|OccId=5921398|Unsandhied=punar
+20	ādāyam	ādā	VERB	_	VerbForm=Conv	_	_	_	LemmaId=159774|OccId=5921399|Unsandhied=ādāyam
+21	śasyate	śaṃs	VERB	_	Tense=Pres|Mood=Ind|Voice=Pass|Person=3|Number=Sing	_	_	_	LemmaId=157408|OccId=4805452|Unsandhied=śasyate|Punctuation=comma
+22	'tha	atha	ADV	_		_	_	_	LemmaId=7467|OccId=4805453|Unsandhied=atha
+23	kasmād	kasmāt	ADV	_		_	_	_	LemmaId=13077|OccId=4805454|Unsandhied=kasmāt
+24	etau	etad	PRON	_	Case=Nom|Gender=Masc|Number=Dual	_	_	_	LemmaId=163744|OccId=4805455|Unsandhied=etau
+25	pragāthāv	pragātha	NOUN	_	Case=Nom|Gender=Masc|Number=Dual	_	_	_	LemmaId=151214|OccId=4805456|Unsandhied=pragāthau
+26-27	astutau	_	_	_	_	_	_	_	_
+26	a	a	PART	_		_	_	_	LemmaId=213048|OccId=5921396|Unsandhied=a
+27	stutau	stu	VERB	_	Case=Nom|Gender=Masc|Number=Dual|VerbForm=Part	_	_	_	LemmaId=157515|OccId=5921397|Unsandhied=stutau
+28	santau	as	VERB	_	Case=Nom|Gender=Masc|Number=Dual|Tense=Pres|VerbForm=Part	_	_	_	LemmaId=156122|OccId=4805458|Unsandhied=santau
+29-30	punarādāyaṃ	_	_	_	_	_	_	_	_
+29	punar	punar	ADV	_		_	_	_	LemmaId=143659|OccId=5921423|Unsandhied=punar
+30	ādāyam	ādā	VERB	_	VerbForm=Conv	_	_	_	LemmaId=159774|OccId=5921424|Unsandhied=ādāyam
+31	śasyete	śaṃs	VERB	_	Tense=Pres|Mood=Ind|Voice=Pass|Person=3|Number=Dual	_	_	_	LemmaId=157408|OccId=4805460|Unsandhied=śasyete
+32	iti	iti	PART	_		_	_	_	LemmaId=63331|OccId=4805461|Unsandhied=iti|Punctuation=fullStop
 
 # text = pavamānokthaṃ vā etad yan marutvatīyaṃ ṣaṭsu vā atra gāyatrīṣu stuvate ṣaṭsu bṛhatīṣu tisṛṣu triṣṭupsu sa vā eṣa trichandāḥ pañcadaśo mādhyaṃdinaḥ pavamānas tad āhuḥ kathaṃ ta eṣa trichandāḥ pañcadaśo mādhyaṃdinaḥ pavamāno 'nuśasto bhavatīti
-# sent_id = 642678
+# sent_id = 642119
 # sent_counter = 4
 # sent_subcounter = 
 1-2	pavamānokthaṃ	_	_	_	_	_	_	_	_
@@ -123,7 +134,7 @@
 36	iti	iti	PART	_		_	_	_	LemmaId=63331|OccId=4805495|Unsandhied=iti|Punctuation=fullStop
 
 # text = ye eva gāyatryā uttare pratipado yo gāyatro 'nucaras tābhir evāsya gāyatryo 'nuśastā bhavanty etābhyām evāsya pragāthābhyām bṛhatyo 'nuśastā bhavanti
-# sent_id = 642679
+# sent_id = 642120
 # sent_counter = 5
 # sent_subcounter = 
 1	ye	yad	PRON	_	Case=Nom|Gender=Masc|Number=Plur	_	_	_	LemmaId=37877|OccId=4805496|Unsandhied=ye
@@ -150,8 +161,8 @@
 20	'nuśastā	anuśaṃs	VERB	_	Case=Nom|Gender=Fem|Number=Plur|VerbForm=Part	_	_	_	LemmaId=158119|OccId=4805515|Unsandhied=anuśastāḥ
 21	bhavanti	bhū	VERB	_	Tense=Pres|Mood=Ind|Person=3|Number=Plur	_	_	_	LemmaId=157250|OccId=4805516|Unsandhied=bhavanti|Punctuation=fullStop
 
-# text = tāsu vā etāsu bṛhatīṣu sāmagā rauravayaudhājayābhyām punarādāyaṃ stuvate tasmād etau pragāthāvastutau santau punarādāyaṃ śasyete tac chastreṇa stotram anvaiti
-# sent_id = 642680
+# text = tāsu vā etāsu bṛhatīṣu sāmagā rauravayaudhājayābhyām punarādāyaṃ stuvate tasmād etau pragāthāv astutau santau punarādāyaṃ śasyete tac chastreṇa stotram anvaiti
+# sent_id = 642121
 # sent_counter = 6
 # sent_subcounter = 
 1	tāsu	tad	PRON	_	Case=Loc|Gender=Fem|Number=Plur	_	_	_	LemmaId=37875|OccId=4805517|Unsandhied=tāsu
@@ -162,23 +173,28 @@
 6-7	rauravayaudhājayābhyām	_	_	_	_	_	_	_	_
 6	raurava	raurava	NOUN	_	Case=Cpd	_	_	_	LemmaId=80211|OccId=4805522|Unsandhied=raurava
 7	yaudhājayābhyām	yaudhājaya	NOUN	_	Case=Ins|Gender=Neut|Number=Dual	_	_	_	LemmaId=65334|OccId=4805523|Unsandhied=yaudhājayābhyām
-8	punarādāyaṃ	punarādāyam	ADV	_		_	_	_	LemmaId=143674|OccId=4805524|Unsandhied=punarādāyam
-9	stuvate	stu	VERB	_	Tense=Pres|Mood=Ind|Person=3|Number=Plur	_	_	_	LemmaId=157515|OccId=4805525|Unsandhied=stuvate|Punctuation=fullStop
-10	tasmād	tasmāt	ADV	_		_	_	_	LemmaId=203521|OccId=4805526|Unsandhied=tasmāt
-11	etau	etad	PRON	_	Case=Nom|Gender=Masc|Number=Dual	_	_	_	LemmaId=163744|OccId=4805527|Unsandhied=etau
-12-13	pragāthāvastutau	_	_	_	_	_	_	_	_
-12	pragāthau	pragātha	NOUN	_	Case=Nom|Gender=Masc|Number=Dual	_	_	_	LemmaId=151214|OccId=4805528|Unsandhied=pragāthau
-13	astutau	astuta	ADJ	_	Case=Nom|Gender=Masc|Number=Dual	_	_	_	LemmaId=61231|OccId=4805529|Unsandhied=astutau
-14	santau	as	VERB	_	Case=Nom|Gender=Masc|Number=Dual|Tense=Pres|VerbForm=Part	_	_	_	LemmaId=156122|OccId=4805530|Unsandhied=santau
-15	punarādāyaṃ	punarādāyam	ADV	_		_	_	_	LemmaId=143674|OccId=4805531|Unsandhied=punarādāyam
-16	śasyete	śaṃs	VERB	_	Tense=Pres|Mood=Ind|Voice=Pass|Person=3|Number=Dual	_	_	_	LemmaId=157408|OccId=4805532|Unsandhied=śasyete|Punctuation=fullStop
-17	tac	tad	PRON	_	Case=Acc|Gender=Neut|Number=Sing	_	_	_	LemmaId=37875|OccId=4805533|Unsandhied=tat
-18	chastreṇa	śastra	NOUN	_	Case=Ins|Gender=Neut|Number=Sing	_	_	_	LemmaId=114774|OccId=4805534|Unsandhied=śastreṇa
-19	stotram	stotra	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	_	_	_	LemmaId=102431|OccId=4805535|Unsandhied=stotram
-20	anvaiti	anve	VERB	_	Tense=Pres|Mood=Ind|Person=3|Number=Sing	_	_	_	LemmaId=158337|OccId=4805536|Unsandhied=anvaiti|Punctuation=fullStop
+8-9	punarādāyaṃ	_	_	_	_	_	_	_	_
+8	punar	punar	ADV	_		_	_	_	LemmaId=143659|OccId=5921425|Unsandhied=punar
+9	ādāyam	ādā	VERB	_	VerbForm=Conv	_	_	_	LemmaId=159774|OccId=5921426|Unsandhied=ādāyam
+10	stuvate	stu	VERB	_	Tense=Pres|Mood=Ind|Person=3|Number=Plur	_	_	_	LemmaId=157515|OccId=4805525|Unsandhied=stuvate|Punctuation=fullStop
+11	tasmād	tasmāt	ADV	_		_	_	_	LemmaId=203521|OccId=4805526|Unsandhied=tasmāt
+12	etau	etad	PRON	_	Case=Nom|Gender=Masc|Number=Dual	_	_	_	LemmaId=163744|OccId=4805527|Unsandhied=etau
+13	pragāthāv	pragātha	NOUN	_	Case=Nom|Gender=Masc|Number=Dual	_	_	_	LemmaId=151214|OccId=5921400|Unsandhied=pragāthau
+14-15	astutau	_	_	_	_	_	_	_	_
+14	a	a	PART	_		_	_	_	LemmaId=213048|OccId=5921401|Unsandhied=a
+15	stutau	stu	VERB	_	Case=Nom|Gender=Masc|Number=Dual|VerbForm=Part	_	_	_	LemmaId=157515|OccId=5921402|Unsandhied=stutau
+16	santau	as	VERB	_	Case=Nom|Gender=Masc|Number=Dual|Tense=Pres|VerbForm=Part	_	_	_	LemmaId=156122|OccId=4805530|Unsandhied=santau
+17-18	punarādāyaṃ	_	_	_	_	_	_	_	_
+17	punar	punar	ADV	_		_	_	_	LemmaId=143659|OccId=5921403|Unsandhied=punar
+18	ādāyam	ādā	VERB	_	VerbForm=Conv	_	_	_	LemmaId=159774|OccId=5921404|Unsandhied=ādāyam
+19	śasyete	śaṃs	VERB	_	Tense=Pres|Mood=Ind|Voice=Pass|Person=3|Number=Dual	_	_	_	LemmaId=157408|OccId=4805532|Unsandhied=śasyete|Punctuation=fullStop
+20	tac	tad	PRON	_	Case=Acc|Gender=Neut|Number=Sing	_	_	_	LemmaId=37875|OccId=4805533|Unsandhied=tat
+21	chastreṇa	śastra	NOUN	_	Case=Ins|Gender=Neut|Number=Sing	_	_	_	LemmaId=114774|OccId=4805534|Unsandhied=śastreṇa
+22	stotram	stotra	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	_	_	_	LemmaId=102431|OccId=4805535|Unsandhied=stotram
+23	anvaiti	anve	VERB	_	Tense=Pres|Mood=Ind|Person=3|Number=Sing	_	_	_	LemmaId=158337|OccId=4805536|Unsandhied=anvaiti|Punctuation=fullStop
 
 # text = ye eva triṣṭubhau dhāyye yat traiṣṭubhaṃ nividdhānam tābhir evāsya triṣṭubho 'nuśastā bhavanti
-# sent_id = 642681
+# sent_id = 642122
 # sent_counter = 7
 # sent_subcounter = 
 1	ye	yad	PRON	_	Case=Nom|Gender=Fem|Number=Dual	_	_	_	LemmaId=37877|OccId=4805537|Unsandhied=ye
@@ -199,7 +215,7 @@
 14	bhavanti	bhū	VERB	_	Tense=Pres|Mood=Ind|Person=3|Number=Plur	_	_	_	LemmaId=157250|OccId=4805550|Unsandhied=bhavanti|Punctuation=fullStop
 
 # text = evam u hāsyaiṣa trichandāḥ pañcadaśo mādhyaṃdinaḥ pavamāno 'nuśasto bhavati ya evaṃ veda
-# sent_id = 642682
+# sent_id = 642123
 # sent_counter = 8
 # sent_subcounter = 
 1	evam	evam	ADV	_		_	_	_	LemmaId=39758|OccId=4805551|Unsandhied=evam

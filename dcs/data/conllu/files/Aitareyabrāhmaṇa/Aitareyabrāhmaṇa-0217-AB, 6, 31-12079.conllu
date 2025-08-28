@@ -3,7 +3,7 @@
 ## chapter: AB, 6, 31
 ## chapter_id: 12079
 # text = tad āhur yad asmin viśvajity atirātra evaṃ ṣaṣṭhe 'hani kalpate yajñaḥ kalpate yajamānasya prajātiḥ katham atrāśasta eva nābhānediṣṭho bhavaty atha maitrāvaruṇo vālakhilyāḥ śaṃsati te prāṇā reto vā agre 'tha prāṇā evam brāhmaṇācchaṃsy aśasta eva nābhānediṣṭho bhavaty atha vṛṣākapiṃ śaṃsati sa ātmā reto vā agre 'thātmā katham atra yajamānasya prajātiḥ katham prāṇā avikﾱptā bhavantīti
-# sent_id = 644090
+# sent_id = 643531
 # sent_counter = 1
 # sent_subcounter = 
 1	tad	tad	PRON	_	Case=Acc|Gender=Neut|Number=Sing	_	_	_	LemmaId=37875|OccId=4921557|Unsandhied=tat
@@ -21,55 +21,58 @@
 13	yajamānasya	yaj	VERB	_	Case=Gen|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part	_	_	_	LemmaId=157422|OccId=4921569|Unsandhied=yajamānasya
 14	prajātiḥ	prajāti	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	_	_	_	LemmaId=151282|OccId=4921570|Unsandhied=prajātiḥ|Punctuation=comma
 15	katham	katham	ADV	_		_	_	_	LemmaId=1340|OccId=4921571|Unsandhied=katham
-16-17	atrāśasta	_	_	_	_	_	_	_	_
-16	atra	atra	ADV	_		_	_	_	LemmaId=7442|OccId=4921572|Unsandhied=atra
-17	aśastaḥ	aśasta	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=59921|OccId=4921573|Unsandhied=aśastaḥ
-18	eva	eva	PART	_		_	_	_	LemmaId=39754|OccId=4921574|Unsandhied=eva
-19	nābhānediṣṭho	nābhānediṣṭha	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=33489|OccId=4921575|Unsandhied=nābhānediṣṭhaḥ
-20	bhavaty	bhū	VERB	_	Tense=Pres|Mood=Ind|Person=3|Number=Sing	_	_	_	LemmaId=157250|OccId=4921576|Unsandhied=bhavati|Punctuation=comma
-21	atha	atha	ADV	_		_	_	_	LemmaId=7467|OccId=4921577|Unsandhied=atha
-22	maitrāvaruṇo	maitrāvaruṇa	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=72248|OccId=4921664|Unsandhied=maitrāvaruṇaḥ
-23	vālakhilyāḥ	vālakhilyā	NOUN	_	Case=Acc|Gender=Fem|Number=Plur	_	_	_	LemmaId=46827|OccId=4921578|Unsandhied=vālakhilyāḥ
-24	śaṃsati	śaṃs	VERB	_	Tense=Pres|Mood=Ind|Person=3|Number=Sing	_	_	_	LemmaId=157408|OccId=4921579|Unsandhied=śaṃsati|Punctuation=fullStop
-25	te	tad	PRON	_	Case=Nom|Gender=Masc|Number=Plur	_	_	_	LemmaId=37875|OccId=4921580|Unsandhied=te
-26	prāṇā	prāṇa	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	_	_	_	LemmaId=156090|OccId=4921581|Unsandhied=prāṇāḥ|Punctuation=fullStop
-27	reto	retas	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=79717|OccId=4921582|Unsandhied=retaḥ
-28	vā	vai	PART	_		_	_	_	LemmaId=118154|OccId=4921583|Unsandhied=vai
-29	agre	agra	NOUN	_	Case=Loc|Gender=Neut|Number=Sing	_	_	_	LemmaId=5937|OccId=4921584|Unsandhied=agre|Punctuation=comma
-30	'tha	atha	ADV	_		_	_	_	LemmaId=7467|OccId=4921585|Unsandhied=atha
-31	prāṇā	prāṇa	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	_	_	_	LemmaId=156090|OccId=4921586|Unsandhied=prāṇāḥ|Punctuation=fullStop
-32	evam	evam	ADV	_		_	_	_	LemmaId=39758|OccId=4921587|Unsandhied=evam
-33	brāhmaṇācchaṃsy	brāhmaṇācchaṃsin	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=149756|OccId=4921665|Unsandhied=brāhmaṇācchaṃsī|Punctuation=fullStop
-34	aśasta	aśasta	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=59921|OccId=4921588|Unsandhied=aśastaḥ
-35	eva	eva	PART	_		_	_	_	LemmaId=39754|OccId=4921589|Unsandhied=eva
-36	nābhānediṣṭho	nābhānediṣṭha	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=33489|OccId=4921590|Unsandhied=nābhānediṣṭhaḥ
-37	bhavaty	bhū	VERB	_	Tense=Pres|Mood=Ind|Person=3|Number=Sing	_	_	_	LemmaId=157250|OccId=4921591|Unsandhied=bhavati|Punctuation=fullStop
-38	atha	atha	ADV	_		_	_	_	LemmaId=7467|OccId=4921592|Unsandhied=atha
-39	vṛṣākapiṃ	vṛṣākapi	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	_	_	_	LemmaId=142890|OccId=4921593|Unsandhied=vṛṣākapim
-40	śaṃsati	śaṃs	VERB	_	Tense=Pres|Mood=Ind|Person=3|Number=Sing	_	_	_	LemmaId=157408|OccId=4921594|Unsandhied=śaṃsati|Punctuation=fullStop
-41	sa	tad	PRON	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=37875|OccId=4921595|Unsandhied=saḥ
-42	ātmā	ātman	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=57749|OccId=4921596|Unsandhied=ātmā|Punctuation=fullStop
-43	reto	retas	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=79717|OccId=4921597|Unsandhied=retaḥ
-44	vā	vai	PART	_		_	_	_	LemmaId=118154|OccId=4921598|Unsandhied=vai
-45	agre	agra	NOUN	_	Case=Loc|Gender=Neut|Number=Sing	_	_	_	LemmaId=5937|OccId=4921599|Unsandhied=agre
-46-47	'thātmā	_	_	_	_	_	_	_	_
-46	atha	atha	ADV	_		_	_	_	LemmaId=7467|OccId=4921600|Unsandhied=atha
-47	ātmā	ātman	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=57749|OccId=4921601|Unsandhied=ātmā|Punctuation=fullStop
-48	katham	katham	ADV	_		_	_	_	LemmaId=1340|OccId=4921602|Unsandhied=katham
-49	atra	atra	ADV	_		_	_	_	LemmaId=7442|OccId=4921603|Unsandhied=atra
-50	yajamānasya	yaj	VERB	_	Case=Gen|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part	_	_	_	LemmaId=157422|OccId=4921604|Unsandhied=yajamānasya
-51	prajātiḥ	prajāti	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	_	_	_	LemmaId=151282|OccId=4921605|Unsandhied=prajātiḥ|Punctuation=comma
-52	katham	katham	ADV	_		_	_	_	LemmaId=1340|OccId=4921606|Unsandhied=katham
-53	prāṇā	prāṇa	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	_	_	_	LemmaId=156090|OccId=4921607|Unsandhied=prāṇāḥ
-54-55	avikﾱptā	_	_	_	_	_	_	_	_
-54	a	a	PART	_		_	_	_	LemmaId=213048|OccId=4921666|Unsandhied=a
-55	vikﾱptāḥ	vikﾱp	VERB	_	Case=Nom|Gender=Masc|Number=Plur|VerbForm=Part	_	_	_	LemmaId=163255|OccId=4921667|Unsandhied=vikﾱptāḥ
-56-57	bhavantīti	_	_	_	_	_	_	_	_
-56	bhavanti	bhū	VERB	_	Tense=Pres|Mood=Ind|Person=3|Number=Plur	_	_	_	LemmaId=157250|OccId=4921608|Unsandhied=bhavanti
-57	iti	iti	PART	_		_	_	_	LemmaId=63331|OccId=4921609|Unsandhied=iti|Punctuation=fullStop
+16-18	atrāśasta	_	_	_	_	_	_	_	_
+16	atra	atra	ADV	_		_	_	_	LemmaId=7442|OccId=5929277|Unsandhied=atra
+17	a	a	PART	_		_	_	_	LemmaId=213048|OccId=5929278|Unsandhied=a
+18	śastaḥ	śaṃs	VERB	_	Case=Nom|Gender=Masc|Number=Sing|VerbForm=Part	_	_	_	LemmaId=157408|OccId=5929279|Unsandhied=śastaḥ
+19	eva	eva	PART	_		_	_	_	LemmaId=39754|OccId=4921574|Unsandhied=eva
+20	nābhānediṣṭho	nābhānediṣṭha	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=33489|OccId=4921575|Unsandhied=nābhānediṣṭhaḥ
+21	bhavaty	bhū	VERB	_	Tense=Pres|Mood=Ind|Person=3|Number=Sing	_	_	_	LemmaId=157250|OccId=4921576|Unsandhied=bhavati|Punctuation=comma
+22	atha	atha	ADV	_		_	_	_	LemmaId=7467|OccId=4921577|Unsandhied=atha
+23	maitrāvaruṇo	maitrāvaruṇa	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=72248|OccId=4921664|Unsandhied=maitrāvaruṇaḥ
+24	vālakhilyāḥ	vālakhilyā	NOUN	_	Case=Acc|Gender=Fem|Number=Plur	_	_	_	LemmaId=46827|OccId=4921578|Unsandhied=vālakhilyāḥ
+25	śaṃsati	śaṃs	VERB	_	Tense=Pres|Mood=Ind|Person=3|Number=Sing	_	_	_	LemmaId=157408|OccId=4921579|Unsandhied=śaṃsati|Punctuation=fullStop
+26	te	tad	PRON	_	Case=Nom|Gender=Masc|Number=Plur	_	_	_	LemmaId=37875|OccId=4921580|Unsandhied=te
+27	prāṇā	prāṇa	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	_	_	_	LemmaId=156090|OccId=4921581|Unsandhied=prāṇāḥ|Punctuation=fullStop
+28	reto	retas	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=79717|OccId=4921582|Unsandhied=retaḥ
+29	vā	vai	PART	_		_	_	_	LemmaId=118154|OccId=4921583|Unsandhied=vai
+30	agre	agra	NOUN	_	Case=Loc|Gender=Neut|Number=Sing	_	_	_	LemmaId=5937|OccId=4921584|Unsandhied=agre|Punctuation=comma
+31	'tha	atha	ADV	_		_	_	_	LemmaId=7467|OccId=4921585|Unsandhied=atha
+32	prāṇā	prāṇa	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	_	_	_	LemmaId=156090|OccId=4921586|Unsandhied=prāṇāḥ|Punctuation=fullStop
+33	evam	evam	ADV	_		_	_	_	LemmaId=39758|OccId=4921587|Unsandhied=evam
+34	brāhmaṇācchaṃsy	brāhmaṇācchaṃsin	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=149756|OccId=4921665|Unsandhied=brāhmaṇācchaṃsī|Punctuation=fullStop
+35-36	aśasta	_	_	_	_	_	_	_	_
+35	a	a	PART	_		_	_	_	LemmaId=213048|OccId=5929275|Unsandhied=a
+36	śastaḥ	śaṃs	VERB	_	Case=Nom|Gender=Masc|Number=Sing|VerbForm=Part	_	_	_	LemmaId=157408|OccId=5929276|Unsandhied=śastaḥ
+37	eva	eva	PART	_		_	_	_	LemmaId=39754|OccId=4921589|Unsandhied=eva
+38	nābhānediṣṭho	nābhānediṣṭha	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=33489|OccId=4921590|Unsandhied=nābhānediṣṭhaḥ
+39	bhavaty	bhū	VERB	_	Tense=Pres|Mood=Ind|Person=3|Number=Sing	_	_	_	LemmaId=157250|OccId=4921591|Unsandhied=bhavati|Punctuation=fullStop
+40	atha	atha	ADV	_		_	_	_	LemmaId=7467|OccId=4921592|Unsandhied=atha
+41	vṛṣākapiṃ	vṛṣākapi	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	_	_	_	LemmaId=142890|OccId=4921593|Unsandhied=vṛṣākapim
+42	śaṃsati	śaṃs	VERB	_	Tense=Pres|Mood=Ind|Person=3|Number=Sing	_	_	_	LemmaId=157408|OccId=4921594|Unsandhied=śaṃsati|Punctuation=fullStop
+43	sa	tad	PRON	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=37875|OccId=4921595|Unsandhied=saḥ
+44	ātmā	ātman	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=57749|OccId=4921596|Unsandhied=ātmā|Punctuation=fullStop
+45	reto	retas	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=79717|OccId=4921597|Unsandhied=retaḥ
+46	vā	vai	PART	_		_	_	_	LemmaId=118154|OccId=4921598|Unsandhied=vai
+47	agre	agra	NOUN	_	Case=Loc|Gender=Neut|Number=Sing	_	_	_	LemmaId=5937|OccId=4921599|Unsandhied=agre
+48-49	'thātmā	_	_	_	_	_	_	_	_
+48	atha	atha	ADV	_		_	_	_	LemmaId=7467|OccId=4921600|Unsandhied=atha
+49	ātmā	ātman	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=57749|OccId=4921601|Unsandhied=ātmā|Punctuation=fullStop
+50	katham	katham	ADV	_		_	_	_	LemmaId=1340|OccId=4921602|Unsandhied=katham
+51	atra	atra	ADV	_		_	_	_	LemmaId=7442|OccId=4921603|Unsandhied=atra
+52	yajamānasya	yaj	VERB	_	Case=Gen|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part	_	_	_	LemmaId=157422|OccId=4921604|Unsandhied=yajamānasya
+53	prajātiḥ	prajāti	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	_	_	_	LemmaId=151282|OccId=4921605|Unsandhied=prajātiḥ|Punctuation=comma
+54	katham	katham	ADV	_		_	_	_	LemmaId=1340|OccId=4921606|Unsandhied=katham
+55	prāṇā	prāṇa	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	_	_	_	LemmaId=156090|OccId=4921607|Unsandhied=prāṇāḥ
+56-57	avikﾱptā	_	_	_	_	_	_	_	_
+56	a	a	PART	_		_	_	_	LemmaId=213048|OccId=4921666|Unsandhied=a
+57	vikﾱptāḥ	vikﾱp	VERB	_	Case=Nom|Gender=Masc|Number=Plur|VerbForm=Part	_	_	_	LemmaId=163255|OccId=4921667|Unsandhied=vikﾱptāḥ
+58-59	bhavantīti	_	_	_	_	_	_	_	_
+58	bhavanti	bhū	VERB	_	Tense=Pres|Mood=Ind|Person=3|Number=Plur	_	_	_	LemmaId=157250|OccId=4921608|Unsandhied=bhavanti
+59	iti	iti	PART	_		_	_	_	LemmaId=63331|OccId=4921609|Unsandhied=iti|Punctuation=fullStop
 
 # text = yajamānaṃ ha vā etena sarveṇa yajñakratunā saṃskurvanti sa yathā garbho yonyām antar evaṃ sambhavañchete na vai sakṛd evāgre sarvaḥ sambhavaty ekaikaṃ vā aṅgaṃ sambhavataḥ sambhavatīti
-# sent_id = 644091
+# sent_id = 643532
 # sent_counter = 2
 # sent_subcounter = 
 1	yajamānaṃ	yaj	VERB	_	Case=Acc|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part	_	_	_	LemmaId=157422|OccId=4921610|Unsandhied=yajamānam
@@ -107,7 +110,7 @@
 29	iti	iti	PART	_		_	_	_	LemmaId=63331|OccId=4921636|Unsandhied=iti|Punctuation=fullStop
 
 # text = sarvāṇi cet samāne 'han kriyeran kalpata eva yajñaḥ kalpate yajamānasya prajātir athaitaṃ hotaivayāmarutaṃ tṛtīyasavane śaṃsati tad yāsya pratiṣṭhā tasyām evainaṃ tad antataḥ pratiṣṭhāpayati
-# sent_id = 644092
+# sent_id = 643533
 # sent_counter = 3
 # sent_subcounter = 
 1	sarvāṇi	sarva	PRON	_	Case=Nom|Gender=Neut|Number=Plur	_	_	_	LemmaId=104444|OccId=4921637|Unsandhied=sarvāṇi

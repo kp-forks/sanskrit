@@ -1692,17 +1692,21 @@
 7	bhiṣaj	bhiṣaj	NOUN	_	Case=Cpd	_	_	_	LemmaId=50269|OccId=1347066|Unsandhied=bhiṣaj|UnsandhiedReconstructed=True|WordSem=45323
 8	varāḥ	vara	ADJ	_	Case=Nom|Gender=Masc|Number=Plur	_	_	_	LemmaId=69149|OccId=1347067|Unsandhied=varāḥ|UnsandhiedReconstructed=True|WordSem=67940
 
-# text = yasya kṛtsnaṃ śarīrārdhamakarmaṇyamacetanam
+# text = yasya kṛtsnaṃ śarīrārdham akarmaṇyam acetanam
 # sent_id = 4862
 # sent_counter = 62
 # sent_subcounter = 1
 1	yasya	yad	PRON	_	Case=Gen|Gender=Masc|Number=Sing	_	_	_	LemmaId=37877|OccId=1347068|Unsandhied=yasya|UnsandhiedReconstructed=True
-2	kṛtsnaṃ	kṛtsna	ADJ	_	Case=Acc|Gender=Neut|Number=Sing	_	_	_	LemmaId=3867|OccId=1347069|Unsandhied=kṛtsnam|UnsandhiedReconstructed=True|WordSem=69466
-3-6	śarīrārdhamakarmaṇyamacetanam	_	_	_	_	_	_	_	_
-3	śarīra	śarīra	NOUN	_	Case=Cpd	_	_	_	LemmaId=116860|OccId=1347070|Unsandhied=śarīra|UnsandhiedReconstructed=True|WordSem=25712
-4	ardham	ardha	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	_	_	_	LemmaId=53322|OccId=1347071|Unsandhied=ardham|UnsandhiedReconstructed=True|WordSem=59879
-5	akarmaṇyam	akarmaṇya	ADJ	_	Case=Acc|Gender=Neut|Number=Sing	_	_	_	LemmaId=1809|OccId=1347072|Unsandhied=akarmaṇyam|UnsandhiedReconstructed=True|WordSem=66784
-6	acetanam	acetana	ADJ	_	Case=Acc|Gender=Neut|Number=Sing	_	_	_	LemmaId=6373|OccId=1347073|Unsandhied=acetanam|UnsandhiedReconstructed=True|WordSem=69792
+2	kṛtsnaṃ	kṛtsna	ADJ	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=3867|OccId=5920136|Unsandhied=kṛtsnam
+3-4	śarīrārdham	_	_	_	_	_	_	_	_
+3	śarīra	śarīra	NOUN	_	Case=Cpd	_	_	_	LemmaId=116860|OccId=5920132|Unsandhied=śarīra
+4	ardham	ardha	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=53322|OccId=5920133|Unsandhied=ardham
+5-6	akarmaṇyam	_	_	_	_	_	_	_	_
+5	a	a	PART	_		_	_	_	LemmaId=213048|OccId=5920137|Unsandhied=a
+6	karmaṇyam	karmaṇya	ADJ	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=12385|OccId=5920138|Unsandhied=karmaṇyam
+7-8	acetanam	_	_	_	_	_	_	_	_
+7	a	a	PART	_		_	_	_	LemmaId=213048|OccId=5920134|Unsandhied=a
+8	cetanam	cetana	ADJ	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=51671|OccId=5920135|Unsandhied=cetanam
 
 # text = tataḥ patatyasūn vāpi tyajatyanilapīḍitaḥ
 # sent_id = 4863

@@ -1,0 +1,60 @@
+## text: Sarvāṅgasundarā
+## text_id: 15
+## chapter: SarvSund zu AHS, Sū., 16, 11.2
+## chapter_id: 245
+# text = tur viśeṣe
+# sent_id = 42306
+# sent_counter = 1
+# sent_subcounter = 
+1	viśeṣe	viśeṣa	NOUN	_	Case=Loc|Gender=Masc|Number=Sing	_	_	_	LemmaId=139220|OccId=1997792|Unsandhied=viśeṣe|UnsandhiedReconstructed=True
+
+# text = caḥ samuccaye
+# sent_id = 42307
+# sent_counter = 2
+# sent_subcounter = 
+1	caḥ	ca	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=205522|OccId=1997793|Unsandhied=caḥ|UnsandhiedReconstructed=True
+2	samuccaye	samuccaya	NOUN	_	Case=Loc|Gender=Masc|Number=Sing	_	_	_	LemmaId=30190|OccId=1997794|Unsandhied=samuccaye|UnsandhiedReconstructed=True
+
+# text = rujāśabdaḥ pratyekaṃ sambadhyate
+# sent_id = 42308
+# sent_counter = 3
+# sent_subcounter = 
+1-2	rujāśabdaḥ	_	_	_	_	_	_	_	_
+1	rujā	rujā	NOUN	_	Case=Cpd	_	_	_	LemmaId=71548|OccId=1997795|Unsandhied=rujā|UnsandhiedReconstructed=True
+2	śabdaḥ	śabda	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=116648|OccId=1997796|Unsandhied=śabdaḥ|UnsandhiedReconstructed=True
+3	pratyekaṃ	pratyekam	ADV	_		_	_	_	LemmaId=202984|OccId=1997797|Unsandhied=pratyekam|UnsandhiedReconstructed=True
+4	sambadhyate	sambandh	VERB	_	Tense=Pres|Mood=Ind|Voice=Pass|Person=3|Number=Sing	_	_	_	LemmaId=165569|OccId=1997798|Unsandhied=sambadhyate
+
+# text = sandhirujāsvasthirujāsv ityādi
+# sent_id = 42309
+# sent_counter = 4
+# sent_subcounter = 
+1-4	sandhirujāsvasthirujāsv	_	_	_	_	_	_	_	_
+1	saṃdhi	saṃdhi	NOUN	_	Case=Cpd	_	_	_	LemmaId=17663|OccId=1997799|Unsandhied=saṃdhi|UnsandhiedReconstructed=True
+2	rujāsu	rujā	NOUN	_	Case=Loc|Gender=Fem|Number=Plur	_	_	_	LemmaId=71548|OccId=1997800|Unsandhied=rujāsu|UnsandhiedReconstructed=True
+3	asthi	asthi	NOUN	_	Case=Cpd	_	_	_	LemmaId=61292|OccId=1997801|Unsandhied=asthi|UnsandhiedReconstructed=True
+4	rujāsu	rujā	NOUN	_	Case=Loc|Gender=Fem|Number=Plur	_	_	_	LemmaId=71548|OccId=1997802|Unsandhied=rujāsu|UnsandhiedReconstructed=True
+5	ityādi	ityādi	ADJ	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=63350|OccId=1997803|Unsandhied=ityādi|UnsandhiedReconstructed=True
+
+# text = tathā dagdharujy āhataruji ca tathā bhraṣṭayonirujīty evaṃ sambandhaḥ kāryaḥ
+# sent_id = 42310
+# sent_counter = 5
+# sent_subcounter = 
+1	tathā	tathā	ADV	_		_	_	_	LemmaId=95987|OccId=1997804|Unsandhied=tathā|UnsandhiedReconstructed=True
+2-3	dagdharujy	_	_	_	_	_	_	_	_
+2	dagdha	dah	VERB	_	Case=Cpd|VerbForm=Part	_	_	_	LemmaId=157371|OccId=1997805|Unsandhied=dagdha|UnsandhiedReconstructed=True
+3	_	ruj	NOUN	_	Case=Loc|Gender=Masc|Number=Sing	_	_	_	LemmaId=71545|OccId=1997806|Unsandhied=_
+4-5	āhataruji	_	_	_	_	_	_	_	_
+4	āhata	āhan	VERB	_	Case=Cpd|VerbForm=Part	_	_	_	LemmaId=160033|OccId=1997807|Unsandhied=āhata|UnsandhiedReconstructed=True
+5	_	ruj	NOUN	_	Case=Loc|Gender=Masc|Number=Sing	_	_	_	LemmaId=71545|OccId=1997808|Unsandhied=_
+6	ca	ca	CONJ	_		_	_	_	LemmaId=157144|OccId=1997809|Unsandhied=ca|UnsandhiedReconstructed=True
+7	tathā	tathā	ADV	_		_	_	_	LemmaId=95987|OccId=1997810|Unsandhied=tathā|UnsandhiedReconstructed=True
+8-11	bhraṣṭayonirujīty	_	_	_	_	_	_	_	_
+8	bhraṣṭa	bhraṃś	VERB	_	Case=Cpd|VerbForm=Part	_	_	_	LemmaId=159573|OccId=1997811|Unsandhied=bhraṣṭa|UnsandhiedReconstructed=True
+9	yoni	yoni	NOUN	_	Case=Cpd	_	_	_	LemmaId=65252|OccId=1997812|Unsandhied=yoni|UnsandhiedReconstructed=True
+10	_	ruj	NOUN	_	Case=Loc|Gender=Masc|Number=Sing	_	_	_	LemmaId=71545|OccId=1997813|Unsandhied=_
+11	iti	iti	PART	_		_	_	_	LemmaId=63331|OccId=1997814|Unsandhied=iti|UnsandhiedReconstructed=True
+12	evaṃ	evam	ADV	_		_	_	_	LemmaId=39758|OccId=1997815|Unsandhied=evam|UnsandhiedReconstructed=True
+13	sambandhaḥ	sambandha	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=103761|OccId=1997816|Unsandhied=sambandhaḥ|UnsandhiedReconstructed=True
+14	kāryaḥ	kṛ	VERB	_	Case=Nom|Gender=Masc|Number=Sing|VerbForm=Gdv	_	_	_	LemmaId=156168|OccId=1997817|Unsandhied=kāryaḥ|UnsandhiedReconstructed=True
+

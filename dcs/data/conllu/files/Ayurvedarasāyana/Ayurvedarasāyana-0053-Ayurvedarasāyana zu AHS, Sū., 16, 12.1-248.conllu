@@ -1,0 +1,74 @@
+## text: Ayurvedarasāyana
+## text_id: 16
+## chapter: Ayurvedarasāyana zu AHS, Sū., 16, 12.1
+## chapter_id: 248
+# text = snehānāṃ kālavibhāgam āha tailam ityādi
+# sent_id = 43204
+# sent_counter = 1
+# sent_subcounter = 
+1	snehānāṃ	sneha	NOUN	_	Case=Gen|Gender=Masc|Number=Plur	_	_	_	LemmaId=103429|OccId=1997878|Unsandhied=snehānām|UnsandhiedReconstructed=True
+2-3	kālavibhāgam	_	_	_	_	_	_	_	_
+2	kāla	kāla	NOUN	_	Case=Cpd	_	_	_	LemmaId=22761|OccId=1997879|Unsandhied=kāla|UnsandhiedReconstructed=True
+3	vibhāgam	vibhāga	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	_	_	_	LemmaId=123043|OccId=1997880|Unsandhied=vibhāgam|UnsandhiedReconstructed=True
+4	āha	ah	VERB	_	Tense=Past|Mood=Ind|Person=3|Number=Sing	_	_	_	LemmaId=156124|OccId=1997881|Unsandhied=āha
+5	tailam	taila	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=83500|OccId=1997882|Unsandhied=tailam|UnsandhiedReconstructed=True
+6	ityādi	ityādi	ADJ	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=63350|OccId=1997883|Unsandhied=ityādi|UnsandhiedReconstructed=True
+
+# text = prāvṛṣi tailam
+# sent_id = 43205
+# sent_counter = 2
+# sent_subcounter = 
+1	prāvṛṣi	prāvṛṣ	NOUN	_	Case=Loc|Gender=Fem|Number=Sing	_	_	_	LemmaId=153149|OccId=1997884|Unsandhied=prāvṛṣi|UnsandhiedReconstructed=True
+2	tailam	taila	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=83500|OccId=1997885|Unsandhied=tailam|UnsandhiedReconstructed=True
+
+# text = varṣānte śaradi sarpiḥ
+# sent_id = 43206
+# sent_counter = 3
+# sent_subcounter = 
+1-2	varṣānte	_	_	_	_	_	_	_	_
+1	varṣā	varṣā	NOUN	_	Case=Cpd	_	_	_	LemmaId=74860|OccId=1997886|Unsandhied=varṣā|UnsandhiedReconstructed=True
+2	ante	anta	NOUN	_	Case=Loc|Gender=Masc|Number=Sing	_	_	_	LemmaId=11658|OccId=1997887|Unsandhied=ante|UnsandhiedReconstructed=True
+3	śaradi	śarad	NOUN	_	Case=Loc|Gender=Fem|Number=Sing	_	_	_	LemmaId=116088|OccId=1997888|Unsandhied=śaradi|UnsandhiedReconstructed=True
+4	sarpiḥ	sarpis	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=104440|OccId=1997889|Unsandhied=sarpiḥ|UnsandhiedReconstructed=True
+
+# text = mādhave vasante śeṣau
+# sent_id = 43207
+# sent_counter = 4
+# sent_subcounter = 
+1	mādhave	mādhava	NOUN	_	Case=Loc|Gender=Masc|Number=Sing	_	_	_	LemmaId=78721|OccId=1997890|Unsandhied=mādhave|UnsandhiedReconstructed=True|WordSem=66320
+2	vasante	vasanta	NOUN	_	Case=Loc|Gender=Masc|Number=Sing	_	_	_	LemmaId=75210|OccId=1997891|Unsandhied=vasante|UnsandhiedReconstructed=True|WordSem=66320
+3	śeṣau	śeṣa	ADJ	_	Case=Nom|Gender=Masc|Number=Dual	_	_	_	LemmaId=201830|OccId=1997892|Unsandhied=śeṣau|UnsandhiedReconstructed=True
+
+# text = nanu varṣāsu tailaṃ varṣānte sarpirvasāmajjānau mādhava iti yo 'yaṃ niyamaḥ sa kiṃcid apekṣya vartate āhosvid anapekṣya ity asmin paryanuyoga idam āha
+# sent_id = 43208
+# sent_counter = 5
+# sent_subcounter = 
+1	nanu	nanu	PART	_		_	_	_	LemmaId=43922|OccId=1997893|Unsandhied=nanu|UnsandhiedReconstructed=True
+2	varṣāsu	varṣā	NOUN	_	Case=Loc|Gender=Fem|Number=Plur	_	_	_	LemmaId=74860|OccId=1997894|Unsandhied=varṣāsu|UnsandhiedReconstructed=True
+3	tailaṃ	taila	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=83500|OccId=1997895|Unsandhied=tailam|UnsandhiedReconstructed=True
+4-5	varṣānte	_	_	_	_	_	_	_	_
+4	varṣā	varṣā	NOUN	_	Case=Cpd	_	_	_	LemmaId=74860|OccId=1997896|Unsandhied=varṣā|UnsandhiedReconstructed=True
+5	ante	anta	NOUN	_	Case=Loc|Gender=Masc|Number=Sing	_	_	_	LemmaId=11658|OccId=1997897|Unsandhied=ante|UnsandhiedReconstructed=True
+6-8	sarpirvasāmajjānau	_	_	_	_	_	_	_	_
+6	sarpiḥ	sarpis	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=104440|OccId=1997898|Unsandhied=sarpiḥ|UnsandhiedReconstructed=True
+7	vasā	vasā	NOUN	_	Case=Cpd	_	_	_	LemmaId=75264|OccId=1997899|Unsandhied=vasā|UnsandhiedReconstructed=True
+8	majjanau	majjan	NOUN	_	Case=Nom|Gender=Masc|Number=Dual	_	_	_	LemmaId=26752|OccId=1997900|Unsandhied=majjanau|UnsandhiedReconstructed=True
+9	mādhava	mādhava	NOUN	_	Case=Loc|Gender=Masc|Number=Sing	_	_	_	LemmaId=78721|OccId=1997901|Unsandhied=mādhave|UnsandhiedReconstructed=True
+10	iti	iti	PART	_		_	_	_	LemmaId=63331|OccId=1997902|Unsandhied=iti|UnsandhiedReconstructed=True
+11	yo	yad	PRON	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=37877|OccId=1997903|Unsandhied=yaḥ|UnsandhiedReconstructed=True
+12	'yaṃ	idam	PRON	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=37876|OccId=1997904|Unsandhied=ayam|UnsandhiedReconstructed=True
+13	niyamaḥ	niyama	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=27565|OccId=1997905|Unsandhied=niyamaḥ|UnsandhiedReconstructed=True
+14	sa	tad	PRON	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=37875|OccId=1997906|Unsandhied=saḥ|UnsandhiedReconstructed=True
+15	kiṃcid	kaścit	PRON	_	Case=Acc|Gender=Neut|Number=Sing	_	_	_	LemmaId=164309|OccId=1997907|Unsandhied=kiṃcid|UnsandhiedReconstructed=True
+16	apekṣya	apekṣ	VERB	_	VerbForm=Conv	_	_	_	LemmaId=158560|OccId=1997908|Unsandhied=apekṣya|UnsandhiedReconstructed=True
+17	vartate	vṛt	VERB	_	Tense=Pres|Mood=Ind|Person=3|Number=Sing	_	_	_	LemmaId=157267|OccId=1997909|Unsandhied=vartate
+18	āhosvid	āhosvit	ADV	_		_	_	_	LemmaId=170580|OccId=1997910|Unsandhied=āhosvit|UnsandhiedReconstructed=True
+19-20	anapekṣya	_	_	_	_	_	_	_	_
+19	an	an	PART	_		_	_	_	LemmaId=213304|OccId=5501516|Unsandhied=an
+20	apekṣya	apekṣ	VERB	_	VerbForm=Conv	_	_	_	LemmaId=158560|OccId=5501517|Unsandhied=apekṣya
+21	ity	iti	PART	_		_	_	_	LemmaId=63331|OccId=1997912|Unsandhied=iti|UnsandhiedReconstructed=True
+22	asmin	idam	PRON	_	Case=Loc|Gender=Masc|Number=Sing	_	_	_	LemmaId=37876|OccId=1997913|Unsandhied=asmin|UnsandhiedReconstructed=True
+23	paryanuyoga	paryanuyoga	NOUN	_	Case=Loc|Gender=Masc|Number=Sing	_	_	_	LemmaId=20063|OccId=1997914|Unsandhied=paryanuyoge|UnsandhiedReconstructed=True
+24	idam	idam	PRON	_	Case=Acc|Gender=Neut|Number=Sing	_	_	_	LemmaId=37876|OccId=1997915|Unsandhied=idam|UnsandhiedReconstructed=True
+25	āha	ah	VERB	_	Tense=Past|Mood=Ind|Person=3|Number=Sing	_	_	_	LemmaId=156124|OccId=1997916|Unsandhied=āha
+

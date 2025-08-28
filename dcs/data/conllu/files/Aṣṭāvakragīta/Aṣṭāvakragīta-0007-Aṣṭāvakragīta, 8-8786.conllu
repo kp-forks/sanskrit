@@ -3,14 +3,14 @@
 ## chapter: Aṣṭāvakragīta, 8
 ## chapter_id: 8786
 # text = aṣṭāvakra uvāca
-# sent_id = 554777
+# sent_id = 554994
 # sent_counter = 1
 # sent_subcounter = 1
 1	aṣṭāvakra	aṣṭāvakra	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=60533|OccId=3535073|Unsandhied=aṣṭāvakraḥ|UnsandhiedReconstructed=True
 2	uvāca	vac	VERB	_	Tense=Past|Mood=Ind|Person=3|Number=Sing	_	_	_	LemmaId=157264|OccId=3535074|Unsandhied=uvāca
 
 # text = tadā bandho yadā cittaṃ kiṃcid vāñchati śocati
-# sent_id = 554778
+# sent_id = 554995
 # sent_counter = 2
 # sent_subcounter = 1
 1	tadā	tadā	ADV	_		_	_	_	LemmaId=96104|OccId=3535075|Unsandhied=tadā|UnsandhiedReconstructed=True
@@ -22,7 +22,7 @@
 7	śocati	śuc	VERB	_	Tense=Pres|Mood=Ind|Person=3|Number=Sing	_	_	_	LemmaId=157904|OccId=3535131|Unsandhied=śocati
 
 # text = kiṃcin muñcati gṛhṇāti kiṃciddhṛṣyati kupyati
-# sent_id = 554779
+# sent_id = 554996
 # sent_counter = 2
 # sent_subcounter = 2
 1	kiṃcin	kaścit	PRON	_	Case=Acc|Gender=Neut|Number=Sing	_	_	_	LemmaId=164309|OccId=3535081|Unsandhied=kiṃcid|UnsandhiedReconstructed=True
@@ -34,7 +34,7 @@
 6	kupyati	kup	VERB	_	Tense=Pres|Mood=Ind|Person=3|Number=Sing	_	_	_	LemmaId=156165|OccId=3535084|Unsandhied=kupyati
 
 # text = tadā muktir yadā cittaṃ na vāñchati na śocati
-# sent_id = 554780
+# sent_id = 554997
 # sent_counter = 3
 # sent_subcounter = 1
 1	tadā	tadā	ADV	_		_	_	_	LemmaId=96104|OccId=3535085|Unsandhied=tadā|UnsandhiedReconstructed=True
@@ -47,7 +47,7 @@
 8	śocati	śuc	VERB	_	Tense=Pres|Mood=Ind|Person=3|Number=Sing	_	_	_	LemmaId=157904|OccId=3535092|Unsandhied=śocati
 
 # text = na muñcati na gṛhṇāti na hṛṣyati na kupyati
-# sent_id = 554781
+# sent_id = 554998
 # sent_counter = 3
 # sent_subcounter = 2
 1	na	na	PART	_		_	_	_	LemmaId=43432|OccId=3535093|Unsandhied=na|UnsandhiedReconstructed=True
@@ -60,7 +60,7 @@
 8	kupyati	kup	VERB	_	Tense=Pres|Mood=Ind|Person=3|Number=Sing	_	_	_	LemmaId=156165|OccId=3535100|Unsandhied=kupyati
 
 # text = tadā bandho yadā cittaṃ saktaṃ kāsvapi dṛṣṭiṣu
-# sent_id = 554782
+# sent_id = 554999
 # sent_counter = 4
 # sent_subcounter = 1
 1	tadā	tadā	ADV	_		_	_	_	LemmaId=96104|OccId=3535101|Unsandhied=tadā|UnsandhiedReconstructed=True
@@ -74,20 +74,22 @@
 8	dṛṣṭiṣu	dṛṣṭi	NOUN	_	Case=Loc|Gender=Fem|Number=Plur	_	_	_	LemmaId=86502|OccId=3535106|Unsandhied=dṛṣṭiṣu|UnsandhiedReconstructed=True|WordSem=29440
 
 # text = tadā mokṣo yadā cittam asaktaṃ sarvadṛṣṭiṣu
-# sent_id = 554783
+# sent_id = 555000
 # sent_counter = 4
 # sent_subcounter = 2
 1	tadā	tadā	ADV	_		_	_	_	LemmaId=96104|OccId=3535107|Unsandhied=tadā|UnsandhiedReconstructed=True
 2	mokṣo	mokṣa	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=72351|OccId=3535108|Unsandhied=mokṣaḥ|UnsandhiedReconstructed=True
 3	yadā	yadā	SCONJ	_		_	_	_	LemmaId=73645|OccId=3535109|Unsandhied=yadā|UnsandhiedReconstructed=True
 4	cittam	citta	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=51356|OccId=3535110|Unsandhied=cittam|UnsandhiedReconstructed=True
-5	asaktaṃ	asakta	ADJ	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=60639|OccId=3535111|Unsandhied=asaktam|UnsandhiedReconstructed=True
-6-7	sarvadṛṣṭiṣu	_	_	_	_	_	_	_	_
-6	sarva	sarva	PRON	_	Case=Cpd	_	_	_	LemmaId=104444|OccId=3535112|Unsandhied=sarva|UnsandhiedReconstructed=True
-7	dṛṣṭiṣu	dṛṣṭi	NOUN	_	Case=Loc|Gender=Fem|Number=Plur	_	_	_	LemmaId=86502|OccId=3535113|Unsandhied=dṛṣṭiṣu|UnsandhiedReconstructed=True
+5-6	asaktaṃ	_	_	_	_	_	_	_	_
+5	a	a	PART	_		_	_	_	LemmaId=213048|OccId=5928324|Unsandhied=a
+6	saktam	sañj	VERB	_	Case=Nom|Gender=Neut|Number=Sing|VerbForm=Part	_	_	_	LemmaId=157907|OccId=5928325|Unsandhied=saktam
+7-8	sarvadṛṣṭiṣu	_	_	_	_	_	_	_	_
+7	sarva	sarva	PRON	_	Case=Cpd	_	_	_	LemmaId=104444|OccId=3535112|Unsandhied=sarva|UnsandhiedReconstructed=True
+8	dṛṣṭiṣu	dṛṣṭi	NOUN	_	Case=Loc|Gender=Fem|Number=Plur	_	_	_	LemmaId=86502|OccId=3535113|Unsandhied=dṛṣṭiṣu|UnsandhiedReconstructed=True
 
 # text = yadā nāhaṃ tadā mokṣo yadāhaṃ bandhanaṃ tadā
-# sent_id = 554784
+# sent_id = 555001
 # sent_counter = 5
 # sent_subcounter = 1
 1	yadā	yadā	SCONJ	_		_	_	_	LemmaId=73645|OccId=3535114|Unsandhied=yadā|UnsandhiedReconstructed=True
@@ -103,7 +105,7 @@
 9	tadā	tadā	ADV	_		_	_	_	LemmaId=96104|OccId=3535122|Unsandhied=tadā|UnsandhiedReconstructed=True
 
 # text = matveti helayā kiṃcit mā gṛhāṇa vimuñca mā
-# sent_id = 554785
+# sent_id = 555002
 # sent_counter = 5
 # sent_subcounter = 2
 1-2	matveti	_	_	_	_	_	_	_	_

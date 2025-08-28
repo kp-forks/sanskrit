@@ -3,7 +3,7 @@
 ## chapter: GautDhS, 2, 4
 ## chapter_id: 8186
 # text = vipratipattau sākṣinimittā satyavyavasthā
-# sent_id = 489453
+# sent_id = 489670
 # sent_counter = 1
 # sent_subcounter = 
 1	vipratipattau	vipratipatti	NOUN	_	Case=Loc|Gender=Fem|Number=Sing	_	_	_	LemmaId=122390|OccId=3290302|Unsandhied=vipratipattau|UnsandhiedReconstructed=True
@@ -15,7 +15,7 @@
 5	vyavasthā	vyavasthā	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	_	_	_	LemmaId=121006|OccId=3290306|Unsandhied=vyavasthā|UnsandhiedReconstructed=True
 
 # text = bahavaḥ syur aninditāḥ svakarmasu prātyayikā rājñāṃ niṣprītyanabhitāpāś cānyatarasmin
-# sent_id = 489454
+# sent_id = 489671
 # sent_counter = 2
 # sent_subcounter = 
 1	bahavaḥ	bahu	ADJ	_	Case=Nom|Gender=Masc|Number=Plur	_	_	_	LemmaId=154412|OccId=3290307|Unsandhied=bahavaḥ|UnsandhiedReconstructed=True
@@ -36,14 +36,14 @@
 12	anyatarasmin	anyatara	PRON	_	Case=Loc|Gender=Neut|Number=Sing	_	_	_	LemmaId=166326|OccId=3290314|Unsandhied=anyatarasmin|UnsandhiedReconstructed=True
 
 # text = api śūdrāḥ
-# sent_id = 489455
+# sent_id = 489672
 # sent_counter = 3
 # sent_subcounter = 1
 1	api	api	PART	_		_	_	_	LemmaId=21365|OccId=3290315|Unsandhied=api|UnsandhiedReconstructed=True
 2	śūdrāḥ	śūdra	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	_	_	_	LemmaId=127190|OccId=3290316|Unsandhied=śūdrāḥ|UnsandhiedReconstructed=True
 
 # text = brāhmaṇas tvabrāhmaṇavacanād anavarodhyo 'nibaddhaścet
-# sent_id = 489456
+# sent_id = 489673
 # sent_counter = 4
 # sent_subcounter = 1
 1	brāhmaṇas	brāhmaṇa	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=149743|OccId=3290317|Unsandhied=brāhmaṇaḥ|UnsandhiedReconstructed=True
@@ -60,17 +60,19 @@
 9	ced	ced	SCONJ	_		_	_	_	LemmaId=52168|OccId=5899568|Unsandhied=ced
 
 # text = nāsamavetāpṛṣṭāḥ prabrūyuḥ
-# sent_id = 489457
+# sent_id = 489674
 # sent_counter = 5
 # sent_subcounter = 1
-1-3	nāsamavetāpṛṣṭāḥ	_	_	_	_	_	_	_	_
-1	na	na	PART	_		_	_	_	LemmaId=43432|OccId=3290323|Unsandhied=na|UnsandhiedReconstructed=True
-2	asamaveta	asamaveta	ADJ	_	Case=Cpd	_	_	_	LemmaId=60824|OccId=3290324|Unsandhied=asamaveta|UnsandhiedReconstructed=True
-3	apṛṣṭāḥ	apṛṣṭa	ADJ	_	Case=Nom|Gender=Masc|Number=Plur	_	_	_	LemmaId=21492|OccId=3290325|Unsandhied=apṛṣṭāḥ|UnsandhiedReconstructed=True
-4	prabrūyuḥ	prabrū	VERB	_	Tense=Pres|Mood=Opt|Person=3|Number=Plur	_	_	_	LemmaId=162934|OccId=3290326|Unsandhied=prabrūyuḥ
+1-5	nāsamavetāpṛṣṭāḥ	_	_	_	_	_	_	_	_
+1	na	na	PART	_		_	_	_	LemmaId=43432|OccId=5928273|Unsandhied=na
+2	a	a	PART	_		_	_	_	LemmaId=213048|OccId=5928274|Unsandhied=a
+3	samaveta	samave	VERB	_	Case=Cpd|VerbForm=Part	_	_	_	LemmaId=165167|OccId=5928275|Unsandhied=samaveta
+4	a	a	PART	_		_	_	_	LemmaId=213048|OccId=5928276|Unsandhied=a
+5	pṛṣṭāḥ	pracch	VERB	_	Case=Nom|Gender=Masc|Number=Plur|VerbForm=Part	_	_	_	LemmaId=157397|OccId=5928277|Unsandhied=pṛṣṭāḥ
+6	prabrūyuḥ	prabrū	VERB	_	Tense=Pres|Mood=Opt|Person=3|Number=Plur	_	_	_	LemmaId=162934|OccId=3290326|Unsandhied=prabrūyuḥ
 
 # text = avacane 'nyathāvacane ca doṣiṇaḥ syuḥ
-# sent_id = 489458
+# sent_id = 489675
 # sent_counter = 6
 # sent_subcounter = 1
 1	avacane	avacana	NOUN	_	Case=Loc|Gender=Neut|Number=Sing	_	_	_	LemmaId=54063|OccId=3290327|Unsandhied=avacane|UnsandhiedReconstructed=True
@@ -82,7 +84,7 @@
 6	syuḥ	as	VERB	_	Tense=Pres|Mood=Opt|Person=3|Number=Plur	_	_	_	LemmaId=156122|OccId=3290332|Unsandhied=syuḥ
 
 # text = svargaḥ satyavacane viparyaye narakaḥ
-# sent_id = 489459
+# sent_id = 489676
 # sent_counter = 7
 # sent_subcounter = 1
 1	svargaḥ	svarga	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=121714|OccId=3290333|Unsandhied=svargaḥ|UnsandhiedReconstructed=True
@@ -93,7 +95,7 @@
 5	narakaḥ	naraka	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=44339|OccId=3290337|Unsandhied=narakaḥ|UnsandhiedReconstructed=True
 
 # text = anibaddhair api vaktavyam
-# sent_id = 489460
+# sent_id = 489677
 # sent_counter = 8
 # sent_subcounter = 1
 1	anibaddhair	anibaddha	ADJ	_	Case=Ins|Gender=Masc|Number=Plur	_	_	_	LemmaId=10484|OccId=3290338|Unsandhied=anibaddhaiḥ|UnsandhiedReconstructed=True
@@ -101,7 +103,7 @@
 3	vaktavyam	vac	VERB	_	Case=Nom|Gender=Neut|Number=Sing|VerbForm=Gdv	_	_	_	LemmaId=157264|OccId=3290340|Unsandhied=vaktavyam|UnsandhiedReconstructed=True
 
 # text = na pīḍākṛte nibandhaḥ
-# sent_id = 489461
+# sent_id = 489678
 # sent_counter = 9
 # sent_subcounter = 1
 1	na	na	PART	_		_	_	_	LemmaId=43432|OccId=3290341|Unsandhied=na|UnsandhiedReconstructed=True
@@ -111,7 +113,7 @@
 4	nibandhaḥ	nibandha	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=35252|OccId=3290344|Unsandhied=nibandhaḥ|UnsandhiedReconstructed=True
 
 # text = pramattokte ca
-# sent_id = 489462
+# sent_id = 489679
 # sent_counter = 10
 # sent_subcounter = 1
 1-2	pramattokte	_	_	_	_	_	_	_	_
@@ -120,7 +122,7 @@
 3	ca	ca	CONJ	_		_	_	_	LemmaId=157144|OccId=3290347|Unsandhied=ca|UnsandhiedReconstructed=True
 
 # text = sākṣisabhyarājakartṛṣu doṣo dharmatantrapīḍāyām
-# sent_id = 489463
+# sent_id = 489680
 # sent_counter = 11
 # sent_subcounter = 1
 1-4	sākṣisabhyarājakartṛṣu	_	_	_	_	_	_	_	_
@@ -135,7 +137,7 @@
 8	pīḍāyām	pīḍā	NOUN	_	Case=Loc|Gender=Fem|Number=Sing	_	_	_	LemmaId=144289|OccId=3290355|Unsandhied=pīḍāyām|UnsandhiedReconstructed=True
 
 # text = śapathenaike satyakarma
-# sent_id = 489464
+# sent_id = 489681
 # sent_counter = 12
 # sent_subcounter = 1
 1-2	śapathenaike	_	_	_	_	_	_	_	_
@@ -146,7 +148,7 @@
 4	karma	karman	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	_	_	_	LemmaId=12243|OccId=3290359|Unsandhied=karma|UnsandhiedReconstructed=True
 
 # text = taddevarājabrāhmaṇasaṃsadi syād abrāhmaṇānām
-# sent_id = 489465
+# sent_id = 489682
 # sent_counter = 13
 # sent_subcounter = 1
 1-5	taddevarājabrāhmaṇasaṃsadi	_	_	_	_	_	_	_	_
@@ -159,7 +161,7 @@
 7	abrāhmaṇānām	abrāhmaṇa	NOUN	_	Case=Gen|Gender=Masc|Number=Plur	_	_	_	LemmaId=22015|OccId=3290366|Unsandhied=abrāhmaṇānām|UnsandhiedReconstructed=True
 
 # text = kṣudrapaśvanṛte sākṣī daśa hanti
-# sent_id = 489466
+# sent_id = 489683
 # sent_counter = 14
 # sent_subcounter = 1
 1-3	kṣudrapaśvanṛte	_	_	_	_	_	_	_	_
@@ -171,7 +173,7 @@
 6	hanti	han	VERB	_	Tense=Pres|Mood=Ind|Person=3|Number=Sing	_	_	_	LemmaId=157282|OccId=3290372|Unsandhied=hanti
 
 # text = gośvapuruṣabhūmiṣu daśaguṇottarān
-# sent_id = 489467
+# sent_id = 489684
 # sent_counter = 15
 # sent_subcounter = 1
 1-4	gośvapuruṣabhūmiṣu	_	_	_	_	_	_	_	_
@@ -184,7 +186,7 @@
 6	uttarān	uttara	ADJ	_	Case=Acc|Gender=Masc|Number=Plur	_	_	_	LemmaId=55672|OccId=3290378|Unsandhied=uttarān|UnsandhiedReconstructed=True
 
 # text = sarvaṃ vā bhūmau
-# sent_id = 489468
+# sent_id = 489685
 # sent_counter = 16
 # sent_subcounter = 1
 1	sarvaṃ	sarva	PRON	_	Case=Acc|Gender=Neut|Number=Sing	_	_	_	LemmaId=104444|OccId=3290379|Unsandhied=sarvam|UnsandhiedReconstructed=True
@@ -192,14 +194,14 @@
 3	bhūmau	bhūmi	NOUN	_	Case=Loc|Gender=Fem|Number=Sing	_	_	_	LemmaId=25418|OccId=3290381|Unsandhied=bhūmau|UnsandhiedReconstructed=True
 
 # text = haraṇe narakaḥ
-# sent_id = 489469
+# sent_id = 489686
 # sent_counter = 17
 # sent_subcounter = 1
 1	haraṇe	haraṇa	NOUN	_	Case=Loc|Gender=Neut|Number=Sing	_	_	_	LemmaId=108654|OccId=3290382|Unsandhied=haraṇe|UnsandhiedReconstructed=True
 2	narakaḥ	naraka	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=44339|OccId=3290383|Unsandhied=narakaḥ|UnsandhiedReconstructed=True
 
 # text = bhūmivad apsu
-# sent_id = 489470
+# sent_id = 489687
 # sent_counter = 18
 # sent_subcounter = 1
 1-2	bhūmivad	_	_	_	_	_	_	_	_
@@ -208,7 +210,7 @@
 3	apsu	ap	NOUN	_	Case=Loc|Gender=Fem|Number=Plur	_	_	_	LemmaId=167009|OccId=3290386|Unsandhied=apsu|UnsandhiedReconstructed=True
 
 # text = maithunasaṃyoge ca
-# sent_id = 489471
+# sent_id = 489688
 # sent_counter = 19
 # sent_subcounter = 1
 1-2	maithunasaṃyoge	_	_	_	_	_	_	_	_
@@ -217,7 +219,7 @@
 3	ca	ca	CONJ	_		_	_	_	LemmaId=157144|OccId=3290389|Unsandhied=ca|UnsandhiedReconstructed=True
 
 # text = paśuvan madhusarpiṣoḥ
-# sent_id = 489472
+# sent_id = 489689
 # sent_counter = 20
 # sent_subcounter = 1
 1-2	paśuvan	_	_	_	_	_	_	_	_
@@ -228,7 +230,7 @@
 4	_	sarpis	NOUN	_	Case=Loc|Gender=Neut|Number=Dual	_	_	_	LemmaId=104440|OccId=3290393|Unsandhied=_
 
 # text = govad vastrahiraṇyadhānyabrahmasu
-# sent_id = 489473
+# sent_id = 489690
 # sent_counter = 21
 # sent_subcounter = 1
 1-2	govad	_	_	_	_	_	_	_	_
@@ -241,7 +243,7 @@
 6	brahmasu	brahman	NOUN	_	Case=Loc|Gender=Masc|Number=Plur	_	_	_	LemmaId=149177|OccId=3290399|Unsandhied=brahmasu|UnsandhiedReconstructed=True
 
 # text = yāneṣu aśvavat
-# sent_id = 489474
+# sent_id = 489691
 # sent_counter = 22
 # sent_subcounter = 1
 1	yāneṣu	yāna	NOUN	_	Case=Loc|Gender=Neut|Number=Plur	_	_	_	LemmaId=74302|OccId=3290400|Unsandhied=yāneṣu|UnsandhiedReconstructed=True
@@ -250,7 +252,7 @@
 3	vat	vat	ADV	_		_	_	_	LemmaId=167498|OccId=3290402|Unsandhied=vat|UnsandhiedReconstructed=True
 
 # text = mithyāvacane yāpyo daṇḍyaś ca sākṣī
-# sent_id = 489475
+# sent_id = 489692
 # sent_counter = 23
 # sent_subcounter = 1
 1-2	mithyāvacane	_	_	_	_	_	_	_	_
@@ -262,7 +264,7 @@
 6	sākṣī	sākṣin	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=111804|OccId=3290408|Unsandhied=sākṣī|UnsandhiedReconstructed=True
 
 # text = nānṛtavacane doṣo jīvanaṃ cet tadadhīnam
-# sent_id = 489476
+# sent_id = 489693
 # sent_counter = 24
 # sent_subcounter = 1
 1-3	nānṛtavacane	_	_	_	_	_	_	_	_
@@ -277,7 +279,7 @@
 8	adhīnam	adhīna	ADJ	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=9602|OccId=3290416|Unsandhied=adhīnam|UnsandhiedReconstructed=True
 
 # text = na tu pāpīyaso jīvanam
-# sent_id = 489477
+# sent_id = 489694
 # sent_counter = 25
 # sent_subcounter = 1
 1	na	na	PART	_		_	_	_	LemmaId=43432|OccId=3290417|Unsandhied=na|UnsandhiedReconstructed=True
@@ -286,7 +288,7 @@
 4	jīvanam	jīvana	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=89349|OccId=3290420|Unsandhied=jīvanam|UnsandhiedReconstructed=True
 
 # text = rājā prāḍvivāko brāhmaṇo vā śāstravit
-# sent_id = 489478
+# sent_id = 489695
 # sent_counter = 26
 # sent_subcounter = 1
 1	rājā	rājan	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=70467|OccId=3290421|Unsandhied=rājā|UnsandhiedReconstructed=True
@@ -298,14 +300,14 @@
 6	vid	vid	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=122659|OccId=3290426|Unsandhied=vid|UnsandhiedReconstructed=True
 
 # text = prāḍvivākam adhyābhavet
-# sent_id = 489479
+# sent_id = 489696
 # sent_counter = 27
 # sent_subcounter = 1
 1	prāḍvivākam	prāḍvivāka	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	_	_	_	LemmaId=152289|OccId=3290427|Unsandhied=prāḍvivākam|UnsandhiedReconstructed=True
 2	adhyābhavet	adhyābhū	VERB	_	Tense=Pres|Mood=Opt|Person=3|Number=Sing	_	_	_	LemmaId=213017|OccId=3290447|Unsandhied=adhyābhavet
 
 # text = saṃvatsaraṃ pratīkṣetāpratibhāyām
-# sent_id = 489480
+# sent_id = 489697
 # sent_counter = 28
 # sent_subcounter = 1
 1	saṃvatsaraṃ	saṃvatsara	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	_	_	_	LemmaId=42265|OccId=3290428|Unsandhied=saṃvatsaram|UnsandhiedReconstructed=True
@@ -314,7 +316,7 @@
 3	apratibhāyām	apratibhā	NOUN	_	Case=Loc|Gender=Fem|Number=Sing	_	_	_	LemmaId=21638|OccId=3290430|Unsandhied=apratibhāyām|UnsandhiedReconstructed=True
 
 # text = dhenvanaḍutstrīprajananasaṃyukte ca śīghram
-# sent_id = 489481
+# sent_id = 489698
 # sent_counter = 29
 # sent_subcounter = 1
 1-5	dhenvanaḍutstrīprajananasaṃyukte	_	_	_	_	_	_	_	_
@@ -327,14 +329,14 @@
 7	śīghram	śīghram	ADV	_		_	_	_	LemmaId=202753|OccId=3290440|Unsandhied=śīghram|UnsandhiedReconstructed=True
 
 # text = ātyayike ca
-# sent_id = 489482
+# sent_id = 489699
 # sent_counter = 30
 # sent_subcounter = 1
 1	ātyayike	ātyayika	ADJ	_	Case=Loc|Gender=Neut|Number=Sing	_	_	_	LemmaId=57925|OccId=3290431|Unsandhied=ātyayike|UnsandhiedReconstructed=True
 2	ca	ca	CONJ	_		_	_	_	LemmaId=157144|OccId=3290432|Unsandhied=ca|UnsandhiedReconstructed=True
 
 # text = sarvadharmebhyo garīyaḥ prāḍvivāke satyavacanaṃ satyavacanam
-# sent_id = 489483
+# sent_id = 489700
 # sent_counter = 31
 # sent_subcounter = 1
 1-2	sarvadharmebhyo	_	_	_	_	_	_	_	_

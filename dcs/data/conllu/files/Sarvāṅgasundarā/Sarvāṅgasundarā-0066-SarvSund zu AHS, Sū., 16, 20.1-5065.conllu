@@ -1,0 +1,100 @@
+## text: Sarvāṅgasundarā
+## text_id: 15
+## chapter: SarvSund zu AHS, Sū., 16, 20.1
+## chapter_id: 5065
+# text = bṛṃhaṇaḥ sneho rasamadyādyaiḥ saha śasyate
+# sent_id = 42405
+# sent_counter = 1
+# sent_subcounter = 
+1	bṛṃhaṇaḥ	bṛṃhaṇa	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=149066|OccId=2002617|Unsandhied=bṛṃhaṇaḥ|UnsandhiedReconstructed=True
+2	sneho	sneha	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=103429|OccId=2002618|Unsandhied=snehaḥ|UnsandhiedReconstructed=True
+3-5	rasamadyādyaiḥ	_	_	_	_	_	_	_	_
+3	rasa	rasa	NOUN	_	Case=Cpd	_	_	_	LemmaId=69571|OccId=2002619|Unsandhied=rasa|UnsandhiedReconstructed=True
+4	madya	madya	NOUN	_	Case=Cpd	_	_	_	LemmaId=35378|OccId=2002620|Unsandhied=madya|UnsandhiedReconstructed=True
+5	ādyaiḥ	ādya	ADJ	_	Case=Ins|Gender=Neut|Number=Plur	_	_	_	LemmaId=58029|OccId=2002621|Unsandhied=ādyaiḥ|UnsandhiedReconstructed=True
+6	saha	saha	ADV	_		_	_	_	LemmaId=105774|OccId=2002622|Unsandhied=saha|UnsandhiedReconstructed=True
+7	śasyate	śaṃs	VERB	_	Tense=Pres|Mood=Ind|Voice=Pass|Person=3|Number=Sing	_	_	_	LemmaId=157408|OccId=2002623|Unsandhied=śasyate
+
+# text = rasa ityaviśeṣoktau jñeyo māṃsabhavo rasaḥ
+# sent_id = 42406
+# sent_counter = 2
+# sent_subcounter = 1
+1	rasa	rasa	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=69571|OccId=2002624|Unsandhied=rasaḥ|UnsandhiedReconstructed=True
+2-4	ityaviśeṣoktau	_	_	_	_	_	_	_	_
+2	iti	iti	PART	_		_	_	_	LemmaId=63331|OccId=2002625|Unsandhied=iti|UnsandhiedReconstructed=True
+3	aviśeṣa	aviśeṣa	NOUN	_	Case=Cpd	_	_	_	LemmaId=55157|OccId=2002626|Unsandhied=aviśeṣa|UnsandhiedReconstructed=True
+4	uktau	ukti	NOUN	_	Case=Loc|Gender=Fem|Number=Sing	_	_	_	LemmaId=64198|OccId=2002627|Unsandhied=uktau|UnsandhiedReconstructed=True
+5	jñeyo	jñā	VERB	_	Case=Nom|Gender=Masc|Number=Sing|VerbForm=Gdv	_	_	_	LemmaId=157151|OccId=2002628|Unsandhied=jñeyaḥ|UnsandhiedReconstructed=True
+6-7	māṃsabhavo	_	_	_	_	_	_	_	_
+6	māṃsa	māṃsa	NOUN	_	Case=Cpd	_	_	_	LemmaId=78223|OccId=2002629|Unsandhied=māṃsa|UnsandhiedReconstructed=True
+7	bhavaḥ	bhava	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=49153|OccId=2002630|Unsandhied=bhavaḥ|UnsandhiedReconstructed=True
+8	rasaḥ	rasa	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=69571|OccId=2002631|Unsandhied=rasaḥ|UnsandhiedReconstructed=True
+
+# text = iti tantrāntaroktyā rasaśabdena māṃsaraso'tra bodhyaḥ
+# sent_id = 42407
+# sent_counter = 2
+# sent_subcounter = 2
+1	iti	iti	PART	_		_	_	_	LemmaId=63331|OccId=2002632|Unsandhied=iti|UnsandhiedReconstructed=True
+2-4	tantrāntaroktyā	_	_	_	_	_	_	_	_
+2	tantra	tantra	NOUN	_	Case=Cpd	_	_	_	LemmaId=96292|OccId=2002705|Unsandhied=tantra|UnsandhiedReconstructed=True
+3	antara	antara	ADJ	_	Case=Cpd	_	_	_	LemmaId=11865|OccId=2002706|Unsandhied=antara|UnsandhiedReconstructed=True
+4	uktyā	ukti	NOUN	_	Case=Ins|Gender=Fem|Number=Sing	_	_	_	LemmaId=64198|OccId=2002707|Unsandhied=uktyā|UnsandhiedReconstructed=True
+5-6	rasaśabdena	_	_	_	_	_	_	_	_
+5	rasa	rasa	NOUN	_	Case=Cpd	_	_	_	LemmaId=69571|OccId=2002633|Unsandhied=rasa|UnsandhiedReconstructed=True
+6	śabdena	śabda	NOUN	_	Case=Ins|Gender=Masc|Number=Sing	_	_	_	LemmaId=116648|OccId=2002634|Unsandhied=śabdena|UnsandhiedReconstructed=True
+7-9	māṃsaraso'tra	_	_	_	_	_	_	_	_
+7	māṃsa	māṃsa	NOUN	_	Case=Cpd	_	_	_	LemmaId=78223|OccId=2002635|Unsandhied=māṃsa|UnsandhiedReconstructed=True
+8	rasaḥ	rasa	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=69571|OccId=2002636|Unsandhied=rasaḥ|UnsandhiedReconstructed=True
+9	atra	atra	ADV	_		_	_	_	LemmaId=7442|OccId=2002637|Unsandhied=atra|UnsandhiedReconstructed=True
+10	bodhyaḥ	budh	VERB	_	Case=Nom|Gender=Masc|Number=Sing|VerbForm=Gdv	_	_	_	LemmaId=157933|OccId=2002708|Unsandhied=bodhyaḥ|UnsandhiedReconstructed=True
+
+# text = ādyaśabdena kṣīrakhaṇḍāderdravarūpasya grahaṇam
+# sent_id = 42408
+# sent_counter = 3
+# sent_subcounter = 
+1-2	ādyaśabdena	_	_	_	_	_	_	_	_
+1	ādya	ādya	ADJ	_	Case=Cpd	_	_	_	LemmaId=58029|OccId=2002638|Unsandhied=ādya|UnsandhiedReconstructed=True
+2	śabdena	śabda	NOUN	_	Case=Ins|Gender=Masc|Number=Sing	_	_	_	LemmaId=116648|OccId=2002639|Unsandhied=śabdena|UnsandhiedReconstructed=True
+3-7	kṣīrakhaṇḍāderdravarūpasya	_	_	_	_	_	_	_	_
+3	kṣīra	kṣīra	NOUN	_	Case=Cpd	_	_	_	LemmaId=135495|OccId=2002640|Unsandhied=kṣīra|UnsandhiedReconstructed=True
+4	khaṇḍa	khaṇḍa	NOUN	_	Case=Cpd	_	_	_	LemmaId=128746|OccId=2002641|Unsandhied=khaṇḍa|UnsandhiedReconstructed=True
+5	ādeḥ	ādi	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	_	_	_	LemmaId=57973|OccId=2002642|Unsandhied=ādeḥ|UnsandhiedReconstructed=True
+6	drava	drava	NOUN	_	Case=Cpd	_	_	_	LemmaId=166710|OccId=2002643|Unsandhied=drava|UnsandhiedReconstructed=True
+7	rūpasya	rūpa	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	_	_	_	LemmaId=71929|OccId=2002644|Unsandhied=rūpasya|UnsandhiedReconstructed=True
+8	grahaṇam	grahaṇa	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=156931|OccId=2002645|Unsandhied=grahaṇam|UnsandhiedReconstructed=True
+
+# text = tathā saha bhaktena odanādinā vartate iti sabhaktaśca śasyate
+# sent_id = 42409
+# sent_counter = 4
+# sent_subcounter = 
+1	tathā	tathā	ADV	_		_	_	_	LemmaId=95987|OccId=2002646|Unsandhied=tathā|UnsandhiedReconstructed=True
+2	saha	saha	ADV	_		_	_	_	LemmaId=105774|OccId=2002647|Unsandhied=saha|UnsandhiedReconstructed=True
+3	bhaktena	bhakta	NOUN	_	Case=Ins|Gender=Neut|Number=Sing	_	_	_	LemmaId=48378|OccId=2002648|Unsandhied=bhaktena|UnsandhiedReconstructed=True
+4-5	odanādinā	_	_	_	_	_	_	_	_
+4	odana	odana	NOUN	_	Case=Cpd	_	_	_	LemmaId=40091|OccId=2002649|Unsandhied=odana|UnsandhiedReconstructed=True
+5	ādinā	ādi	NOUN	_	Case=Ins|Gender=Neut|Number=Sing	_	_	_	LemmaId=57973|OccId=2002650|Unsandhied=ādinā|UnsandhiedReconstructed=True
+6	vartate	vṛt	VERB	_	Tense=Pres|Mood=Ind|Person=3|Number=Sing	_	_	_	LemmaId=157267|OccId=2002651|Unsandhied=vartate
+7	iti	iti	PART	_		_	_	_	LemmaId=63331|OccId=2002652|Unsandhied=iti|UnsandhiedReconstructed=True
+8-10	sabhaktaśca	_	_	_	_	_	_	_	_
+8	sa	sa	ADV	_		_	_	_	LemmaId=202954|OccId=2002653|Unsandhied=sa|UnsandhiedReconstructed=True
+9	bhaktaḥ	bhakta	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=48378|OccId=2002654|Unsandhied=bhaktaḥ|UnsandhiedReconstructed=True
+10	ca	ca	CONJ	_		_	_	_	LemmaId=157144|OccId=2002655|Unsandhied=ca|UnsandhiedReconstructed=True
+11	śasyate	śaṃs	VERB	_	Tense=Pres|Mood=Ind|Voice=Pass|Person=3|Number=Sing	_	_	_	LemmaId=157408|OccId=2002656|Unsandhied=śasyate
+
+# text = eṣa ca sneho'lpo hrasīyasīto'pi mātrāto'lpaḥ
+# sent_id = 42410
+# sent_counter = 5
+# sent_subcounter = 
+1	eṣa	etad	PRON	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=163744|OccId=2002657|Unsandhied=eṣa|UnsandhiedReconstructed=True
+2	ca	ca	CONJ	_		_	_	_	LemmaId=157144|OccId=2002658|Unsandhied=ca|UnsandhiedReconstructed=True
+3-4	sneho'lpo	_	_	_	_	_	_	_	_
+3	snehaḥ	sneha	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=103429|OccId=2002659|Unsandhied=snehaḥ|UnsandhiedReconstructed=True
+4	alpaḥ	alpa	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=53831|OccId=2002660|Unsandhied=alpaḥ|UnsandhiedReconstructed=True
+5-7	hrasīyasīto'pi	_	_	_	_	_	_	_	_
+5	hrasīyasi	hrasīyas	ADJ	_	Case=Loc|Gender=Masc|Number=Sing	_	_	_	LemmaId=57254|OccId=2002661|Unsandhied=hrasīyasi|UnsandhiedReconstructed=True
+6	itas	itas	ADV	_		_	_	_	LemmaId=63327|OccId=2002662|Unsandhied=itas|UnsandhiedReconstructed=True
+7	api	api	PART	_		_	_	_	LemmaId=21365|OccId=2002663|Unsandhied=api|UnsandhiedReconstructed=True
+8-9	mātrāto'lpaḥ	_	_	_	_	_	_	_	_
+8	mātrāyāḥ	mātrā	NOUN	_	Case=Abl|Gender=Fem|Number=Sing	_	_	_	LemmaId=78193|OccId=2002664|Unsandhied=mātrāyāḥ|UnsandhiedReconstructed=True
+9	alpaḥ	alpa	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=53831|OccId=2002665|Unsandhied=alpaḥ|UnsandhiedReconstructed=True
+

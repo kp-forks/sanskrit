@@ -3,7 +3,7 @@
 ## chapter: MuA zu RHT, 19, 26.2
 ## chapter_id: 4473
 # text = jarāmṛtyorupadeśe hetumāha aprāptetyādi aprāptalokabhavaṃ yathā syāttathā asya kartuḥ ghanaḥ
-# sent_id = 330089
+# sent_id = 330074
 # sent_counter = 1
 # sent_subcounter = 
 1-3	jarāmṛtyorupadeśe	_	_	_	_	_	_	_	_
@@ -13,23 +13,25 @@
 4-5	hetumāha	_	_	_	_	_	_	_	_
 4	hetum	hetu	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	_	_	_	LemmaId=110756|OccId=1766834|Unsandhied=hetum|UnsandhiedReconstructed=True
 5	āha	ah	VERB	_	Tense=Past|Mood=Ind|Person=3|Number=Sing	_	_	_	LemmaId=156124|OccId=1766835|Unsandhied=āha
-6-7	aprāptetyādi	_	_	_	_	_	_	_	_
-6	aprāpta	aprāpta	ADJ	_	Case=Cpd	_	_	_	LemmaId=21816|OccId=1766836|Unsandhied=aprāpta|UnsandhiedReconstructed=True
-7	ityādi	ityādi	ADJ	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=63350|OccId=1766837|Unsandhied=ityādi|UnsandhiedReconstructed=True
-8-10	aprāptalokabhavaṃ	_	_	_	_	_	_	_	_
-8	aprāpta	aprāpta	ADJ	_	Case=Cpd	_	_	_	LemmaId=21816|OccId=1766943|Unsandhied=aprāpta|UnsandhiedReconstructed=True
-9	loka	loka	NOUN	_	Case=Cpd	_	_	_	LemmaId=66869|OccId=1766944|Unsandhied=loka|UnsandhiedReconstructed=True
-10	bhavam	bhava	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=49153|OccId=1766945|Unsandhied=bhavam|UnsandhiedReconstructed=True
-11	yathā	yathā	PART	_		_	_	_	LemmaId=73250|OccId=1766838|Unsandhied=yathā|UnsandhiedReconstructed=True
-12-13	syāttathā	_	_	_	_	_	_	_	_
-12	syāt	as	VERB	_	Tense=Pres|Mood=Opt|Person=3|Number=Sing	_	_	_	LemmaId=156122|OccId=1766839|Unsandhied=syāt
-13	tathā	tathā	ADV	_		_	_	_	LemmaId=95987|OccId=1766840|Unsandhied=tathā|UnsandhiedReconstructed=True
-14	asya	idam	PRON	_	Case=Gen|Gender=Masc|Number=Sing	_	_	_	LemmaId=37876|OccId=1766841|Unsandhied=asya|UnsandhiedReconstructed=True
-15	kartuḥ	kartṛ	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	_	_	_	LemmaId=12156|OccId=1766842|Unsandhied=kartuḥ|UnsandhiedReconstructed=True
-16	ghanaḥ	ghana	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=157044|OccId=1766843|Unsandhied=ghanaḥ|UnsandhiedReconstructed=True
+6-8	aprāptetyādi	_	_	_	_	_	_	_	_
+6	a	a	PART	_		_	_	_	LemmaId=213048|OccId=5943460|Unsandhied=a
+7	prāpta	prāp	VERB	_	Case=Cpd|VerbForm=Part	_	_	_	LemmaId=163158|OccId=5943461|Unsandhied=prāpta
+8	ityādi	ityādi	ADJ	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=63350|OccId=5943462|Unsandhied=ityādi
+9-12	aprāptalokabhavaṃ	_	_	_	_	_	_	_	_
+9	a	a	PART	_		_	_	_	LemmaId=213048|OccId=5943463|Unsandhied=a
+10	prāpta	prāp	VERB	_	Case=Cpd|VerbForm=Part	_	_	_	LemmaId=163158|OccId=5943464|Unsandhied=prāpta
+11	loka	loka	NOUN	_	Case=Cpd	_	_	_	LemmaId=66869|OccId=5943465|Unsandhied=loka
+12	bhāvam	bhāva	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	_	_	_	LemmaId=49850|OccId=5943466|Unsandhied=bhāvam
+13	yathā	yathā	PART	_		_	_	_	LemmaId=73250|OccId=1766838|Unsandhied=yathā|UnsandhiedReconstructed=True
+14-15	syāttathā	_	_	_	_	_	_	_	_
+14	syāt	as	VERB	_	Tense=Pres|Mood=Opt|Person=3|Number=Sing	_	_	_	LemmaId=156122|OccId=1766839|Unsandhied=syāt
+15	tathā	tathā	ADV	_		_	_	_	LemmaId=95987|OccId=1766840|Unsandhied=tathā|UnsandhiedReconstructed=True
+16	asya	idam	PRON	_	Case=Gen|Gender=Masc|Number=Sing	_	_	_	LemmaId=37876|OccId=1766841|Unsandhied=asya|UnsandhiedReconstructed=True
+17	kartuḥ	kartṛ	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	_	_	_	LemmaId=12156|OccId=1766842|Unsandhied=kartuḥ|UnsandhiedReconstructed=True
+18	ghanaḥ	ghana	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=157044|OccId=1766843|Unsandhied=ghanaḥ|UnsandhiedReconstructed=True
 
 # text = jaṭharāgniṃ vināpi pumān naśyati nāśaṃ prāpnoti
-# sent_id = 330090
+# sent_id = 330075
 # sent_counter = 2
 # sent_subcounter = 
 1-2	jaṭharāgniṃ	_	_	_	_	_	_	_	_
@@ -44,7 +46,7 @@
 8	prāpnoti	prāp	VERB	_	Tense=Pres|Mood=Ind|Person=3|Number=Sing	_	_	_	LemmaId=163158|OccId=1766851|Unsandhied=prāpnoti|Punctuation=fullStop
 
 # text = kiṃbhūtaḥ san vividharogagaṇaiḥ nānārogasamūhaiḥ paribhūto vijitaḥ san iti vākyārthaḥ
-# sent_id = 330091
+# sent_id = 330076
 # sent_counter = 3
 # sent_subcounter = 
 1	kiṃbhūtaḥ	kimbhūta	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=23426|OccId=1766852|Unsandhied=kimbhūtaḥ|UnsandhiedReconstructed=True
@@ -66,7 +68,7 @@
 14	arthaḥ	artha	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=53136|OccId=1766865|Unsandhied=arthaḥ|UnsandhiedReconstructed=True|Punctuation=fullStop
 
 # text = kāṣṭhe sthitam api ghanapaṭalamadhye'pi abhre'bhrasattvaṃ sthitaṃ tadāha abhrasatvaṃ ghanasāraṃ ghanapaṭale sthitamapi nijakāryaṃ svakīyakṛtyaṃ tathā na kurute vahniragniḥ
-# sent_id = 330092
+# sent_id = 330077
 # sent_counter = 4
 # sent_subcounter = 
 1	kāṣṭhe	kāṣṭha	NOUN	_	Case=Loc|Gender=Neut|Number=Sing	_	_	_	LemmaId=23133|OccId=1766866|Unsandhied=kāṣṭhe|UnsandhiedReconstructed=True
@@ -109,7 +111,7 @@
 29	agniḥ	agni	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=5705|OccId=1766891|Unsandhied=agniḥ|UnsandhiedReconstructed=True|Punctuation=fullStop
 
 # text = kāṣṭhe dāruṇi sthitaḥ san nijakāryaṃ na kurute tu punaḥ yathā ghṛtaṃ payasi dugdhe sthitaṃ sat svīkāryaṃ na kurute cāgrahir iva dhanasthamiva madhye sthitaṃ kāryaṃ kurute'tiniḥsṛtaṃ sat pṛthagbhūtaṃ sat nijakāryaṃ kuruta iti bhāvaḥ
-# sent_id = 330093
+# sent_id = 330078
 # sent_counter = 5
 # sent_subcounter = 
 1	kāṣṭhe	kāṣṭha	NOUN	_	Case=Loc|Gender=Neut|Number=Sing	_	_	_	LemmaId=23133|OccId=1766892|Unsandhied=kāṣṭhe|UnsandhiedReconstructed=True

@@ -938,7 +938,7 @@
 3	apratiṣiddham	apratiṣiddha	ADJ	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=21658|OccId=1551091|Unsandhied=apratiṣiddham|UnsandhiedReconstructed=True
 4	anumatam	anumata	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=11137|OccId=1551092|Unsandhied=anumatam|UnsandhiedReconstructed=True
 
-# text = yathā anyo brūyāt sapta rasā iti taccāpratiṣedhād anumanyate kathaṃcid iti
+# text = yathā anyo brūyāt sapta rasā iti tac cāpratiṣedhād anumanyate kathaṃcid iti
 # sent_id = 16750
 # sent_counter = 28
 # sent_subcounter = 2
@@ -948,13 +948,14 @@
 4	sapta	saptan	NUM	_	Case=Nom|Gender=Masc|Number=Plur	_	_	_	LemmaId=166083|OccId=1551055|Unsandhied=sapta|UnsandhiedReconstructed=True
 5	rasā	rasa	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	_	_	_	LemmaId=69571|OccId=1551056|Unsandhied=rasāḥ|UnsandhiedReconstructed=True
 6	iti	iti	PART	_		_	_	_	LemmaId=63331|OccId=1551057|Unsandhied=iti|UnsandhiedReconstructed=True
-7-9	taccāpratiṣedhād	_	_	_	_	_	_	_	_
-7	tat	tad	PRON	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=37875|OccId=1551058|Unsandhied=tat|UnsandhiedReconstructed=True
-8	ca	ca	CONJ	_		_	_	_	LemmaId=157144|OccId=1551059|Unsandhied=ca|UnsandhiedReconstructed=True
-9	apratiṣedhāt	apratiṣedha	NOUN	_	Case=Abl|Gender=Masc|Number=Sing	_	_	_	LemmaId=21659|OccId=1551060|Unsandhied=apratiṣedhāt|UnsandhiedReconstructed=True
-10	anumanyate	anuman	VERB	_	Tense=Pres|Mood=Ind|Person=3|Number=Sing	_	_	_	LemmaId=157956|OccId=1551061|Unsandhied=anumanyate
-11	kathaṃcid	kathaṃcid	ADV	_		_	_	_	LemmaId=169782|OccId=1551062|Unsandhied=kathaṃcid|UnsandhiedReconstructed=True
-12	iti	iti	PART	_		_	_	_	LemmaId=63331|OccId=1551063|Unsandhied=iti|UnsandhiedReconstructed=True
+7	tac	tad	PRON	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=37875|OccId=5922069|Unsandhied=tat
+8-10	cāpratiṣedhād	_	_	_	_	_	_	_	_
+8	ca	ca	CONJ	_		_	_	_	LemmaId=157144|OccId=5922070|Unsandhied=ca
+9	a	a	PART	_		_	_	_	LemmaId=213048|OccId=5922071|Unsandhied=a
+10	pratiṣedhāt	pratiṣedha	NOUN	_	Case=Abl|Gender=Masc|Number=Sing	_	_	_	LemmaId=140013|OccId=5922072|Unsandhied=pratiṣedhāt
+11	anumanyate	anuman	VERB	_	Tense=Pres|Mood=Ind|Person=3|Number=Sing	_	_	_	LemmaId=157956|OccId=1551061|Unsandhied=anumanyate
+12	kathaṃcid	kathaṃcid	ADV	_		_	_	_	LemmaId=169782|OccId=1551062|Unsandhied=kathaṃcid|UnsandhiedReconstructed=True
+13	iti	iti	PART	_		_	_	_	LemmaId=63331|OccId=1551063|Unsandhied=iti|UnsandhiedReconstructed=True
 
 # text = prakaraṇānupūrvyābhihitaṃ vidhānam
 # sent_id = 16751

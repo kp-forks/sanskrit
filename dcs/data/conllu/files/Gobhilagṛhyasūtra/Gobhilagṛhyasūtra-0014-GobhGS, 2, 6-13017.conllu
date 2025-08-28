@@ -3,7 +3,7 @@
 ## chapter: GobhGS, 2, 6
 ## chapter_id: 13017
 # text = tṛtīyasya garbhamāsasyādisadeśe puṃsavanasya kālaḥ
-# sent_id = 103400
+# sent_id = 103385
 # sent_counter = 1
 # sent_subcounter = 
 1	tṛtīyasya	tṛtīya	ADJ	_	Case=Gen|Gender=Masc|Number=Sing	_	_	_	LemmaId=83290|OccId=1411455|Unsandhied=tṛtīyasya|UnsandhiedReconstructed=True
@@ -16,7 +16,7 @@
 7	kālaḥ	kāla	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=22761|OccId=1411461|Unsandhied=kālaḥ|UnsandhiedReconstructed=True|Punctuation=fullStop
 
 # text = prātaḥ saśiraskāplutodagagreṣu darbheṣu paścād agner udagagreṣu darbheṣu prācy upaviśati
-# sent_id = 103401
+# sent_id = 103386
 # sent_counter = 2
 # sent_subcounter = 
 1	prātaḥ	prātar	ADV	_		_	_	_	LemmaId=152151|OccId=1411462|Unsandhied=prātar|UnsandhiedReconstructed=True
@@ -37,7 +37,7 @@
 14	upaviśati	upaviś	VERB	_	Tense=Pres|Mood=Ind|Person=3|Number=Sing	_	_	_	LemmaId=160546|OccId=1411470|Unsandhied=upaviśati
 
 # text = paścāt patir avasthāya dakṣiṇena pāṇinā dakṣiṇam aṃsam anvavamṛśyānantarhitaṃ nābhideśam abhimṛśet pumāṃsau mitrāvaruṇāvityetayarcā
-# sent_id = 103402
+# sent_id = 103387
 # sent_counter = 3
 # sent_subcounter = 
 1	paścāt	paścāt	ADV	_		_	_	_	LemmaId=92800|OccId=1411471|Unsandhied=paścāt|UnsandhiedReconstructed=True
@@ -47,29 +47,30 @@
 5	pāṇinā	pāṇi	NOUN	_	Case=Ins|Gender=Masc|Number=Sing	_	_	_	LemmaId=93275|OccId=1411475|Unsandhied=pāṇinā|UnsandhiedReconstructed=True
 6	dakṣiṇam	dakṣiṇa	ADJ	_	Case=Acc|Gender=Masc|Number=Sing	_	_	_	LemmaId=100605|OccId=1411476|Unsandhied=dakṣiṇam|UnsandhiedReconstructed=True
 7	aṃsam	aṃsa	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	_	_	_	LemmaId=168548|OccId=1411477|Unsandhied=aṃsam|UnsandhiedReconstructed=True
-8-9	anvavamṛśyānantarhitaṃ	_	_	_	_	_	_	_	_
-8	anvavamṛśya	anvavamṛś	VERB	_	VerbForm=Conv	_	_	_	LemmaId=158278|OccId=1411478|Unsandhied=anvavamṛśya|UnsandhiedReconstructed=True
-9	anantarhitam	anantarhita	ADJ	_	Case=Acc|Gender=Masc|Number=Sing	_	_	_	LemmaId=9904|OccId=1411479|Unsandhied=anantarhitam|UnsandhiedReconstructed=True
-10-11	nābhideśam	_	_	_	_	_	_	_	_
-10	nābhi	nābhi	NOUN	_	Case=Cpd	_	_	_	LemmaId=33491|OccId=1411480|Unsandhied=nābhi|UnsandhiedReconstructed=True
-11	deśam	deśa	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	_	_	_	LemmaId=87204|OccId=1411481|Unsandhied=deśam|UnsandhiedReconstructed=True
-12	abhimṛśet	abhimṛś	VERB	_	Tense=Pres|Mood=Opt|Person=3|Number=Sing	_	_	_	LemmaId=158894|OccId=1411482|Unsandhied=abhimṛśet|Punctuation=comma
-13	pumāṃsau	puṃs	NOUN	_	Case=Nom|Gender=Masc|Number=Dual	_	_	_	LemmaId=143398|OccId=1411483|Unsandhied=pumāṃsau|UnsandhiedReconstructed=True|IsMantra=True
-14-17	mitrāvaruṇāvityetayarcā	_	_	_	_	_	_	_	_
-14	mitrāvaruṇau	mitrāvaruṇa	NOUN	_	Case=Nom|Gender=Masc|Number=Dual	_	_	_	LemmaId=135865|OccId=1411598|Unsandhied=mitrāvaruṇau|UnsandhiedReconstructed=True|IsMantra=True
-15	iti	iti	PART	_		_	_	_	LemmaId=63331|OccId=1411599|Unsandhied=iti|UnsandhiedReconstructed=True|IsMantra=True
-16	etā	etad	PRON	_	Case=Ins|Gender=Fem|Number=Sing	_	_	_	LemmaId=163744|OccId=1411600|Unsandhied=etā|UnsandhiedReconstructed=True|IsMantra=True
-17	ṛcā	ṛc	NOUN	_	Case=Ins|Gender=Fem|Number=Sing	_	_	_	LemmaId=38865|OccId=1411601|Unsandhied=ṛcā|UnsandhiedReconstructed=True|Punctuation=fullStop|IsMantra=True
+8-10	anvavamṛśyānantarhitaṃ	_	_	_	_	_	_	_	_
+8	anvavamṛśya	anvavamṛś	VERB	_	VerbForm=Conv	_	_	_	LemmaId=158278|OccId=5915330|Unsandhied=anvavamṛśya
+9	an	an	PART	_		_	_	_	LemmaId=213304|OccId=5915331|Unsandhied=an
+10	antarhitam	antardhā	VERB	_	Case=Acc|Gender=Masc|Number=Sing|VerbForm=Part	_	_	_	LemmaId=158253|OccId=5915332|Unsandhied=antarhitam
+11-12	nābhideśam	_	_	_	_	_	_	_	_
+11	nābhi	nābhi	NOUN	_	Case=Cpd	_	_	_	LemmaId=33491|OccId=1411480|Unsandhied=nābhi|UnsandhiedReconstructed=True
+12	deśam	deśa	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	_	_	_	LemmaId=87204|OccId=1411481|Unsandhied=deśam|UnsandhiedReconstructed=True
+13	abhimṛśet	abhimṛś	VERB	_	Tense=Pres|Mood=Opt|Person=3|Number=Sing	_	_	_	LemmaId=158894|OccId=1411482|Unsandhied=abhimṛśet|Punctuation=comma
+14	pumāṃsau	puṃs	NOUN	_	Case=Nom|Gender=Masc|Number=Dual	_	_	_	LemmaId=143398|OccId=1411483|Unsandhied=pumāṃsau|UnsandhiedReconstructed=True|IsMantra=True
+15-18	mitrāvaruṇāvityetayarcā	_	_	_	_	_	_	_	_
+15	mitrāvaruṇau	mitrāvaruṇa	NOUN	_	Case=Nom|Gender=Masc|Number=Dual	_	_	_	LemmaId=135865|OccId=1411598|Unsandhied=mitrāvaruṇau|UnsandhiedReconstructed=True|IsMantra=True
+16	iti	iti	PART	_		_	_	_	LemmaId=63331|OccId=1411599|Unsandhied=iti|UnsandhiedReconstructed=True|IsMantra=True
+17	etā	etad	PRON	_	Case=Ins|Gender=Fem|Number=Sing	_	_	_	LemmaId=163744|OccId=1411600|Unsandhied=etā|UnsandhiedReconstructed=True|IsMantra=True
+18	ṛcā	ṛc	NOUN	_	Case=Ins|Gender=Fem|Number=Sing	_	_	_	LemmaId=38865|OccId=1411601|Unsandhied=ṛcā|UnsandhiedReconstructed=True|Punctuation=fullStop|IsMantra=True
 
 # text = atha yathārtham
-# sent_id = 103403
+# sent_id = 103388
 # sent_counter = 4
 # sent_subcounter = 
 1	atha	atha	ADV	_		_	_	_	LemmaId=7467|OccId=1411484|Unsandhied=atha|UnsandhiedReconstructed=True
 2	yathārtham	yathārtham	ADV	_		_	_	_	LemmaId=202435|OccId=1411485|Unsandhied=yathārtham|UnsandhiedReconstructed=True|Punctuation=fullStop
 
 # text = athāparam
-# sent_id = 103404
+# sent_id = 103389
 # sent_counter = 5
 # sent_subcounter = 
 1-2	athāparam	_	_	_	_	_	_	_	_
@@ -77,7 +78,7 @@
 2	aparam	apara	PRON	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=166280|OccId=1411487|Unsandhied=aparam|UnsandhiedReconstructed=True|Punctuation=fullStop
 
 # text = prāgudīcyāṃ diśi nyagrodhaśuṅgām ubhayataḥphalām asrāmām akṛmiparisṛptāṃ triḥsaptair yavair māṣair vā parikrīyotthāpayet
-# sent_id = 103405
+# sent_id = 103390
 # sent_counter = 6
 # sent_subcounter = 
 1-2	prāgudīcyāṃ	_	_	_	_	_	_	_	_
@@ -106,7 +107,7 @@
 18	utthāpayet	utthāpay	VERB	_	Tense=Pres|Mood=Opt|Person=3|Number=Sing	_	_	_	LemmaId=160136|OccId=1411603|Unsandhied=utthāpayet|Punctuation=fullStop
 
 # text = yadyasi saumī somāya tvā rājñe parikrīṇāmi yady asi vāruṇī varuṇāya tvā rājñe parikrīṇāmi yady asi vasubhyo vasubhyas tvā parikrīṇāmi yadyasi rudrebhyo rudrebhyastvā parikrīṇāmi yady asy ādityebhya ādityebhyastvā parikrīṇāmi yady asi marudbhyo marudbhyas tvā parikrīṇāmi yadyasi viśvebhyo devebhyo viśvebhyas tvā devebhyaḥ parikrīṇāmi
-# sent_id = 103406
+# sent_id = 103391
 # sent_counter = 7
 # sent_subcounter = 
 1-2	yadyasi	_	_	_	_	_	_	_	_
@@ -162,7 +163,7 @@
 46	parikrīṇāmi	parikrī	VERB	_	Tense=Pres|Mood=Ind|Person=1|Number=Sing	_	_	_	LemmaId=161651|OccId=1411544|Unsandhied=parikrīṇāmi|Punctuation=fullStop
 
 # text = oṣadhayaḥ sumanaso bhūtvāsyāṃ vīryaṃ samādhatteyaṃ karma kariṣyatītyutthāpya tṛṇaiḥ paridhāyāhṛtya vaihāyasīṃ nidadhyāt
-# sent_id = 103407
+# sent_id = 103392
 # sent_counter = 8
 # sent_subcounter = 
 1	oṣadhayaḥ	oṣadhi	NOUN	_	Case=Voc|Gender=Fem|Number=Plur	_	_	_	LemmaId=40135|OccId=5179690|Unsandhied=oṣadhayaḥ
@@ -187,7 +188,7 @@
 16	nidadhyāt	nidhā	VERB	_	Tense=Pres|Mood=Opt|Person=3|Number=Sing	_	_	_	LemmaId=161295|OccId=1411558|Unsandhied=nidadhyāt|Punctuation=fullStop
 
 # text = dṛṣadaṃ prakṣālya brahmacārī vratavatī vā brahmabandhuḥ kumārī vāpratyāharantī pinaṣṭi
-# sent_id = 103408
+# sent_id = 103393
 # sent_counter = 9
 # sent_subcounter = 
 1	dṛṣadaṃ	dṛṣad	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	_	_	_	LemmaId=86542|OccId=1411559|Unsandhied=dṛṣadam|UnsandhiedReconstructed=True
@@ -206,7 +207,7 @@
 12	pinaṣṭi	piṣ	VERB	_	Tense=Pres|Mood=Ind|Person=3|Number=Sing	_	_	_	LemmaId=157849|OccId=1411567|Unsandhied=pinaṣṭi|Punctuation=fullStop
 
 # text = prātaḥ saśiraskāplutodagagreṣu darbheṣu paścād agner udagagreṣu darbheṣu prākśirāḥ saṃviśati
-# sent_id = 103409
+# sent_id = 103394
 # sent_counter = 10
 # sent_subcounter = 
 1	prātaḥ	prātar	ADV	_		_	_	_	LemmaId=152151|OccId=1411568|Unsandhied=prātar|UnsandhiedReconstructed=True
@@ -229,7 +230,7 @@
 15	saṃviśati	saṃviś	VERB	_	Tense=Pres|Mood=Ind|Person=3|Number=Sing	_	_	_	LemmaId=164755|OccId=1411577|Unsandhied=saṃviśati
 
 # text = paścāt patir avasthāya dakṣiṇasya pāṇer aṅguṣṭhenopakaniṣṭhikayā cāṅgulyābhisaṃgṛhya dakṣiṇe nāsikāsrotasyavanayet pumān agniḥ pumān indra ityetayarcā
-# sent_id = 103410
+# sent_id = 103395
 # sent_counter = 11
 # sent_subcounter = 
 1	paścāt	paścāt	ADV	_		_	_	_	LemmaId=92800|OccId=1411578|Unsandhied=paścāt|UnsandhiedReconstructed=True
@@ -258,7 +259,7 @@
 20	ṛcā	ṛc	NOUN	_	Case=Ins|Gender=Fem|Number=Sing	_	_	_	LemmaId=38865|OccId=1411618|Unsandhied=ṛcā|UnsandhiedReconstructed=True|Punctuation=fullStop
 
 # text = atha yathārtham
-# sent_id = 103411
+# sent_id = 103396
 # sent_counter = 12
 # sent_subcounter = 
 1	atha	atha	ADV	_		_	_	_	LemmaId=7467|OccId=1411592|Unsandhied=atha|UnsandhiedReconstructed=True

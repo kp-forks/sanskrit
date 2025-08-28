@@ -1,0 +1,70 @@
+## text: Mīmāṃsāsūtrabhāṣya
+## text_id: 572
+## chapter: MīSūBhā, 1, 2, 37
+## chapter_id: 17356
+# text = svādhyāyakāle pūrṇikāvahantiṃ karoti
+# sent_id = 757001
+# sent_counter = 1
+# sent_subcounter = 
+1-2	svādhyāyakāle	_	_	_	_	_	_	_	_
+1	svādhyāya	svādhyāya	NOUN	_	Case=Cpd	_	_	_	LemmaId=120239|OccId=5925258|Unsandhied=svādhyāya
+2	kāle	kāla	NOUN	_	Case=Loc|Gender=Masc|Number=Sing	_	_	_	LemmaId=22761|OccId=5925259|Unsandhied=kāle
+3-4	pūrṇikāvahantiṃ	_	_	_	_	_	_	_	_
+3	pūrṇikā	pūrṇikā	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	_	_	_	LemmaId=145619|OccId=5925288|Unsandhied=pūrṇikā
+4	avahantim	avahanti	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	_	_	_	LemmaId=226101|OccId=5925289|Unsandhied=avahantim
+5	karoti	kṛ	VERB	_	Tense=Pres|Mood=Ind|Person=3|Number=Sing	_	_	_	LemmaId=156168|OccId=5925260|Unsandhied=karoti
+
+# text = māṇavako 'vahantimantram adhīte
+# sent_id = 757002
+# sent_counter = 2
+# sent_subcounter = 
+1	māṇavako	māṇavaka	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=78453|OccId=5925261|Unsandhied=māṇavakaḥ
+2-3	'vahantimantram	_	_	_	_	_	_	_	_
+2	avahanti	avahanti	NOUN	_	Case=Cpd	_	_	_	LemmaId=226101|OccId=5925290|Unsandhied=avahanti
+3	mantram	mantra	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	_	_	_	LemmaId=36369|OccId=5925291|Unsandhied=mantram
+4	adhīte	adhī	VERB	_	Tense=Pres|Mood=Ind|Person=3|Number=Sing	_	_	_	LemmaId=157633|OccId=5925262|Unsandhied=adhīte
+
+# text = nāsau tena mantreṇa tadabhidhānam abhyasyaty akṣarānupūrvyā avadhāraṇa eva yatate
+# sent_id = 757003
+# sent_counter = 3
+# sent_subcounter = 
+1-2	nāsau	_	_	_	_	_	_	_	_
+1	na	na	PART	_		_	_	_	LemmaId=43432|OccId=5925263|Unsandhied=na
+2	asau	adas	PRON	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=163742|OccId=5925264|Unsandhied=asau
+3	tena	tad	PRON	_	Case=Ins|Gender=Masc|Number=Sing	_	_	_	LemmaId=37875|OccId=5925265|Unsandhied=tena
+4	mantreṇa	mantra	NOUN	_	Case=Ins|Gender=Masc|Number=Sing	_	_	_	LemmaId=36369|OccId=5925266|Unsandhied=mantreṇa
+5-6	tadabhidhānam	_	_	_	_	_	_	_	_
+5	tad	tad	PRON	_	Case=Cpd	_	_	_	LemmaId=37875|OccId=5925267|Unsandhied=tad
+6	abhidhānam	abhidhāna	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	_	_	_	LemmaId=22237|OccId=5925268|Unsandhied=abhidhānam
+7	abhyasyaty	abhyas	VERB	_	Tense=Pres|Mood=Ind|Person=3|Number=Sing	_	_	_	LemmaId=167042|OccId=5925269|Unsandhied=abhyasyati
+8-9	akṣarānupūrvyā	_	_	_	_	_	_	_	_
+8	akṣara	akṣara	NOUN	_	Case=Cpd	_	_	_	LemmaId=5484|OccId=5925270|Unsandhied=akṣara
+9	ānupūrvyāḥ	ānupūrva	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	_	_	_	LemmaId=58437|OccId=5925271|Unsandhied=ānupūrvyāḥ
+10	avadhāraṇa	avadhāraṇa	NOUN	_	Case=Loc|Gender=Neut|Number=Sing	_	_	_	LemmaId=54232|OccId=5925272|Unsandhied=avadhāraṇe
+11	eva	eva	PART	_		_	_	_	LemmaId=39754|OccId=5925273|Unsandhied=eva
+12	yatate	yat	VERB	_	Tense=Pres|Mood=Ind|Person=3|Number=Sing	_	_	_	LemmaId=157295|OccId=5925274|Unsandhied=yatate
+
+# text = yena ca nāma prayojanaṃ tad abhyasitavyam
+# sent_id = 757004
+# sent_counter = 4
+# sent_subcounter = 
+1	yena	yad	PRON	_	Case=Ins|Gender=Neut|Number=Sing	_	_	_	LemmaId=37877|OccId=5925275|Unsandhied=yena
+2	ca	ca	CONJ	_		_	_	_	LemmaId=157144|OccId=5925276|Unsandhied=ca
+3	nāma	nāma	ADV	_		_	_	_	LemmaId=33528|OccId=5925277|Unsandhied=nāma
+4	prayojanaṃ	prayojana	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=155496|OccId=5925278|Unsandhied=prayojanam
+5	tad	tad	PRON	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=37875|OccId=5925279|Unsandhied=tat
+6	abhyasitavyam	abhyas	VERB	_	Case=Nom|Gender=Neut|Number=Sing|VerbForm=Gdv	_	_	_	LemmaId=167042|OccId=5925280|Unsandhied=abhyasitavyam
+
+# text = ata uccāraṇābhyāsād uccāraṇena prayojanam ity avagacchāmaḥ
+# sent_id = 757005
+# sent_counter = 5
+# sent_subcounter = 
+1	ata	atas	ADV	_		_	_	_	LemmaId=6823|OccId=5925281|Unsandhied=atas
+2-3	uccāraṇābhyāsād	_	_	_	_	_	_	_	_
+2	uccāraṇa	uccāraṇa	NOUN	_	Case=Cpd	_	_	_	LemmaId=55257|OccId=5925282|Unsandhied=uccāraṇa
+3	abhyāsāt	abhyāsa	NOUN	_	Case=Abl|Gender=Masc|Number=Sing	_	_	_	LemmaId=31385|OccId=5925283|Unsandhied=abhyāsāt
+4	uccāraṇena	uccāraṇa	NOUN	_	Case=Ins|Gender=Neut|Number=Sing	_	_	_	LemmaId=55257|OccId=5925284|Unsandhied=uccāraṇena
+5	prayojanam	prayojana	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=155496|OccId=5925285|Unsandhied=prayojanam
+6	ity	iti	PART	_		_	_	_	LemmaId=63331|OccId=5925286|Unsandhied=iti
+7	avagacchāmaḥ	avagam	VERB	_	Tense=Pres|Mood=Ind|Person=1|Number=Plur	_	_	_	LemmaId=159457|OccId=5925287|Unsandhied=avagacchāmaḥ
+

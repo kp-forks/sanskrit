@@ -1,0 +1,53 @@
+## text: Ayurvedarasāyana
+## text_id: 16
+## chapter: Ayurvedarasāyana zu AHS, Sū., 9, 12.1
+## chapter_id: 1344
+# text = kramaprāptasya rasasyānabhidhāne hetumāha raso bhedair iti
+# sent_id = 42799
+# sent_counter = 1
+# sent_subcounter = 
+1-2	kramaprāptasya	_	_	_	_	_	_	_	_
+1	krama	krama	NOUN	_	Case=Cpd	_	_	_	LemmaId=134091|OccId=410324|Unsandhied=krama|UnsandhiedReconstructed=True
+2	prāptasya	prāp	VERB	_	Case=Gen|Gender=Masc|Number=Sing|VerbForm=Part	_	_	_	LemmaId=163158|OccId=410325|Unsandhied=prāptasya|UnsandhiedReconstructed=True
+3-4	rasasyānabhidhāne	_	_	_	_	_	_	_	_
+3	rasasya	rasa	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	_	_	_	LemmaId=69571|OccId=410352|Unsandhied=rasasya|UnsandhiedReconstructed=True
+4	anabhidhāne	anabhidhāna	NOUN	_	Case=Loc|Gender=Neut|Number=Sing	_	_	_	LemmaId=172890|OccId=410353|Unsandhied=anabhidhāne|UnsandhiedReconstructed=True
+5-6	hetumāha	_	_	_	_	_	_	_	_
+5	hetum	hetu	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	_	_	_	LemmaId=110756|OccId=410326|Unsandhied=hetum|UnsandhiedReconstructed=True
+6	āha	ah	VERB	_	Tense=Past|Mood=Ind|Person=3|Number=Sing	_	_	_	LemmaId=156124|OccId=410327|Unsandhied=āha
+7	raso	rasa	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=69571|OccId=410328|Unsandhied=rasaḥ|UnsandhiedReconstructed=True
+8	bhedair	bheda	NOUN	_	Case=Ins|Gender=Masc|Number=Plur	_	_	_	LemmaId=25880|OccId=410329|Unsandhied=bhedaiḥ|UnsandhiedReconstructed=True
+9	iti	iti	PART	_		_	_	_	LemmaId=63331|OccId=410330|Unsandhied=iti|UnsandhiedReconstructed=True
+
+# text = uttaratra uttarasminnadhyāye upadekṣyate vakṣyate yato'sau bahubhirbhedairviśiṣṭaḥ bahubhedatvena bahuvaktavyatvāt pṛthagadhyāyakaraṇamityarthaḥ
+# sent_id = 42800
+# sent_counter = 2
+# sent_subcounter = 
+1	uttaratra	uttaratra	ADV	_		_	_	_	LemmaId=55699|OccId=410331|Unsandhied=uttaratra|UnsandhiedReconstructed=True
+2-3	uttarasminnadhyāye	_	_	_	_	_	_	_	_
+2	uttare	uttara	ADJ	_	Case=Loc|Gender=Masc|Number=Sing	_	_	_	LemmaId=55672|OccId=410332|Unsandhied=uttare|UnsandhiedReconstructed=True
+3	adhyāye	adhyāya	NOUN	_	Case=Loc|Gender=Masc|Number=Sing	_	_	_	LemmaId=9595|OccId=410333|Unsandhied=adhyāye|UnsandhiedReconstructed=True
+4	upadekṣyate	upadiś	VERB	_	Tense=Fut|Mood=Ind|Person=3|Number=Sing	_	_	_	LemmaId=160400|OccId=410354|Unsandhied=upadekṣyate
+5	vakṣyate	vac	VERB	_	Tense=Fut|Mood=Ind|Person=3|Number=Sing	_	_	_	LemmaId=157264|OccId=410334|Unsandhied=vakṣyate
+6-7	yato'sau	_	_	_	_	_	_	_	_
+6	yatas	yatas	SCONJ	_		_	_	_	LemmaId=73226|OccId=410335|Unsandhied=yatas|UnsandhiedReconstructed=True
+7	asau	adas	PRON	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=163742|OccId=410336|Unsandhied=asau|UnsandhiedReconstructed=True
+8-10	bahubhirbhedairviśiṣṭaḥ	_	_	_	_	_	_	_	_
+8	bahubhiḥ	bahu	ADJ	_	Case=Ins|Gender=Masc|Number=Plur	_	_	_	LemmaId=154412|OccId=410337|Unsandhied=bahubhiḥ|UnsandhiedReconstructed=True
+9	bhedaiḥ	bheda	NOUN	_	Case=Ins|Gender=Masc|Number=Plur	_	_	_	LemmaId=25880|OccId=410338|Unsandhied=bhedaiḥ|UnsandhiedReconstructed=True
+10	viśiṣṭaḥ	viśiṣ	VERB	_	Case=Nom|Gender=Masc|Number=Sing|VerbForm=Part	_	_	_	LemmaId=163611|OccId=410339|Unsandhied=viśiṣṭaḥ|UnsandhiedReconstructed=True
+11-13	bahubhedatvena	_	_	_	_	_	_	_	_
+11	bahu	bahu	ADJ	_	Case=Cpd	_	_	_	LemmaId=154412|OccId=2961803|Unsandhied=bahu|UnsandhiedReconstructed=True
+12	bheda	bheda	NOUN	_	Case=Cpd	_	_	_	LemmaId=25880|OccId=2961804|Unsandhied=bheda|UnsandhiedReconstructed=True
+13	tvena	tva	NOUN	_	Case=Ins|Gender=Neut|Number=Sing	_	_	_	LemmaId=163754|OccId=2961805|Unsandhied=tvena|UnsandhiedReconstructed=True
+14-16	bahuvaktavyatvāt	_	_	_	_	_	_	_	_
+14	bahu	bahu	ADJ	_	Case=Cpd	_	_	_	LemmaId=154412|OccId=410341|Unsandhied=bahu|UnsandhiedReconstructed=True
+15	vaktavya	vac	VERB	_	Case=Cpd|VerbForm=Gdv	_	_	_	LemmaId=157264|OccId=410342|Unsandhied=vaktavya|UnsandhiedReconstructed=True
+16	tvāt	tva	NOUN	_	Case=Abl|Gender=Neut|Number=Sing	_	_	_	LemmaId=163754|OccId=410343|Unsandhied=tvāt|UnsandhiedReconstructed=True
+17-21	pṛthagadhyāyakaraṇamityarthaḥ	_	_	_	_	_	_	_	_
+17	pṛthak	pṛthak	ADV	_		_	_	_	LemmaId=145371|OccId=410344|Unsandhied=pṛthak|UnsandhiedReconstructed=True
+18	adhyāya	adhyāya	NOUN	_	Case=Cpd	_	_	_	LemmaId=9595|OccId=410345|Unsandhied=adhyāya|UnsandhiedReconstructed=True
+19	karaṇam	karaṇa	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=2379|OccId=410346|Unsandhied=karaṇam|UnsandhiedReconstructed=True
+20	iti	iti	PART	_		_	_	_	LemmaId=63331|OccId=410347|Unsandhied=iti|UnsandhiedReconstructed=True
+21	arthaḥ	artha	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=53136|OccId=410348|Unsandhied=arthaḥ|UnsandhiedReconstructed=True
+

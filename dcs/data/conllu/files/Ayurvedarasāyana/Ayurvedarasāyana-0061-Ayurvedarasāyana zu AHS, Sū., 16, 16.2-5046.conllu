@@ -1,0 +1,43 @@
+## text: Ayurvedarasāyana
+## text_id: 16
+## chapter: Ayurvedarasāyana zu AHS, Sū., 16, 16.2
+## chapter_id: 5046
+# text = acchapeyamāha yathokteti
+# sent_id = 43232
+# sent_counter = 1
+# sent_subcounter = 
+1-3	acchapeyamāha	_	_	_	_	_	_	_	_
+1	accha	accha	ADJ	_	Case=Cpd	_	_	_	LemmaId=6380|OccId=1998994|Unsandhied=accha|UnsandhiedReconstructed=True
+2	peyam	pā	VERB	_	Case=Acc|Gender=Masc|Number=Sing|VerbForm=Gdv	_	_	_	LemmaId=157391|OccId=1998995|Unsandhied=peyam|UnsandhiedReconstructed=True
+3	āha	ah	VERB	_	Tense=Past|Mood=Ind|Person=3|Number=Sing	_	_	_	LemmaId=156124|OccId=1998996|Unsandhied=āha
+4-6	yathokteti	_	_	_	_	_	_	_	_
+4	yathā	yathā	PART	_		_	_	_	LemmaId=73250|OccId=1998997|Unsandhied=yathā|UnsandhiedReconstructed=True
+5	ukta	vac	VERB	_	Case=Cpd|VerbForm=Part	_	_	_	LemmaId=157264|OccId=1998998|Unsandhied=ukta|UnsandhiedReconstructed=True
+6	iti	iti	PART	_		_	_	_	LemmaId=63331|OccId=1998999|Unsandhied=iti|UnsandhiedReconstructed=True
+
+# text = yastu kevalaḥ pīyate sa udbhūtaśaktitvānna vicāraṇāsaṃjñaḥ
+# sent_id = 43233
+# sent_counter = 2
+# sent_subcounter = 
+1-2	yastu	_	_	_	_	_	_	_	_
+1	yaḥ	yad	PRON	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=37877|OccId=1999000|Unsandhied=yaḥ|UnsandhiedReconstructed=True
+2	tu	tu	PART	_		_	_	_	LemmaId=82701|OccId=1999001|Unsandhied=tu|UnsandhiedReconstructed=True
+3	kevalaḥ	kevala	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=166116|OccId=1999002|Unsandhied=kevalaḥ|UnsandhiedReconstructed=True
+4	pīyate	pā	VERB	_	Tense=Pres|Mood=Ind|Voice=Pass|Person=3|Number=Sing	_	_	_	LemmaId=157391|OccId=1999003|Unsandhied=pīyate
+5	sa	tad	PRON	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=37875|OccId=1999004|Unsandhied=saḥ|UnsandhiedReconstructed=True
+6-9	udbhūtaśaktitvānna	_	_	_	_	_	_	_	_
+6	udbhūta	udbhū	VERB	_	Case=Cpd|VerbForm=Part	_	_	_	LemmaId=160259|OccId=1999005|Unsandhied=udbhūta|UnsandhiedReconstructed=True
+7	śakti	śakti	NOUN	_	Case=Cpd	_	_	_	LemmaId=116305|OccId=1999006|Unsandhied=śakti|UnsandhiedReconstructed=True
+8	tvāt	tva	NOUN	_	Case=Abl|Gender=Neut|Number=Sing	_	_	_	LemmaId=163754|OccId=1999007|Unsandhied=tvāt|UnsandhiedReconstructed=True
+9	na	na	PART	_		_	_	_	LemmaId=43432|OccId=1999008|Unsandhied=na|UnsandhiedReconstructed=True
+10-11	vicāraṇāsaṃjñaḥ	_	_	_	_	_	_	_	_
+10	vicāraṇā	vicāraṇā	NOUN	_	Case=Cpd	_	_	_	LemmaId=48041|OccId=1999009|Unsandhied=vicāraṇā|UnsandhiedReconstructed=True
+11	saṃjñaḥ	saṃjñā	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=9398|OccId=1999010|Unsandhied=saṃjñaḥ|UnsandhiedReconstructed=True
+
+# text = acchaḥ kevalaḥ
+# sent_id = 43234
+# sent_counter = 3
+# sent_subcounter = 
+1	acchaḥ	accha	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=6380|OccId=1999011|Unsandhied=acchaḥ|UnsandhiedReconstructed=True|WordSem=68997
+2	kevalaḥ	kevala	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=166116|OccId=1999012|Unsandhied=kevalaḥ|UnsandhiedReconstructed=True|WordSem=66624
+

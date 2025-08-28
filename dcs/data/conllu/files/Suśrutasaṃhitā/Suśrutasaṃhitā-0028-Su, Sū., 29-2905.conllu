@@ -1014,17 +1014,20 @@
 7	godhā	godhā	NOUN	_	Case=Cpd	_	_	_	LemmaId=124815|OccId=1279232|Unsandhied=godhā|UnsandhiedReconstructed=True|WordSem=7843
 8	kṛkalāsayoḥ	kṛkalāsa	NOUN	_	Case=Gen|Gender=Masc|Number=Dual	_	_	_	LemmaId=3803|OccId=1279233|Unsandhied=kṛkalāsayoḥ|UnsandhiedReconstructed=True|WordSem=7728
 
-# text = dūtair aniṣṭaistulyānāmaśastaṃ darśanaṃ nṛṇām
+# text = dūtair aniṣṭais tulyānām aśastaṃ darśanaṃ nṛṇām
 # sent_id = 2284
 # sent_counter = 38
 # sent_subcounter = 1
 1	dūtair	dūta	NOUN	_	Case=Ins|Gender=Masc|Number=Plur	_	_	_	LemmaId=86123|OccId=1279234|Unsandhied=dūtaiḥ|UnsandhiedReconstructed=True|WordSem=46692
-2-4	aniṣṭaistulyānāmaśastaṃ	_	_	_	_	_	_	_	_
-2	aniṣṭaiḥ	aniṣṭa	ADJ	_	Case=Ins|Gender=Masc|Number=Plur	_	_	_	LemmaId=10603|OccId=1279318|Unsandhied=aniṣṭaiḥ|UnsandhiedReconstructed=True|WordSem=67738
-3	tulyānām	tulya	ADJ	_	Case=Gen|Gender=Masc|Number=Plur	_	_	_	LemmaId=82926|OccId=1279319|Unsandhied=tulyānām|UnsandhiedReconstructed=True|WordSem=74565
-4	aśastam	aśasta	ADJ	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=59921|OccId=1279320|Unsandhied=aśastam|UnsandhiedReconstructed=True|WordSem=67651
-5	darśanaṃ	darśana	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=146419|OccId=1279235|Unsandhied=darśanam|UnsandhiedReconstructed=True|WordSem=27715
-6	nṛṇām	nṛ	NOUN	_	Case=Gen|Gender=Masc|Number=Plur	_	_	_	LemmaId=169021|OccId=1279236|Unsandhied=nṝṇām|UnsandhiedReconstructed=True|WordSem=46592
+2-3	aniṣṭais	_	_	_	_	_	_	_	_
+2	an	an	PART	_		_	_	_	LemmaId=213304|OccId=5929196|Unsandhied=an
+3	iṣṭaiḥ	iṣ	VERB	_	Case=Ins|Gender=Masc|Number=Plur|VerbForm=Part	_	_	_	LemmaId=156131|OccId=5929197|Unsandhied=iṣṭaiḥ
+4	tulyānām	tulya	ADJ	_	Case=Gen|Gender=Masc|Number=Plur	_	_	_	LemmaId=82926|OccId=5929198|Unsandhied=tulyānām
+5-6	aśastaṃ	_	_	_	_	_	_	_	_
+5	a	a	PART	_		_	_	_	LemmaId=213048|OccId=5929199|Unsandhied=a
+6	śastam	śaṃs	VERB	_	Case=Nom|Gender=Neut|Number=Sing|VerbForm=Part	_	_	_	LemmaId=157408|OccId=5929200|Unsandhied=śastam
+7	darśanaṃ	darśana	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=146419|OccId=1279235|Unsandhied=darśanam|UnsandhiedReconstructed=True|WordSem=27715
+8	nṛṇām	nṛ	NOUN	_	Case=Gen|Gender=Masc|Number=Plur	_	_	_	LemmaId=169021|OccId=1279236|Unsandhied=nṝṇām|UnsandhiedReconstructed=True|WordSem=46592
 
 # text = kulatthatilakārpāsatuṣapāṣāṇabhasmanām
 # sent_id = 2285

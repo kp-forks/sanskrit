@@ -94,7 +94,7 @@
 7	sirāvyadhanam	sirāvyadhana	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=106423|OccId=1357568|Unsandhied=sirāvyadhanam|UnsandhiedReconstructed=True|WordSem=3415
 8	apratiṣiddham	apratiṣiddha	ADJ	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=21658|OccId=1357569|Unsandhied=apratiṣiddham|UnsandhiedReconstructed=True
 
-# text = tatra snigdhasvinnamāturaṃ yathādoṣapratyanīkaṃ dravaprāyamannaṃ bhuktavantaṃ yavāgūṃ pītavantaṃ vā yathākālam upasthāpyāsīnaṃ sthitaṃ vā prāṇānabādhamāno vastrapaṭṭacarmāntarvalkalalatānāmanyatamena yantrayitvā nātigāḍhaṃ nātiśithilaṃ śarīrapradeśamāsādya prāptaṃ śastramādāya sirāṃ vidhyet
+# text = tatra snigdhasvinnamāturaṃ yathādoṣapratyanīkaṃ dravaprāyamannaṃ bhuktavantaṃ yavāgūṃ pītavantaṃ vā yathākālam upasthāpyāsīnaṃ sthitaṃ vā prāṇān abādhamāno vastrapaṭṭacarmāntarvalkalalatānāmanyatamena yantrayitvā nātigāḍhaṃ nātiśithilaṃ śarīrapradeśamāsādya prāptaṃ śastramādāya sirāṃ vidhyet
 # sent_id = 6371
 # sent_counter = 6
 # sent_subcounter = 1
@@ -121,34 +121,35 @@
 17	āsīnam	ās	VERB	_	Case=Acc|Gender=Masc|Number=Sing|VerbForm=Part	_	_	_	LemmaId=156126|OccId=1357588|Unsandhied=āsīnam|UnsandhiedReconstructed=True|WordSem=91292
 18	sthitaṃ	sthā	VERB	_	Case=Acc|Gender=Masc|Number=Sing|VerbForm=Part	_	_	_	LemmaId=157340|OccId=1357589|Unsandhied=sthitam|UnsandhiedReconstructed=True|WordSem=91305
 19	vā	vā	CONJ	_		_	_	_	LemmaId=75765|OccId=1357797|Unsandhied=vā|UnsandhiedReconstructed=True|WordSem=127042
-20-21	prāṇānabādhamāno	_	_	_	_	_	_	_	_
-20	prāṇān	prāṇa	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	_	_	_	LemmaId=156090|OccId=1357798|Unsandhied=prāṇān|UnsandhiedReconstructed=True|WordSem=100623
-21	abādhamānaḥ	abādhamāna	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=202533|OccId=1357799|Unsandhied=abādhamānaḥ|UnsandhiedReconstructed=True
-22-28	vastrapaṭṭacarmāntarvalkalalatānāmanyatamena	_	_	_	_	_	_	_	_
-22	vastra	vastra	NOUN	_	Case=Cpd	_	_	_	LemmaId=75493|OccId=1357590|Unsandhied=vastra|UnsandhiedReconstructed=True|WordSem=16557
-23	paṭṭa	paṭṭa	NOUN	_	Case=Cpd	_	_	_	LemmaId=15312|OccId=1357591|Unsandhied=paṭṭa|UnsandhiedReconstructed=True|WordSem=18339
-24	carma	carman	NOUN	_	Case=Cpd	_	_	_	LemmaId=50713|OccId=1357592|Unsandhied=carma|UnsandhiedReconstructed=True|WordSem=64041
-25	antar	antar	ADV	_		_	_	_	LemmaId=167614|OccId=1357593|Unsandhied=antar|UnsandhiedReconstructed=True
-26	valkala	valkala	NOUN	_	Case=Cpd	_	_	_	LemmaId=74989|OccId=1357594|Unsandhied=valkala|UnsandhiedReconstructed=True|WordSem=57199
-27	latānām	latā	NOUN	_	Case=Gen|Gender=Neut|Number=Plur	_	_	_	LemmaId=80779|OccId=1357595|Unsandhied=latānām|UnsandhiedReconstructed=True
-28	anyatamena	anyatama	ADJ	_	Case=Ins|Gender=Neut|Number=Sing	_	_	_	LemmaId=20495|OccId=1357596|Unsandhied=anyatamena|UnsandhiedReconstructed=True|WordSem=79405
-29	yantrayitvā	yantray	VERB	_	VerbForm=Conv	_	_	_	LemmaId=161557|OccId=1357597|Unsandhied=yantrayitvā|UnsandhiedReconstructed=True|WordSem=128471
-30-31	nātigāḍhaṃ	_	_	_	_	_	_	_	_
-30	na	na	PART	_		_	_	_	LemmaId=43432|OccId=1357598|Unsandhied=na|UnsandhiedReconstructed=True|WordSem=96750
-31	atigāḍham	atigāh	VERB	_	Case=Acc|Gender=Masc|Number=Sing|VerbForm=Part	_	_	_	LemmaId=157222|OccId=1357599|Unsandhied=atigāḍham|UnsandhiedReconstructed=True
-32-33	nātiśithilaṃ	_	_	_	_	_	_	_	_
-32	na	na	PART	_		_	_	_	LemmaId=43432|OccId=1357800|Unsandhied=na|UnsandhiedReconstructed=True
-33	atiśithilam	atiśithila	ADJ	_	Case=Acc|Gender=Masc|Number=Sing	_	_	_	LemmaId=202532|OccId=1357801|Unsandhied=atiśithilam|UnsandhiedReconstructed=True|WordSem=74772
-34-36	śarīrapradeśamāsādya	_	_	_	_	_	_	_	_
-34	śarīra	śarīra	NOUN	_	Case=Cpd	_	_	_	LemmaId=116860|OccId=1357600|Unsandhied=śarīra|UnsandhiedReconstructed=True|WordSem=25712
-35	pradeśam	pradeśa	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	_	_	_	LemmaId=140836|OccId=1357601|Unsandhied=pradeśam|UnsandhiedReconstructed=True|WordSem=25729
-36	āsādya	āsāday	VERB	_	VerbForm=Conv	_	_	_	LemmaId=159999|OccId=1357602|Unsandhied=āsādya|UnsandhiedReconstructed=True|WordSem=93541
-37	prāptaṃ	prāp	VERB	_	Case=Acc|Gender=Neut|Number=Sing|VerbForm=Part	_	_	_	LemmaId=163158|OccId=1357603|Unsandhied=prāptam|UnsandhiedReconstructed=True|WordSem=94332
-38-39	śastramādāya	_	_	_	_	_	_	_	_
-38	śastram	śastra	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	_	_	_	LemmaId=131110|OccId=1357802|Unsandhied=śastram|UnsandhiedReconstructed=True|WordSem=21812
-39	ādāya	ādā	VERB	_	VerbForm=Conv	_	_	_	LemmaId=159774|OccId=1357803|Unsandhied=ādāya|UnsandhiedReconstructed=True|WordSem=89709
-40	sirāṃ	sirā	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	_	_	_	LemmaId=106411|OccId=1357604|Unsandhied=sirām|UnsandhiedReconstructed=True|WordSem=128417
-41	vidhyet	vyadh	VERB	_	Tense=Pres|Mood=Opt|Person=3|Number=Sing	_	_	_	LemmaId=157284|OccId=1357605|Unsandhied=vidhyet|WordSem=90829
+20	prāṇān	prāṇa	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	_	_	_	LemmaId=156090|OccId=5909218|Unsandhied=prāṇān
+21-22	abādhamāno	_	_	_	_	_	_	_	_
+21	a	a	PART	_		_	_	_	LemmaId=213048|OccId=5909219|Unsandhied=a
+22	bādhamānaḥ	bādh	VERB	_	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part	_	_	_	LemmaId=157326|OccId=5909220|Unsandhied=bādhamānaḥ
+23-29	vastrapaṭṭacarmāntarvalkalalatānāmanyatamena	_	_	_	_	_	_	_	_
+23	vastra	vastra	NOUN	_	Case=Cpd	_	_	_	LemmaId=75493|OccId=1357590|Unsandhied=vastra|UnsandhiedReconstructed=True|WordSem=16557
+24	paṭṭa	paṭṭa	NOUN	_	Case=Cpd	_	_	_	LemmaId=15312|OccId=1357591|Unsandhied=paṭṭa|UnsandhiedReconstructed=True|WordSem=18339
+25	carma	carman	NOUN	_	Case=Cpd	_	_	_	LemmaId=50713|OccId=1357592|Unsandhied=carma|UnsandhiedReconstructed=True|WordSem=64041
+26	antar	antar	ADV	_		_	_	_	LemmaId=167614|OccId=1357593|Unsandhied=antar|UnsandhiedReconstructed=True
+27	valkala	valkala	NOUN	_	Case=Cpd	_	_	_	LemmaId=74989|OccId=1357594|Unsandhied=valkala|UnsandhiedReconstructed=True|WordSem=57199
+28	latānām	latā	NOUN	_	Case=Gen|Gender=Neut|Number=Plur	_	_	_	LemmaId=80779|OccId=1357595|Unsandhied=latānām|UnsandhiedReconstructed=True
+29	anyatamena	anyatama	ADJ	_	Case=Ins|Gender=Neut|Number=Sing	_	_	_	LemmaId=20495|OccId=1357596|Unsandhied=anyatamena|UnsandhiedReconstructed=True|WordSem=79405
+30	yantrayitvā	yantray	VERB	_	VerbForm=Conv	_	_	_	LemmaId=161557|OccId=1357597|Unsandhied=yantrayitvā|UnsandhiedReconstructed=True|WordSem=128471
+31-32	nātigāḍhaṃ	_	_	_	_	_	_	_	_
+31	na	na	PART	_		_	_	_	LemmaId=43432|OccId=1357598|Unsandhied=na|UnsandhiedReconstructed=True|WordSem=96750
+32	atigāḍham	atigāh	VERB	_	Case=Acc|Gender=Masc|Number=Sing|VerbForm=Part	_	_	_	LemmaId=157222|OccId=1357599|Unsandhied=atigāḍham|UnsandhiedReconstructed=True
+33-34	nātiśithilaṃ	_	_	_	_	_	_	_	_
+33	na	na	PART	_		_	_	_	LemmaId=43432|OccId=1357800|Unsandhied=na|UnsandhiedReconstructed=True
+34	atiśithilam	atiśithila	ADJ	_	Case=Acc|Gender=Masc|Number=Sing	_	_	_	LemmaId=202532|OccId=1357801|Unsandhied=atiśithilam|UnsandhiedReconstructed=True|WordSem=74772
+35-37	śarīrapradeśamāsādya	_	_	_	_	_	_	_	_
+35	śarīra	śarīra	NOUN	_	Case=Cpd	_	_	_	LemmaId=116860|OccId=1357600|Unsandhied=śarīra|UnsandhiedReconstructed=True|WordSem=25712
+36	pradeśam	pradeśa	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	_	_	_	LemmaId=140836|OccId=1357601|Unsandhied=pradeśam|UnsandhiedReconstructed=True|WordSem=25729
+37	āsādya	āsāday	VERB	_	VerbForm=Conv	_	_	_	LemmaId=159999|OccId=1357602|Unsandhied=āsādya|UnsandhiedReconstructed=True|WordSem=93541
+38	prāptaṃ	prāp	VERB	_	Case=Acc|Gender=Neut|Number=Sing|VerbForm=Part	_	_	_	LemmaId=163158|OccId=1357603|Unsandhied=prāptam|UnsandhiedReconstructed=True|WordSem=94332
+39-40	śastramādāya	_	_	_	_	_	_	_	_
+39	śastram	śastra	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	_	_	_	LemmaId=131110|OccId=1357802|Unsandhied=śastram|UnsandhiedReconstructed=True|WordSem=21812
+40	ādāya	ādā	VERB	_	VerbForm=Conv	_	_	_	LemmaId=159774|OccId=1357803|Unsandhied=ādāya|UnsandhiedReconstructed=True|WordSem=89709
+41	sirāṃ	sirā	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	_	_	_	LemmaId=106411|OccId=1357604|Unsandhied=sirām|UnsandhiedReconstructed=True|WordSem=128417
+42	vidhyet	vyadh	VERB	_	Tense=Pres|Mood=Opt|Person=3|Number=Sing	_	_	_	LemmaId=157284|OccId=1357605|Unsandhied=vidhyet|WordSem=90829
 
 # text = naivātiśīte nātyuṣṇe na pravāte na cābhrite
 # sent_id = 6372

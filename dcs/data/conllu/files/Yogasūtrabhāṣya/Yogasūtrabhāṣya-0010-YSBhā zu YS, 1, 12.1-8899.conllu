@@ -3,7 +3,7 @@
 ## chapter: YSBhā zu YS, 1, 12.1
 ## chapter_id: 8899
 # text = cittanadī nāma ubhayatovāhinī vahati kalyāṇāya vahati pāpāya ca
-# sent_id = 479011
+# sent_id = 479228
 # sent_counter = 1
 # sent_subcounter = 1
 1-2	cittanadī	_	_	_	_	_	_	_	_
@@ -20,7 +20,7 @@
 10	ca	ca	CONJ	_		_	_	_	LemmaId=157144|OccId=3577832|Unsandhied=ca|UnsandhiedReconstructed=True
 
 # text = yā tu kaivalyaprāgbhārā vivekaviṣayanimnā sā kalyāṇavahā
-# sent_id = 479012
+# sent_id = 479229
 # sent_counter = 1
 # sent_subcounter = 2
 1	yā	yad	PRON	_	Case=Nom|Gender=Fem|Number=Sing	_	_	_	LemmaId=37877|OccId=3577833|Unsandhied=yā|UnsandhiedReconstructed=True
@@ -38,22 +38,23 @@
 10	vahā	vaha	ADJ	_	Case=Nom|Gender=Fem|Number=Sing	_	_	_	LemmaId=75650|OccId=3577842|Unsandhied=vahā|UnsandhiedReconstructed=True
 
 # text = saṃsāraprāgbhārā avivekaviṣayanimnā pāpavahā
-# sent_id = 479013
+# sent_id = 479230
 # sent_counter = 1
 # sent_subcounter = 3
 1-2	saṃsāraprāgbhārā	_	_	_	_	_	_	_	_
 1	saṃsāra	saṃsāra	NOUN	_	Case=Cpd	_	_	_	LemmaId=8295|OccId=3577843|Unsandhied=saṃsāra|UnsandhiedReconstructed=True
 2	prāgbhārā	prāgbhāra	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	_	_	_	LemmaId=155381|OccId=3577844|Unsandhied=prāgbhārā|UnsandhiedReconstructed=True
-3-5	avivekaviṣayanimnā	_	_	_	_	_	_	_	_
-3	aviveka	aviveka	NOUN	_	Case=Cpd	_	_	_	LemmaId=55144|OccId=3577845|Unsandhied=aviveka|UnsandhiedReconstructed=True
-4	viṣaya	viṣaya	NOUN	_	Case=Cpd	_	_	_	LemmaId=138935|OccId=3577846|Unsandhied=viṣaya|UnsandhiedReconstructed=True
-5	nimnā	nimna	ADJ	_	Case=Nom|Gender=Fem|Number=Sing	_	_	_	LemmaId=27517|OccId=3577847|Unsandhied=nimnā|UnsandhiedReconstructed=True
-6-7	pāpavahā	_	_	_	_	_	_	_	_
-6	pāpa	pāpa	NOUN	_	Case=Cpd	_	_	_	LemmaId=93767|OccId=3577848|Unsandhied=pāpa|UnsandhiedReconstructed=True
-7	vahā	vaha	ADJ	_	Case=Nom|Gender=Fem|Number=Sing	_	_	_	LemmaId=75650|OccId=3577849|Unsandhied=vahā|UnsandhiedReconstructed=True
+3-6	avivekaviṣayanimnā	_	_	_	_	_	_	_	_
+3	a	a	PART	_		_	_	_	LemmaId=213048|OccId=5936603|Unsandhied=a
+4	viveka	viveka	NOUN	_	Case=Cpd	_	_	_	LemmaId=138678|OccId=5936604|Unsandhied=viveka
+5	viṣaya	viṣaya	NOUN	_	Case=Cpd	_	_	_	LemmaId=138935|OccId=5936605|Unsandhied=viṣaya
+6	nimnā	nimna	ADJ	_	Case=Nom|Gender=Fem|Number=Sing	_	_	_	LemmaId=27517|OccId=5936606|Unsandhied=nimnā
+7-8	pāpavahā	_	_	_	_	_	_	_	_
+7	pāpa	pāpa	NOUN	_	Case=Cpd	_	_	_	LemmaId=93767|OccId=3577848|Unsandhied=pāpa|UnsandhiedReconstructed=True
+8	vahā	vaha	ADJ	_	Case=Nom|Gender=Fem|Number=Sing	_	_	_	LemmaId=75650|OccId=3577849|Unsandhied=vahā|UnsandhiedReconstructed=True
 
 # text = tatra vairāgyeṇa viṣayasrotaḥ khilīkriyate vivekadarśanābhyāsena vivekasrota udghāṭyata ity ubhayādhīnaścittavṛttinirodhaḥ
-# sent_id = 479014
+# sent_id = 479231
 # sent_counter = 1
 # sent_subcounter = 4
 1	tatra	tatra	ADV	_		_	_	_	LemmaId=95978|OccId=3577850|Unsandhied=tatra|UnsandhiedReconstructed=True

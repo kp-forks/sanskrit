@@ -3,7 +3,7 @@
 ## chapter: ĀVDīp zu Ca, Sū., 12, 4
 ## chapter_id: 1203
 # text = rūkṣādayo bhāvapradhānāḥ tena rūkṣatvādayo guṇā mantavyāḥ
-# sent_id = 150566
+# sent_id = 150551
 # sent_counter = 1
 # sent_subcounter = 1
 1-2	rūkṣādayo	_	_	_	_	_	_	_	_
@@ -20,33 +20,38 @@
 9	guṇā	guṇa	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	_	_	_	LemmaId=124503|OccId=372960|Unsandhied=guṇāḥ|UnsandhiedReconstructed=True
 10	mantavyāḥ	man	VERB	_	Case=Nom|Gender=Masc|Number=Plur|VerbForm=Gdv	_	_	_	LemmaId=157294|OccId=372961|Unsandhied=mantavyāḥ|UnsandhiedReconstructed=True
 
-# text = dāruṇatvaṃ calatvaṃ calatvāt evaṃ dīrghaṃjīvitīyoktaṃ calatvamuktaṃ bhavati yadi vā dāruṇatvaṃ śoṣaṇatvātkāṭhinyaṃ karotīti
-# sent_id = 150567
+# text = dāruṇatvaṃ calatvaṃ calatvāt evaṃ dīrghaṃjīvitīyoktaṃ calatvam uktaṃ bhavati yadi vā dāruṇatvaṃ śoṣaṇatvātkāṭhinyaṃ karotīti
+# sent_id = 150552
 # sent_counter = 1
 # sent_subcounter = 2
 1-2	dāruṇatvaṃ	_	_	_	_	_	_	_	_
 1	dāruṇa	dāruṇa	ADJ	_	Case=Cpd	_	_	_	LemmaId=146676|OccId=372962|Unsandhied=dāruṇa|UnsandhiedReconstructed=True
 2	tvam	tva	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=163754|OccId=372963|Unsandhied=tvam|UnsandhiedReconstructed=True
-3	calatvaṃ	calatva	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=50751|OccId=372964|Unsandhied=calatvam|UnsandhiedReconstructed=True
-4	calatvāt	calatva	NOUN	_	Case=Abl|Gender=Neut|Number=Sing	_	_	_	LemmaId=50751|OccId=372965|Unsandhied=calatvāt|UnsandhiedReconstructed=True
-5	evaṃ	evam	ADV	_		_	_	_	LemmaId=39758|OccId=372966|Unsandhied=evam|UnsandhiedReconstructed=True
-6-7	dīrghaṃjīvitīyoktaṃ	_	_	_	_	_	_	_	_
-6	dīrghaṃjīvitīya	dīrghaṃjīvitīya	NOUN	_	Case=Cpd	_	_	_	LemmaId=172507|OccId=372980|Unsandhied=dīrghaṃjīvitīya|UnsandhiedReconstructed=True
-7	uktam	vac	VERB	_	Case=Nom|Gender=Neut|Number=Sing|VerbForm=Part	_	_	_	LemmaId=157264|OccId=372981|Unsandhied=uktam|UnsandhiedReconstructed=True
-8-9	calatvamuktaṃ	_	_	_	_	_	_	_	_
-8	calatvam	calatva	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=50751|OccId=372967|Unsandhied=calatvam|UnsandhiedReconstructed=True
-9	uktam	vac	VERB	_	Case=Nom|Gender=Neut|Number=Sing|VerbForm=Part	_	_	_	LemmaId=157264|OccId=372968|Unsandhied=uktam|UnsandhiedReconstructed=True
-10	bhavati	bhū	VERB	_	Tense=Pres|Mood=Ind|Person=3|Number=Sing	_	_	_	LemmaId=157250|OccId=372969|Unsandhied=bhavati
-11	yadi	yadi	SCONJ	_		_	_	_	LemmaId=73699|OccId=372970|Unsandhied=yadi|UnsandhiedReconstructed=True
-12	vā	vā	CONJ	_		_	_	_	LemmaId=75765|OccId=372971|Unsandhied=vā|UnsandhiedReconstructed=True
-13-14	dāruṇatvaṃ	_	_	_	_	_	_	_	_
-13	dāruṇa	dāruṇa	ADJ	_	Case=Cpd	_	_	_	LemmaId=146676|OccId=372972|Unsandhied=dāruṇa|UnsandhiedReconstructed=True
-14	tvam	tva	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=163754|OccId=372973|Unsandhied=tvam|UnsandhiedReconstructed=True
-15-17	śoṣaṇatvātkāṭhinyaṃ	_	_	_	_	_	_	_	_
-15	śoṣaṇa	śoṣaṇa	ADJ	_	Case=Cpd	_	_	_	LemmaId=127835|OccId=372974|Unsandhied=śoṣaṇa|UnsandhiedReconstructed=True
-16	tvāt	tva	NOUN	_	Case=Abl|Gender=Neut|Number=Sing	_	_	_	LemmaId=163754|OccId=372975|Unsandhied=tvāt|UnsandhiedReconstructed=True
-17	kāṭhinyam	kāṭhinya	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	_	_	_	LemmaId=13439|OccId=372976|Unsandhied=kāṭhinyam|UnsandhiedReconstructed=True
-18-19	karotīti	_	_	_	_	_	_	_	_
-18	karoti	kṛ	VERB	_	Tense=Pres|Mood=Ind|Person=3|Number=Sing	_	_	_	LemmaId=156168|OccId=372977|Unsandhied=karoti
-19	iti	iti	PART	_		_	_	_	LemmaId=63331|OccId=372978|Unsandhied=iti|UnsandhiedReconstructed=True
+3-4	calatvaṃ	_	_	_	_	_	_	_	_
+3	cala	cala	ADJ	_	Case=Cpd	_	_	_	LemmaId=50738|OccId=5911764|Unsandhied=cala
+4	tvam	tva	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=163754|OccId=5911765|Unsandhied=tvam
+5-6	calatvāt	_	_	_	_	_	_	_	_
+5	cala	cala	ADJ	_	Case=Cpd	_	_	_	LemmaId=50738|OccId=5911766|Unsandhied=cala
+6	tvāt	tva	NOUN	_	Case=Abl|Gender=Neut|Number=Sing	_	_	_	LemmaId=163754|OccId=5911767|Unsandhied=tvāt
+7	evaṃ	evam	ADV	_		_	_	_	LemmaId=39758|OccId=372966|Unsandhied=evam|UnsandhiedReconstructed=True
+8-9	dīrghaṃjīvitīyoktaṃ	_	_	_	_	_	_	_	_
+8	dīrghaṃjīvitīya	dīrghaṃjīvitīya	NOUN	_	Case=Cpd	_	_	_	LemmaId=172507|OccId=372980|Unsandhied=dīrghaṃjīvitīya|UnsandhiedReconstructed=True
+9	uktam	vac	VERB	_	Case=Nom|Gender=Neut|Number=Sing|VerbForm=Part	_	_	_	LemmaId=157264|OccId=372981|Unsandhied=uktam|UnsandhiedReconstructed=True
+10-11	calatvam	_	_	_	_	_	_	_	_
+10	cala	cala	ADJ	_	Case=Cpd	_	_	_	LemmaId=50738|OccId=5911768|Unsandhied=cala
+11	tvam	tva	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=163754|OccId=5911769|Unsandhied=tvam
+12	uktaṃ	vac	VERB	_	Case=Nom|Gender=Neut|Number=Sing|VerbForm=Part	_	_	_	LemmaId=157264|OccId=5911770|Unsandhied=uktam
+13	bhavati	bhū	VERB	_	Tense=Pres|Mood=Ind|Person=3|Number=Sing	_	_	_	LemmaId=157250|OccId=372969|Unsandhied=bhavati
+14	yadi	yadi	SCONJ	_		_	_	_	LemmaId=73699|OccId=372970|Unsandhied=yadi|UnsandhiedReconstructed=True
+15	vā	vā	CONJ	_		_	_	_	LemmaId=75765|OccId=372971|Unsandhied=vā|UnsandhiedReconstructed=True
+16-17	dāruṇatvaṃ	_	_	_	_	_	_	_	_
+16	dāruṇa	dāruṇa	ADJ	_	Case=Cpd	_	_	_	LemmaId=146676|OccId=372972|Unsandhied=dāruṇa|UnsandhiedReconstructed=True
+17	tvam	tva	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=163754|OccId=372973|Unsandhied=tvam|UnsandhiedReconstructed=True
+18-20	śoṣaṇatvātkāṭhinyaṃ	_	_	_	_	_	_	_	_
+18	śoṣaṇa	śoṣaṇa	ADJ	_	Case=Cpd	_	_	_	LemmaId=127835|OccId=372974|Unsandhied=śoṣaṇa|UnsandhiedReconstructed=True
+19	tvāt	tva	NOUN	_	Case=Abl|Gender=Neut|Number=Sing	_	_	_	LemmaId=163754|OccId=372975|Unsandhied=tvāt|UnsandhiedReconstructed=True
+20	kāṭhinyam	kāṭhinya	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	_	_	_	LemmaId=13439|OccId=372976|Unsandhied=kāṭhinyam|UnsandhiedReconstructed=True
+21-22	karotīti	_	_	_	_	_	_	_	_
+21	karoti	kṛ	VERB	_	Tense=Pres|Mood=Ind|Person=3|Number=Sing	_	_	_	LemmaId=156168|OccId=372977|Unsandhied=karoti
+22	iti	iti	PART	_		_	_	_	LemmaId=63331|OccId=372978|Unsandhied=iti|UnsandhiedReconstructed=True
 

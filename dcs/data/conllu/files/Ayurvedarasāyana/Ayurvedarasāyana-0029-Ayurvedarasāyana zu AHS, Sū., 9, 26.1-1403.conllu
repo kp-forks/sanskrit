@@ -1,0 +1,62 @@
+## text: Ayurvedarasāyana
+## text_id: 16
+## chapter: Ayurvedarasāyana zu AHS, Sū., 9, 26.1
+## chapter_id: 1403
+# text = atha prabhāvaḥ
+# sent_id = 42949
+# sent_counter = 1
+# sent_subcounter = 
+1	atha	atha	ADV	_		_	_	_	LemmaId=7467|OccId=423652|Unsandhied=atha|UnsandhiedReconstructed=True
+2	prabhāvaḥ	prabhāva	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=140977|OccId=423653|Unsandhied=prabhāvaḥ|UnsandhiedReconstructed=True
+
+# text = prabhāvaṃ lakṣayati rasādisāmya iti
+# sent_id = 42950
+# sent_counter = 2
+# sent_subcounter = 
+1	prabhāvaṃ	prabhāva	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	_	_	_	LemmaId=140977|OccId=423654|Unsandhied=prabhāvam|UnsandhiedReconstructed=True
+2	lakṣayati	lakṣay	VERB	_	Tense=Pres|Mood=Ind|Person=3|Number=Sing	_	_	_	LemmaId=159902|OccId=423655|Unsandhied=lakṣayati
+3-5	rasādisāmya	_	_	_	_	_	_	_	_
+3	rasa	rasa	NOUN	_	Case=Cpd	_	_	_	LemmaId=69571|OccId=423656|Unsandhied=rasa|UnsandhiedReconstructed=True
+4	ādi	ādi	NOUN	_	Case=Cpd	_	_	_	LemmaId=57973|OccId=423657|Unsandhied=ādi|UnsandhiedReconstructed=True
+5	sāmye	sāmya	NOUN	_	Case=Loc|Gender=Neut|Number=Sing	_	_	_	LemmaId=112858|OccId=423658|Unsandhied=sāmye|UnsandhiedReconstructed=True
+6	iti	iti	PART	_		_	_	_	LemmaId=63331|OccId=423659|Unsandhied=iti|UnsandhiedReconstructed=True
+
+# text = dvayor dravyayo rasādisāmye saty apyekasya yadviśiṣṭaṃ karma dṛśyate tat prabhāvajam
+# sent_id = 42951
+# sent_counter = 3
+# sent_subcounter = 
+1	dvayor	dvi	NUM	_	Case=Gen|Gender=Masc|Number=Dual	_	_	_	LemmaId=166283|OccId=423660|Unsandhied=dvayoḥ|UnsandhiedReconstructed=True
+2-4	rasādisāmye	_	_	_	_	_	_	_	_
+2	rasa	rasa	NOUN	_	Case=Cpd	_	_	_	LemmaId=69571|OccId=423661|Unsandhied=rasa|UnsandhiedReconstructed=True
+3	ādi	ādi	NOUN	_	Case=Cpd	_	_	_	LemmaId=57973|OccId=423662|Unsandhied=ādi|UnsandhiedReconstructed=True
+4	sāmye	sāmya	NOUN	_	Case=Loc|Gender=Neut|Number=Sing	_	_	_	LemmaId=112858|OccId=423663|Unsandhied=sāmye|UnsandhiedReconstructed=True
+5	saty	as	VERB	_	Case=Loc|Gender=Neut|Number=Sing|Tense=Pres|VerbForm=Part	_	_	_	LemmaId=156122|OccId=423664|Unsandhied=sati|UnsandhiedReconstructed=True
+6-7	apyekasya	_	_	_	_	_	_	_	_
+6	api	api	PART	_		_	_	_	LemmaId=21365|OccId=423665|Unsandhied=api|UnsandhiedReconstructed=True
+7	ekasya	eka	NUM	_	Case=Gen|Gender=Neut|Number=Sing	_	_	_	LemmaId=39102|OccId=423666|Unsandhied=ekasya|UnsandhiedReconstructed=True
+8-9	yadviśiṣṭaṃ	_	_	_	_	_	_	_	_
+8	yat	yad	PRON	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=37877|OccId=423667|Unsandhied=yat|UnsandhiedReconstructed=True
+9	viśiṣṭam	viśiṣ	VERB	_	Case=Nom|Gender=Neut|Number=Sing|VerbForm=Part	_	_	_	LemmaId=163611|OccId=423668|Unsandhied=viśiṣṭam|UnsandhiedReconstructed=True
+10	karma	karman	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=12243|OccId=423669|Unsandhied=karma|UnsandhiedReconstructed=True
+11	dṛśyate	dṛś	VERB	_	Tense=Pres|Mood=Ind|Voice=Pass|Person=3|Number=Sing	_	_	_	LemmaId=157766|OccId=423670|Unsandhied=dṛśyate
+12	tat	tad	PRON	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=37875|OccId=423671|Unsandhied=tat|UnsandhiedReconstructed=True
+13-14	prabhāvajam	_	_	_	_	_	_	_	_
+13	prabhāva	prabhāva	NOUN	_	Case=Cpd	_	_	_	LemmaId=140977|OccId=423672|Unsandhied=prabhāva|UnsandhiedReconstructed=True
+14	jam	ja	ADJ	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=52879|OccId=423673|Unsandhied=jam|UnsandhiedReconstructed=True
+
+# text = tatra yo dravyadharmo hetuḥ sa prabhāva ityarthaḥ
+# sent_id = 42952
+# sent_counter = 4
+# sent_subcounter = 
+1	tatra	tatra	ADV	_		_	_	_	LemmaId=95978|OccId=423674|Unsandhied=tatra|UnsandhiedReconstructed=True
+2	yo	yad	PRON	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=37877|OccId=423675|Unsandhied=yaḥ|UnsandhiedReconstructed=True
+3-4	dravyadharmo	_	_	_	_	_	_	_	_
+3	dravya	dravya	NOUN	_	Case=Cpd	_	_	_	LemmaId=90455|OccId=423676|Unsandhied=dravya|UnsandhiedReconstructed=True
+4	dharmaḥ	dharma	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=91970|OccId=423677|Unsandhied=dharmaḥ|UnsandhiedReconstructed=True
+5	hetuḥ	hetu	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=110756|OccId=423678|Unsandhied=hetuḥ|UnsandhiedReconstructed=True
+6	sa	tad	PRON	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=37875|OccId=423679|Unsandhied=saḥ|UnsandhiedReconstructed=True
+7	prabhāva	prabhāva	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=140977|OccId=423680|Unsandhied=prabhāvaḥ|UnsandhiedReconstructed=True
+8-9	ityarthaḥ	_	_	_	_	_	_	_	_
+8	iti	iti	PART	_		_	_	_	LemmaId=63331|OccId=423681|Unsandhied=iti|UnsandhiedReconstructed=True
+9	arthaḥ	artha	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=53136|OccId=423682|Unsandhied=arthaḥ|UnsandhiedReconstructed=True
+
