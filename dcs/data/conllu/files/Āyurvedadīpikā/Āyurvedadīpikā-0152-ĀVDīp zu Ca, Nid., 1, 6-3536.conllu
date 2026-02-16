@@ -3,7 +3,7 @@
 ## chapter: ĀVDīp zu Ca, Nid., 1, 6
 ## chapter_id: 3536
 # text = idānīṃ vyādherjanakahetumabhidhāya tathā taddhetujanyaṃ ca vyādhim uktvā tasya vyādher jñānopāyam āha tasyetyādi
-# sent_id = 151693
+# sent_id = 151689
 # sent_counter = 1
 # sent_subcounter = 
 1	idānīṃ	idānīm	ADV	_		_	_	_	LemmaId=63389|OccId=1334832|Unsandhied=idānīm|UnsandhiedReconstructed=True
@@ -31,23 +31,25 @@
 19	ityādi	ityādi	ADJ	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=63350|OccId=1334850|Unsandhied=ityādi|UnsandhiedReconstructed=True
 
 # text = avijñāte hi vyādhau cikitsā na pravartate ataḥ sāmānyena vyādhijñānopāyanidānapañcakābhidhānaṃ yuktam
-# sent_id = 151694
+# sent_id = 151690
 # sent_counter = 2
 # sent_subcounter = 
-1	avijñāte	avijñāta	ADJ	_	Case=Loc|Gender=Masc|Number=Sing	_	_	_	LemmaId=54943|OccId=1334851|Unsandhied=avijñāte|UnsandhiedReconstructed=True
-2	hi	hi	PART	_		_	_	_	LemmaId=109879|OccId=1334852|Unsandhied=hi|UnsandhiedReconstructed=True
-3	vyādhau	vyādhi	NOUN	_	Case=Loc|Gender=Masc|Number=Sing	_	_	_	LemmaId=119173|OccId=1334853|Unsandhied=vyādhau|UnsandhiedReconstructed=True
-4	cikitsā	cikitsā	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	_	_	_	LemmaId=51325|OccId=1334854|Unsandhied=cikitsā|UnsandhiedReconstructed=True
-5	na	na	PART	_		_	_	_	LemmaId=43432|OccId=1334855|Unsandhied=na|UnsandhiedReconstructed=True
-6	pravartate	pravṛt	VERB	_	Tense=Pres|Mood=Ind|Person=3|Number=Sing	_	_	_	LemmaId=163066|OccId=1334856|Unsandhied=pravartate
-7	ataḥ	atas	ADV	_		_	_	_	LemmaId=6823|OccId=1334857|Unsandhied=atas|UnsandhiedReconstructed=True
-8	sāmānyena	sāmānya	NOUN	_	Case=Ins|Gender=Neut|Number=Sing	_	_	_	LemmaId=112704|OccId=1334858|Unsandhied=sāmānyena|UnsandhiedReconstructed=True
-9-14	vyādhijñānopāyanidānapañcakābhidhānaṃ	_	_	_	_	_	_	_	_
-9	vyādhi	vyādhi	NOUN	_	Case=Cpd	_	_	_	LemmaId=119173|OccId=1335064|Unsandhied=vyādhi|UnsandhiedReconstructed=True
-10	jñāna	jñāna	NOUN	_	Case=Cpd	_	_	_	LemmaId=89644|OccId=1335065|Unsandhied=jñāna|UnsandhiedReconstructed=True
-11	upāya	upāya	NOUN	_	Case=Cpd	_	_	_	LemmaId=46119|OccId=1335066|Unsandhied=upāya|UnsandhiedReconstructed=True
-12	nidāna	nidāna	NOUN	_	Case=Cpd	_	_	_	LemmaId=35118|OccId=1335067|Unsandhied=nidāna|UnsandhiedReconstructed=True
-13	pañcaka	pañcaka	NOUN	_	Case=Cpd	_	_	_	LemmaId=15167|OccId=1335068|Unsandhied=pañcaka|UnsandhiedReconstructed=True
-14	abhidhānam	abhidhāna	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=22237|OccId=1335069|Unsandhied=abhidhānam|UnsandhiedReconstructed=True
-15	yuktam	yuj	VERB	_	Case=Nom|Gender=Neut|Number=Sing|VerbForm=Part	_	_	_	LemmaId=157298|OccId=1334859|Unsandhied=yuktam|UnsandhiedReconstructed=True
+1-2	avijñāte	_	_	_	_	_	_	_	_
+1	a	a	PART	_		_	_	_	LemmaId=213048|OccId=5965434|Unsandhied=a
+2	vijñāte	vijñā	VERB	_	Case=Loc|Gender=Masc|Number=Sing|VerbForm=Part	_	_	_	LemmaId=163310|OccId=5965435|Unsandhied=vijñāte
+3	hi	hi	PART	_		_	_	_	LemmaId=109879|OccId=1334852|Unsandhied=hi|UnsandhiedReconstructed=True
+4	vyādhau	vyādhi	NOUN	_	Case=Loc|Gender=Masc|Number=Sing	_	_	_	LemmaId=119173|OccId=1334853|Unsandhied=vyādhau|UnsandhiedReconstructed=True
+5	cikitsā	cikitsā	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	_	_	_	LemmaId=51325|OccId=1334854|Unsandhied=cikitsā|UnsandhiedReconstructed=True
+6	na	na	PART	_		_	_	_	LemmaId=43432|OccId=1334855|Unsandhied=na|UnsandhiedReconstructed=True
+7	pravartate	pravṛt	VERB	_	Tense=Pres|Mood=Ind|Person=3|Number=Sing	_	_	_	LemmaId=163066|OccId=1334856|Unsandhied=pravartate
+8	ataḥ	atas	ADV	_		_	_	_	LemmaId=6823|OccId=1334857|Unsandhied=atas|UnsandhiedReconstructed=True
+9	sāmānyena	sāmānya	NOUN	_	Case=Ins|Gender=Neut|Number=Sing	_	_	_	LemmaId=112704|OccId=1334858|Unsandhied=sāmānyena|UnsandhiedReconstructed=True
+10-15	vyādhijñānopāyanidānapañcakābhidhānaṃ	_	_	_	_	_	_	_	_
+10	vyādhi	vyādhi	NOUN	_	Case=Cpd	_	_	_	LemmaId=119173|OccId=1335064|Unsandhied=vyādhi|UnsandhiedReconstructed=True
+11	jñāna	jñāna	NOUN	_	Case=Cpd	_	_	_	LemmaId=89644|OccId=1335065|Unsandhied=jñāna|UnsandhiedReconstructed=True
+12	upāya	upāya	NOUN	_	Case=Cpd	_	_	_	LemmaId=46119|OccId=1335066|Unsandhied=upāya|UnsandhiedReconstructed=True
+13	nidāna	nidāna	NOUN	_	Case=Cpd	_	_	_	LemmaId=35118|OccId=1335067|Unsandhied=nidāna|UnsandhiedReconstructed=True
+14	pañcaka	pañcaka	NOUN	_	Case=Cpd	_	_	_	LemmaId=15167|OccId=1335068|Unsandhied=pañcaka|UnsandhiedReconstructed=True
+15	abhidhānam	abhidhāna	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=22237|OccId=1335069|Unsandhied=abhidhānam|UnsandhiedReconstructed=True
+16	yuktam	yuj	VERB	_	Case=Nom|Gender=Neut|Number=Sing|VerbForm=Part	_	_	_	LemmaId=157298|OccId=1334859|Unsandhied=yuktam|UnsandhiedReconstructed=True
 

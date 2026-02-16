@@ -2,47 +2,48 @@
 ## text_id: 6
 ## chapter: NiSaṃ zu Su, Sū., 14, 4.1
 ## chapter_id: 2139
-# text = khalvityādi
-# sent_id = 16879
+# text = mātur kālam śarīradhāraṇād evānnarasa tarhi sa ārtavam khalvityādi
+# sent_id = 16880
 # sent_counter = 1
 # sent_subcounter = 
-1	khalu	khalu	PART	_		_	_	_	LemmaId=128848|OccId=604363|Unsandhied=khalu|UnsandhiedReconstructed=True
+1-8	sa	_	_	_	_	_	_	_	_
+1	mātuḥ	mātṛ	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	_	_	_	LemmaId=78551|OccId=603291|Unsandhied=mātuḥ|UnsandhiedReconstructed=True
+2	khalu	khalu	PART	_		_	_	_	LemmaId=128848|OccId=604363|Unsandhied=khalu|UnsandhiedReconstructed=True
+3	ārtavam	ārtava	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=59545|OccId=604900|Unsandhied=ārtavam|UnsandhiedReconstructed=True
+4	kālam	kāla	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	_	_	_	LemmaId=22761|OccId=605833|Unsandhied=kālam|UnsandhiedReconstructed=True
+5	saḥ	tad	PRON	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=37875|OccId=607249|Unsandhied=saḥ|UnsandhiedReconstructed=True
+6	tarhi	tarhi	ADV	_		_	_	_	LemmaId=96854|OccId=607470|Unsandhied=tarhi|UnsandhiedReconstructed=True
+7	eva	eva	PART	_		_	_	_	LemmaId=39754|OccId=607652|Unsandhied=eva|UnsandhiedReconstructed=True
+8	śarīra	śarīra	NOUN	_	Case=Cpd	_	_	_	LemmaId=116860|OccId=607689|Unsandhied=śarīra|UnsandhiedReconstructed=True
 
-# text = khalvityādi
+# text = evānnarasa tatraiṣām aṅgapratyaṅganirvṛttiḥ śarīradhāraṇād khalvityādi
 # sent_id = 16883
 # sent_counter = 1
 # sent_subcounter = 
-1	ityādi	ityādi	ADJ	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=63350|OccId=604364|Unsandhied=ityādi|UnsandhiedReconstructed=True
+1	pratyaṅga	pratyaṅga	NOUN	_	Case=Cpd	_	_	_	LemmaId=151842|OccId=603577|Unsandhied=pratyaṅga|UnsandhiedReconstructed=True
+2	ityādi	ityādi	ADJ	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=63350|OccId=604364|Unsandhied=ityādi|UnsandhiedReconstructed=True
+3	eṣām	idam	PRON	_	Case=Gen|Gender=Masc|Number=Plur	_	_	_	LemmaId=37876|OccId=605795|Unsandhied=eṣām|UnsandhiedReconstructed=True
+4	anna	anna	NOUN	_	Case=Cpd	_	_	_	LemmaId=20377|OccId=607653|Unsandhied=anna|UnsandhiedReconstructed=True
+5	dhāraṇāt	dhāraṇa	NOUN	_	Case=Abl|Gender=Neut|Number=Sing	_	_	_	LemmaId=42504|OccId=607690|Unsandhied=dhāraṇāt|UnsandhiedReconstructed=True
 
-# text = evānnarasa kvacidaduṣṭā yaḥ daurhṛdaṃ iti rasaḥ khalvāpyo 'pyarthaḥ
-# sent_id = 16939
+# text = khalvāpyo iti 'pyarthaḥ
+# sent_id = 16940
 # sent_counter = 2
 # sent_subcounter = 
-1-8	kvacidaduṣṭā	_	_	_	_	_	_	_	_
-1	daurhṛdam	daurhṛda	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	_	_	_	LemmaId=90211|OccId=603225|Unsandhied=daurhṛdam|UnsandhiedReconstructed=True
-2	yaḥ	yad	PRON	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=37877|OccId=604007|Unsandhied=yaḥ|UnsandhiedReconstructed=True
-3	api	api	PART	_		_	_	_	LemmaId=21365|OccId=604367|Unsandhied=api|UnsandhiedReconstructed=True
-4	khalu	khalu	PART	_		_	_	_	LemmaId=128848|OccId=605108|Unsandhied=khalu|UnsandhiedReconstructed=True
-5	rasaḥ	rasa	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=69571|OccId=607252|Unsandhied=rasaḥ|UnsandhiedReconstructed=True
-6	iti	iti	PART	_		_	_	_	LemmaId=63331|OccId=607377|Unsandhied=iti|UnsandhiedReconstructed=True
-7	eva	eva	PART	_		_	_	_	LemmaId=39754|OccId=607657|Unsandhied=eva|UnsandhiedReconstructed=True
-8	kvacid	kvacid	ADV	_		_	_	_	LemmaId=164192|OccId=607694|Unsandhied=kvacid|UnsandhiedReconstructed=True
+1-3	iti	_	_	_	_	_	_	_	_
+1	api	api	PART	_		_	_	_	LemmaId=21365|OccId=604367|Unsandhied=api|UnsandhiedReconstructed=True
+2	iti	iti	PART	_		_	_	_	LemmaId=63331|OccId=604422|Unsandhied=iti|UnsandhiedReconstructed=True
+3	khalu	khalu	PART	_		_	_	_	LemmaId=128848|OccId=605108|Unsandhied=khalu|UnsandhiedReconstructed=True
 
 # text = 'pyarthaḥ
-# sent_id = 16953
+# sent_id = 16956
 # sent_counter = 2
 # sent_subcounter = 
 1	arthaḥ	artha	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=53136|OccId=604368|Unsandhied=arthaḥ|UnsandhiedReconstructed=True
 
-# text = sahajo sambadhyate rajaḥsaṃjñaṃ madhurādirasabhedena kalā gacchati
-# sent_id = 17102
+# text = gacchati
+# sent_id = 17100
 # sent_counter = 3
 # sent_subcounter = 
-1-6	gacchati	_	_	_	_	_	_	_	_
-1	madhura	madhura	ADJ	_	Case=Cpd	_	_	_	LemmaId=35704|OccId=604033|Unsandhied=madhura|UnsandhiedReconstructed=True
-2	gacchati	gam	VERB	_	Tense=Pres|Mood=Ind|Person=3|Number=Sing	_	_	_	LemmaId=156214|OccId=604375|Unsandhied=gacchati
-3	rajas	rajas	NOUN	_	Case=Cpd	_	_	_	LemmaId=65999|OccId=604446|Unsandhied=rajas|UnsandhiedReconstructed=True
-4	kalāḥ	kalā	NOUN	_	Case=Acc|Gender=Fem|Number=Plur	_	_	_	LemmaId=12562|OccId=605864|Unsandhied=kalāḥ|UnsandhiedReconstructed=True
-5	sambadhyate	sambandh	VERB	_	Tense=Pres|Mood=Ind|Voice=Pass|Person=3|Number=Sing	_	_	_	LemmaId=165569|OccId=607725|Unsandhied=sambadhyate
-6	sahajaḥ	sahaja	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=105808|OccId=964514|Unsandhied=sahajaḥ|UnsandhiedReconstructed=True
+1	gacchati	gam	VERB	_	Tense=Pres|Mood=Ind|Person=3|Number=Sing	_	_	_	LemmaId=156214|OccId=604375|Unsandhied=gacchati
 

@@ -3,41 +3,41 @@
 ## chapter: N, 2, 9
 ## chapter_id: 17365
 # text = ayaṃ sa śiṅkte yena gaur abhīvṛtā mimāti māyuṃ dhvaṃsanāvadhi śritā
-# sent_id = 474491
+# sent_id = 474901
 # sent_counter = 1
 # sent_subcounter = 1
-1	ayaṃ	idam	PRON	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=37876|OccId=5927320|Unsandhied=ayam
-2	sa	tad	PRON	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=37875|OccId=5927321|Unsandhied=sa
-3	śiṅkte	śiñj	VERB	_	Tense=Pres|Mood=Ind|Person=3|Number=Sing	_	_	_	LemmaId=219984|OccId=5927322|Unsandhied=śiṅkte
-4	yena	yad	PRON	_	Case=Ins|Gender=Masc|Number=Sing	_	_	_	LemmaId=37877|OccId=5927323|Unsandhied=yena
-5	gaur	go	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	_	_	_	LemmaId=166386|OccId=5927324|Unsandhied=gauḥ
-6	abhīvṛtā	abhivṛ	VERB	_	Case=Nom|Gender=Fem|Number=Sing|VerbForm=Part	_	_	_	LemmaId=205415|OccId=5927325|Unsandhied=abhīvṛtā
-7	mimāti	mā	VERB	_	Tense=Pres|Mood=Ind|Person=3|Number=Sing	_	_	_	LemmaId=157961|OccId=5927326|Unsandhied=mimāti
-8	māyuṃ	māyu	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	_	_	_	LemmaId=78178|OccId=5927327|Unsandhied=māyum
+1	ayaṃ	idam	PRON	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=37876|OccId=5927320|Unsandhied=ayam|IsMantra=True
+2	sa	tad	PRON	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=37875|OccId=5927321|Unsandhied=sa|IsMantra=True
+3	śiṅkte	śiñj	VERB	_	Tense=Pres|Mood=Ind|Person=3|Number=Sing	_	_	_	LemmaId=219984|OccId=5927322|Unsandhied=śiṅkte|IsMantra=True
+4	yena	yad	PRON	_	Case=Ins|Gender=Masc|Number=Sing	_	_	_	LemmaId=37877|OccId=5927323|Unsandhied=yena|IsMantra=True
+5	gaur	go	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	_	_	_	LemmaId=166386|OccId=5927324|Unsandhied=gauḥ|IsMantra=True
+6	abhīvṛtā	abhivṛ	VERB	_	Case=Nom|Gender=Fem|Number=Sing|VerbForm=Part	_	_	_	LemmaId=205415|OccId=5927325|Unsandhied=abhīvṛtā|IsMantra=True
+7	mimāti	mā	VERB	_	Tense=Pres|Mood=Ind|Person=3|Number=Sing	_	_	_	LemmaId=157961|OccId=5927326|Unsandhied=mimāti|IsMantra=True
+8	māyuṃ	māyu	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	_	_	_	LemmaId=78178|OccId=5927327|Unsandhied=māyum|IsMantra=True
 9-10	dhvaṃsanāvadhi	_	_	_	_	_	_	_	_
-9	dhvaṃsana	dhvaṃsana	ADJ	_	Case=Cpd	_	_	_	LemmaId=166802|OccId=5927383|Unsandhied=dhvaṃsana
-10	avadhi	avadhi	ADV	_		_	_	_	LemmaId=166727|OccId=5927384|Unsandhied=avadhi
-11	śritā	śri	VERB	_	Case=Nom|Gender=Fem|Number=Sing|VerbForm=Part	_	_	_	LemmaId=157331|OccId=5927328|Unsandhied=śritā
+9	dhvaṃsana	dhvaṃsana	ADJ	_	Case=Cpd	_	_	_	LemmaId=166802|OccId=5927383|Unsandhied=dhvaṃsana|IsMantra=True
+10	avadhi	avadhi	ADV	_		_	_	_	LemmaId=166727|OccId=5927384|Unsandhied=avadhi|IsMantra=True
+11	śritā	śri	VERB	_	Case=Nom|Gender=Fem|Number=Sing|VerbForm=Part	_	_	_	LemmaId=157331|OccId=5927328|Unsandhied=śritā|IsMantra=True
 
 # text = sā cittibhir ni hi cakāra martyaṃ vidyudbhavantī prati vavrim auhata
-# sent_id = 474492
+# sent_id = 474902
 # sent_counter = 1
 # sent_subcounter = 2
-1	sā	tad	PRON	_	Case=Nom|Gender=Fem|Number=Sing	_	_	_	LemmaId=37875|OccId=5927329|Unsandhied=sā
-2	cittibhir	citti	NOUN	_	Case=Ins|Gender=Fem|Number=Plur	_	_	_	LemmaId=51424|OccId=5927330|Unsandhied=cittibhiḥ
-3	ni	ni	ADP	_		_	_	_	LemmaId=216732|OccId=5927381|Unsandhied=ni
-4	hi	hi	PART	_		_	_	_	LemmaId=109879|OccId=5927331|Unsandhied=hi
-5	cakāra	kṛ	VERB	_	Tense=Past|Mood=Ind|Person=3|Number=Sing	_	_	_	LemmaId=156168|OccId=5927332|Unsandhied=cakāra
-6	martyaṃ	martya	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	_	_	_	LemmaId=37121|OccId=5927333|Unsandhied=martyam
+1	sā	tad	PRON	_	Case=Nom|Gender=Fem|Number=Sing	_	_	_	LemmaId=37875|OccId=5927329|Unsandhied=sā|IsMantra=True
+2	cittibhir	citti	NOUN	_	Case=Ins|Gender=Fem|Number=Plur	_	_	_	LemmaId=51424|OccId=5927330|Unsandhied=cittibhiḥ|IsMantra=True
+3	ni	ni	ADP	_		_	_	_	LemmaId=216732|OccId=5927381|Unsandhied=ni|IsMantra=True
+4	hi	hi	PART	_		_	_	_	LemmaId=109879|OccId=5927331|Unsandhied=hi|IsMantra=True
+5	cakāra	kṛ	VERB	_	Tense=Past|Mood=Ind|Person=3|Number=Sing	_	_	_	LemmaId=156168|OccId=5927332|Unsandhied=cakāra|IsMantra=True
+6	martyaṃ	martya	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	_	_	_	LemmaId=37121|OccId=5927333|Unsandhied=martyam|IsMantra=True
 7-8	vidyudbhavantī	_	_	_	_	_	_	_	_
-7	vidyut	vidyut	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	_	_	_	LemmaId=122790|OccId=5927334|Unsandhied=vidyut
-8	bhavantī	bhū	VERB	_	Case=Nom|Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Part	_	_	_	LemmaId=157250|OccId=5927335|Unsandhied=bhavantī
-9	prati	prati	ADP	_		_	_	_	LemmaId=151755|OccId=5927336|Unsandhied=prati
-10	vavrim	vavri	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	_	_	_	LemmaId=75119|OccId=5927337|Unsandhied=vavrim
-11	auhata	ūh	VERB	_	Tense=Impf|Mood=Ind|Person=3|Number=Sing	_	_	_	LemmaId=156145|OccId=5927338|Unsandhied=auhata
+7	vidyut	vidyut	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	_	_	_	LemmaId=122790|OccId=5927334|Unsandhied=vidyut|IsMantra=True
+8	bhavantī	bhū	VERB	_	Case=Nom|Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Part	_	_	_	LemmaId=157250|OccId=5927335|Unsandhied=bhavantī|IsMantra=True
+9	prati	prati	ADP	_		_	_	_	LemmaId=151755|OccId=5927336|Unsandhied=prati|IsMantra=True
+10	vavrim	vavri	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	_	_	_	LemmaId=75119|OccId=5927337|Unsandhied=vavrim|IsMantra=True
+11	auhata	ūh	VERB	_	Tense=Impf|Mood=Ind|Person=3|Number=Sing	_	_	_	LemmaId=156145|OccId=5927338|Unsandhied=auhata|IsMantra=True
 
 # text = ayaṃ sa śabdāyate yena gaur abhipravṛttā mimāti
-# sent_id = 474493
+# sent_id = 474903
 # sent_counter = 2
 # sent_subcounter = 1
 1	ayaṃ	idam	PRON	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=37876|OccId=5927339|Unsandhied=ayam
@@ -49,7 +49,7 @@
 7	mimāti	mā	VERB	_	Tense=Pres|Mood=Ind|Person=3|Number=Sing	_	_	_	LemmaId=157961|OccId=5927345|Unsandhied=mimāti
 
 # text = māyuṃ śabdaṃ karoti
-# sent_id = 474494
+# sent_id = 474904
 # sent_counter = 3
 # sent_subcounter = 1
 1	māyuṃ	māyu	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	_	_	_	LemmaId=78178|OccId=5927346|Unsandhied=māyum
@@ -57,7 +57,7 @@
 3	karoti	kṛ	VERB	_	Tense=Pres|Mood=Ind|Person=3|Number=Sing	_	_	_	LemmaId=156168|OccId=5927348|Unsandhied=karoti
 
 # text = māyum iva ādityam iti vā
-# sent_id = 474495
+# sent_id = 474905
 # sent_counter = 4
 # sent_subcounter = 1
 1	māyum	māyu	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	_	_	_	LemmaId=79177|OccId=5927349|Unsandhied=māyum
@@ -67,7 +67,7 @@
 5	vā	vā	CONJ	_		_	_	_	LemmaId=75765|OccId=5927353|Unsandhied=vā
 
 # text = vāg eṣā mādhyamikā
-# sent_id = 474496
+# sent_id = 474906
 # sent_counter = 5
 # sent_subcounter = 1
 1	vāg	vāc	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	_	_	_	LemmaId=76023|OccId=5927354|Unsandhied=vāc
@@ -75,7 +75,7 @@
 3	mādhyamikā	mādhyamaka	ADJ	_	Case=Nom|Gender=Fem|Number=Sing	_	_	_	LemmaId=78834|OccId=5927356|Unsandhied=mādhyamikā
 
 # text = dhvaṃsane meghe 'dhiśritā
-# sent_id = 474497
+# sent_id = 474907
 # sent_counter = 6
 # sent_subcounter = 1
 1	dhvaṃsane	dhvaṃsana	ADJ	_	Case=Loc|Gender=Masc|Number=Sing	_	_	_	LemmaId=166802|OccId=5927385|Unsandhied=dhvaṃsane
@@ -83,7 +83,7 @@
 3	'dhiśritā	adhiśri	VERB	_	Case=Nom|Gender=Fem|Number=Sing|VerbForm=Part	_	_	_	LemmaId=157337|OccId=5927358|Unsandhied=adhiśritā
 
 # text = sā cittibhiḥ karmabhir nīcair nikaroti martyam
-# sent_id = 474498
+# sent_id = 474908
 # sent_counter = 7
 # sent_subcounter = 1
 1	sā	tad	PRON	_	Case=Nom|Gender=Fem|Number=Sing	_	_	_	LemmaId=37875|OccId=5927359|Unsandhied=sā
@@ -94,7 +94,7 @@
 6	martyam	martya	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	_	_	_	LemmaId=37121|OccId=5927364|Unsandhied=martyam
 
 # text = vidyudbhavantī pratyūhate vavrim
-# sent_id = 474499
+# sent_id = 474909
 # sent_counter = 8
 # sent_subcounter = 1
 1-2	vidyudbhavantī	_	_	_	_	_	_	_	_
@@ -104,7 +104,7 @@
 4	vavrim	vavri	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	_	_	_	LemmaId=75119|OccId=5927367|Unsandhied=vavrim
 
 # text = vavrir iti rūpanāma
-# sent_id = 474500
+# sent_id = 474910
 # sent_counter = 9
 # sent_subcounter = 1
 1	vavrir	vavri	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=75119|OccId=5927368|Unsandhied=vavriḥ
@@ -114,7 +114,7 @@
 4	nāma	nāman	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=33597|OccId=5927371|Unsandhied=nāma
 
 # text = vṛṇotīti sataḥ
-# sent_id = 474501
+# sent_id = 474911
 # sent_counter = 10
 # sent_subcounter = 1
 1-2	vṛṇotīti	_	_	_	_	_	_	_	_
@@ -123,7 +123,7 @@
 3	sataḥ	as	VERB	_	Case=Abl|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part	_	_	_	LemmaId=156122|OccId=5927374|Unsandhied=sataḥ
 
 # text = varṣena pracchādya pṛthivīṃ tat punar ādatte
-# sent_id = 474502
+# sent_id = 474912
 # sent_counter = 11
 # sent_subcounter = 1
 1	varṣena	varṣa	NOUN	_	Case=Ins|Gender=Masc|Number=Sing	_	_	_	LemmaId=74765|OccId=5927375|Unsandhied=varṣena

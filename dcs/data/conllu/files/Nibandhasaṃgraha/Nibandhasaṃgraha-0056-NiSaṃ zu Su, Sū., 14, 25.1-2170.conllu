@@ -2,23 +2,32 @@
 ## text_id: 6
 ## chapter: NiSaṃ zu Su, Sū., 14, 25.1
 ## chapter_id: 2170
-# text = śastretyādi
+# text = indragopakapratīkāśam svabhāvabhedaṃ ta nirdiśannāha darśayannāha rasād ityāha hetuṃ tatra krameṇotpattiṃ śastretyādi
 # sent_id = 16840
 # sent_counter = 1
 # sent_subcounter = 
-1	śastra	śastra	NOUN	_	Case=Cpd	_	_	_	LemmaId=131110|OccId=608359|Unsandhied=śastra|UnsandhiedReconstructed=True
+1-11	nirdiśannāha	_	_	_	_	_	_	_	_
+1	hetum	hetu	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	_	_	_	LemmaId=110756|OccId=603288|Unsandhied=hetum|UnsandhiedReconstructed=True
+2	nirdiśan	nirdiś	VERB	_	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part	_	_	_	LemmaId=161388|OccId=603563|Unsandhied=nirdiśan|UnsandhiedReconstructed=True
+3	rasāt	rasa	NOUN	_	Case=Abl|Gender=Masc|Number=Sing	_	_	_	LemmaId=69571|OccId=604417|Unsandhied=rasāt|UnsandhiedReconstructed=True
+4	svabhāva	svabhāva	NOUN	_	Case=Cpd	_	_	_	LemmaId=114497|OccId=604896|Unsandhied=svabhāva|UnsandhiedReconstructed=True
+5	tatra	tatra	ADV	_		_	_	_	LemmaId=95978|OccId=605819|Unsandhied=tatra|UnsandhiedReconstructed=True
+6	iti	iti	PART	_		_	_	_	LemmaId=63331|OccId=607649|Unsandhied=iti|UnsandhiedReconstructed=True
+7	te	tad	PRON	_	Case=Nom|Gender=Masc|Number=Plur	_	_	_	LemmaId=37875|OccId=607687|Unsandhied=te|UnsandhiedReconstructed=True
+8	indragopaka	indragopaka	NOUN	_	Case=Cpd	_	_	_	LemmaId=169185|OccId=608255|Unsandhied=indragopaka|UnsandhiedReconstructed=True
+9	darśayan	darśay	VERB	_	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part	_	_	_	LemmaId=157768|OccId=608312|Unsandhied=darśayan|UnsandhiedReconstructed=True
+10	śastra	śastra	NOUN	_	Case=Cpd	_	_	_	LemmaId=131110|OccId=608359|Unsandhied=śastra|UnsandhiedReconstructed=True
+11	krameṇa	krameṇa	ADV	_		_	_	_	LemmaId=202973|OccId=3163528|Unsandhied=krameṇa|UnsandhiedReconstructed=True
 
-# text = darśayannāha indragopakapratīkāśam svabhāvabhedaṃ krameṇotpattiṃ ityāha nirdiśannāha darśayannāha śastretyādi
-# sent_id = 16848
+# text = ityāha indragopakapratīkāśam svabhāvabhedaṃ krameṇotpattiṃ darśayannāha śastretyādi
+# sent_id = 16847
 # sent_counter = 1
 # sent_subcounter = 
-1-8	krameṇotpattiṃ	_	_	_	_	_	_	_	_
-1	āha	ah	VERB	_	Tense=Past|Mood=Ind|Person=3|Number=Sing	_	_	_	LemmaId=156124|OccId=603564|Unsandhied=āha
-2	āha	ah	VERB	_	Tense=Past|Mood=Ind|Person=3|Number=Sing	_	_	_	LemmaId=156124|OccId=604361|Unsandhied=āha
-3	bhedam	bheda	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	_	_	_	LemmaId=25880|OccId=604897|Unsandhied=bhedam|UnsandhiedReconstructed=True
-4	āha	ah	VERB	_	Tense=Past|Mood=Ind|Person=3|Number=Sing	_	_	_	LemmaId=156124|OccId=607650|Unsandhied=āha
-5	pratīkāśam	pratīkāśa	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=139906|OccId=608256|Unsandhied=pratīkāśam|UnsandhiedReconstructed=True
-6	āha	ah	VERB	_	Tense=Past|Mood=Ind|Person=3|Number=Sing	_	_	_	LemmaId=156124|OccId=608313|Unsandhied=āha
-7	ityādi	ityādi	ADJ	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=63350|OccId=608360|Unsandhied=ityādi|UnsandhiedReconstructed=True
-8	utpattim	utpatti	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	_	_	_	LemmaId=55936|OccId=3163529|Unsandhied=utpattim|UnsandhiedReconstructed=True
+1-6	krameṇotpattiṃ	_	_	_	_	_	_	_	_
+1	bhedam	bheda	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	_	_	_	LemmaId=25880|OccId=604897|Unsandhied=bhedam|UnsandhiedReconstructed=True
+2	āha	ah	VERB	_	Tense=Past|Mood=Ind|Person=3|Number=Sing	_	_	_	LemmaId=156124|OccId=607650|Unsandhied=āha
+3	pratīkāśam	pratīkāśa	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=139906|OccId=608256|Unsandhied=pratīkāśam|UnsandhiedReconstructed=True
+4	āha	ah	VERB	_	Tense=Past|Mood=Ind|Person=3|Number=Sing	_	_	_	LemmaId=156124|OccId=608313|Unsandhied=āha
+5	ityādi	ityādi	ADJ	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=63350|OccId=608360|Unsandhied=ityādi|UnsandhiedReconstructed=True
+6	utpattim	utpatti	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	_	_	_	LemmaId=55936|OccId=3163529|Unsandhied=utpattim|UnsandhiedReconstructed=True
 

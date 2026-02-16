@@ -3,7 +3,7 @@
 ## chapter: AB, 5, 32
 ## chapter_id: 11973
 # text = prajāpatir akāmayata prajāyeya bhūyān syām iti sa tapo 'tapyata sa tapas taptvemāṃllokān asṛjata pṛthivīm antarikṣaṃ divaṃ tāṃllokān abhyatapat tebhyo 'bhitaptebhyas trīṇi jyotīṃṣy ajāyantāgnir eva pṛthivyā ajāyata vāyur antarikṣād ādityo divas tāni jyotīṃṣy abhyatapat tebhyo 'bhitaptebhyas trayo vedā ajāyanta ṛgveda evāgner ajāyata yajurvedo vāyoḥ sāmaveda ādityāt tān vedān abhyatapat tebhyo 'bhitaptebhyas trīṇi śukrāṇy ajāyanta bhūr ity eva ṛgvedād ajāyata bhuva iti yajurvedāt svar iti sāmavedāt
-# sent_id = 643193
+# sent_id = 644169
 # sent_counter = 1
 # sent_subcounter = 
 1	prajāpatir	prajāpati	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=151290|OccId=4905037|Unsandhied=prajāpatiḥ
@@ -81,7 +81,7 @@
 69	sāmavedāt	sāmaveda	NOUN	_	Case=Abl|Gender=Masc|Number=Sing	_	_	_	LemmaId=112627|OccId=4905104|Unsandhied=sāmavedāt|Punctuation=fullStop
 
 # text = tāni śukrāṇy abhyatapat tebhyo 'bhitaptebhyas trayo varṇā ajāyantākāra ukāro makāra iti tān ekadhā samabharat tad etad aum iti tasmād om om iti praṇauty om iti vai svargo loka om ity asau yo 'sau tapati
-# sent_id = 643194
+# sent_id = 644170
 # sent_counter = 2
 # sent_subcounter = 
 1	tāni	tad	PRON	_	Case=Acc|Gender=Neut|Number=Plur	_	_	_	LemmaId=37875|OccId=4905105|Unsandhied=tāni
@@ -122,7 +122,7 @@
 35	tapati	tap	VERB	_	Tense=Pres|Mood=Ind|Person=3|Number=Sing	_	_	_	LemmaId=157174|OccId=4905139|Unsandhied=tapati|Punctuation=fullStop
 
 # text = sa prajāpatir yajñam atanuta tam āharat tenāyajata sa ṛcaiva hautram akarod yajuṣādhvaryavaṃ sāmnodgīthaṃ yad etat trayyai vidyāyai śukraṃ tena brahmatvam akarot
-# sent_id = 643195
+# sent_id = 644171
 # sent_counter = 3
 # sent_subcounter = 
 1	sa	tad	PRON	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=37875|OccId=4905140|Unsandhied=sa
@@ -156,7 +156,7 @@
 25	akarot	kṛ	VERB	_	Tense=Impf|Mood=Ind|Person=3|Number=Sing	_	_	_	LemmaId=156168|OccId=4905164|Unsandhied=akarot|Punctuation=fullStop
 
 # text = sa prajāpatir yajñaṃ devebhyaḥ samprāyacchat te devā yajñam atanvata tam āharanta tenāyajanta ta ṛcaiva hautram akurvan yajuṣādhvaryavaṃ sāmnodgīthaṃ yad evaitat trayyai vidyāyai śukraṃ tena brahmatvam akurvan
-# sent_id = 643196
+# sent_id = 644172
 # sent_counter = 4
 # sent_subcounter = 
 1	sa	tad	PRON	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=37875|OccId=4905165|Unsandhied=sa
@@ -197,7 +197,7 @@
 31	akurvan	kṛ	VERB	_	Tense=Impf|Mood=Ind|Person=3|Number=Plur	_	_	_	LemmaId=156168|OccId=4905194|Unsandhied=akurvan|Punctuation=fullStop
 
 # text = te devā abruvan prajāpatiṃ yadi no yajña ṛkta ārtiḥ syād yadi yajuṣṭo yadi sāmato yady avijñātā sarvavyāpad vā kā prāyaścittir iti sa prajāpatir abravīd devān yadi vo yajña ṛkta ārtir bhavati bhūr iti gārhapatye juhavātha yadi yajuṣṭo bhuva ity āgnīdhrīye 'nvāhāryapacane vā haviryajñeṣu yadi sāmataḥ svar ity āhavanīye yady avijñātā sarvavyāpad vā bhūr bhuvaḥ svar iti sarvā anudrutyāhavanīya eva juhavātheti
-# sent_id = 643197
+# sent_id = 644173
 # sent_counter = 5
 # sent_subcounter = 
 1	te	tad	PRON	_	Case=Nom|Gender=Masc|Number=Plur	_	_	_	LemmaId=37875|OccId=4905195|Unsandhied=te
@@ -215,62 +215,66 @@
 13	yadi	yadi	SCONJ	_		_	_	_	LemmaId=73699|OccId=4905207|Unsandhied=yadi
 14	sāmato	sāman	NOUN	_	Case=Abl|Gender=Neut|Number=Sing	_	_	_	LemmaId=112582|OccId=4905208|Unsandhied=sāmataḥ|Punctuation=comma
 15	yady	yadi	SCONJ	_		_	_	_	LemmaId=73699|OccId=4905209|Unsandhied=yadi
-16	avijñātā	avijñāta	ADJ	_	Case=Nom|Gender=Fem|Number=Sing	_	_	_	LemmaId=54943|OccId=4905308|Unsandhied=avijñātā
-17-18	sarvavyāpad	_	_	_	_	_	_	_	_
-17	sarva	sarva	PRON	_	Case=Cpd	_	_	_	LemmaId=104444|OccId=4905210|Unsandhied=sarva
-18	vyāpad	vyāpad	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	_	_	_	LemmaId=119214|OccId=4905211|Unsandhied=vyāpad
-19	vā	vā	CONJ	_		_	_	_	LemmaId=75765|OccId=4905212|Unsandhied=vā|Punctuation=comma
-20	kā	ka	PRON	_	Case=Nom|Gender=Fem|Number=Sing	_	_	_	LemmaId=37878|OccId=4905213|Unsandhied=kā
-21	prāyaścittir	prāyaścitti	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	_	_	_	LemmaId=153122|OccId=4905214|Unsandhied=prāyaścittiḥ
-22	iti	iti	PART	_		_	_	_	LemmaId=63331|OccId=4905215|Unsandhied=iti|Punctuation=fullStop
-23	sa	tad	PRON	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=37875|OccId=4905216|Unsandhied=sa
-24	prajāpatir	prajāpati	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=151290|OccId=4905217|Unsandhied=prajāpatiḥ
-25	abravīd	brū	VERB	_	Tense=Impf|Mood=Ind|Person=3|Number=Sing	_	_	_	LemmaId=157262|OccId=4905218|Unsandhied=abravīt
-26	devān	deva	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	_	_	_	LemmaId=86559|OccId=4905219|Unsandhied=devān|Punctuation=fullStop
-27	yadi	yadi	SCONJ	_		_	_	_	LemmaId=73699|OccId=4905220|Unsandhied=yadi
-28	vo	tvad	PRON	_	Case=Gen|Number=Plur	_	_	_	LemmaId=37880|OccId=4905221|Unsandhied=vaḥ
-29	yajña	yajña	NOUN	_	Case=Loc|Gender=Masc|Number=Sing	_	_	_	LemmaId=72936|OccId=4905222|Unsandhied=yajñe
-30	ṛkta	ṛc	NOUN	_	Case=Abl|Gender=Fem|Number=Sing	_	_	_	LemmaId=38865|OccId=4905223|Unsandhied=ṛktaḥ
-31	ārtir	ārti	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	_	_	_	LemmaId=59280|OccId=4905224|Unsandhied=ārtiḥ
-32	bhavati	bhū	VERB	_	Tense=Pres|Mood=Ind|Person=3|Number=Sing	_	_	_	LemmaId=157250|OccId=4905225|Unsandhied=bhavati|Punctuation=comma
-33	bhūr	bhū	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	_	_	_	LemmaId=166332|OccId=4905226|Unsandhied=bhūḥ
-34	iti	iti	PART	_		_	_	_	LemmaId=63331|OccId=4905227|Unsandhied=iti
-35	gārhapatye	gārhapatya	NOUN	_	Case=Loc|Gender=Masc|Number=Sing	_	_	_	LemmaId=123947|OccId=4905228|Unsandhied=gārhapatye
-36	juhavātha	hu	VERB	_	Tense=Pres|Mood=Sub|Person=2|Number=Plur	_	_	_	LemmaId=157629|OccId=4905309|Unsandhied=juhavātha
-37	yadi	yadi	SCONJ	_		_	_	_	LemmaId=73699|OccId=4905229|Unsandhied=yadi
-38	yajuṣṭo	yajus	NOUN	_	Case=Abl|Gender=Neut|Number=Sing	_	_	_	LemmaId=72933|OccId=4905230|Unsandhied=yajuṣṭaḥ|Punctuation=comma
-39	bhuva	bhuvar	ADV	_		_	_	_	LemmaId=215437|OccId=4905231|Unsandhied=bhuvar
-40	ity	iti	PART	_		_	_	_	LemmaId=63331|OccId=4905232|Unsandhied=iti
-41	āgnīdhrīye	āgnīdhrīya	NOUN	_	Case=Loc|Gender=Masc|Number=Sing	_	_	_	LemmaId=62117|OccId=4905233|Unsandhied=āgnīdhrīye
-42	'nvāhāryapacane	anvāhāryapacana	NOUN	_	Case=Loc|Gender=Masc|Number=Sing	_	_	_	LemmaId=20630|OccId=4905234|Unsandhied=anvāhāryapacane
-43	vā	vā	CONJ	_		_	_	_	LemmaId=75765|OccId=4905235|Unsandhied=vā|Punctuation=comma
-44	haviryajñeṣu	haviryajña	NOUN	_	Case=Loc|Gender=Masc|Number=Plur	_	_	_	LemmaId=109355|OccId=4905236|Unsandhied=haviryajñeṣu
-45	yadi	yadi	SCONJ	_		_	_	_	LemmaId=73699|OccId=4905237|Unsandhied=yadi
-46	sāmataḥ	sāman	NOUN	_	Case=Abl|Gender=Neut|Number=Sing	_	_	_	LemmaId=112582|OccId=4905238|Unsandhied=sāmataḥ
-47	svar	svar	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=119779|OccId=4905239|Unsandhied=svar
-48	ity	iti	PART	_		_	_	_	LemmaId=63331|OccId=4905240|Unsandhied=iti
-49	āhavanīye	āhavanīya	NOUN	_	Case=Loc|Gender=Masc|Number=Sing	_	_	_	LemmaId=63112|OccId=4905241|Unsandhied=āhavanīye|Punctuation=comma|WordSem=100850
-50	yady	yadi	SCONJ	_		_	_	_	LemmaId=73699|OccId=4905242|Unsandhied=yadi
-51	avijñātā	avijñāta	ADJ	_	Case=Nom|Gender=Fem|Number=Sing	_	_	_	LemmaId=54943|OccId=4905243|Unsandhied=avijñātā
-52-53	sarvavyāpad	_	_	_	_	_	_	_	_
-52	sarva	sarva	PRON	_	Case=Cpd	_	_	_	LemmaId=104444|OccId=4905244|Unsandhied=sarva|WordSem=75615,76570
-53	vyāpad	vyāpad	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	_	_	_	LemmaId=119214|OccId=4905245|Unsandhied=vyāpad|WordSem=34241
-54	vā	vā	CONJ	_		_	_	_	LemmaId=75765|OccId=4905246|Unsandhied=vā|Punctuation=comma
-55	bhūr	bhū	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	_	_	_	LemmaId=166332|OccId=4905247|Unsandhied=bhūḥ|IsMantra=True
-56	bhuvaḥ	bhuvar	ADV	_		_	_	_	LemmaId=215437|OccId=4905248|Unsandhied=bhuvar|IsMantra=True
-57	svar	svar	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=119779|OccId=4905249|Unsandhied=svar|IsMantra=True
-58	iti	iti	PART	_		_	_	_	LemmaId=63331|OccId=4905250|Unsandhied=iti
-59	sarvā	sarva	PRON	_	Case=Acc|Gender=Fem|Number=Plur	_	_	_	LemmaId=104444|OccId=4905251|Unsandhied=sarvāḥ
-60-61	anudrutyāhavanīya	_	_	_	_	_	_	_	_
-60	anudrutya	anudru	VERB	_	VerbForm=Conv	_	_	_	LemmaId=157773|OccId=4905252|Unsandhied=anudrutya
-61	āhavanīye	āhavanīya	NOUN	_	Case=Loc|Gender=Masc|Number=Sing	_	_	_	LemmaId=63112|OccId=4905253|Unsandhied=āhavanīye
-62	eva	eva	PART	_		_	_	_	LemmaId=39754|OccId=4905254|Unsandhied=eva
-63-64	juhavātheti	_	_	_	_	_	_	_	_
-63	juhavātha	hu	VERB	_	Tense=Pres|Mood=Sub|Person=2|Number=Plur	_	_	_	LemmaId=157629|OccId=4905310|Unsandhied=juhavātha
-64	iti	iti	PART	_		_	_	_	LemmaId=63331|OccId=4905311|Unsandhied=iti|Punctuation=fullStop
+16-17	avijñātā	_	_	_	_	_	_	_	_
+16	a	a	PART	_		_	_	_	LemmaId=213048|OccId=5967140|Unsandhied=a
+17	vijñātā	vijñā	VERB	_	Case=Nom|Gender=Fem|Number=Sing|VerbForm=Part	_	_	_	LemmaId=163310|OccId=5967141|Unsandhied=vijñātā
+18-19	sarvavyāpad	_	_	_	_	_	_	_	_
+18	sarva	sarva	PRON	_	Case=Cpd	_	_	_	LemmaId=104444|OccId=4905210|Unsandhied=sarva
+19	vyāpad	vyāpad	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	_	_	_	LemmaId=119214|OccId=4905211|Unsandhied=vyāpad
+20	vā	vā	CONJ	_		_	_	_	LemmaId=75765|OccId=4905212|Unsandhied=vā|Punctuation=comma
+21	kā	ka	PRON	_	Case=Nom|Gender=Fem|Number=Sing	_	_	_	LemmaId=37878|OccId=4905213|Unsandhied=kā
+22	prāyaścittir	prāyaścitti	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	_	_	_	LemmaId=153122|OccId=4905214|Unsandhied=prāyaścittiḥ
+23	iti	iti	PART	_		_	_	_	LemmaId=63331|OccId=4905215|Unsandhied=iti|Punctuation=fullStop
+24	sa	tad	PRON	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=37875|OccId=4905216|Unsandhied=sa
+25	prajāpatir	prajāpati	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=151290|OccId=4905217|Unsandhied=prajāpatiḥ
+26	abravīd	brū	VERB	_	Tense=Impf|Mood=Ind|Person=3|Number=Sing	_	_	_	LemmaId=157262|OccId=4905218|Unsandhied=abravīt
+27	devān	deva	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	_	_	_	LemmaId=86559|OccId=4905219|Unsandhied=devān|Punctuation=fullStop
+28	yadi	yadi	SCONJ	_		_	_	_	LemmaId=73699|OccId=4905220|Unsandhied=yadi
+29	vo	tvad	PRON	_	Case=Gen|Number=Plur	_	_	_	LemmaId=37880|OccId=4905221|Unsandhied=vaḥ
+30	yajña	yajña	NOUN	_	Case=Loc|Gender=Masc|Number=Sing	_	_	_	LemmaId=72936|OccId=4905222|Unsandhied=yajñe
+31	ṛkta	ṛc	NOUN	_	Case=Abl|Gender=Fem|Number=Sing	_	_	_	LemmaId=38865|OccId=4905223|Unsandhied=ṛktaḥ
+32	ārtir	ārti	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	_	_	_	LemmaId=59280|OccId=4905224|Unsandhied=ārtiḥ
+33	bhavati	bhū	VERB	_	Tense=Pres|Mood=Ind|Person=3|Number=Sing	_	_	_	LemmaId=157250|OccId=4905225|Unsandhied=bhavati|Punctuation=comma
+34	bhūr	bhū	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	_	_	_	LemmaId=166332|OccId=4905226|Unsandhied=bhūḥ
+35	iti	iti	PART	_		_	_	_	LemmaId=63331|OccId=4905227|Unsandhied=iti
+36	gārhapatye	gārhapatya	NOUN	_	Case=Loc|Gender=Masc|Number=Sing	_	_	_	LemmaId=123947|OccId=4905228|Unsandhied=gārhapatye
+37	juhavātha	hu	VERB	_	Tense=Pres|Mood=Sub|Person=2|Number=Plur	_	_	_	LemmaId=157629|OccId=4905309|Unsandhied=juhavātha
+38	yadi	yadi	SCONJ	_		_	_	_	LemmaId=73699|OccId=4905229|Unsandhied=yadi
+39	yajuṣṭo	yajus	NOUN	_	Case=Abl|Gender=Neut|Number=Sing	_	_	_	LemmaId=72933|OccId=4905230|Unsandhied=yajuṣṭaḥ|Punctuation=comma
+40	bhuva	bhuvar	ADV	_		_	_	_	LemmaId=215437|OccId=4905231|Unsandhied=bhuvar
+41	ity	iti	PART	_		_	_	_	LemmaId=63331|OccId=4905232|Unsandhied=iti
+42	āgnīdhrīye	āgnīdhrīya	NOUN	_	Case=Loc|Gender=Masc|Number=Sing	_	_	_	LemmaId=62117|OccId=4905233|Unsandhied=āgnīdhrīye
+43	'nvāhāryapacane	anvāhāryapacana	NOUN	_	Case=Loc|Gender=Masc|Number=Sing	_	_	_	LemmaId=20630|OccId=4905234|Unsandhied=anvāhāryapacane
+44	vā	vā	CONJ	_		_	_	_	LemmaId=75765|OccId=4905235|Unsandhied=vā|Punctuation=comma
+45	haviryajñeṣu	haviryajña	NOUN	_	Case=Loc|Gender=Masc|Number=Plur	_	_	_	LemmaId=109355|OccId=4905236|Unsandhied=haviryajñeṣu
+46	yadi	yadi	SCONJ	_		_	_	_	LemmaId=73699|OccId=4905237|Unsandhied=yadi
+47	sāmataḥ	sāman	NOUN	_	Case=Abl|Gender=Neut|Number=Sing	_	_	_	LemmaId=112582|OccId=4905238|Unsandhied=sāmataḥ
+48	svar	svar	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=119779|OccId=4905239|Unsandhied=svar
+49	ity	iti	PART	_		_	_	_	LemmaId=63331|OccId=4905240|Unsandhied=iti
+50	āhavanīye	āhavanīya	NOUN	_	Case=Loc|Gender=Masc|Number=Sing	_	_	_	LemmaId=63112|OccId=4905241|Unsandhied=āhavanīye|Punctuation=comma|WordSem=100850
+51	yady	yadi	SCONJ	_		_	_	_	LemmaId=73699|OccId=4905242|Unsandhied=yadi
+52-53	avijñātā	_	_	_	_	_	_	_	_
+52	a	a	PART	_		_	_	_	LemmaId=213048|OccId=5967142|Unsandhied=a
+53	vijñātā	vijñā	VERB	_	Case=Nom|Gender=Fem|Number=Sing|VerbForm=Part	_	_	_	LemmaId=163310|OccId=5967143|Unsandhied=vijñātā
+54-55	sarvavyāpad	_	_	_	_	_	_	_	_
+54	sarva	sarva	PRON	_	Case=Cpd	_	_	_	LemmaId=104444|OccId=4905244|Unsandhied=sarva|WordSem=75615,76570
+55	vyāpad	vyāpad	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	_	_	_	LemmaId=119214|OccId=4905245|Unsandhied=vyāpad|WordSem=34241
+56	vā	vā	CONJ	_		_	_	_	LemmaId=75765|OccId=4905246|Unsandhied=vā|Punctuation=comma
+57	bhūr	bhū	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	_	_	_	LemmaId=166332|OccId=4905247|Unsandhied=bhūḥ|IsMantra=True
+58	bhuvaḥ	bhuvar	ADV	_		_	_	_	LemmaId=215437|OccId=4905248|Unsandhied=bhuvar|IsMantra=True
+59	svar	svar	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=119779|OccId=4905249|Unsandhied=svar|IsMantra=True
+60	iti	iti	PART	_		_	_	_	LemmaId=63331|OccId=4905250|Unsandhied=iti
+61	sarvā	sarva	PRON	_	Case=Acc|Gender=Fem|Number=Plur	_	_	_	LemmaId=104444|OccId=4905251|Unsandhied=sarvāḥ
+62-63	anudrutyāhavanīya	_	_	_	_	_	_	_	_
+62	anudrutya	anudru	VERB	_	VerbForm=Conv	_	_	_	LemmaId=157773|OccId=4905252|Unsandhied=anudrutya
+63	āhavanīye	āhavanīya	NOUN	_	Case=Loc|Gender=Masc|Number=Sing	_	_	_	LemmaId=63112|OccId=4905253|Unsandhied=āhavanīye
+64	eva	eva	PART	_		_	_	_	LemmaId=39754|OccId=4905254|Unsandhied=eva
+65-66	juhavātheti	_	_	_	_	_	_	_	_
+65	juhavātha	hu	VERB	_	Tense=Pres|Mood=Sub|Person=2|Number=Plur	_	_	_	LemmaId=157629|OccId=4905310|Unsandhied=juhavātha
+66	iti	iti	PART	_		_	_	_	LemmaId=63331|OccId=4905311|Unsandhied=iti|Punctuation=fullStop
 
 # text = etāni ha vai vedānām antaḥśleṣaṇāni yad etā vyāhṛtayas tad yathātmanātmānaṃ saṃdadhyād yathā parvaṇā parva yathā śleṣmaṇā carmaṇyaṃ vānyad vā viśliṣṭam saṃśleṣayed evam evaitābhir yajñasya viśliṣṭaṃ saṃdadhāti saiṣā sarvaprāyaścittir yad etā vyāhṛtayas tasmād eṣaiva yajñe prāyaścittiḥ kartavyā
-# sent_id = 643198
+# sent_id = 644174
 # sent_counter = 6
 # sent_subcounter = 
 1	etāni	etad	PRON	_	Case=Nom|Gender=Neut|Number=Plur	_	_	_	LemmaId=163744|OccId=4905255|Unsandhied=etāni

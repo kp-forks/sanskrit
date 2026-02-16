@@ -3,7 +3,7 @@
 ## chapter: AB, 5, 34
 ## chapter_id: 11980
 # text = tad āhur yad grahān me 'grahīt prācārīn ma āhutīr me 'hauṣīd ity adhvaryave dakṣiṇā nīyanta udagāsīn ma ity udgātre 'nvavocan me 'śaṃsīn me 'yākṣīn ma iti hotre kiṃ svid eva cakruṣe brahmaṇe dakṣiṇā nīyante 'kṛtvāho svid eva haratā iti
-# sent_id = 643203
+# sent_id = 644179
 # sent_counter = 1
 # sent_subcounter = 
 1	tad	tad	PRON	_	Case=Acc|Gender=Neut|Number=Sing	_	_	_	LemmaId=37875|OccId=4906451|Unsandhied=tat
@@ -50,7 +50,7 @@
 41	iti	iti	PART	_		_	_	_	LemmaId=63331|OccId=4906487|Unsandhied=iti|Punctuation=fullStop
 
 # text = yajñasya haiṣa bhiṣag yad brahmā yajñāyaiva tad bheṣajaṃ kṛtvā harati
-# sent_id = 643204
+# sent_id = 644180
 # sent_counter = 2
 # sent_subcounter = 
 1	yajñasya	yajña	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	_	_	_	LemmaId=72936|OccId=4906488|Unsandhied=yajñasya
@@ -69,7 +69,7 @@
 12	harati	hṛ	VERB	_	Tense=Pres|Mood=Ind|Person=3|Number=Sing	_	_	_	LemmaId=157558|OccId=4906499|Unsandhied=harati|Punctuation=fullStop
 
 # text = atho yad bhūyiṣṭhenaiva brahmaṇā chandasāṃ rasenārtvijyaṃ karoti yad brahmā tasmād brahmārdhabhāggha vā eṣa itareṣām ṛtvijām agra āsa yad brahmārdham eva brahmaṇa āsārdham itareṣām ṛtvijām
-# sent_id = 643205
+# sent_id = 644181
 # sent_counter = 3
 # sent_subcounter = 
 1-2	atho	_	_	_	_	_	_	_	_
@@ -112,7 +112,7 @@
 32	ṛtvijām	ṛtvij	NOUN	_	Case=Gen|Gender=Masc|Number=Plur	_	_	_	LemmaId=38775|OccId=4906525|Unsandhied=ṛtvijām|Punctuation=fullStop
 
 # text = tasmād yadi yajña ṛkta ārtiḥ syād yadi yajuṣṭo yadi sāmato yady avijñātā sarvavyāpad vā brahmaṇa eva nivedayante tasmād yadi yajña ṛkta ārtir bhavati bhūr iti brahmā gārhapatye juhuyād yadi yajuṣṭo bhuva ity āgnīdhrīye 'nvāhāryapacane vā haviryajñeṣu yadi sāmataḥ svar ity āhavanīye yady avijñātā sarvavyāpad vā bhūr bhuvaḥ svar iti sarvā anudrutyāhavanīya eva juhuyāt
-# sent_id = 643206
+# sent_id = 644182
 # sent_counter = 4
 # sent_subcounter = 
 1	tasmād	tasmāt	ADV	_		_	_	_	LemmaId=203521|OccId=4906526|Unsandhied=tasmāt
@@ -161,24 +161,26 @@
 42	ity	iti	PART	_		_	_	_	LemmaId=63331|OccId=4906565|Unsandhied=iti
 43	āhavanīye	āhavanīya	NOUN	_	Case=Loc|Gender=Masc|Number=Sing	_	_	_	LemmaId=63112|OccId=4906566|Unsandhied=āhavanīye|Punctuation=comma
 44	yady	yadi	SCONJ	_		_	_	_	LemmaId=73699|OccId=4906567|Unsandhied=yadi
-45	avijñātā	avijñāta	ADJ	_	Case=Nom|Gender=Fem|Number=Sing	_	_	_	LemmaId=54943|OccId=4906568|Unsandhied=avijñātā
-46-47	sarvavyāpad	_	_	_	_	_	_	_	_
-46	sarva	sarva	PRON	_	Case=Cpd	_	_	_	LemmaId=104444|OccId=4906569|Unsandhied=sarva
-47	vyāpad	vyāpad	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	_	_	_	LemmaId=119214|OccId=4906570|Unsandhied=vyāpad
-48	vā	vā	CONJ	_		_	_	_	LemmaId=75765|OccId=4906571|Unsandhied=vā|Punctuation=comma
-49	bhūr	bhū	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	_	_	_	LemmaId=166332|OccId=4906572|Unsandhied=bhūḥ|IsMantra=True
-50	bhuvaḥ	bhuvar	ADV	_		_	_	_	LemmaId=215437|OccId=4906573|Unsandhied=bhuvar|IsMantra=True
-51	svar	svar	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=119779|OccId=4906574|Unsandhied=svar|IsMantra=True
-52	iti	iti	PART	_		_	_	_	LemmaId=63331|OccId=4906575|Unsandhied=iti
-53	sarvā	sarva	PRON	_	Case=Acc|Gender=Fem|Number=Plur	_	_	_	LemmaId=104444|OccId=4906576|Unsandhied=sarvāḥ
-54-55	anudrutyāhavanīya	_	_	_	_	_	_	_	_
-54	anudrutya	anudru	VERB	_	VerbForm=Conv	_	_	_	LemmaId=157773|OccId=4906577|Unsandhied=anudrutya
-55	āhavanīye	āhavanīya	NOUN	_	Case=Loc|Gender=Masc|Number=Sing	_	_	_	LemmaId=63112|OccId=4906578|Unsandhied=āhavanīye
-56	eva	eva	PART	_		_	_	_	LemmaId=39754|OccId=4906579|Unsandhied=eva
-57	juhuyāt	hu	VERB	_	Tense=Pres|Mood=Opt|Person=3|Number=Sing	_	_	_	LemmaId=157629|OccId=4906665|Unsandhied=juhuyāt|Punctuation=fullStop
+45-46	avijñātā	_	_	_	_	_	_	_	_
+45	a	a	PART	_		_	_	_	LemmaId=213048|OccId=5967144|Unsandhied=a
+46	vijñātā	vijñā	VERB	_	Case=Nom|Gender=Fem|Number=Sing|VerbForm=Part	_	_	_	LemmaId=163310|OccId=5967145|Unsandhied=vijñātā
+47-48	sarvavyāpad	_	_	_	_	_	_	_	_
+47	sarva	sarva	PRON	_	Case=Cpd	_	_	_	LemmaId=104444|OccId=4906569|Unsandhied=sarva
+48	vyāpad	vyāpad	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	_	_	_	LemmaId=119214|OccId=4906570|Unsandhied=vyāpad
+49	vā	vā	CONJ	_		_	_	_	LemmaId=75765|OccId=4906571|Unsandhied=vā|Punctuation=comma
+50	bhūr	bhū	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	_	_	_	LemmaId=166332|OccId=4906572|Unsandhied=bhūḥ|IsMantra=True
+51	bhuvaḥ	bhuvar	ADV	_		_	_	_	LemmaId=215437|OccId=4906573|Unsandhied=bhuvar|IsMantra=True
+52	svar	svar	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=119779|OccId=4906574|Unsandhied=svar|IsMantra=True
+53	iti	iti	PART	_		_	_	_	LemmaId=63331|OccId=4906575|Unsandhied=iti
+54	sarvā	sarva	PRON	_	Case=Acc|Gender=Fem|Number=Plur	_	_	_	LemmaId=104444|OccId=4906576|Unsandhied=sarvāḥ
+55-56	anudrutyāhavanīya	_	_	_	_	_	_	_	_
+55	anudrutya	anudru	VERB	_	VerbForm=Conv	_	_	_	LemmaId=157773|OccId=4906577|Unsandhied=anudrutya
+56	āhavanīye	āhavanīya	NOUN	_	Case=Loc|Gender=Masc|Number=Sing	_	_	_	LemmaId=63112|OccId=4906578|Unsandhied=āhavanīye
+57	eva	eva	PART	_		_	_	_	LemmaId=39754|OccId=4906579|Unsandhied=eva
+58	juhuyāt	hu	VERB	_	Tense=Pres|Mood=Opt|Person=3|Number=Sing	_	_	_	LemmaId=157629|OccId=4906665|Unsandhied=juhuyāt|Punctuation=fullStop
 
 # text = sa prastotopākṛte stotra āha brahman stoṣyāmaḥ praśāstar iti sa bhūr iti brahmā prātaḥsavane brūyād indravantaḥ studhvam iti bhuva iti mādhyaṃdine savane brūyād indravantaḥ studhvam iti svar iti tṛtīyasavane brūyād indravantaḥ studhvam iti bhūr bhuvaḥ svar ity ukthe vātirātre vā brūyād indravantaḥ studhvam iti
-# sent_id = 643207
+# sent_id = 644183
 # sent_counter = 5
 # sent_subcounter = 
 1	sa	tad	PRON	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=37875|OccId=4906580|Unsandhied=sa
@@ -230,7 +232,7 @@
 45	iti	iti	PART	_		_	_	_	LemmaId=63331|OccId=4906624|Unsandhied=iti|Punctuation=fullStop
 
 # text = sa yad āhendravantaḥ studhvam ity aindro vai yajña indro yajñasya devatā sendram eva tad udgīthaṃ karotīndrān mā gād indravantaḥ studhvam iti evaināṃs tad āha tad āha
-# sent_id = 643208
+# sent_id = 644184
 # sent_counter = 6
 # sent_subcounter = 
 1	sa	tad	PRON	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=37875|OccId=4906625|Unsandhied=sa

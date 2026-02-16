@@ -2,32 +2,28 @@
 ## text_id: 6
 ## chapter: NiSaṃ zu Su, Sū., 14, 23.1
 ## chapter_id: 2168
-# text = darśayannāha āha nirdiśannāha darśayannāha śukrībhavati visrāvyāṇītyādi
-# sent_id = 16857
+# text = śukrībhavati sa visrāvyāṇītyādi
+# sent_id = 16859
 # sent_counter = 1
 # sent_subcounter = 
-1-6	śukrībhavati	_	_	_	_	_	_	_	_
-1	nirdiśan	nirdiś	VERB	_	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part	_	_	_	LemmaId=161388|OccId=603289|Unsandhied=nirdiśan|UnsandhiedReconstructed=True
-2	darśayan	darśay	VERB	_	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part	_	_	_	LemmaId=157768|OccId=604000|Unsandhied=darśayan|UnsandhiedReconstructed=True
-3	darśayan	darśay	VERB	_	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part	_	_	_	LemmaId=157768|OccId=604898|Unsandhied=darśayan|UnsandhiedReconstructed=True
-4	āha	ah	VERB	_	Tense=Past|Mood=Ind|Person=3|Number=Sing	_	_	_	LemmaId=156124|OccId=605025|Unsandhied=āha
-5	śukrībhavati	śukrībhū	VERB	_	Tense=Pres|Mood=Ind|Person=3|Number=Sing	_	_	_	LemmaId=175501|OccId=607469|Unsandhied=śukrībhavati
-6	visrāvyāṇi	visrāvay	VERB	_	Case=Acc|Gender=Neut|Number=Plur|VerbForm=Gdv	_	_	_	LemmaId=175429|OccId=608314|Unsandhied=visrāvyāṇi|UnsandhiedReconstructed=True
+1	saḥ	tad	PRON	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=37875|OccId=604362|Unsandhied=saḥ|UnsandhiedReconstructed=True
+2	śukrībhavati	śukrībhū	VERB	_	Tense=Pres|Mood=Ind|Person=3|Number=Sing	_	_	_	LemmaId=175501|OccId=607469|Unsandhied=śukrībhavati
+3	visrāvyāṇi	visrāvay	VERB	_	Case=Acc|Gender=Neut|Number=Plur|VerbForm=Gdv	_	_	_	LemmaId=175429|OccId=608314|Unsandhied=visrāvyāṇi|UnsandhiedReconstructed=True
 
-# text = darśayannāha nirdiśannāha rasagatāv visrāvyāṇītyādi
+# text = nirdiśannāha visrāvyāṇītyādi
 # sent_id = 16869
 # sent_counter = 1
 # sent_subcounter = 
-1	āha	ah	VERB	_	Tense=Past|Mood=Ind|Person=3|Number=Sing	_	_	_	LemmaId=156124|OccId=603290|Unsandhied=āha
-2	gatau	gati	NOUN	_	Case=Loc|Gender=Fem|Number=Sing	_	_	_	LemmaId=130098|OccId=605821|Unsandhied=gatau|UnsandhiedReconstructed=True
-3	āha	ah	VERB	_	Tense=Past|Mood=Ind|Person=3|Number=Sing	_	_	_	LemmaId=156124|OccId=607248|Unsandhied=āha
-4	ityādi	ityādi	ADJ	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=63350|OccId=608315|Unsandhied=ityādi|UnsandhiedReconstructed=True
+1	ityādi	ityādi	ADJ	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=63350|OccId=608315|Unsandhied=ityādi|UnsandhiedReconstructed=True
+2	āha	ah	VERB	_	Tense=Past|Mood=Ind|Person=3|Number=Sing	_	_	_	LemmaId=156124|OccId=2500922|Unsandhied=āha
 
-# text = iti aṣṭavidhaśastrakarmīye
-# sent_id = 16937
+# text = cetyatra evānnarasa yaḥ aṣṭavidhaśastrakarmīye
+# sent_id = 16942
 # sent_counter = 2
 # sent_subcounter = 
-1-2	aṣṭavidhaśastrakarmīye	_	_	_	_	_	_	_	_
-1	iti	iti	PART	_		_	_	_	LemmaId=63331|OccId=604995|Unsandhied=iti|UnsandhiedReconstructed=True
-2	aṣṭavidhaśastrakarmīye	aṣṭavidhaśastrakarmīya	NOUN	_	Case=Loc|Gender=Masc|Number=Sing	_	_	_	LemmaId=175520|OccId=608366|Unsandhied=aṣṭavidhaśastrakarmīye|UnsandhiedReconstructed=True
+1-4	evānnarasa	_	_	_	_	_	_	_	_
+1	ca	ca	CONJ	_		_	_	_	LemmaId=157144|OccId=603491|Unsandhied=ca|UnsandhiedReconstructed=True
+2	yaḥ	yad	PRON	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=37877|OccId=604007|Unsandhied=yaḥ|UnsandhiedReconstructed=True
+3	eva	eva	PART	_		_	_	_	LemmaId=39754|OccId=607657|Unsandhied=eva|UnsandhiedReconstructed=True
+4	aṣṭavidhaśastrakarmīye	aṣṭavidhaśastrakarmīya	NOUN	_	Case=Loc|Gender=Masc|Number=Sing	_	_	_	LemmaId=175520|OccId=608366|Unsandhied=aṣṭavidhaśastrakarmīye|UnsandhiedReconstructed=True
 

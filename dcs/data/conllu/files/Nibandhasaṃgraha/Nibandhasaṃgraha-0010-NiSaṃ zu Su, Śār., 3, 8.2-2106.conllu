@@ -2,45 +2,54 @@
 ## text_id: 6
 ## chapter: NiSaṃ zu Su, Śār., 3, 8.2
 ## chapter_id: 2106
-# text = pīnetyādi
-# sent_id = 16862
+# text = niyamam pīnetyādi
+# sent_id = 16855
 # sent_counter = 1
 # sent_subcounter = 
 1	pīnā	pīna	ADJ	_	Case=Nom|Gender=Fem|Number=Sing	_	_	_	LemmaId=144345|OccId=601490|Unsandhied=pīnā|UnsandhiedReconstructed=True
+2	niyamam	niyama	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	_	_	_	LemmaId=27565|OccId=601529|Unsandhied=niyamam|UnsandhiedReconstructed=True
 
-# text = pīnetyādi
-# sent_id = 16871
+# text = garbhāvataraṇakriyām pīnetyādi
+# sent_id = 16867
 # sent_counter = 1
 # sent_subcounter = 
-1	ityādi	ityādi	ADJ	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=63350|OccId=601491|Unsandhied=ityādi|UnsandhiedReconstructed=True
+1	kriyām	kriyā	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	_	_	_	LemmaId=133808|OccId=600940|Unsandhied=kriyām|UnsandhiedReconstructed=True
+2	ityādi	ityādi	ADJ	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=63350|OccId=601491|Unsandhied=ityādi|UnsandhiedReconstructed=True
 
-# text = prasṛtimātram sādo'pravṛttiḥ vyādhinimittaṃ iti prakledāsaṃbhavāt
-# sent_id = 17033
+# text = sādo'pravṛttiḥ vyādhinimittaṃ prakledāsaṃbhavāt
+# sent_id = 17030
 # sent_counter = 2
 # sent_subcounter = 
-1	mātram	mātra	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=78185|OccId=601355|Unsandhied=mātram|UnsandhiedReconstructed=True
-2	apravṛttiḥ	apravṛtti	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	_	_	_	LemmaId=21770|OccId=778104|Unsandhied=apravṛttiḥ|UnsandhiedReconstructed=True
-3	nimittam	nimitta	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=27462|OccId=798841|Unsandhied=nimittam|UnsandhiedReconstructed=True
-4	iti	iti	PART	_		_	_	_	LemmaId=63331|OccId=601356|Unsandhied=iti|UnsandhiedReconstructed=True
-5	prakleda	prakleda	NOUN	_	Case=Cpd	_	_	_	LemmaId=151186|OccId=601591|Unsandhied=prakleda|UnsandhiedReconstructed=True
+1	apravṛttiḥ	apravṛtti	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	_	_	_	LemmaId=21770|OccId=778104|Unsandhied=apravṛttiḥ|UnsandhiedReconstructed=True
+2	nimittam	nimitta	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=27462|OccId=798841|Unsandhied=nimittam|UnsandhiedReconstructed=True
 
-# text = viṣādaḥ śilājatubhallātakatuvarakādyam prakledāsaṃbhavāt
-# sent_id = 17034
+# text = iti viṣādaḥ śilājatubhallātakatuvarakādyam prakledāsaṃbhavāt
+# sent_id = 17031
+# sent_counter = 2
+# sent_subcounter = 
+1	iti	iti	PART	_		_	_	_	LemmaId=63331|OccId=601356|Unsandhied=iti|UnsandhiedReconstructed=True
+
+# text = sādo'pravṛttiḥ vyādhinimittaṃ prakledāsaṃbhavāt
+# sent_id = 17030
+# sent_counter = 2
+# sent_subcounter = 
+1	prakleda	prakleda	NOUN	_	Case=Cpd	_	_	_	LemmaId=151186|OccId=601591|Unsandhied=prakleda|UnsandhiedReconstructed=True
+
+# text = iti viṣādaḥ śilājatubhallātakatuvarakādyam prakledāsaṃbhavāt
+# sent_id = 17031
 # sent_counter = 2
 # sent_subcounter = 
 1	viṣādaḥ	viṣāda	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=139468|OccId=778105|Unsandhied=viṣādaḥ|UnsandhiedReconstructed=True
 2	śilājatu	śilājatu	NOUN	_	Case=Cpd	_	_	_	LemmaId=132662|OccId=798863|Unsandhied=śilājatu|UnsandhiedReconstructed=True
 3	asaṃbhavāt	asaṃbhava	NOUN	_	Case=Abl|Gender=Masc|Number=Sing	_	_	_	LemmaId=60858|OccId=601592|Unsandhied=asaṃbhavāt|UnsandhiedReconstructed=True|Punctuation=fullStop
 
-# text = iti kāraṇebhyaḥ pañcadaśa viśālam na 'bhilāṣaḥ
-# sent_id = 17090
+# text = sphuṭanikā śītoṣṇavātavarṣātapaprabhṛtinimittāḥ atyantaharṣavaśād 'bhilāṣaḥ
+# sent_id = 17086
 # sent_counter = 3
 # sent_subcounter = 
-1-6	viśālam	_	_	_	_	_	_	_	_
-1	abhilāṣaḥ	abhilāṣa	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=30881|OccId=601521|Unsandhied=abhilāṣaḥ|UnsandhiedReconstructed=True
-2	kāraṇebhyaḥ	kāraṇa	NOUN	_	Case=Abl|Gender=Neut|Number=Plur	_	_	_	LemmaId=14116|OccId=603429|Unsandhied=kāraṇebhyaḥ|UnsandhiedReconstructed=True
-3	iti	iti	PART	_		_	_	_	LemmaId=63331|OccId=603499|Unsandhied=iti|UnsandhiedReconstructed=True
-4	pañcadaśa	pañcadaśan	NUM	_	Case=Acc|Gender=Neut|Number=Sing	_	_	_	LemmaId=166078|OccId=605862|Unsandhied=pañcadaśa|UnsandhiedReconstructed=True
-5	viśālam	viśāla	ADJ	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=139200|OccId=612481|Unsandhied=viśālam|UnsandhiedReconstructed=True
-6	na	na	PART	_		_	_	_	LemmaId=43432|OccId=612531|Unsandhied=na|UnsandhiedReconstructed=True
+1-4	'bhilāṣaḥ	_	_	_	_	_	_	_	_
+1	atyanta	atyanta	ADJ	_	Case=Cpd	_	_	_	LemmaId=7393|OccId=601383|Unsandhied=atyanta|UnsandhiedReconstructed=True
+2	abhilāṣaḥ	abhilāṣa	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=30881|OccId=601521|Unsandhied=abhilāṣaḥ|UnsandhiedReconstructed=True
+3	śīta	śīta	ADJ	_	Case=Cpd	_	_	_	LemmaId=126116|OccId=804135|Unsandhied=śīta|UnsandhiedReconstructed=True
+4	sphuṭanikā	sphuṭanikā	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	_	_	_	LemmaId=199070|OccId=807422|Unsandhied=sphuṭanikā|UnsandhiedReconstructed=True
 

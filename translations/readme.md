@@ -18,11 +18,6 @@ Numbering
 
 # Notes
 
-The numbering of RV-Griffith.txt is partly wrong.
+The numbering of RV 8.49ff. and duplicate numberings in RV-Griffith.txt have been corrected.
 
-dublettes:
-2nd instace of ...
-8.1 = 8.50
-8.3 = 8.51
-8.4 = 8.52
-8.5 = 8.53
+AVS Griffith, 7.3,4?
