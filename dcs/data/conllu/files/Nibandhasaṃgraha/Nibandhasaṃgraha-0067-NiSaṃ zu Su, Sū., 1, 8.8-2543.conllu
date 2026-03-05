@@ -2,73 +2,57 @@
 ## text_id: 6
 ## chapter: NiSaṃ zu Su, Sū., 1, 8.8
 ## chapter_id: 2543
-# text = yogavāhitāṃ vivaritum ityādi
-# sent_id = 16827
+# text = yogavāhitāṃ iti pratipādayannāha vivaritum ityādi
+# sent_id = 16824
 # sent_counter = 1
 # sent_subcounter = 
-1-3	vivaritum	_	_	_	_	_	_	_	_
+1-5	iti	_	_	_	_	_	_	_	_
 1	ityādi	ityādi	ADJ	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=63350|OccId=777831|Unsandhied=ityādi|UnsandhiedReconstructed=True
 2	vivaritum	vivṛ	VERB	_	VerbForm=Inf	_	_	_	LemmaId=163597|OccId=777871|Unsandhied=vivaritum|UnsandhiedReconstructed=True
-3	yogavāhi	yogavāhin	ADJ	_	Case=Cpd	_	_	_	LemmaId=65107|OccId=2076163|Unsandhied=yogavāhi|UnsandhiedReconstructed=True
+3	iti	iti	PART	_		_	_	_	LemmaId=63331|OccId=777893|Unsandhied=iti|UnsandhiedReconstructed=True
+4	pratipādayan	pratipāday	VERB	_	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part	_	_	_	LemmaId=162524|OccId=778176|Unsandhied=pratipādayan|UnsandhiedReconstructed=True
+5	yogavāhi	yogavāhin	ADJ	_	Case=Cpd	_	_	_	LemmaId=65107|OccId=2076163|Unsandhied=yogavāhi|UnsandhiedReconstructed=True
 
-# text = tena śokaḥ āyuḥsthāpanam
-# sent_id = 16972
+# text = śokaḥ āyuḥsthāpanam
+# sent_id = 16975
 # sent_counter = 2
 # sent_subcounter = 
-1-3	āyuḥsthāpanam	_	_	_	_	_	_	_	_
 1	āyus	āyus	NOUN	_	Case=Cpd	_	_	_	LemmaId=59234|OccId=777836|Unsandhied=āyus|UnsandhiedReconstructed=True
-2	tena	tad	PRON	_	Case=Ins|Gender=Neut|Number=Sing	_	_	_	LemmaId=37875|OccId=777908|Unsandhied=tena|UnsandhiedReconstructed=True
-3	śokaḥ	śoka	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=127781|OccId=778079|Unsandhied=śokaḥ|UnsandhiedReconstructed=True
+2	śokaḥ	śoka	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=127781|OccId=778079|Unsandhied=śokaḥ|UnsandhiedReconstructed=True
 
 # text = āyuḥsthāpanam
-# sent_id = 16977
+# sent_id = 16981
 # sent_counter = 2
 # sent_subcounter = 
 1	sthāpanam	sthāpana	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=102927|OccId=777837|Unsandhied=sthāpanam|UnsandhiedReconstructed=True
 
-# text = kalpate tādṛk karoti
-# sent_id = 17072
+# text = karoti
+# sent_id = 17073
 # sent_counter = 3
 # sent_subcounter = 
-1-3	karoti	_	_	_	_	_	_	_	_
 1	karoti	kṛ	VERB	_	Tense=Pres|Mood=Ind|Person=3|Number=Sing	_	_	_	LemmaId=156168|OccId=777842|Unsandhied=karoti
-2	kalpate	kﾱp	VERB	_	Tense=Pres|Mood=Ind|Person=3|Number=Sing	_	_	_	LemmaId=156176|OccId=1997025|Unsandhied=kalpate
-3	tādṛś	tādṛś	ADJ	_	Case=Acc|Gender=Neut|Number=Sing	_	_	_	LemmaId=97060|OccId=2076179|Unsandhied=tādṛś|UnsandhiedReconstructed=True|WordSem=72778
 
-# text = niṣecanam ātmano ityuktam niyatadravaprabhāveṇātmaśaktyanurūpaṃ annagrahaṇenaitānupalakṣayannetallakṣayati sthāpayatītyarthaḥ
-# sent_id = 17178
-# sent_counter = 4
-# sent_subcounter = 
-1	ātmanaḥ	ātman	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	_	_	_	LemmaId=57749|OccId=603445|Unsandhied=ātmanaḥ|UnsandhiedReconstructed=True
-2	niṣecanam	niṣecana	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=28247|OccId=603550|Unsandhied=niṣecanam|UnsandhiedReconstructed=True
-3	iti	iti	PART	_		_	_	_	LemmaId=63331|OccId=608295|Unsandhied=iti|UnsandhiedReconstructed=True
-4	sthāpayati	sthāpay	VERB	_	Tense=Pres|Mood=Ind|Person=3|Number=Sing	_	_	_	LemmaId=157916|OccId=777852|Unsandhied=sthāpayati
-5	anna	anna	NOUN	_	Case=Cpd	_	_	_	LemmaId=20377|OccId=777937|Unsandhied=anna|UnsandhiedReconstructed=True
-6	niyata	niyam	VERB	_	Case=Cpd|VerbForm=Part	_	_	_	LemmaId=161342|OccId=1997062|Unsandhied=niyata|UnsandhiedReconstructed=True
-
-# text = ityāhetareṣām kimayaṃ hetucikitsābhyāṃ tvātmaśiṣyeṣu ityarthaḥ ityuktam niyatadravaprabhāveṇātmaśaktyanurūpaṃ annagrahaṇenaitānupalakṣayannetallakṣayati sthāpayatītyarthaḥ
+# text = niyatadravaprabhāveṇātmaśaktyanurūpaṃ annagrahaṇenaitānupalakṣayannetallakṣayati sthāpayatītyarthaḥ
 # sent_id = 17182
 # sent_counter = 4
 # sent_subcounter = 
-1-9	niyatadravaprabhāveṇātmaśaktyanurūpaṃ	_	_	_	_	_	_	_	_
-1	āha	ah	VERB	_	Tense=Past|Mood=Ind|Person=3|Number=Sing	_	_	_	LemmaId=156124|OccId=600856|Unsandhied=āha
-2	ayam	idam	PRON	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=37876|OccId=601638|Unsandhied=ayam|UnsandhiedReconstructed=True
-3	arthaḥ	artha	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=53136|OccId=604100|Unsandhied=arthaḥ|UnsandhiedReconstructed=True
-4	uktam	vac	VERB	_	Case=Nom|Gender=Neut|Number=Sing|VerbForm=Part	_	_	_	LemmaId=157264|OccId=608296|Unsandhied=uktam|UnsandhiedReconstructed=True
-5	iti	iti	PART	_		_	_	_	LemmaId=63331|OccId=777853|Unsandhied=iti|UnsandhiedReconstructed=True
-6	grahaṇena	grahaṇa	NOUN	_	Case=Ins|Gender=Neut|Number=Sing	_	_	_	LemmaId=156931|OccId=777938|Unsandhied=grahaṇena|UnsandhiedReconstructed=True
-7	drava	drava	NOUN	_	Case=Cpd	_	_	_	LemmaId=166710|OccId=1997063|Unsandhied=drava|UnsandhiedReconstructed=True
-8	ātma	ātman	NOUN	_	Case=Cpd	_	_	_	LemmaId=57749|OccId=2500502|Unsandhied=ātma|UnsandhiedReconstructed=True
-9	cikitsābhyām	cikitsā	NOUN	_	Case=Ins|Gender=Fem|Number=Dual	_	_	_	LemmaId=51325|OccId=2501189|Unsandhied=cikitsābhyām|UnsandhiedReconstructed=True|Punctuation=fullStop
+1	sthāpayati	sthāpay	VERB	_	Tense=Pres|Mood=Ind|Person=3|Number=Sing	_	_	_	LemmaId=157916|OccId=777852|Unsandhied=sthāpayati
+2	anna	anna	NOUN	_	Case=Cpd	_	_	_	LemmaId=20377|OccId=777937|Unsandhied=anna|UnsandhiedReconstructed=True
+3	niyata	niyam	VERB	_	Case=Cpd|VerbForm=Part	_	_	_	LemmaId=161342|OccId=1997062|Unsandhied=niyata|UnsandhiedReconstructed=True
 
-# text = ityāhetareṣām nyūnādhikasamatvaṃ tvātmaśiṣyeṣu niyatadravaprabhāveṇātmaśaktyanurūpaṃ annagrahaṇenaitānupalakṣayannetallakṣayati sthāpayatītyarthaḥ
-# sent_id = 17185
+# text = niyatadravaprabhāveṇātmaśaktyanurūpaṃ annagrahaṇenaitānupalakṣayannetallakṣayati sthāpayatītyarthaḥ
+# sent_id = 17187
 # sent_counter = 4
 # sent_subcounter = 
-1	itareṣām	itara	PRON	_	Case=Gen|Gender=Neut|Number=Plur	_	_	_	LemmaId=63314|OccId=600857|Unsandhied=itareṣām|UnsandhiedReconstructed=True
-2	samatvam	samatva	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=18481|OccId=601399|Unsandhied=samatvam|UnsandhiedReconstructed=True
-3	arthaḥ	artha	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=53136|OccId=777854|Unsandhied=arthaḥ|UnsandhiedReconstructed=True
-4	etān	etad	PRON	_	Case=Acc|Gender=Masc|Number=Plur	_	_	_	LemmaId=163744|OccId=777939|Unsandhied=etān|UnsandhiedReconstructed=True
-5	prabhāvena	prabhāva	NOUN	_	Case=Ins|Gender=Masc|Number=Sing	_	_	_	LemmaId=140977|OccId=1997064|Unsandhied=prabhāvena|UnsandhiedReconstructed=True
-6	śiṣyeṣu	śiṣya	NOUN	_	Case=Loc|Gender=Masc|Number=Plur	_	_	_	LemmaId=132861|OccId=2500503|Unsandhied=śiṣyeṣu|UnsandhiedReconstructed=True
+1	iti	iti	PART	_		_	_	_	LemmaId=63331|OccId=777853|Unsandhied=iti|UnsandhiedReconstructed=True
+2	grahaṇena	grahaṇa	NOUN	_	Case=Ins|Gender=Neut|Number=Sing	_	_	_	LemmaId=156931|OccId=777938|Unsandhied=grahaṇena|UnsandhiedReconstructed=True
+3	drava	drava	NOUN	_	Case=Cpd	_	_	_	LemmaId=166710|OccId=1997063|Unsandhied=drava|UnsandhiedReconstructed=True
+
+# text = niyatadravaprabhāveṇātmaśaktyanurūpaṃ annagrahaṇenaitānupalakṣayannetallakṣayati sthāpayatītyarthaḥ
+# sent_id = 17190
+# sent_counter = 4
+# sent_subcounter = 
+1	arthaḥ	artha	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=53136|OccId=777854|Unsandhied=arthaḥ|UnsandhiedReconstructed=True
+2	etān	etad	PRON	_	Case=Acc|Gender=Masc|Number=Plur	_	_	_	LemmaId=163744|OccId=777939|Unsandhied=etān|UnsandhiedReconstructed=True
+3	prabhāvena	prabhāva	NOUN	_	Case=Ins|Gender=Masc|Number=Sing	_	_	_	LemmaId=140977|OccId=1997064|Unsandhied=prabhāvena|UnsandhiedReconstructed=True
 

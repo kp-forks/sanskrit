@@ -485,12 +485,16 @@
 # sent_id = 12585
 # sent_counter = 19
 # sent_subcounter = 1
-1-2	aśāntopadrave	_	_	_	_	_	_	_	_
-1	aśānta	aśānta	ADJ	_	Case=Cpd	_	_	_	LemmaId=59928|OccId=1451170|Unsandhied=aśānta|UnsandhiedReconstructed=True
-2	upadrave	upadrava	NOUN	_	Case=Loc|Gender=Masc|Number=Sing	_	_	_	LemmaId=45083|OccId=1451171|Unsandhied=upadrave|UnsandhiedReconstructed=True
-3	tarpaṇaṃ	tarpaṇa	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=96832|OccId=1451172|Unsandhied=tarpaṇam|UnsandhiedReconstructed=True
-4	na	na	PART	_		_	_	_	LemmaId=43432|OccId=1451173|Unsandhied=na|UnsandhiedReconstructed=True
-5	praśasyate	praśaṃs	VERB	_	Tense=Pres|Mood=Ind|Voice=Pass|Person=3|Number=Sing	_	_	_	LemmaId=163082|OccId=1451174|Unsandhied=praśasyate
+1-3	aśāntopadrave	_	_	_	_	_	_	_	_
+1	a	a	PART	_		_	_	_	LemmaId=213048|OccId=6061049|Unsandhied=a
+2	śānta	śam	VERB	_	Case=Cpd|VerbForm=Part	_	_	_	LemmaId=157809|OccId=6061050|Unsandhied=śānta
+3	upadrave	upadrava	NOUN	_	Case=Loc|Gender=Neut|Number=Sing	_	_	_	LemmaId=45083|OccId=6061051|Unsandhied=upadrave
+4-5	cākṣṇi	_	_	_	_	_	_	_	_
+4	ca	ca	CONJ	_		_	_	_	LemmaId=157144|OccId=6061052|Unsandhied=ca
+5	akṣṇi	akṣi	NOUN	_	Case=Loc|Gender=Neut|Number=Sing	_	_	_	LemmaId=167156|OccId=6061053|Unsandhied=akṣṇi
+6	tarpaṇaṃ	tarpaṇa	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=96832|OccId=1451172|Unsandhied=tarpaṇam|UnsandhiedReconstructed=True
+7	na	na	PART	_		_	_	_	LemmaId=43432|OccId=1451173|Unsandhied=na|UnsandhiedReconstructed=True
+8	praśasyate	praśaṃs	VERB	_	Tense=Pres|Mood=Ind|Voice=Pass|Person=3|Number=Sing	_	_	_	LemmaId=163082|OccId=1451174|Unsandhied=praśasyate
 
 # text = puṭapākastathaiteṣu nasyaṃ yeṣu ca garhitam
 # sent_id = 12586

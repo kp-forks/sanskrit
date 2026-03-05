@@ -1,0 +1,368 @@
+## text: Kātyāyanaśrautasūtra
+## text_id: 509
+## chapter: KātyŚS, 7, 8
+## chapter_id: 17529
+# text = pañcakṛtvaḥ somaṃ paṇate
+# sent_id = 698474
+# sent_counter = 1
+# sent_subcounter = 
+1-2	pañcakṛtvaḥ	_	_	_	_	_	_	_	_
+1	pañca	pañcan	NUM	_	Case=Cpd	_	_	_	LemmaId=165692|OccId=6038279|Unsandhied=pañca
+2	kṛtvas	kṛtvas	ADV	_		_	_	_	LemmaId=3786|OccId=6038280|Unsandhied=kṛtvas
+3	somaṃ	soma	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	_	_	_	LemmaId=100106|OccId=6038281|Unsandhied=somam
+4	paṇate	paṇ	VERB	_	Tense=Pres|Mood=Ind|Person=3|Number=Sing	_	_	_	LemmaId=159554|OccId=6038282|Unsandhied=paṇate
+
+# text = sa āha somavikrayin krayyas te somo rājā3 iti
+# sent_id = 698475
+# sent_counter = 2
+# sent_subcounter = 
+1	sa	tad	PRON	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=37875|OccId=6038283|Unsandhied=saḥ
+2	āha	ah	VERB	_	Tense=Past|Mood=Ind|Person=3|Number=Sing	_	_	_	LemmaId=156124|OccId=6038284|Unsandhied=āha
+3-4	somavikrayin	_	_	_	_	_	_	_	_
+3	soma	soma	NOUN	_	Case=Cpd	_	_	_	LemmaId=100106|OccId=6038285|Unsandhied=soma
+4	vikrayin	vikrayin	ADJ	_	Case=Voc|Gender=Masc|Number=Sing	_	_	_	LemmaId=204200|OccId=6038286|Unsandhied=vikrayin
+5	krayyas	krī	VERB	_	Case=Nom|Gender=Masc|Number=Sing|VerbForm=Gdv	_	_	_	LemmaId=156180|OccId=6038287|Unsandhied=krayyaḥ
+6	te	tvad	PRON	_	Case=Gen|Number=Sing	_	_	_	LemmaId=37880|OccId=6038288|Unsandhied=te
+7	somo	soma	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=100106|OccId=6038289|Unsandhied=somaḥ
+8	rājā3	rājan	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=70467|OccId=6038290|Unsandhied=rājā
+9	iti	iti	PART	_		_	_	_	LemmaId=63331|OccId=6038291|Unsandhied=iti
+
+# text = krayya ity āha somavikrayī
+# sent_id = 698476
+# sent_counter = 3
+# sent_subcounter = 
+1	krayya	krī	VERB	_	Case=Nom|Gender=Masc|Number=Sing|VerbForm=Gdv	_	_	_	LemmaId=156180|OccId=6038292|Unsandhied=krayyaḥ
+2	ity	iti	PART	_		_	_	_	LemmaId=63331|OccId=6038293|Unsandhied=iti
+3	āha	ah	VERB	_	Tense=Past|Mood=Ind|Person=3|Number=Sing	_	_	_	LemmaId=156124|OccId=6038294|Unsandhied=āha
+4-5	somavikrayī	_	_	_	_	_	_	_	_
+4	soma	soma	NOUN	_	Case=Cpd	_	_	_	LemmaId=100106|OccId=6038295|Unsandhied=soma
+5	vikrayī	vikrayin	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=204200|OccId=6038296|Unsandhied=vikrayī|Punctuation=fullStop
+
+# text = taṃ vai te krīṇānīti
+# sent_id = 698477
+# sent_counter = 4
+# sent_subcounter = 
+1	taṃ	tad	PRON	_	Case=Acc|Gender=Masc|Number=Sing	_	_	_	LemmaId=37875|OccId=6038297|Unsandhied=tam
+2	vai	vai	PART	_		_	_	_	LemmaId=118154|OccId=6038298|Unsandhied=vai
+3	te	tvad	PRON	_	Case=Dat|Number=Sing	_	_	_	LemmaId=37880|OccId=6038299|Unsandhied=te
+4-5	krīṇānīti	_	_	_	_	_	_	_	_
+4	krīṇāni	krī	VERB	_	Tense=Pres|Mood=Sub|Person=1|Number=Sing	_	_	_	LemmaId=156180|OccId=6038300|Unsandhied=krīṇāni
+5	iti	iti	PART	_		_	_	_	LemmaId=63331|OccId=6038301|Unsandhied=iti
+
+# text = krīṇīhīty āha somavikrayī
+# sent_id = 698478
+# sent_counter = 5
+# sent_subcounter = 
+1-2	krīṇīhīty	_	_	_	_	_	_	_	_
+1	krīṇīhi	krī	VERB	_	Tense=Pres|Mood=Imp|Person=2|Number=Sing	_	_	_	LemmaId=156180|OccId=6038302|Unsandhied=krīṇīhi
+2	iti	iti	PART	_		_	_	_	LemmaId=63331|OccId=6038303|Unsandhied=iti
+3	āha	ah	VERB	_	Tense=Past|Mood=Ind|Person=3|Number=Sing	_	_	_	LemmaId=156124|OccId=6038304|Unsandhied=āha
+4-5	somavikrayī	_	_	_	_	_	_	_	_
+4	soma	soma	NOUN	_	Case=Cpd	_	_	_	LemmaId=100106|OccId=6038305|Unsandhied=soma
+5	vikrayī	vikrayin	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=204200|OccId=6038306|Unsandhied=vikrayī|Punctuation=fullStop
+
+# text = kalayā te krīṇānīti
+# sent_id = 698479
+# sent_counter = 6
+# sent_subcounter = 
+1	kalayā	kalā	NOUN	_	Case=Ins|Gender=Fem|Number=Sing	_	_	_	LemmaId=12562|OccId=6038307|Unsandhied=kalayā
+2	te	tvad	PRON	_	Case=Dat|Number=Sing	_	_	_	LemmaId=37880|OccId=6038308|Unsandhied=te
+3-4	krīṇānīti	_	_	_	_	_	_	_	_
+3	krīṇāni	krī	VERB	_	Tense=Pres|Mood=Sub|Person=1|Number=Sing	_	_	_	LemmaId=156180|OccId=6038309|Unsandhied=krīṇāni
+4	iti	iti	PART	_		_	_	_	LemmaId=63331|OccId=6038310|Unsandhied=iti|Punctuation=fullStop
+
+# text = bhūyo vā ataḥ somo rājārhatīti somavikrayī
+# sent_id = 698480
+# sent_counter = 7
+# sent_subcounter = 
+1	bhūyo	bhūyas	ADJ	_	Case=Acc|Gender=Neut|Number=Sing	_	_	_	LemmaId=25548|OccId=6038311|Unsandhied=bhūyaḥ
+2	vā	vai	PART	_		_	_	_	LemmaId=118154|OccId=6038312|Unsandhied=vai
+3	ataḥ	atas	ADV	_		_	_	_	LemmaId=6823|OccId=6038313|Unsandhied=atas
+4	somo	soma	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=100106|OccId=6038314|Unsandhied=somaḥ
+5-7	rājārhatīti	_	_	_	_	_	_	_	_
+5	rājā	rājan	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=70467|OccId=6038315|Unsandhied=rājā
+6	arhati	arh	VERB	_	Tense=Pres|Mood=Ind|Person=3|Number=Sing	_	_	_	LemmaId=156118|OccId=6038316|Unsandhied=arhati
+7	iti	iti	PART	_		_	_	_	LemmaId=63331|OccId=6038317|Unsandhied=iti
+8-9	somavikrayī	_	_	_	_	_	_	_	_
+8	soma	soma	NOUN	_	Case=Cpd	_	_	_	LemmaId=100106|OccId=6038318|Unsandhied=soma
+9	vikrayī	vikrayin	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=204200|OccId=6038319|Unsandhied=vikrayī|Punctuation=fullStop
+
+# text = bhūya evātaḥ somo rājārhati mahāṃs tv eva gor mahimety adhvaryur gor vai pratidhuk tasyai śṛtaṃ tasyai śaras tasyai dadhi tasyai mastu tasyā ātañcanaṃ tasyai navanītaṃ tasyai ghṛtaṃ tasyā āmikṣā tasyai vājinam iti
+# sent_id = 698481
+# sent_counter = 8
+# sent_subcounter = 
+1	bhūya	bhūyas	ADJ	_	Case=Acc|Gender=Neut|Number=Sing	_	_	_	LemmaId=25548|OccId=6038320|Unsandhied=bhūyaḥ
+2-3	evātaḥ	_	_	_	_	_	_	_	_
+2	eva	eva	PART	_		_	_	_	LemmaId=39754|OccId=6038321|Unsandhied=eva
+3	atas	atas	ADV	_		_	_	_	LemmaId=6823|OccId=6038322|Unsandhied=atas
+4	somo	soma	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=100106|OccId=6038323|Unsandhied=somaḥ
+5-6	rājārhati	_	_	_	_	_	_	_	_
+5	rājā	rājan	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=70467|OccId=6038324|Unsandhied=rājā
+6	arhati	arh	VERB	_	Tense=Pres|Mood=Ind|Person=3|Number=Sing	_	_	_	LemmaId=156118|OccId=6038325|Unsandhied=arhati|Punctuation=fullStop
+7	mahāṃs	mahat	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=37544|OccId=6038326|Unsandhied=mahān
+8	tv	tu	PART	_		_	_	_	LemmaId=82701|OccId=6038327|Unsandhied=tu
+9	eva	eva	PART	_		_	_	_	LemmaId=39754|OccId=6038328|Unsandhied=eva
+10	gor	go	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	_	_	_	LemmaId=166386|OccId=6038329|Unsandhied=goḥ
+11-12	mahimety	_	_	_	_	_	_	_	_
+11	mahimā	mahiman	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=78027|OccId=6038330|Unsandhied=mahimā
+12	iti	iti	PART	_		_	_	_	LemmaId=63331|OccId=6038331|Unsandhied=iti
+13	adhvaryur	adhvaryu	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=9748|OccId=6038332|Unsandhied=adhvaryuḥ
+14	gor	go	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	_	_	_	LemmaId=166386|OccId=6038333|Unsandhied=goḥ
+15	vai	vai	PART	_		_	_	_	LemmaId=118154|OccId=6038334|Unsandhied=vai
+16	pratidhuk	pratiduh	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=139725|OccId=6038335|Unsandhied=pratidhuk
+17	tasyai	tad	PRON	_	Case=Dat|Gender=Fem|Number=Sing	_	_	_	LemmaId=37875|OccId=6038336|Unsandhied=tasyai
+18	śṛtaṃ	śṛta	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=127321|OccId=6038337|Unsandhied=śṛtam
+19	tasyai	tad	PRON	_	Case=Dat|Gender=Fem|Number=Sing	_	_	_	LemmaId=37875|OccId=6038338|Unsandhied=tasyai
+20	śaras	śaras	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=116823|OccId=6038339|Unsandhied=śaraḥ
+21	tasyai	tad	PRON	_	Case=Dat|Gender=Fem|Number=Sing	_	_	_	LemmaId=37875|OccId=6038340|Unsandhied=tasyai
+22	dadhi	dadhi	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=100937|OccId=6038341|Unsandhied=dadhi
+23	tasyai	tad	PRON	_	Case=Dat|Gender=Fem|Number=Sing	_	_	_	LemmaId=37875|OccId=6038342|Unsandhied=tasyai
+24	mastu	mastu	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=37492|OccId=6038343|Unsandhied=mastu
+25	tasyā	tad	PRON	_	Case=Gen|Gender=Fem|Number=Sing	_	_	_	LemmaId=37875|OccId=6038344|Unsandhied=tasyāḥ
+26	ātañcanaṃ	ātañcana	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=57682|OccId=6038345|Unsandhied=ātañcanam
+27	tasyai	tad	PRON	_	Case=Dat|Gender=Fem|Number=Sing	_	_	_	LemmaId=37875|OccId=6038346|Unsandhied=tasyai
+28	navanītaṃ	navanīta	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=44512|OccId=6038347|Unsandhied=navanītam
+29	tasyai	tad	PRON	_	Case=Dat|Gender=Fem|Number=Sing	_	_	_	LemmaId=37875|OccId=6038348|Unsandhied=tasyai
+30	ghṛtaṃ	ghṛta	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=161166|OccId=6038349|Unsandhied=ghṛtam
+31	tasyā	tad	PRON	_	Case=Dat|Gender=Fem|Number=Sing	_	_	_	LemmaId=37875|OccId=6038350|Unsandhied=tasyai
+32	āmikṣā	āmikṣā	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	_	_	_	LemmaId=58997|OccId=6038351|Unsandhied=āmikṣā
+33	tasyai	tad	PRON	_	Case=Dat|Gender=Fem|Number=Sing	_	_	_	LemmaId=37875|OccId=6038352|Unsandhied=tasyai
+34	vājinam	vājina	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=76430|OccId=6038353|Unsandhied=vājinam
+35	iti	iti	PART	_		_	_	_	LemmaId=63331|OccId=6038354|Unsandhied=iti
+
+# text = bhūya evety ataḥprabhṛti catur āvartayati
+# sent_id = 698482
+# sent_counter = 9
+# sent_subcounter = 
+1	bhūya	bhūyas	ADJ	_	Case=Acc|Gender=Neut|Number=Sing	_	_	_	LemmaId=25548|OccId=6038355|Unsandhied=bhūyaḥ
+2-3	evety	_	_	_	_	_	_	_	_
+2	eva	eva	PART	_		_	_	_	LemmaId=39754|OccId=6038356|Unsandhied=eva
+3	iti	iti	PART	_		_	_	_	LemmaId=63331|OccId=6038357|Unsandhied=iti
+4-5	ataḥprabhṛti	_	_	_	_	_	_	_	_
+4	atas	atas	ADV	_		_	_	_	LemmaId=6823|OccId=6038358|Unsandhied=atas
+5	prabhṛti	prabhṛti	ADV	_		_	_	_	LemmaId=165621|OccId=6038359|Unsandhied=prabhṛti
+6	catur	catur	NUM	_	Case=Acc|Gender=Neut|Number=Sing	_	_	_	LemmaId=163231|OccId=6038360|Unsandhied=catuḥ
+7	āvartayati	āvartay	VERB	_	Tense=Pres|Mood=Ind|Person=3|Number=Sing	_	_	_	LemmaId=159958|OccId=6038361|Unsandhied=āvartayati|Punctuation=fullStop
+
+# text = ekaikenānte paṇate śaphena padārdhena gavā
+# sent_id = 698483
+# sent_counter = 10
+# sent_subcounter = 
+1-2	ekaikenānte	_	_	_	_	_	_	_	_
+1	ekaikena	ekaika	PRON	_	Case=Ins|Gender=Masc|Number=Sing	_	_	_	LemmaId=39573|OccId=6038362|Unsandhied=ekaikena
+2	ante	anta	NOUN	_	Case=Loc|Gender=Masc|Number=Sing	_	_	_	LemmaId=11658|OccId=6038363|Unsandhied=ante
+3	paṇate	paṇ	VERB	_	Tense=Pres|Mood=Ind|Person=3|Number=Sing	_	_	_	LemmaId=159554|OccId=6038364|Unsandhied=paṇate
+4	śaphena	śapha	NOUN	_	Case=Ins|Gender=Masc|Number=Sing	_	_	_	LemmaId=116630|OccId=6038365|Unsandhied=śaphena
+5-6	padārdhena	_	_	_	_	_	_	_	_
+5	pada	pada	NOUN	_	Case=Cpd	_	_	_	LemmaId=15753|OccId=6038366|Unsandhied=pada
+6	ardhena	ardha	NOUN	_	Case=Ins|Gender=Neut|Number=Sing	_	_	_	LemmaId=53322|OccId=6038367|Unsandhied=ardhena
+7	gavā	go	NOUN	_	Case=Ins|Gender=Fem|Number=Sing	_	_	_	LemmaId=166386|OccId=6038368|Unsandhied=gavā
+
+# text = te krīṇāmīty antataḥ
+# sent_id = 698484
+# sent_counter = 11
+# sent_subcounter = 
+1	te	tvad	PRON	_	Case=Dat|Number=Sing	_	_	_	LemmaId=37880|OccId=6038369|Unsandhied=te
+2-3	krīṇāmīty	_	_	_	_	_	_	_	_
+2	krīṇāmi	krī	VERB	_	Tense=Pres|Mood=Ind|Person=1|Number=Sing	_	_	_	LemmaId=156180|OccId=6038370|Unsandhied=krīṇāmi
+3	iti	iti	PART	_		_	_	_	LemmaId=63331|OccId=6038371|Unsandhied=iti
+4	antataḥ	anta	NOUN	_	Case=Abl|Gender=Masc|Number=Sing	_	_	_	LemmaId=11658|OccId=6038372|Unsandhied=antataḥ
+
+# text = praśnānte praśnānte
+# sent_id = 698485
+# sent_counter = 12
+# sent_subcounter = 
+1-2	praśnānte	_	_	_	_	_	_	_	_
+1	praśna	praśna	NOUN	_	Case=Cpd	_	_	_	LemmaId=154943|OccId=6038373|Unsandhied=praśna
+2	ante	anta	NOUN	_	Case=Loc|Gender=Masc|Number=Sing	_	_	_	LemmaId=11658|OccId=6038374|Unsandhied=ante
+3-4	praśnānte	_	_	_	_	_	_	_	_
+3	praśna	praśna	NOUN	_	Case=Cpd	_	_	_	LemmaId=154943|OccId=6038375|Unsandhied=praśna
+4	ante	anta	NOUN	_	Case=Loc|Gender=Masc|Number=Sing	_	_	_	LemmaId=11658|OccId=6038376|Unsandhied=ante
+
+# text = krītaḥ somo rājety ante vayāṃsi prabrūhīty āha somavikrayī
+# sent_id = 698486
+# sent_counter = 13
+# sent_subcounter = 
+1	krītaḥ	krī	VERB	_	Case=Nom|Gender=Masc|Number=Sing|VerbForm=Part	_	_	_	LemmaId=156180|OccId=6038377|Unsandhied=krītaḥ
+2	somo	soma	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=100106|OccId=6038378|Unsandhied=somaḥ
+3-4	rājety	_	_	_	_	_	_	_	_
+3	rājā	rājan	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=70467|OccId=6038379|Unsandhied=rājā
+4	iti	iti	PART	_		_	_	_	LemmaId=63331|OccId=6038380|Unsandhied=iti
+5	ante	anta	NOUN	_	Case=Loc|Gender=Masc|Number=Sing	_	_	_	LemmaId=11658|OccId=6038381|Unsandhied=ante
+6	vayāṃsi	vayas	NOUN	_	Case=Acc|Gender=Neut|Number=Plur	_	_	_	LemmaId=68966|OccId=6038382|Unsandhied=vayāṃsi
+7-8	prabrūhīty	_	_	_	_	_	_	_	_
+7	prabrūhi	prabrū	VERB	_	Tense=Pres|Mood=Imp|Person=2|Number=Sing	_	_	_	LemmaId=162934|OccId=6038383|Unsandhied=prabrūhi
+8	iti	iti	PART	_		_	_	_	LemmaId=63331|OccId=6038384|Unsandhied=iti
+9	āha	ah	VERB	_	Tense=Past|Mood=Ind|Person=3|Number=Sing	_	_	_	LemmaId=156124|OccId=6038385|Unsandhied=āha
+10-11	somavikrayī	_	_	_	_	_	_	_	_
+10	soma	soma	NOUN	_	Case=Cpd	_	_	_	LemmaId=100106|OccId=6038386|Unsandhied=soma
+11	vikrayī	vikrayin	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=204200|OccId=6038387|Unsandhied=vikrayī
+
+# text = sa āha candraṃ te vastraṃ te chāgā te dhenus te mithunau te gāvau tisras te 'nyā iti
+# sent_id = 698487
+# sent_counter = 14
+# sent_subcounter = 
+1	sa	tad	PRON	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=37875|OccId=6038388|Unsandhied=saḥ
+2	āha	ah	VERB	_	Tense=Past|Mood=Ind|Person=3|Number=Sing	_	_	_	LemmaId=156124|OccId=6038389|Unsandhied=āha
+3	candraṃ	candra	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=164359|OccId=6038390|Unsandhied=candram
+4	te	tvad	PRON	_	Case=Gen|Number=Sing	_	_	_	LemmaId=37880|OccId=6038391|Unsandhied=te
+5	vastraṃ	vastra	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=75493|OccId=6038392|Unsandhied=vastram
+6	te	tvad	PRON	_	Case=Gen|Number=Sing	_	_	_	LemmaId=37880|OccId=6038393|Unsandhied=te
+7	chāgā	chāgā	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	_	_	_	LemmaId=52636|OccId=6038394|Unsandhied=chāgā
+8	te	tvad	PRON	_	Case=Gen|Number=Sing	_	_	_	LemmaId=37880|OccId=6038395|Unsandhied=te
+9	dhenus	dhenu	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	_	_	_	LemmaId=43076|OccId=6038396|Unsandhied=dhenuḥ
+10	te	tvad	PRON	_	Case=Gen|Number=Sing	_	_	_	LemmaId=37880|OccId=6038397|Unsandhied=te
+11	mithunau	mithuna	ADJ	_	Case=Nom|Gender=Masc|Number=Dual	_	_	_	LemmaId=135871|OccId=6038398|Unsandhied=mithunau
+12	te	tvad	PRON	_	Case=Gen|Number=Sing	_	_	_	LemmaId=37880|OccId=6038399|Unsandhied=te
+13	gāvau	go	NOUN	_	Case=Nom|Gender=Masc|Number=Dual	_	_	_	LemmaId=166386|OccId=6038400|Unsandhied=gāvau
+14	tisras	tri	NUM	_	Case=Nom|Gender=Fem|Number=Plur	_	_	_	LemmaId=166282|OccId=6038401|Unsandhied=tisraḥ
+15	te	tvad	PRON	_	Case=Gen|Number=Sing	_	_	_	LemmaId=37880|OccId=6038402|Unsandhied=te
+16	'nyā	anya	PRON	_	Case=Nom|Gender=Fem|Number=Plur	_	_	_	LemmaId=164189|OccId=6038403|Unsandhied=anyāḥ
+17	iti	iti	PART	_		_	_	_	LemmaId=63331|OccId=6038404|Unsandhied=iti
+
+# text = śukraṃ tveti hiraṇyam ālambhya vācayati
+# sent_id = 698488
+# sent_counter = 15
+# sent_subcounter = 
+1	śukraṃ	śukra	ADJ	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=126271|OccId=6038405|Unsandhied=śukram
+2-3	tveti	_	_	_	_	_	_	_	_
+2	tvā	tvad	PRON	_	Case=Acc|Number=Sing	_	_	_	LemmaId=37880|OccId=6038406|Unsandhied=tvā
+3	iti	iti	PART	_		_	_	_	LemmaId=63331|OccId=6038407|Unsandhied=iti
+4	hiraṇyam	hiraṇya	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	_	_	_	LemmaId=110191|OccId=6038408|Unsandhied=hiraṇyam
+5	ālambhya	ālambhay	VERB	_	VerbForm=Conv	_	_	_	LemmaId=159908|OccId=6038409|Unsandhied=ālambhya
+6	vācayati	vācay	VERB	_	Tense=Pres|Mood=Ind|Person=3|Number=Sing	_	_	_	LemmaId=169237|OccId=6038410|Unsandhied=vācayati
+
+# text = sagme ta iti somavikrayiṇaṃ hiraṇyenābhikampayati
+# sent_id = 698489
+# sent_counter = 16
+# sent_subcounter = 
+1	sagme	sagma	NOUN	_	Case=Loc|Gender=Masc|Number=Sing	_	_	_	LemmaId=8748|OccId=6038411|Unsandhied=sagme
+2	ta	tvad	PRON	_	Case=Gen|Number=Sing	_	_	_	LemmaId=37880|OccId=6038412|Unsandhied=te
+3	iti	iti	PART	_		_	_	_	LemmaId=63331|OccId=6038413|Unsandhied=iti
+4-5	somavikrayiṇaṃ	_	_	_	_	_	_	_	_
+4	soma	soma	NOUN	_	Case=Cpd	_	_	_	LemmaId=100106|OccId=6038414|Unsandhied=soma
+5	vikrayiṇam	vikrayin	ADJ	_	Case=Acc|Gender=Masc|Number=Sing	_	_	_	LemmaId=204200|OccId=6038415|Unsandhied=vikrayiṇam
+6-7	hiraṇyenābhikampayati	_	_	_	_	_	_	_	_
+6	hiraṇyena	hiraṇya	NOUN	_	Case=Ins|Gender=Neut|Number=Sing	_	_	_	LemmaId=110191|OccId=6038416|Unsandhied=hiraṇyena
+7	abhikampayati	abhikampay	VERB	_	Tense=Pres|Mood=Ind|Person=3|Number=Sing	_	_	_	LemmaId=209422|OccId=6038417|Unsandhied=abhikampayati|Punctuation=fullStop
+
+# text = asme ta iti yajamānasahitaṃ nidadhāti
+# sent_id = 698490
+# sent_counter = 17
+# sent_subcounter = 
+1	asme	mad	PRON	_	Case=Loc|Number=Plur	_	_	_	LemmaId=37879|OccId=6038418|Unsandhied=asme
+2	ta	tvad	PRON	_	Case=Gen|Number=Sing	_	_	_	LemmaId=37880|OccId=6038419|Unsandhied=te
+3	iti	iti	PART	_		_	_	_	LemmaId=63331|OccId=6038420|Unsandhied=iti
+4-5	yajamānasahitaṃ	_	_	_	_	_	_	_	_
+4	yajamāna	yaj	VERB	_	Case=Cpd|Tense=Pres|VerbForm=Part	_	_	_	LemmaId=157422|OccId=6038421|Unsandhied=yajamāna
+5	sahitam	sahita	ADJ	_	Case=Acc|Gender=Neut|Number=Sing	_	_	_	LemmaId=111330|OccId=6038422|Unsandhied=sahitam
+6	nidadhāti	nidhā	VERB	_	Tense=Pres|Mood=Ind|Person=3|Number=Sing	_	_	_	LemmaId=161295|OccId=6038423|Unsandhied=nidadhāti|Punctuation=fullStop
+
+# text = somavikrayy etad ādatte
+# sent_id = 698491
+# sent_counter = 19
+# sent_subcounter = 
+1-2	somavikrayy	_	_	_	_	_	_	_	_
+1	soma	soma	NOUN	_	Case=Cpd	_	_	_	LemmaId=100106|OccId=6039613|Unsandhied=soma
+2	vikrayī	vikrayin	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=204200|OccId=6039614|Unsandhied=vikrayī
+3	etad	etad	PRON	_	Case=Acc|Gender=Neut|Number=Sing	_	_	_	LemmaId=163744|OccId=6039615|Unsandhied=etat
+4	ādatte	ādā	VERB	_	Tense=Pres|Mood=Ind|Person=3|Number=Sing	_	_	_	LemmaId=159774|OccId=6039616|Unsandhied=ādatte|Punctuation=fullStop
+
+# text = ajāṃ pratyaṅmukhīm ālambhya vācayati tapasas tanūr iti
+# sent_id = 698492
+# sent_counter = 20
+# sent_subcounter = 
+1	ajāṃ	ajā	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	_	_	_	LemmaId=6528|OccId=6039617|Unsandhied=ajām
+2-3	pratyaṅmukhīm	_	_	_	_	_	_	_	_
+2	pratyak	pratyañc	ADJ	_	Case=Cpd	_	_	_	LemmaId=166384|OccId=6039618|Unsandhied=pratyak
+3	mukhīm	mukha	ADJ	_	Case=Acc|Gender=Fem|Number=Sing	_	_	_	LemmaId=176937|OccId=6039619|Unsandhied=mukhīm
+4	ālambhya	ālambhay	VERB	_	VerbForm=Conv	_	_	_	LemmaId=159908|OccId=6039620|Unsandhied=ālambhya
+5	vācayati	vācay	VERB	_	Tense=Pres|Mood=Ind|Person=3|Number=Sing	_	_	_	LemmaId=169237|OccId=6039621|Unsandhied=vācayati|Punctuation=comma
+6	tapasas	tapas	NOUN	_	Case=Gen|Gender=Neut|Number=Sing	_	_	_	LemmaId=96401|OccId=6039622|Unsandhied=tapasaḥ
+7	tanūr	tanū	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	_	_	_	LemmaId=96222|OccId=6039623|Unsandhied=tanūḥ
+8	iti	iti	PART	_		_	_	_	LemmaId=63331|OccId=6039624|Unsandhied=iti|Punctuation=fullStop
+
+# text = savyenājāṃ prayacchan mitro na iti dakṣiṇena somam
+# sent_id = 698493
+# sent_counter = 21
+# sent_subcounter = 
+1-2	savyenājāṃ	_	_	_	_	_	_	_	_
+1	savyena	savya	ADJ	_	Case=Ins|Gender=Masc|Number=Sing	_	_	_	LemmaId=105472|OccId=6039625|Unsandhied=savyena
+2	ajām	ajā	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	_	_	_	LemmaId=6528|OccId=6039626|Unsandhied=ajām
+3	prayacchan	prayam	VERB	_	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part	_	_	_	LemmaId=162975|OccId=6039661|Unsandhied=prayacchan|Punctuation=comma
+4	mitro	mitra	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=135840|OccId=6039627|Unsandhied=mitraḥ
+5	na	mad	PRON	_	Case=Acc|Number=Plur	_	_	_	LemmaId=37879|OccId=6039628|Unsandhied=naḥ
+6	iti	iti	PART	_		_	_	_	LemmaId=63331|OccId=6039629|Unsandhied=iti|Punctuation=comma
+7	dakṣiṇena	dakṣiṇa	ADJ	_	Case=Ins|Gender=Masc|Number=Sing	_	_	_	LemmaId=100605|OccId=6039630|Unsandhied=dakṣiṇena
+8	somam	soma	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	_	_	_	LemmaId=100106|OccId=6039631|Unsandhied=somam|Punctuation=fullStop
+
+# text = ādāyāgata uttiṣṭhati vā
+# sent_id = 698494
+# sent_counter = 22
+# sent_subcounter = 
+1-2	ādāyāgata	_	_	_	_	_	_	_	_
+1	ādāya	ādā	VERB	_	VerbForm=Conv	_	_	_	LemmaId=159774|OccId=6039632|Unsandhied=ādāya
+2	āgate	āgam	VERB	_	Case=Loc|Gender=Masc|Number=Sing|VerbForm=Part	_	_	_	LemmaId=159723|OccId=6039633|Unsandhied=āgate
+3	uttiṣṭhati	utthā	VERB	_	Tense=Pres|Mood=Ind|Person=3|Number=Sing	_	_	_	LemmaId=160135|OccId=6039634|Unsandhied=uttiṣṭhati
+4	vā	vā	CONJ	_		_	_	_	LemmaId=75765|OccId=6039635|Unsandhied=vā|Punctuation=fullStop
+
+# text = dīkṣitorau dakṣiṇe pratyuhya vāso nidadhātīndrasyorum iti
+# sent_id = 698495
+# sent_counter = 23
+# sent_subcounter = 
+1-2	dīkṣitorau	_	_	_	_	_	_	_	_
+1	dīkṣita	dīkṣ	VERB	_	Case=Cpd|VerbForm=Part	_	_	_	LemmaId=158652|OccId=6039636|Unsandhied=dīkṣita
+2	ūrau	ūru	NOUN	_	Case=Loc|Gender=Masc|Number=Sing	_	_	_	LemmaId=38368|OccId=6039637|Unsandhied=ūrau
+3	dakṣiṇe	dakṣiṇa	ADJ	_	Case=Loc|Gender=Masc|Number=Sing	_	_	_	LemmaId=100605|OccId=6039638|Unsandhied=dakṣiṇe
+4	pratyuhya	pratyūh	VERB	_	VerbForm=Conv	_	_	_	LemmaId=162866|OccId=6039639|Unsandhied=pratyuhya|Punctuation=comma
+5	vāso	vāsas	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	_	_	_	LemmaId=46937|OccId=6039640|Unsandhied=vāsaḥ
+6-8	nidadhātīndrasyorum	_	_	_	_	_	_	_	_
+6	nidadhāti	nidhā	VERB	_	Tense=Pres|Mood=Ind|Person=3|Number=Sing	_	_	_	LemmaId=161295|OccId=6039641|Unsandhied=nidadhāti
+7	indrasya	indra	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	_	_	_	LemmaId=63463|OccId=6039642|Unsandhied=indrasya
+8	ūrum	ūru	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	_	_	_	LemmaId=38368|OccId=6039643|Unsandhied=ūrum
+9	iti	iti	PART	_		_	_	_	LemmaId=63331|OccId=6039644|Unsandhied=iti|Punctuation=fullStop
+
+# text = svāna bhrājeti japati somavikrayiṇam īkṣamāṇaḥ
+# sent_id = 698496
+# sent_counter = 24
+# sent_subcounter = 
+1	svāna	svāna	NOUN	_	Case=Voc|Gender=Masc|Number=Sing	_	_	_	LemmaId=121673|OccId=6039666|Unsandhied=svāna
+2-3	bhrājeti	_	_	_	_	_	_	_	_
+2	bhrāja	bhrāja	NOUN	_	Case=Voc|Gender=Masc|Number=Sing	_	_	_	LemmaId=214986|OccId=6039662|Unsandhied=bhrāja
+3	iti	iti	PART	_		_	_	_	LemmaId=63331|OccId=6039663|Unsandhied=iti
+4	japati	jap	VERB	_	Tense=Pres|Mood=Ind|Person=3|Number=Sing	_	_	_	LemmaId=156585|OccId=6039646|Unsandhied=japati
+5-6	somavikrayiṇam	_	_	_	_	_	_	_	_
+5	soma	soma	NOUN	_	Case=Cpd	_	_	_	LemmaId=100106|OccId=6039647|Unsandhied=soma
+6	vikrayiṇam	vikrayin	ADJ	_	Case=Acc|Gender=Masc|Number=Sing	_	_	_	LemmaId=204200|OccId=6039648|Unsandhied=vikrayiṇam
+7	īkṣamāṇaḥ	īkṣ	VERB	_	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part	_	_	_	LemmaId=156133|OccId=6039649|Unsandhied=īkṣamāṇaḥ|Punctuation=fullStop
+
+# text = aporṇute dīkṣitaḥ śiraḥ
+# sent_id = 698497
+# sent_counter = 25
+# sent_subcounter = 
+1	aporṇute	apāvṛ	VERB	_	Tense=Pres|Mood=Ind|Person=3|Number=Sing	_	_	_	LemmaId=158507|OccId=6039650|Unsandhied=aporṇute
+2	dīkṣitaḥ	dīkṣ	VERB	_	Case=Nom|Gender=Masc|Number=Sing|VerbForm=Part	_	_	_	LemmaId=158652|OccId=6039651|Unsandhied=dīkṣitaḥ
+3	śiraḥ	śiras	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	_	_	_	LemmaId=131805|OccId=6039652|Unsandhied=śiraḥ|Punctuation=comma
+
+# text = patnī ca
+# sent_id = 698498
+# sent_counter = 26
+# sent_subcounter = 
+1	patnī	patnī	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	_	_	_	LemmaId=15670|OccId=6039653|Unsandhied=patnī
+2	ca	ca	CONJ	_		_	_	_	LemmaId=157144|OccId=6039654|Unsandhied=ca|Punctuation=fullStop
+
+# text = hiraṇyaṃ sahasācchidya pṛṣatā varatrākāṇḍenāhanti vā
+# sent_id = 698499
+# sent_counter = 27
+# sent_subcounter = 
+1	hiraṇyaṃ	hiraṇya	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	_	_	_	LemmaId=110191|OccId=6039655|Unsandhied=hiraṇyam
+2-3	sahasācchidya	_	_	_	_	_	_	_	_
+2	sahasā	sahas	NOUN	_	Case=Ins|Gender=Neut|Number=Sing	_	_	_	LemmaId=105710|OccId=6039664|Unsandhied=sahasā
+3	ācchidya	ācchid	VERB	_	VerbForm=Conv	_	_	_	LemmaId=159746|OccId=6039665|Unsandhied=ācchidya|Punctuation=comma
+4	pṛṣatā	pṛṣat	ADJ	_	Case=Ins|Gender=Masc|Number=Sing	_	_	_	LemmaId=150074|OccId=6039656|Unsandhied=pṛṣatā
+5-7	varatrākāṇḍenāhanti	_	_	_	_	_	_	_	_
+5	varatrā	varatrā	NOUN	_	Case=Cpd	_	_	_	LemmaId=69038|OccId=6039657|Unsandhied=varatrā
+6	kāṇḍena	kāṇḍa	NOUN	_	Case=Ins|Gender=Masc|Number=Sing	_	_	_	LemmaId=13462|OccId=6039658|Unsandhied=kāṇḍena
+7	āhanti	āhan	VERB	_	Tense=Pres|Mood=Ind|Person=3|Number=Sing	_	_	_	LemmaId=160033|OccId=6039659|Unsandhied=āhanti
+8	vā	vā	CONJ	_		_	_	_	LemmaId=75765|OccId=6039660|Unsandhied=vā|Punctuation=fullStop
+

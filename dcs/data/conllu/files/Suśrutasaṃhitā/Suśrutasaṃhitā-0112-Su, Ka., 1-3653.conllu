@@ -1095,11 +1095,13 @@
 # sent_counter = 42
 # sent_subcounter = 2
 1	āṭopaṃ	āṭopa	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	_	_	_	LemmaId=57631|OccId=1420490|Unsandhied=āṭopam|UnsandhiedReconstructed=True
-2	pāṇḍutāṃ	pāṇḍutā	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	_	_	_	LemmaId=93371|OccId=1420491|Unsandhied=pāṇḍutām|UnsandhiedReconstructed=True
-3	kārśyaṃ	kārśya	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	_	_	_	LemmaId=22548|OccId=1420492|Unsandhied=kārśyam|UnsandhiedReconstructed=True
-4	kuryāt	kṛ	VERB	_	Tense=Pres|Mood=Opt|Person=3|Number=Sing	_	_	_	LemmaId=156168|OccId=1420493|Unsandhied=kuryāt
-5	pakvāśayaṃ	pakvāśaya	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	_	_	_	LemmaId=172292|OccId=1420494|Unsandhied=pakvāśayam|UnsandhiedReconstructed=True
-6	gatam	gam	VERB	_	Case=Nom|Gender=Neut|Number=Sing|VerbForm=Part	_	_	_	LemmaId=156214|OccId=1420495|Unsandhied=gatam|UnsandhiedReconstructed=True
+2-3	pāṇḍutāṃ	_	_	_	_	_	_	_	_
+2	pāṇḍu	pāṇḍu	ADJ	_	Case=Cpd	_	_	_	LemmaId=93361|OccId=6012393|Unsandhied=pāṇḍu
+3	tām	tā	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	_	_	_	LemmaId=203679|OccId=6012394|Unsandhied=tām
+4	kārśyaṃ	kārśya	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	_	_	_	LemmaId=22548|OccId=1420492|Unsandhied=kārśyam|UnsandhiedReconstructed=True
+5	kuryāt	kṛ	VERB	_	Tense=Pres|Mood=Opt|Person=3|Number=Sing	_	_	_	LemmaId=156168|OccId=1420493|Unsandhied=kuryāt
+6	pakvāśayaṃ	pakvāśaya	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	_	_	_	LemmaId=172292|OccId=1420494|Unsandhied=pakvāśayam|UnsandhiedReconstructed=True
+7	gatam	gam	VERB	_	Case=Nom|Gender=Neut|Number=Sing|VerbForm=Part	_	_	_	LemmaId=156214|OccId=1420495|Unsandhied=gatam|UnsandhiedReconstructed=True
 
 # text = virecanaṃ sasarpiṣkaṃ tatroktaṃ nīlinīphalam
 # sent_id = 10625

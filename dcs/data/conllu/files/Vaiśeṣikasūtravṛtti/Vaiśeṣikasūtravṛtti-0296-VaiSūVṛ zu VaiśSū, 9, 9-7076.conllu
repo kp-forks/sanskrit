@@ -2,8 +2,8 @@
 ## text_id: 371
 ## chapter: VaiSūVṛ zu VaiśSū, 9, 9
 ## chapter_id: 7076
-# text = prākpradhvaṃsopādhyabhāvebhyo yadatyantābhāvarūpaṃ śaśaviṣāṇādi tad abhūtam nāsti iti paryāyaśabdābhyāmavyatiriktamucyate nāsya paryāyaśabdair arthāntaratā kathyate ato 'sya paryāyaśabdairevopadarśanaṃ lakṣaṇam nāsya deśakālādiniṣedhaḥ
-# sent_id = 475991
+# text = prākpradhvaṃsopādhyabhāvebhyo yadatyantābhāvarūpaṃ śaśaviṣāṇādi tad abhūtam nāsti iti paryāyaśabdābhyām avyatiriktam ucyate nāsya paryāyaśabdair arthāntaratā kathyate ato 'sya paryāyaśabdairevopadarśanaṃ lakṣaṇam nāsya deśakālādiniṣedhaḥ
+# sent_id = 476000
 # sent_counter = 1
 # sent_subcounter = 
 1-4	prākpradhvaṃsopādhyabhāvebhyo	_	_	_	_	_	_	_	_
@@ -25,41 +25,43 @@
 13	na	na	PART	_		_	_	_	LemmaId=43432|OccId=2594016|Unsandhied=na|UnsandhiedReconstructed=True
 14	asti	as	VERB	_	Tense=Pres|Mood=Ind|Person=3|Number=Sing	_	_	_	LemmaId=156122|OccId=2594017|Unsandhied=asti
 15	iti	iti	PART	_		_	_	_	LemmaId=63331|OccId=2594018|Unsandhied=iti|UnsandhiedReconstructed=True
-16-19	paryāyaśabdābhyāmavyatiriktamucyate	_	_	_	_	_	_	_	_
-16	paryāya	paryāya	NOUN	_	Case=Cpd	_	_	_	LemmaId=19874|OccId=2594019|Unsandhied=paryāya|UnsandhiedReconstructed=True
-17	śabdābhyām	śabda	NOUN	_	Case=Ins|Gender=Masc|Number=Dual	_	_	_	LemmaId=116648|OccId=2594020|Unsandhied=śabdābhyām|UnsandhiedReconstructed=True
-18	avyatiriktam	avyatirikta	ADJ	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=167926|OccId=2594021|Unsandhied=avyatiriktam|UnsandhiedReconstructed=True
-19	ucyate	vac	VERB	_	Tense=Pres|Mood=Ind|Voice=Pass|Person=3|Number=Sing	_	_	_	LemmaId=157264|OccId=2594022|Unsandhied=ucyate|Punctuation=comma
-20-21	nāsya	_	_	_	_	_	_	_	_
-20	na	na	PART	_		_	_	_	LemmaId=43432|OccId=2594023|Unsandhied=na|UnsandhiedReconstructed=True
-21	asya	idam	PRON	_	Case=Gen|Gender=Masc|Number=Sing	_	_	_	LemmaId=37876|OccId=2594024|Unsandhied=asya|UnsandhiedReconstructed=True
-22-23	paryāyaśabdair	_	_	_	_	_	_	_	_
-22	paryāya	paryāya	NOUN	_	Case=Cpd	_	_	_	LemmaId=19874|OccId=2594061|Unsandhied=paryāya|UnsandhiedReconstructed=True
-23	śabdaiḥ	śabda	NOUN	_	Case=Ins|Gender=Masc|Number=Plur	_	_	_	LemmaId=116648|OccId=2594062|Unsandhied=śabdaiḥ|UnsandhiedReconstructed=True
-24-26	arthāntaratā	_	_	_	_	_	_	_	_
-24	artha	artha	NOUN	_	Case=Cpd	_	_	_	LemmaId=53136|OccId=2594063|Unsandhied=artha|UnsandhiedReconstructed=True
-25	antara	antara	ADJ	_	Case=Cpd	_	_	_	LemmaId=11865|OccId=2594064|Unsandhied=antara|UnsandhiedReconstructed=True
-26	tā	tā	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	_	_	_	LemmaId=203679|OccId=2594065|Unsandhied=tā|UnsandhiedReconstructed=True
-27	kathyate	kathay	VERB	_	Tense=Pres|Mood=Ind|Voice=Pass|Person=3|Number=Sing	_	_	_	LemmaId=156154|OccId=2594025|Unsandhied=kathyate|Punctuation=comma
-28	ato	atas	ADV	_		_	_	_	LemmaId=6823|OccId=2594026|Unsandhied=atas|UnsandhiedReconstructed=True
-29	'sya	idam	PRON	_	Case=Gen|Gender=Masc|Number=Sing	_	_	_	LemmaId=37876|OccId=2594027|Unsandhied=asya|UnsandhiedReconstructed=True
-30-33	paryāyaśabdairevopadarśanaṃ	_	_	_	_	_	_	_	_
-30	paryāya	paryāya	NOUN	_	Case=Cpd	_	_	_	LemmaId=19874|OccId=2594028|Unsandhied=paryāya|UnsandhiedReconstructed=True
-31	śabdaiḥ	śabda	NOUN	_	Case=Ins|Gender=Masc|Number=Plur	_	_	_	LemmaId=116648|OccId=2594029|Unsandhied=śabdaiḥ|UnsandhiedReconstructed=True
-32	eva	eva	PART	_		_	_	_	LemmaId=39754|OccId=2594030|Unsandhied=eva|UnsandhiedReconstructed=True
-33	upadarśanam	upadarśana	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=45070|OccId=2594031|Unsandhied=upadarśanam|UnsandhiedReconstructed=True
-34	lakṣaṇam	lakṣaṇa	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=80283|OccId=2594032|Unsandhied=lakṣaṇam|UnsandhiedReconstructed=True
-35-36	nāsya	_	_	_	_	_	_	_	_
-35	na	na	PART	_		_	_	_	LemmaId=43432|OccId=2594033|Unsandhied=na|UnsandhiedReconstructed=True
-36	asya	idam	PRON	_	Case=Gen|Gender=Masc|Number=Sing	_	_	_	LemmaId=37876|OccId=2594034|Unsandhied=asya|UnsandhiedReconstructed=True
-37-40	deśakālādiniṣedhaḥ	_	_	_	_	_	_	_	_
-37	deśa	deśa	NOUN	_	Case=Cpd	_	_	_	LemmaId=87204|OccId=2594035|Unsandhied=deśa|UnsandhiedReconstructed=True
-38	kāla	kāla	NOUN	_	Case=Cpd	_	_	_	LemmaId=22761|OccId=2594036|Unsandhied=kāla|UnsandhiedReconstructed=True
-39	ādi	ādi	NOUN	_	Case=Cpd	_	_	_	LemmaId=57973|OccId=2594037|Unsandhied=ādi|UnsandhiedReconstructed=True
-40	niṣedhaḥ	niṣedha	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=28253|OccId=2594038|Unsandhied=niṣedhaḥ|UnsandhiedReconstructed=True|Punctuation=fullStop
+16-17	paryāyaśabdābhyām	_	_	_	_	_	_	_	_
+16	paryāya	paryāya	NOUN	_	Case=Cpd	_	_	_	LemmaId=19874|OccId=6023580|Unsandhied=paryāya
+17	śabdābhyām	śabda	NOUN	_	Case=Ins|Gender=Masc|Number=Dual	_	_	_	LemmaId=116648|OccId=6023581|Unsandhied=śabdābhyām
+18-19	avyatiriktam	_	_	_	_	_	_	_	_
+18	a	a	PART	_		_	_	_	LemmaId=213048|OccId=6023582|Unsandhied=a
+19	vyatiriktam	vyatiric	VERB	_	Case=Nom|Gender=Neut|Number=Sing|VerbForm=Part	_	_	_	LemmaId=164526|OccId=6023583|Unsandhied=vyatiriktam
+20	ucyate	vac	VERB	_	Tense=Pres|Mood=Ind|Voice=Pass|Person=3|Number=Sing	_	_	_	LemmaId=157264|OccId=6023584|Unsandhied=ucyate
+21-22	nāsya	_	_	_	_	_	_	_	_
+21	na	na	PART	_		_	_	_	LemmaId=43432|OccId=2594023|Unsandhied=na|UnsandhiedReconstructed=True
+22	asya	idam	PRON	_	Case=Gen|Gender=Masc|Number=Sing	_	_	_	LemmaId=37876|OccId=2594024|Unsandhied=asya|UnsandhiedReconstructed=True
+23-24	paryāyaśabdair	_	_	_	_	_	_	_	_
+23	paryāya	paryāya	NOUN	_	Case=Cpd	_	_	_	LemmaId=19874|OccId=2594061|Unsandhied=paryāya|UnsandhiedReconstructed=True
+24	śabdaiḥ	śabda	NOUN	_	Case=Ins|Gender=Masc|Number=Plur	_	_	_	LemmaId=116648|OccId=2594062|Unsandhied=śabdaiḥ|UnsandhiedReconstructed=True
+25-27	arthāntaratā	_	_	_	_	_	_	_	_
+25	artha	artha	NOUN	_	Case=Cpd	_	_	_	LemmaId=53136|OccId=2594063|Unsandhied=artha|UnsandhiedReconstructed=True
+26	antara	antara	ADJ	_	Case=Cpd	_	_	_	LemmaId=11865|OccId=2594064|Unsandhied=antara|UnsandhiedReconstructed=True
+27	tā	tā	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	_	_	_	LemmaId=203679|OccId=2594065|Unsandhied=tā|UnsandhiedReconstructed=True
+28	kathyate	kathay	VERB	_	Tense=Pres|Mood=Ind|Voice=Pass|Person=3|Number=Sing	_	_	_	LemmaId=156154|OccId=2594025|Unsandhied=kathyate|Punctuation=comma
+29	ato	atas	ADV	_		_	_	_	LemmaId=6823|OccId=2594026|Unsandhied=atas|UnsandhiedReconstructed=True
+30	'sya	idam	PRON	_	Case=Gen|Gender=Masc|Number=Sing	_	_	_	LemmaId=37876|OccId=2594027|Unsandhied=asya|UnsandhiedReconstructed=True
+31-34	paryāyaśabdairevopadarśanaṃ	_	_	_	_	_	_	_	_
+31	paryāya	paryāya	NOUN	_	Case=Cpd	_	_	_	LemmaId=19874|OccId=2594028|Unsandhied=paryāya|UnsandhiedReconstructed=True
+32	śabdaiḥ	śabda	NOUN	_	Case=Ins|Gender=Masc|Number=Plur	_	_	_	LemmaId=116648|OccId=2594029|Unsandhied=śabdaiḥ|UnsandhiedReconstructed=True
+33	eva	eva	PART	_		_	_	_	LemmaId=39754|OccId=2594030|Unsandhied=eva|UnsandhiedReconstructed=True
+34	upadarśanam	upadarśana	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=45070|OccId=2594031|Unsandhied=upadarśanam|UnsandhiedReconstructed=True
+35	lakṣaṇam	lakṣaṇa	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=80283|OccId=2594032|Unsandhied=lakṣaṇam|UnsandhiedReconstructed=True
+36-37	nāsya	_	_	_	_	_	_	_	_
+36	na	na	PART	_		_	_	_	LemmaId=43432|OccId=2594033|Unsandhied=na|UnsandhiedReconstructed=True
+37	asya	idam	PRON	_	Case=Gen|Gender=Masc|Number=Sing	_	_	_	LemmaId=37876|OccId=2594034|Unsandhied=asya|UnsandhiedReconstructed=True
+38-41	deśakālādiniṣedhaḥ	_	_	_	_	_	_	_	_
+38	deśa	deśa	NOUN	_	Case=Cpd	_	_	_	LemmaId=87204|OccId=2594035|Unsandhied=deśa|UnsandhiedReconstructed=True
+39	kāla	kāla	NOUN	_	Case=Cpd	_	_	_	LemmaId=22761|OccId=2594036|Unsandhied=kāla|UnsandhiedReconstructed=True
+40	ādi	ādi	NOUN	_	Case=Cpd	_	_	_	LemmaId=57973|OccId=2594037|Unsandhied=ādi|UnsandhiedReconstructed=True
+41	niṣedhaḥ	niṣedha	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=28253|OccId=2594038|Unsandhied=niṣedhaḥ|UnsandhiedReconstructed=True|Punctuation=fullStop
 
 # text = anyatra tu
-# sent_id = 475992
+# sent_id = 476001
 # sent_counter = 2
 # sent_subcounter = 
 1	anyatra	anyatra	ADV	_		_	_	_	LemmaId=20511|OccId=2594072|Unsandhied=anyatra|UnsandhiedReconstructed=True

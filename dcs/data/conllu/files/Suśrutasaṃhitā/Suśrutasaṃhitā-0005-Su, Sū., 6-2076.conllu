@@ -414,7 +414,7 @@
 43	prāvṛḍ	prāvṛṣ	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	_	_	_	LemmaId=153149|OccId=597415|Unsandhied=prāvṛṣ|UnsandhiedReconstructed=True|WordSem=66329,66328
 44	iti	iti	PART	_		_	_	_	LemmaId=63331|OccId=597416|Unsandhied=iti|UnsandhiedReconstructed=True
 
-# text = tatra varṣāsvoṣadhayastaruṇyo 'lpavīryā āpaścāprasannāḥ kṣitimalaprāyāḥ tā upayujyamānā nabhasi meghāvatate jalapraklinnāyāṃ bhūmau klinnadehānāṃ prāṇināṃ śītavātaviṣṭambhitāgnīnāṃ vidahyante vidāhāt pittasaṃcayamāpādayanti sa saṃcayaḥ śaradi praviralameghe viyaty upaśuṣyati paṅke 'rkakiraṇapravilāyitaḥ paittikān vyādhīn janayati
+# text = tatra varṣāsvoṣadhayastaruṇyo 'lpavīryā āpaś cāprasannāḥ kṣitimalaprāyāḥ tā upayujyamānā nabhasi meghāvatate jalapraklinnāyāṃ bhūmau klinnadehānāṃ prāṇināṃ śītavātaviṣṭambhitāgnīnāṃ vidahyante vidāhāt pittasaṃcayamāpādayanti sa saṃcayaḥ śaradi praviralameghe viyaty upaśuṣyati paṅke 'rkakiraṇapravilāyitaḥ paittikān vyādhīn janayati
 # sent_id = 1083
 # sent_counter = 11
 # sent_subcounter = 1
@@ -426,55 +426,56 @@
 5-6	'lpavīryā	_	_	_	_	_	_	_	_
 5	alpa	alpa	ADJ	_	Case=Cpd	_	_	_	LemmaId=53831|OccId=597421|Unsandhied=alpa|UnsandhiedReconstructed=True|WordSem=75416
 6	vīryāḥ	vīrya	NOUN	_	Case=Nom|Gender=Fem|Number=Plur	_	_	_	LemmaId=142144|OccId=597422|Unsandhied=vīryāḥ|UnsandhiedReconstructed=True|WordSem=128317
-7-9	āpaścāprasannāḥ	_	_	_	_	_	_	_	_
-7	apaḥ	ap	NOUN	_	Case=Nom|Gender=Fem|Number=Plur	_	_	_	LemmaId=167009|OccId=597423|Unsandhied=apaḥ|UnsandhiedReconstructed=True|WordSem=64492
-8	ca	ca	CONJ	_		_	_	_	LemmaId=157144|OccId=597424|Unsandhied=ca|UnsandhiedReconstructed=True
-9	aprasannāḥ	aprasanna	ADJ	_	Case=Nom|Gender=Masc|Number=Plur	_	_	_	LemmaId=21783|OccId=597425|Unsandhied=aprasannāḥ|UnsandhiedReconstructed=True|WordSem=69005
-10-12	kṣitimalaprāyāḥ	_	_	_	_	_	_	_	_
-10	kṣiti	kṣiti	NOUN	_	Case=Cpd	_	_	_	LemmaId=135449|OccId=597426|Unsandhied=kṣiti|UnsandhiedReconstructed=True|WordSem=64479
-11	mala	mala	NOUN	_	Case=Cpd	_	_	_	LemmaId=37215|OccId=597427|Unsandhied=mala|UnsandhiedReconstructed=True|WordSem=64468
-12	prāyāḥ	prāya	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	_	_	_	LemmaId=153111|OccId=597428|Unsandhied=prāyāḥ|UnsandhiedReconstructed=True|WordSem=23475
-13	tā	tad	PRON	_	Case=Nom|Gender=Fem|Number=Plur	_	_	_	LemmaId=37875|OccId=597429|Unsandhied=tāḥ|UnsandhiedReconstructed=True|WordSem=129840
-14	upayujyamānā	upayuj	VERB	_	Case=Nom|Gender=Fem|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Pass	_	_	_	LemmaId=160518|OccId=597430|Unsandhied=upayujyamānāḥ|UnsandhiedReconstructed=True|WordSem=84872
-15	nabhasi	nabhas	NOUN	_	Case=Loc|Gender=Neut|Number=Sing	_	_	_	LemmaId=44077|OccId=597431|Unsandhied=nabhasi|UnsandhiedReconstructed=True|WordSem=42214
-16-17	meghāvatate	_	_	_	_	_	_	_	_
-16	megha	megha	NOUN	_	Case=Cpd	_	_	_	LemmaId=137750|OccId=597432|Unsandhied=megha|UnsandhiedReconstructed=True|WordSem=42217
-17	avatate	avatan	VERB	_	Case=Loc|Gender=Neut|Number=Sing|VerbForm=Part	_	_	_	LemmaId=159508|OccId=597433|Unsandhied=avatate|UnsandhiedReconstructed=True|WordSem=90299
-18-19	jalapraklinnāyāṃ	_	_	_	_	_	_	_	_
-18	jala	jala	NOUN	_	Case=Cpd	_	_	_	LemmaId=88026|OccId=597434|Unsandhied=jala|UnsandhiedReconstructed=True|WordSem=64492
-19	praklinnāyām	praklid	VERB	_	Case=Loc|Gender=Fem|Number=Sing|VerbForm=Part	_	_	_	LemmaId=162346|OccId=597435|Unsandhied=praklinnāyām|UnsandhiedReconstructed=True|WordSem=85401
-20	bhūmau	bhūmi	NOUN	_	Case=Loc|Gender=Fem|Number=Sing	_	_	_	LemmaId=25418|OccId=597436|Unsandhied=bhūmau|UnsandhiedReconstructed=True|WordSem=64479
-21-22	klinnadehānāṃ	_	_	_	_	_	_	_	_
-21	klinna	klid	VERB	_	Case=Cpd|VerbForm=Part	_	_	_	LemmaId=156186|OccId=597437|Unsandhied=klinna|UnsandhiedReconstructed=True|WordSem=85401
-22	dehānām	deha	NOUN	_	Case=Gen|Gender=Masc|Number=Plur	_	_	_	LemmaId=89764|OccId=597438|Unsandhied=dehānām|UnsandhiedReconstructed=True|WordSem=25712
-23	prāṇināṃ	prāṇin	NOUN	_	Case=Gen|Gender=Masc|Number=Plur	_	_	_	LemmaId=152149|OccId=597439|Unsandhied=prāṇinām|UnsandhiedReconstructed=True|WordSem=569
-24-27	śītavātaviṣṭambhitāgnīnāṃ	_	_	_	_	_	_	_	_
-24	śīta	śīta	ADJ	_	Case=Cpd	_	_	_	LemmaId=126116|OccId=597440|Unsandhied=śīta|UnsandhiedReconstructed=True|WordSem=73661
-25	vāta	vāta	NOUN	_	Case=Cpd	_	_	_	LemmaId=75767|OccId=597441|Unsandhied=vāta|UnsandhiedReconstructed=True|WordSem=49694
-26	viṣṭambhitā	viṣṭambhay	VERB	_	Case=Nom|Gender=Fem|Number=Sing|VerbForm=Part	_	_	_	LemmaId=172318|OccId=597442|Unsandhied=viṣṭambhitā|UnsandhiedReconstructed=True
-27	agnīnām	agni	NOUN	_	Case=Gen|Gender=Masc|Number=Plur	_	_	_	LemmaId=5705|OccId=597443|Unsandhied=agnīnām|UnsandhiedReconstructed=True|WordSem=58732
-28	vidahyante	vidah	VERB	_	Tense=Pres|Mood=Ind|Voice=Pass|Person=3|Number=Plur	_	_	_	LemmaId=163331|OccId=597444|Unsandhied=vidahyante|Punctuation=fullStop|WordSem=89630
-29	vidāhāt	vidāha	NOUN	_	Case=Abl|Gender=Masc|Number=Sing	_	_	_	LemmaId=122750|OccId=597445|Unsandhied=vidāhāt|UnsandhiedReconstructed=True|WordSem=2097
-30-32	pittasaṃcayamāpādayanti	_	_	_	_	_	_	_	_
-30	pitta	pitta	NOUN	_	Case=Cpd	_	_	_	LemmaId=95032|OccId=597446|Unsandhied=pitta|UnsandhiedReconstructed=True|WordSem=100531
-31	saṃcayam	saṃcaya	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	_	_	_	LemmaId=9288|OccId=597447|Unsandhied=saṃcayam|UnsandhiedReconstructed=True|WordSem=128314
-32	āpādayanti	āpāday	VERB	_	Tense=Pres|Mood=Ind|Person=3|Number=Plur	_	_	_	LemmaId=159813|OccId=597448|Unsandhied=āpādayanti|Punctuation=fullStop|WordSem=91730
-33	sa	tad	PRON	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=37875|OccId=597449|Unsandhied=saḥ|UnsandhiedReconstructed=True|WordSem=129840
-34	saṃcayaḥ	saṃcaya	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=9288|OccId=597450|Unsandhied=saṃcayaḥ|UnsandhiedReconstructed=True|WordSem=128314
-35	śaradi	śarad	NOUN	_	Case=Loc|Gender=Fem|Number=Sing	_	_	_	LemmaId=116088|OccId=597451|Unsandhied=śaradi|UnsandhiedReconstructed=True|WordSem=66319
-36-37	praviralameghe	_	_	_	_	_	_	_	_
-36	pravirala	pravirala	ADJ	_	Case=Cpd	_	_	_	LemmaId=154775|OccId=597452|Unsandhied=pravirala|UnsandhiedReconstructed=True|WordSem=69611
-37	meghe	megha	NOUN	_	Case=Loc|Gender=Masc|Number=Sing	_	_	_	LemmaId=137750|OccId=597453|Unsandhied=meghe|UnsandhiedReconstructed=True|WordSem=42217
-38	viyaty	viyant	NOUN	_	Case=Loc|Gender=Neut|Number=Sing	_	_	_	LemmaId=123160|OccId=1351235|Unsandhied=viyanti|UnsandhiedReconstructed=True|WordSem=42214
-39	upaśuṣyati	upaśuṣ	VERB	_	Case=Loc|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part	_	_	_	LemmaId=160567|OccId=597573|Unsandhied=upaśuṣyati|UnsandhiedReconstructed=True|WordSem=85387
-40	paṅke	paṅka	NOUN	_	Case=Loc|Gender=Masc|Number=Sing	_	_	_	LemmaId=14658|OccId=597454|Unsandhied=paṅke|UnsandhiedReconstructed=True|WordSem=65021
-41-43	'rkakiraṇapravilāyitaḥ	_	_	_	_	_	_	_	_
-41	arka	arka	NOUN	_	Case=Cpd	_	_	_	LemmaId=32874|OccId=597578|Unsandhied=arka|UnsandhiedReconstructed=True|WordSem=42311
-42	kiraṇa	kiraṇa	NOUN	_	Case=Cpd	_	_	_	LemmaId=23445|OccId=597579|Unsandhied=kiraṇa|UnsandhiedReconstructed=True|WordSem=49515
-43	pravilāyitaḥ	pravilāyita	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=175443|OccId=597580|Unsandhied=pravilāyitaḥ|UnsandhiedReconstructed=True
-44	paittikān	paittika	ADJ	_	Case=Acc|Gender=Masc|Number=Plur	_	_	_	LemmaId=150219|OccId=597455|Unsandhied=paittikān|UnsandhiedReconstructed=True|WordSem=81762
-45	vyādhīn	vyādhi	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	_	_	_	LemmaId=119173|OccId=597456|Unsandhied=vyādhīn|UnsandhiedReconstructed=True|WordSem=61365
-46	janayati	janay	VERB	_	Tense=Pres|Mood=Ind|Person=3|Number=Sing	_	_	_	LemmaId=157870|OccId=597457|Unsandhied=janayati|Punctuation=fullStop|WordSem=91730
+7	āpaś	ap	NOUN	_	Case=Nom|Gender=Fem|Number=Plur	_	_	_	LemmaId=167009|OccId=6038204|Unsandhied=āpaḥ
+8-10	cāprasannāḥ	_	_	_	_	_	_	_	_
+8	ca	ca	CONJ	_		_	_	_	LemmaId=157144|OccId=6038205|Unsandhied=ca
+9	a	a	PART	_		_	_	_	LemmaId=213048|OccId=6038206|Unsandhied=a
+10	prasannāḥ	prasad	VERB	_	Case=Nom|Gender=Fem|Number=Plur|VerbForm=Part	_	_	_	LemmaId=163102|OccId=6038207|Unsandhied=prasannāḥ
+11-13	kṣitimalaprāyāḥ	_	_	_	_	_	_	_	_
+11	kṣiti	kṣiti	NOUN	_	Case=Cpd	_	_	_	LemmaId=135449|OccId=6038208|Unsandhied=kṣiti
+12	mala	mala	NOUN	_	Case=Cpd	_	_	_	LemmaId=37215|OccId=6038209|Unsandhied=mala
+13	prāyāḥ	prāya	NOUN	_	Case=Nom|Gender=Fem|Number=Plur	_	_	_	LemmaId=153111|OccId=6038210|Unsandhied=prāyāḥ
+14	tā	tad	PRON	_	Case=Nom|Gender=Fem|Number=Plur	_	_	_	LemmaId=37875|OccId=597429|Unsandhied=tāḥ|UnsandhiedReconstructed=True|WordSem=129840
+15	upayujyamānā	upayuj	VERB	_	Case=Nom|Gender=Fem|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Pass	_	_	_	LemmaId=160518|OccId=597430|Unsandhied=upayujyamānāḥ|UnsandhiedReconstructed=True|WordSem=84872
+16	nabhasi	nabhas	NOUN	_	Case=Loc|Gender=Neut|Number=Sing	_	_	_	LemmaId=44077|OccId=597431|Unsandhied=nabhasi|UnsandhiedReconstructed=True|WordSem=42214
+17-18	meghāvatate	_	_	_	_	_	_	_	_
+17	megha	megha	NOUN	_	Case=Cpd	_	_	_	LemmaId=137750|OccId=597432|Unsandhied=megha|UnsandhiedReconstructed=True|WordSem=42217
+18	avatate	avatan	VERB	_	Case=Loc|Gender=Neut|Number=Sing|VerbForm=Part	_	_	_	LemmaId=159508|OccId=597433|Unsandhied=avatate|UnsandhiedReconstructed=True|WordSem=90299
+19-20	jalapraklinnāyāṃ	_	_	_	_	_	_	_	_
+19	jala	jala	NOUN	_	Case=Cpd	_	_	_	LemmaId=88026|OccId=597434|Unsandhied=jala|UnsandhiedReconstructed=True|WordSem=64492
+20	praklinnāyām	praklid	VERB	_	Case=Loc|Gender=Fem|Number=Sing|VerbForm=Part	_	_	_	LemmaId=162346|OccId=597435|Unsandhied=praklinnāyām|UnsandhiedReconstructed=True|WordSem=85401
+21	bhūmau	bhūmi	NOUN	_	Case=Loc|Gender=Fem|Number=Sing	_	_	_	LemmaId=25418|OccId=597436|Unsandhied=bhūmau|UnsandhiedReconstructed=True|WordSem=64479
+22-23	klinnadehānāṃ	_	_	_	_	_	_	_	_
+22	klinna	klid	VERB	_	Case=Cpd|VerbForm=Part	_	_	_	LemmaId=156186|OccId=597437|Unsandhied=klinna|UnsandhiedReconstructed=True|WordSem=85401
+23	dehānām	deha	NOUN	_	Case=Gen|Gender=Masc|Number=Plur	_	_	_	LemmaId=89764|OccId=597438|Unsandhied=dehānām|UnsandhiedReconstructed=True|WordSem=25712
+24	prāṇināṃ	prāṇin	NOUN	_	Case=Gen|Gender=Masc|Number=Plur	_	_	_	LemmaId=152149|OccId=597439|Unsandhied=prāṇinām|UnsandhiedReconstructed=True|WordSem=569
+25-28	śītavātaviṣṭambhitāgnīnāṃ	_	_	_	_	_	_	_	_
+25	śīta	śīta	ADJ	_	Case=Cpd	_	_	_	LemmaId=126116|OccId=597440|Unsandhied=śīta|UnsandhiedReconstructed=True|WordSem=73661
+26	vāta	vāta	NOUN	_	Case=Cpd	_	_	_	LemmaId=75767|OccId=597441|Unsandhied=vāta|UnsandhiedReconstructed=True|WordSem=49694
+27	viṣṭambhitā	viṣṭambhay	VERB	_	Case=Nom|Gender=Fem|Number=Sing|VerbForm=Part	_	_	_	LemmaId=172318|OccId=597442|Unsandhied=viṣṭambhitā|UnsandhiedReconstructed=True
+28	agnīnām	agni	NOUN	_	Case=Gen|Gender=Masc|Number=Plur	_	_	_	LemmaId=5705|OccId=597443|Unsandhied=agnīnām|UnsandhiedReconstructed=True|WordSem=58732
+29	vidahyante	vidah	VERB	_	Tense=Pres|Mood=Ind|Voice=Pass|Person=3|Number=Plur	_	_	_	LemmaId=163331|OccId=597444|Unsandhied=vidahyante|Punctuation=fullStop|WordSem=89630
+30	vidāhāt	vidāha	NOUN	_	Case=Abl|Gender=Masc|Number=Sing	_	_	_	LemmaId=122750|OccId=597445|Unsandhied=vidāhāt|UnsandhiedReconstructed=True|WordSem=2097
+31-33	pittasaṃcayamāpādayanti	_	_	_	_	_	_	_	_
+31	pitta	pitta	NOUN	_	Case=Cpd	_	_	_	LemmaId=95032|OccId=597446|Unsandhied=pitta|UnsandhiedReconstructed=True|WordSem=100531
+32	saṃcayam	saṃcaya	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	_	_	_	LemmaId=9288|OccId=597447|Unsandhied=saṃcayam|UnsandhiedReconstructed=True|WordSem=128314
+33	āpādayanti	āpāday	VERB	_	Tense=Pres|Mood=Ind|Person=3|Number=Plur	_	_	_	LemmaId=159813|OccId=597448|Unsandhied=āpādayanti|Punctuation=fullStop|WordSem=91730
+34	sa	tad	PRON	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=37875|OccId=597449|Unsandhied=saḥ|UnsandhiedReconstructed=True|WordSem=129840
+35	saṃcayaḥ	saṃcaya	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=9288|OccId=597450|Unsandhied=saṃcayaḥ|UnsandhiedReconstructed=True|WordSem=128314
+36	śaradi	śarad	NOUN	_	Case=Loc|Gender=Fem|Number=Sing	_	_	_	LemmaId=116088|OccId=597451|Unsandhied=śaradi|UnsandhiedReconstructed=True|WordSem=66319
+37-38	praviralameghe	_	_	_	_	_	_	_	_
+37	pravirala	pravirala	ADJ	_	Case=Cpd	_	_	_	LemmaId=154775|OccId=597452|Unsandhied=pravirala|UnsandhiedReconstructed=True|WordSem=69611
+38	meghe	megha	NOUN	_	Case=Loc|Gender=Masc|Number=Sing	_	_	_	LemmaId=137750|OccId=597453|Unsandhied=meghe|UnsandhiedReconstructed=True|WordSem=42217
+39	viyaty	viyant	NOUN	_	Case=Loc|Gender=Neut|Number=Sing	_	_	_	LemmaId=123160|OccId=1351235|Unsandhied=viyanti|UnsandhiedReconstructed=True|WordSem=42214
+40	upaśuṣyati	upaśuṣ	VERB	_	Case=Loc|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part	_	_	_	LemmaId=160567|OccId=597573|Unsandhied=upaśuṣyati|UnsandhiedReconstructed=True|WordSem=85387
+41	paṅke	paṅka	NOUN	_	Case=Loc|Gender=Masc|Number=Sing	_	_	_	LemmaId=14658|OccId=597454|Unsandhied=paṅke|UnsandhiedReconstructed=True|WordSem=65021
+42-44	'rkakiraṇapravilāyitaḥ	_	_	_	_	_	_	_	_
+42	arka	arka	NOUN	_	Case=Cpd	_	_	_	LemmaId=32874|OccId=597578|Unsandhied=arka|UnsandhiedReconstructed=True|WordSem=42311
+43	kiraṇa	kiraṇa	NOUN	_	Case=Cpd	_	_	_	LemmaId=23445|OccId=597579|Unsandhied=kiraṇa|UnsandhiedReconstructed=True|WordSem=49515
+44	pravilāyitaḥ	pravilāyita	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=175443|OccId=597580|Unsandhied=pravilāyitaḥ|UnsandhiedReconstructed=True
+45	paittikān	paittika	ADJ	_	Case=Acc|Gender=Masc|Number=Plur	_	_	_	LemmaId=150219|OccId=597455|Unsandhied=paittikān|UnsandhiedReconstructed=True|WordSem=81762
+46	vyādhīn	vyādhi	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	_	_	_	LemmaId=119173|OccId=597456|Unsandhied=vyādhīn|UnsandhiedReconstructed=True|WordSem=61365
+47	janayati	janay	VERB	_	Tense=Pres|Mood=Ind|Person=3|Number=Sing	_	_	_	LemmaId=157870|OccId=597457|Unsandhied=janayati|Punctuation=fullStop|WordSem=91730
 
 # text = tā evauṣadhayaḥ kālapariṇāmāt pariṇatavīryā balavatyo hemante bhavantyāpaś ca prasannāḥ snigdhā atyarthaṃ gurvyaś ca tā upayujyamānā mandakiraṇatvādbhānoḥ satuṣārapavanopastambhitadehānāṃ dehināmavidagdhāḥ snehācchaityādgauravād upalepāc ca śleṣmasaṃcayam āpādayanti sa saṃcayo vasante 'rkaraśmipravilāyita īṣatstabdhadehānāṃ dehināṃ ślaiṣmikān vyādhīn janayati
 # sent_id = 1084

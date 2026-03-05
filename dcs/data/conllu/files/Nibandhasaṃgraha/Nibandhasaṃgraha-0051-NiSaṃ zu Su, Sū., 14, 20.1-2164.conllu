@@ -2,27 +2,20 @@
 ## text_id: 6
 ## chapter: NiSaṃ zu Su, Sū., 14, 20.1
 ## chapter_id: 2164
-# text = prasekaḥ garbhiṇyā kālaviśeṣam prathamaṃ mahauṣadhīnāṃ ityādi
-# sent_id = 16891
+# text = mahauṣadhīnāṃ rājasaṃdarśane ityādi
+# sent_id = 16893
 # sent_counter = 1
 # sent_subcounter = 
-1	kāla	kāla	NOUN	_	Case=Cpd	_	_	_	LemmaId=22761|OccId=601447|Unsandhied=kāla|UnsandhiedReconstructed=True
-2	prasekaḥ	praseka	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=155710|OccId=601731|Unsandhied=prasekaḥ|UnsandhiedReconstructed=True
-3	garbhiṇyāḥ	garbhiṇī	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	_	_	_	LemmaId=129718|OccId=602882|Unsandhied=garbhiṇyāḥ|UnsandhiedReconstructed=True
-4	mahā	mahat	ADJ	_	Case=Cpd	_	_	_	LemmaId=37544|OccId=607365|Unsandhied=mahā|UnsandhiedReconstructed=True
-5	ityādi	ityādi	ADJ	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=63350|OccId=607691|Unsandhied=ityādi|UnsandhiedReconstructed=True
-6	prathamam	prathamam	ADV	_		_	_	_	LemmaId=203383|OccId=2501152|Unsandhied=prathamam|UnsandhiedReconstructed=True
+1	rāja	rājan	NOUN	_	Case=Cpd	_	_	_	LemmaId=70467|OccId=603084|Unsandhied=rāja|UnsandhiedReconstructed=True
+2	mahā	mahat	ADJ	_	Case=Cpd	_	_	_	LemmaId=37544|OccId=607365|Unsandhied=mahā|UnsandhiedReconstructed=True
+3	ityādi	ityādi	ADJ	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=63350|OccId=607691|Unsandhied=ityādi|UnsandhiedReconstructed=True
 
-# text = prāṇamedhākāmaḥ dvijaśabdena hi sāsminnastīti satyo calanaṃ śoṇitasambhavanavacanaṃ kathyante
-# sent_id = 17020
+# text = prāṇamedhākāmaḥ ityuttare vā kathyante
+# sent_id = 17023
 # sent_counter = 2
 # sent_subcounter = 
 1	kāmaḥ	kāma	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=13752|OccId=798833|Unsandhied=kāmaḥ|UnsandhiedReconstructed=True
-2	sā	tad	PRON	_	Case=Nom|Gender=Fem|Number=Sing	_	_	_	LemmaId=37875|OccId=600826|Unsandhied=sā|UnsandhiedReconstructed=True
-3	hi	hi	PART	_		_	_	_	LemmaId=109879|OccId=601348|Unsandhied=hi|UnsandhiedReconstructed=True
-4	dvija	dvija	NOUN	_	Case=Cpd	_	_	_	LemmaId=91276|OccId=601509|Unsandhied=dvija|UnsandhiedReconstructed=True|WordSem=25956
-5	satyaḥ	as	VERB	_	Case=Nom|Gender=Fem|Number=Plur|Tense=Pres|VerbForm=Part	_	_	_	LemmaId=156122|OccId=604405|Unsandhied=satyaḥ|UnsandhiedReconstructed=True
-6	calanam	calana	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=50772|OccId=605097|Unsandhied=calanam|UnsandhiedReconstructed=True
-7	śoṇita	śoṇita	NOUN	_	Case=Cpd	_	_	_	LemmaId=127801|OccId=605463|Unsandhied=śoṇita|UnsandhiedReconstructed=True
-8	kathyante	kathay	VERB	_	Tense=Pres|Mood=Ind|Voice=Pass|Person=3|Number=Plur	_	_	_	LemmaId=156154|OccId=607713|Unsandhied=kathyante
+2	kathyante	kathay	VERB	_	Tense=Pres|Mood=Ind|Voice=Pass|Person=3|Number=Plur	_	_	_	LemmaId=156154|OccId=607713|Unsandhied=kathyante
+3	vā	vā	CONJ	_		_	_	_	LemmaId=75765|OccId=778097|Unsandhied=vā|UnsandhiedReconstructed=True
+4	iti	iti	PART	_		_	_	_	LemmaId=63331|OccId=811373|Unsandhied=iti|UnsandhiedReconstructed=True
 

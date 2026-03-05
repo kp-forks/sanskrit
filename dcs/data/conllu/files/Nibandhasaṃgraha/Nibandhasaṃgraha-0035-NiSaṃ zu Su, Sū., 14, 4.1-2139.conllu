@@ -2,48 +2,57 @@
 ## text_id: 6
 ## chapter: NiSaṃ zu Su, Sū., 14, 4.1
 ## chapter_id: 2139
-# text = mātur kālam śarīradhāraṇād evānnarasa tarhi sa ārtavam khalvityādi
-# sent_id = 16880
+# text = tatraiṣām kālam ārtavam khalvityādi
+# sent_id = 16876
 # sent_counter = 1
 # sent_subcounter = 
-1-8	sa	_	_	_	_	_	_	_	_
-1	mātuḥ	mātṛ	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	_	_	_	LemmaId=78551|OccId=603291|Unsandhied=mātuḥ|UnsandhiedReconstructed=True
-2	khalu	khalu	PART	_		_	_	_	LemmaId=128848|OccId=604363|Unsandhied=khalu|UnsandhiedReconstructed=True
-3	ārtavam	ārtava	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=59545|OccId=604900|Unsandhied=ārtavam|UnsandhiedReconstructed=True
+1	khalu	khalu	PART	_		_	_	_	LemmaId=128848|OccId=604363|Unsandhied=khalu|UnsandhiedReconstructed=True
+2	ārtavam	ārtava	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=59545|OccId=604900|Unsandhied=ārtavam|UnsandhiedReconstructed=True
+3	tatra	tatra	ADV	_		_	_	_	LemmaId=95978|OccId=605794|Unsandhied=tatra|UnsandhiedReconstructed=True
 4	kālam	kāla	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	_	_	_	LemmaId=22761|OccId=605833|Unsandhied=kālam|UnsandhiedReconstructed=True
-5	saḥ	tad	PRON	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=37875|OccId=607249|Unsandhied=saḥ|UnsandhiedReconstructed=True
-6	tarhi	tarhi	ADV	_		_	_	_	LemmaId=96854|OccId=607470|Unsandhied=tarhi|UnsandhiedReconstructed=True
-7	eva	eva	PART	_		_	_	_	LemmaId=39754|OccId=607652|Unsandhied=eva|UnsandhiedReconstructed=True
-8	śarīra	śarīra	NOUN	_	Case=Cpd	_	_	_	LemmaId=116860|OccId=607689|Unsandhied=śarīra|UnsandhiedReconstructed=True
 
-# text = evānnarasa tatraiṣām aṅgapratyaṅganirvṛttiḥ śarīradhāraṇād khalvityādi
-# sent_id = 16883
+# text = śarīradhāraṇād evānnarasa tatraiṣām khalvityādi
+# sent_id = 16884
 # sent_counter = 1
 # sent_subcounter = 
-1	pratyaṅga	pratyaṅga	NOUN	_	Case=Cpd	_	_	_	LemmaId=151842|OccId=603577|Unsandhied=pratyaṅga|UnsandhiedReconstructed=True
-2	ityādi	ityādi	ADJ	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=63350|OccId=604364|Unsandhied=ityādi|UnsandhiedReconstructed=True
-3	eṣām	idam	PRON	_	Case=Gen|Gender=Masc|Number=Plur	_	_	_	LemmaId=37876|OccId=605795|Unsandhied=eṣām|UnsandhiedReconstructed=True
-4	anna	anna	NOUN	_	Case=Cpd	_	_	_	LemmaId=20377|OccId=607653|Unsandhied=anna|UnsandhiedReconstructed=True
-5	dhāraṇāt	dhāraṇa	NOUN	_	Case=Abl|Gender=Neut|Number=Sing	_	_	_	LemmaId=42504|OccId=607690|Unsandhied=dhāraṇāt|UnsandhiedReconstructed=True
+1	ityādi	ityādi	ADJ	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=63350|OccId=604364|Unsandhied=ityādi|UnsandhiedReconstructed=True
+2	eṣām	idam	PRON	_	Case=Gen|Gender=Masc|Number=Plur	_	_	_	LemmaId=37876|OccId=605795|Unsandhied=eṣām|UnsandhiedReconstructed=True
+3	anna	anna	NOUN	_	Case=Cpd	_	_	_	LemmaId=20377|OccId=607653|Unsandhied=anna|UnsandhiedReconstructed=True
+4	dhāraṇāt	dhāraṇa	NOUN	_	Case=Abl|Gender=Neut|Number=Sing	_	_	_	LemmaId=42504|OccId=607690|Unsandhied=dhāraṇāt|UnsandhiedReconstructed=True
 
-# text = khalvāpyo iti 'pyarthaḥ
-# sent_id = 16940
+# text = yaḥ puṃso 'pyarthaḥ
+# sent_id = 16939
 # sent_counter = 2
 # sent_subcounter = 
-1-3	iti	_	_	_	_	_	_	_	_
-1	api	api	PART	_		_	_	_	LemmaId=21365|OccId=604367|Unsandhied=api|UnsandhiedReconstructed=True
-2	iti	iti	PART	_		_	_	_	LemmaId=63331|OccId=604422|Unsandhied=iti|UnsandhiedReconstructed=True
-3	khalu	khalu	PART	_		_	_	_	LemmaId=128848|OccId=605108|Unsandhied=khalu|UnsandhiedReconstructed=True
+1-3	puṃso	_	_	_	_	_	_	_	_
+1	yaḥ	yad	PRON	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=37877|OccId=604007|Unsandhied=yaḥ|UnsandhiedReconstructed=True
+2	api	api	PART	_		_	_	_	LemmaId=21365|OccId=604367|Unsandhied=api|UnsandhiedReconstructed=True
+3	puṃsaḥ	puṃs	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	_	_	_	LemmaId=143398|OccId=608327|Unsandhied=puṃsaḥ|UnsandhiedReconstructed=True
 
-# text = 'pyarthaḥ
-# sent_id = 16956
+# text = evānnarasa yakṛtplīhasthenaiva āmagandhatā kvacidaduṣṭā 'pyarthaḥ
+# sent_id = 16955
 # sent_counter = 2
 # sent_subcounter = 
+1-5	yakṛtplīhasthenaiva	_	_	_	_	_	_	_	_
 1	arthaḥ	artha	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=53136|OccId=604368|Unsandhied=arthaḥ|UnsandhiedReconstructed=True
+2	plīha	plīhan	NOUN	_	Case=Cpd	_	_	_	LemmaId=152773|OccId=604389|Unsandhied=plīha|UnsandhiedReconstructed=True
+3	anna	anna	NOUN	_	Case=Cpd	_	_	_	LemmaId=20377|OccId=607658|Unsandhied=anna|UnsandhiedReconstructed=True
+4	aduṣṭāḥ	aduṣṭa	ADJ	_	Case=Nom|Gender=Masc|Number=Plur	_	_	_	LemmaId=7592|OccId=607695|Unsandhied=aduṣṭāḥ|UnsandhiedReconstructed=True
+5	gandha	gandha	NOUN	_	Case=Cpd	_	_	_	LemmaId=130008|OccId=1843677|Unsandhied=gandha|UnsandhiedReconstructed=True
 
-# text = gacchati
-# sent_id = 17100
+# text = dhātuvāhīni tatrāpi yogavāhitvaṃ rajaḥsaṃjñaṃ na aṅgapratyaṅgapravyaktībhāvāttu natu madhurādirasabhedena sambadhyate gacchati
+# sent_id = 17102
 # sent_counter = 3
 # sent_subcounter = 
-1	gacchati	gam	VERB	_	Tense=Pres|Mood=Ind|Person=3|Number=Sing	_	_	_	LemmaId=156214|OccId=604375|Unsandhied=gacchati
+1-10	aṅgapratyaṅgapravyaktībhāvāttu	_	_	_	_	_	_	_	_
+1	aṅga	aṅga	NOUN	_	Case=Cpd	_	_	_	LemmaId=6145|OccId=603546|Unsandhied=aṅga|UnsandhiedReconstructed=True
+2	madhura	madhura	ADJ	_	Case=Cpd	_	_	_	LemmaId=35704|OccId=604033|Unsandhied=madhura|UnsandhiedReconstructed=True
+3	gacchati	gam	VERB	_	Tense=Pres|Mood=Ind|Person=3|Number=Sing	_	_	_	LemmaId=156214|OccId=604375|Unsandhied=gacchati
+4	rajas	rajas	NOUN	_	Case=Cpd	_	_	_	LemmaId=65999|OccId=604446|Unsandhied=rajas|UnsandhiedReconstructed=True
+5	na	na	PART	_		_	_	_	LemmaId=43432|OccId=605008|Unsandhied=na|UnsandhiedReconstructed=True
+6	na	na	PART	_		_	_	_	LemmaId=43432|OccId=605135|Unsandhied=na|UnsandhiedReconstructed=True
+7	sambadhyate	sambandh	VERB	_	Tense=Pres|Mood=Ind|Voice=Pass|Person=3|Number=Sing	_	_	_	LemmaId=165569|OccId=607725|Unsandhied=sambadhyate
+8	dhātu	dhātu	NOUN	_	Case=Cpd	_	_	_	LemmaId=92416|OccId=969856|Unsandhied=dhātu|UnsandhiedReconstructed=True
+9	tatra	tatra	ADV	_		_	_	_	LemmaId=95978|OccId=1997028|Unsandhied=tatra|UnsandhiedReconstructed=True
+10	yogavāhi	yogavāhin	ADJ	_	Case=Cpd	_	_	_	LemmaId=65107|OccId=2076183|Unsandhied=yogavāhi|UnsandhiedReconstructed=True|WordSem=130811
 

@@ -4164,7 +4164,7 @@
 5	eva	eva	PART	_		_	_	_	LemmaId=39754|OccId=1341679|Unsandhied=eva|UnsandhiedReconstructed=True
 6	cikitsitam	cikitsita	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=51335|OccId=1341680|Unsandhied=cikitsitam|UnsandhiedReconstructed=True
 
-# text = gaṇoktam api yaddravyaṃ bhavedvyādhāvayaugikam
+# text = gaṇoktam api yaddravyaṃ bhaved vyādhāv ayaugikam
 # sent_id = 6843
 # sent_counter = 137
 # sent_subcounter = 1
@@ -4175,10 +4175,11 @@
 4-5	yaddravyaṃ	_	_	_	_	_	_	_	_
 4	yat	yad	PRON	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=37877|OccId=1341682|Unsandhied=yat|UnsandhiedReconstructed=True
 5	dravyam	dravya	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=90455|OccId=1341683|Unsandhied=dravyam|UnsandhiedReconstructed=True
-6-8	bhavedvyādhāvayaugikam	_	_	_	_	_	_	_	_
-6	bhavet	bhū	VERB	_	Tense=Pres|Mood=Opt|Person=3|Number=Sing	_	_	_	LemmaId=157250|OccId=1341684|Unsandhied=bhavet
-7	vyādhau	vyādhi	NOUN	_	Case=Loc|Gender=Masc|Number=Sing	_	_	_	LemmaId=119173|OccId=1341685|Unsandhied=vyādhau|UnsandhiedReconstructed=True
-8	ayaugikam	ayaugika	ADJ	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=32437|OccId=1341686|Unsandhied=ayaugikam|UnsandhiedReconstructed=True
+6	bhaved	bhū	VERB	_	Tense=Pres|Mood=Opt|Person=3|Number=Sing	_	_	_	LemmaId=157250|OccId=5999761|Unsandhied=bhavet
+7	vyādhāv	vyādhi	NOUN	_	Case=Loc|Gender=Masc|Number=Sing	_	_	_	LemmaId=119173|OccId=5999762|Unsandhied=vyādhau
+8-9	ayaugikam	_	_	_	_	_	_	_	_
+8	a	a	PART	_		_	_	_	LemmaId=213048|OccId=5999763|Unsandhied=a
+9	yaugikam	yaugika	ADJ	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=65320|OccId=5999764|Unsandhied=yaugikam
 
 # text = taduddharedyaugikaṃ tu prakṣipedapyakīrtitam
 # sent_id = 6844

@@ -13678,12 +13678,14 @@
 1-2	hīnamātram	_	_	_	_	_	_	_	_
 1	hīna	hā	VERB	_	Case=Cpd|VerbForm=Part	_	_	_	LemmaId=157412|OccId=1439278|Unsandhied=hīna|UnsandhiedReconstructed=True
 2	mātram	mātra	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=78185|OccId=1439279|Unsandhied=mātram|UnsandhiedReconstructed=True
-3	asaṃtoṣaṃ	asaṃtoṣa	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	_	_	_	LemmaId=60765|OccId=1439280|Unsandhied=asaṃtoṣam|UnsandhiedReconstructed=True
-4	karoti	kṛ	VERB	_	Tense=Pres|Mood=Ind|Person=3|Number=Sing	_	_	_	LemmaId=156168|OccId=1439172|Unsandhied=karoti
-5	ca	ca	CONJ	_		_	_	_	LemmaId=157144|OccId=1439173|Unsandhied=ca|UnsandhiedReconstructed=True
-6-7	balakṣayam	_	_	_	_	_	_	_	_
-6	bala	bala	NOUN	_	Case=Cpd	_	_	_	LemmaId=154315|OccId=1439174|Unsandhied=bala|UnsandhiedReconstructed=True
-7	kṣayam	kṣaya	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	_	_	_	LemmaId=135459|OccId=1439175|Unsandhied=kṣayam|UnsandhiedReconstructed=True
+3-4	asaṃtoṣaṃ	_	_	_	_	_	_	_	_
+3	a	a	PART	_		_	_	_	LemmaId=213048|OccId=6057188|Unsandhied=a
+4	saṃtoṣam	saṃtoṣa	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	_	_	_	LemmaId=17522|OccId=6057189|Unsandhied=saṃtoṣam
+5	karoti	kṛ	VERB	_	Tense=Pres|Mood=Ind|Person=3|Number=Sing	_	_	_	LemmaId=156168|OccId=1439172|Unsandhied=karoti
+6	ca	ca	CONJ	_		_	_	_	LemmaId=157144|OccId=1439173|Unsandhied=ca|UnsandhiedReconstructed=True
+7-8	balakṣayam	_	_	_	_	_	_	_	_
+7	bala	bala	NOUN	_	Case=Cpd	_	_	_	LemmaId=154315|OccId=1439174|Unsandhied=bala|UnsandhiedReconstructed=True
+8	kṣayam	kṣaya	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	_	_	_	LemmaId=135459|OccId=1439175|Unsandhied=kṣayam|UnsandhiedReconstructed=True
 
 # text = ālasyagauravāṭopasādāṃśca kurute 'dhikam
 # sent_id = 4624
@@ -13781,13 +13783,15 @@
 # sent_id = 4631
 # sent_counter = 478
 # sent_subcounter = 1
-1	aśāntam	aśānta	ADJ	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=59928|OccId=1439217|Unsandhied=aśāntam|UnsandhiedReconstructed=True
-2	upadagdhaṃ	upadah	VERB	_	Case=Nom|Gender=Neut|Number=Sing|VerbForm=Part	_	_	_	LemmaId=160398|OccId=1439218|Unsandhied=upadagdham|UnsandhiedReconstructed=True
-3	ca	ca	CONJ	_		_	_	_	LemmaId=157144|OccId=1439219|Unsandhied=ca|UnsandhiedReconstructed=True
-4	tathā	tathā	ADV	_		_	_	_	LemmaId=95987|OccId=1439220|Unsandhied=tathā|UnsandhiedReconstructed=True
-5	svādu	svādu	ADJ	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=120833|OccId=1439221|Unsandhied=svādu|UnsandhiedReconstructed=True
-6	na	na	PART	_		_	_	_	LemmaId=43432|OccId=1439222|Unsandhied=na|UnsandhiedReconstructed=True
-7	lakṣyate	lakṣay	VERB	_	Tense=Pres|Mood=Ind|Voice=Pass|Person=3|Number=Sing	_	_	_	LemmaId=159902|OccId=1439223|Unsandhied=lakṣyate
+1-2	aśāntam	_	_	_	_	_	_	_	_
+1	a	a	PART	_		_	_	_	LemmaId=213048|OccId=6061047|Unsandhied=a
+2	śāntam	śam	VERB	_	Case=Nom|Gender=Neut|Number=Sing|VerbForm=Part	_	_	_	LemmaId=157809|OccId=6061048|Unsandhied=śāntam
+3	upadagdhaṃ	upadah	VERB	_	Case=Nom|Gender=Neut|Number=Sing|VerbForm=Part	_	_	_	LemmaId=160398|OccId=1439218|Unsandhied=upadagdham|UnsandhiedReconstructed=True
+4	ca	ca	CONJ	_		_	_	_	LemmaId=157144|OccId=1439219|Unsandhied=ca|UnsandhiedReconstructed=True
+5	tathā	tathā	ADV	_		_	_	_	LemmaId=95987|OccId=1439220|Unsandhied=tathā|UnsandhiedReconstructed=True
+6	svādu	svādu	ADJ	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=120833|OccId=1439221|Unsandhied=svādu|UnsandhiedReconstructed=True
+7	na	na	PART	_		_	_	_	LemmaId=43432|OccId=1439222|Unsandhied=na|UnsandhiedReconstructed=True
+8	lakṣyate	lakṣay	VERB	_	Tense=Pres|Mood=Ind|Voice=Pass|Person=3|Number=Sing	_	_	_	LemmaId=159902|OccId=1439223|Unsandhied=lakṣyate
 
 # text = yadyat svādutaraṃ tattadvidadhyāduttarottaram
 # sent_id = 4632

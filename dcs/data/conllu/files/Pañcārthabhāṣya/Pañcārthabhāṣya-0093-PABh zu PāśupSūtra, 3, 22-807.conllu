@@ -3,7 +3,7 @@
 ## chapter: PABh zu PāśupSūtra, 3, 22
 ## chapter_id: 807
 # text = atra athaśabdo ghorarūpopādhiko draṣṭavyaḥ ghorāṇi aśivāni aśāntāni ananugrahakārīṇītyarthaḥ
-# sent_id = 85421
+# sent_id = 85430
 # sent_counter = 1
 # sent_subcounter = 
 1	atra	atra	ADV	_		_	_	_	LemmaId=7442|OccId=211421|Unsandhied=atra|UnsandhiedReconstructed=True
@@ -16,16 +16,20 @@
 6	upādhikaḥ	upādhika	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=46016|OccId=211426|Unsandhied=upādhikaḥ|UnsandhiedReconstructed=True
 7	draṣṭavyaḥ	dṛś	VERB	_	Case=Nom|Gender=Masc|Number=Sing|VerbForm=Gdv	_	_	_	LemmaId=157766|OccId=211427|Unsandhied=draṣṭavyaḥ|UnsandhiedReconstructed=True
 8	ghorāṇi	ghora	ADJ	_	Case=Nom|Gender=Neut|Number=Plur	_	_	_	LemmaId=161205|OccId=211428|Unsandhied=ghorāṇi|UnsandhiedReconstructed=True
-9	aśivāni	aśiva	ADJ	_	Case=Nom|Gender=Neut|Number=Plur	_	_	_	LemmaId=59955|OccId=211429|Unsandhied=aśivāni|UnsandhiedReconstructed=True
-10	aśāntāni	aśānta	ADJ	_	Case=Nom|Gender=Neut|Number=Plur	_	_	_	LemmaId=59928|OccId=211430|Unsandhied=aśāntāni|UnsandhiedReconstructed=True
-11-14	ananugrahakārīṇītyarthaḥ	_	_	_	_	_	_	_	_
-11	ananugraha	ananugraha	NOUN	_	Case=Cpd	_	_	_	LemmaId=169567|OccId=211431|Unsandhied=ananugraha|UnsandhiedReconstructed=True
-12	kārīṇi	kārin	ADJ	_	Case=Nom|Gender=Neut|Number=Plur	_	_	_	LemmaId=14154|OccId=211432|Unsandhied=kārīṇi|UnsandhiedReconstructed=True
-13	iti	iti	PART	_		_	_	_	LemmaId=63331|OccId=211433|Unsandhied=iti|UnsandhiedReconstructed=True
-14	arthaḥ	artha	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=53136|OccId=211434|Unsandhied=arthaḥ|UnsandhiedReconstructed=True
+9-10	aśivāni	_	_	_	_	_	_	_	_
+9	a	a	PART	_		_	_	_	LemmaId=213048|OccId=6061072|Unsandhied=a
+10	śivāni	śiva	ADJ	_	Case=Nom|Gender=Neut|Number=Plur	_	_	_	LemmaId=132711|OccId=6061073|Unsandhied=śivāni
+11-12	aśāntāni	_	_	_	_	_	_	_	_
+11	a	a	PART	_		_	_	_	LemmaId=213048|OccId=6061074|Unsandhied=a
+12	śāntāni	śam	VERB	_	Case=Nom|Gender=Neut|Number=Plur|VerbForm=Part	_	_	_	LemmaId=157809|OccId=6061075|Unsandhied=śāntāni
+13-16	ananugrahakārīṇītyarthaḥ	_	_	_	_	_	_	_	_
+13	ananugraha	ananugraha	NOUN	_	Case=Cpd	_	_	_	LemmaId=169567|OccId=211431|Unsandhied=ananugraha|UnsandhiedReconstructed=True
+14	kārīṇi	kārin	ADJ	_	Case=Nom|Gender=Neut|Number=Plur	_	_	_	LemmaId=14154|OccId=211432|Unsandhied=kārīṇi|UnsandhiedReconstructed=True
+15	iti	iti	PART	_		_	_	_	LemmaId=63331|OccId=211433|Unsandhied=iti|UnsandhiedReconstructed=True
+16	arthaḥ	artha	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=53136|OccId=211434|Unsandhied=arthaḥ|UnsandhiedReconstructed=True
 
 # text = ebhya ityaparimitāparisaṃkhyātebhya ityarthaḥ
-# sent_id = 85422
+# sent_id = 85431
 # sent_counter = 2
 # sent_subcounter = 
 1	ebhya	idam	PRON	_	Case=Abl|Gender=Neut|Number=Plur	_	_	_	LemmaId=37876|OccId=211435|Unsandhied=_
@@ -38,7 +42,7 @@
 6	arthaḥ	artha	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=53136|OccId=211437|Unsandhied=arthaḥ|UnsandhiedReconstructed=True
 
 # text = āha kimetānyeva dvisaṃsthānasaṃsthebhya eva vā
-# sent_id = 85423
+# sent_id = 85432
 # sent_counter = 3
 # sent_subcounter = 
 1	āha	ah	VERB	_	Tense=Past|Mood=Ind|Person=3|Number=Sing	_	_	_	LemmaId=156124|OccId=211438|Unsandhied=āha
@@ -54,7 +58,7 @@
 9	vā	vā	CONJ	_		_	_	_	LemmaId=75765|OccId=211446|Unsandhied=vā|UnsandhiedReconstructed=True
 
 # text = ucyate yasmādāha
-# sent_id = 85424
+# sent_id = 85433
 # sent_counter = 4
 # sent_subcounter = 
 1	ucyate	vac	VERB	_	Tense=Pres|Mood=Ind|Voice=Pass|Person=3|Number=Sing	_	_	_	LemmaId=157264|OccId=211447|Unsandhied=ucyate

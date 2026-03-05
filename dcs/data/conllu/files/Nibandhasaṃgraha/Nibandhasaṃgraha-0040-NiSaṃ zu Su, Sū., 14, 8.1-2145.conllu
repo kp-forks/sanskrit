@@ -2,35 +2,42 @@
 ## text_id: 6
 ## chapter: NiSaṃ zu Su, Sū., 14, 8.1
 ## chapter_id: 2145
-# text = āha ityādi
-# sent_id = 16862
+# text = nirdiśannāha utpattiṃ sa svabhāvād ityādi
+# sent_id = 16857
 # sent_counter = 1
 # sent_subcounter = 
-1	ityādi	ityādi	ADJ	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=63350|OccId=604993|Unsandhied=ityādi|UnsandhiedReconstructed=True
-2	āha	ah	VERB	_	Tense=Past|Mood=Ind|Person=3|Number=Sing	_	_	_	LemmaId=156124|OccId=605025|Unsandhied=āha
+1-5	ityādi	_	_	_	_	_	_	_	_
+1	utpattim	utpatti	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	_	_	_	LemmaId=55936|OccId=603081|Unsandhied=utpattim|UnsandhiedReconstructed=True
+2	nirdiśan	nirdiś	VERB	_	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part	_	_	_	LemmaId=161388|OccId=603289|Unsandhied=nirdiśan|UnsandhiedReconstructed=True
+3	svabhāvāt	svabhāva	NOUN	_	Case=Abl|Gender=Masc|Number=Sing	_	_	_	LemmaId=114497|OccId=603575|Unsandhied=svabhāvāt|UnsandhiedReconstructed=True
+4	saḥ	tad	PRON	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=37875|OccId=604362|Unsandhied=saḥ|UnsandhiedReconstructed=True
+5	ityādi	ityādi	ADJ	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=63350|OccId=604993|Unsandhied=ityādi|UnsandhiedReconstructed=True
 
-# text = aśeṣadhātupoṣako pariṇāmaṃ api sa tathā garbhanābhināḍī indravadhūḥ raktam
-# sent_id = 16983
+# text = garbhanābhināḍī yaḥ dravatā strīyonipravṛttasya ūrdhvaromarājitvādīni pariṇāmaṃ api raktam
+# sent_id = 16985
 # sent_counter = 2
 # sent_subcounter = 
-1-8	sa	_	_	_	_	_	_	_	_
-1	tathā	tathā	ADV	_		_	_	_	LemmaId=95987|OccId=603227|Unsandhied=tathā|UnsandhiedReconstructed=True
-2	garbhanābhināḍī	garbhanābhināḍī	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	_	_	_	LemmaId=129642|OccId=603298|Unsandhied=garbhanābhināḍī|UnsandhiedReconstructed=True
-3	saḥ	tad	PRON	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=37875|OccId=604009|Unsandhied=saḥ|UnsandhiedReconstructed=True
+1-8	strīyonipravṛttasya	_	_	_	_	_	_	_	_
+1	garbhanābhināḍī	garbhanābhināḍī	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	_	_	_	LemmaId=129642|OccId=603298|Unsandhied=garbhanābhināḍī|UnsandhiedReconstructed=True
+2	ūrdhva	ūrdhva	ADJ	_	Case=Cpd	_	_	_	LemmaId=38446|OccId=603566|Unsandhied=ūrdhva|UnsandhiedReconstructed=True
+3	strī	strī	NOUN	_	Case=Cpd	_	_	_	LemmaId=102548|OccId=604426|Unsandhied=strī|UnsandhiedReconstructed=True
 4	raktam	rakta	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=65581|OccId=604998|Unsandhied=raktam|UnsandhiedReconstructed=True
 5	pariṇāmam	pariṇāma	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	_	_	_	LemmaId=19028|OccId=605845|Unsandhied=pariṇāmam|UnsandhiedReconstructed=True
-6	aśeṣa	aśeṣa	NOUN	_	Case=Cpd	_	_	_	LemmaId=60027|OccId=607661|Unsandhied=aśeṣa|UnsandhiedReconstructed=True
-7	api	api	PART	_		_	_	_	LemmaId=21365|OccId=607697|Unsandhied=api|UnsandhiedReconstructed=True
-8	_	indravadhū	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	_	_	_	LemmaId=175519|OccId=608365|Unsandhied=_
+6	api	api	PART	_		_	_	_	LemmaId=21365|OccId=607697|Unsandhied=api|UnsandhiedReconstructed=True
+7	yaḥ	yad	PRON	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=37877|OccId=608331|Unsandhied=yaḥ|UnsandhiedReconstructed=True
+8	drava	drava	ADJ	_	Case=Cpd	_	_	_	LemmaId=166284|OccId=3142015|Unsandhied=drava|UnsandhiedReconstructed=True
 
-# text = śītādidravādiguṇabhedena viṃśatiguṇasya syāt
-# sent_id = 17124
+# text = dhātavaste śītādidravādiguṇabhedena dhātuvahasrotasāṃ viṃśatiguṇasya syāt
+# sent_id = 17127
 # sent_counter = 3
 # sent_subcounter = 
-1	drava	drava	ADJ	_	Case=Cpd	_	_	_	LemmaId=166284|OccId=604065|Unsandhied=drava|UnsandhiedReconstructed=True
-2	ādi	ādi	NOUN	_	Case=Cpd	_	_	_	LemmaId=57973|OccId=604066|Unsandhied=ādi|UnsandhiedReconstructed=True
-3	guṇa	guṇa	NOUN	_	Case=Cpd	_	_	_	LemmaId=124503|OccId=604067|Unsandhied=guṇa|UnsandhiedReconstructed=True
-4	bhedena	bheda	NOUN	_	Case=Ins|Gender=Masc|Number=Sing	_	_	_	LemmaId=25880|OccId=604068|Unsandhied=bhedena|UnsandhiedReconstructed=True
-5	viṃśati	viṃśati	NUM	_	Case=Cpd	_	_	_	LemmaId=47721|OccId=604069|Unsandhied=viṃśati|UnsandhiedReconstructed=True
-6	syāt	as	VERB	_	Tense=Pres|Mood=Opt|Person=3|Number=Sing	_	_	_	LemmaId=156122|OccId=605017|Unsandhied=syāt
+1	ādi	ādi	NOUN	_	Case=Cpd	_	_	_	LemmaId=57973|OccId=604064|Unsandhied=ādi|UnsandhiedReconstructed=True
+2	te	tad	PRON	_	Case=Nom|Gender=Masc|Number=Plur	_	_	_	LemmaId=37875|OccId=605877|Unsandhied=te|UnsandhiedReconstructed=True
+3	drava	drava	ADJ	_	Case=Cpd	_	_	_	LemmaId=166284|OccId=604065|Unsandhied=drava|UnsandhiedReconstructed=True
+4	ādi	ādi	NOUN	_	Case=Cpd	_	_	_	LemmaId=57973|OccId=604066|Unsandhied=ādi|UnsandhiedReconstructed=True
+5	guṇa	guṇa	NOUN	_	Case=Cpd	_	_	_	LemmaId=124503|OccId=604067|Unsandhied=guṇa|UnsandhiedReconstructed=True
+6	bhedena	bheda	NOUN	_	Case=Ins|Gender=Masc|Number=Sing	_	_	_	LemmaId=25880|OccId=604068|Unsandhied=bhedena|UnsandhiedReconstructed=True
+7	viṃśati	viṃśati	NUM	_	Case=Cpd	_	_	_	LemmaId=47721|OccId=604069|Unsandhied=viṃśati|UnsandhiedReconstructed=True
+8	syāt	as	VERB	_	Tense=Pres|Mood=Opt|Person=3|Number=Sing	_	_	_	LemmaId=156122|OccId=605017|Unsandhied=syāt
+9	dhātu	dhātu	NOUN	_	Case=Cpd	_	_	_	LemmaId=92416|OccId=969871|Unsandhied=dhātu|UnsandhiedReconstructed=True
 

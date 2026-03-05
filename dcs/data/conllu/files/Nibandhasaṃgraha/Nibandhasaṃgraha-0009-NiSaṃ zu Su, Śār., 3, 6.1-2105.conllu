@@ -2,52 +2,59 @@
 ## text_id: 6
 ## chapter: NiSaṃ zu Su, Śār., 3, 6.1
 ## chapter_id: 2105
-# text = tat snehādikriyāntargate ityādi
-# sent_id = 16912
+# text = syād tannirvṛttau na kathayāmīti vardhakaṃ āsthāpanānuvāsane ityādi
+# sent_id = 16913
 # sent_counter = 1
 # sent_subcounter = 
-1	tat	tad	PRON	_	Case=Acc|Gender=Neut|Number=Sing	_	_	_	LemmaId=37875|OccId=811349|Unsandhied=tat|UnsandhiedReconstructed=True
-2	ādi	ādi	NOUN	_	Case=Cpd	_	_	_	LemmaId=57973|OccId=602885|Unsandhied=ādi|UnsandhiedReconstructed=True
-3	kriyā	kriyā	NOUN	_	Case=Cpd	_	_	_	LemmaId=133808|OccId=602886|Unsandhied=kriyā|UnsandhiedReconstructed=True
-4	antargate	antargam	VERB	_	Case=Nom|Gender=Neut|Number=Dual|VerbForm=Part	_	_	_	LemmaId=158251|OccId=602887|Unsandhied=antargate|UnsandhiedReconstructed=True
-5	ityādi	ityādi	ADJ	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=63350|OccId=601451|Unsandhied=ityādi|UnsandhiedReconstructed=True
+1	ityādi	ityādi	ADJ	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=63350|OccId=601451|Unsandhied=ityādi|UnsandhiedReconstructed=True
+2	āsthāpana	āsthāpana	NOUN	_	Case=Cpd	_	_	_	LemmaId=63038|OccId=602888|Unsandhied=āsthāpana|UnsandhiedReconstructed=True
+3	tad	tad	PRON	_	Case=Cpd	_	_	_	LemmaId=37875|OccId=603582|Unsandhied=tad|UnsandhiedReconstructed=True
+4	syāt	as	VERB	_	Tense=Pres|Mood=Opt|Person=3|Number=Sing	_	_	_	LemmaId=156122|OccId=607369|Unsandhied=syāt
+5	na	na	PART	_		_	_	_	LemmaId=43432|OccId=607476|Unsandhied=na|UnsandhiedReconstructed=True
+6	vardhakam	vardhaka	ADJ	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=199002|OccId=798862|Unsandhied=vardhakam|UnsandhiedReconstructed=True
+7	kathayāmi	kathay	VERB	_	Tense=Pres|Mood=Ind|Person=1|Number=Sing	_	_	_	LemmaId=156154|OccId=2501156|Unsandhied=kathayāmi
 
-# text = 'pyatyantakledajñāpanāya yāvad mukhasya bhavati
-# sent_id = 17010
+# text = bhavitavyaṃ spandanaṃ gurusūtraṃ ca mukhasya yāvad hi bhavati
+# sent_id = 17015
 # sent_counter = 2
 # sent_subcounter = 
-1	jñāpanāya	jñāpana	NOUN	_	Case=Dat|Gender=Neut|Number=Sing	_	_	_	LemmaId=89738|OccId=601506|Unsandhied=jñāpanāya|UnsandhiedReconstructed=True
-2	yāvat	yāvat	SCONJ	_		_	_	_	LemmaId=64536|OccId=600824|Unsandhied=yāvat|UnsandhiedReconstructed=True
+1	yāvat	yāvat	SCONJ	_		_	_	_	LemmaId=64536|OccId=600824|Unsandhied=yāvat|UnsandhiedReconstructed=True
+2	hi	hi	PART	_		_	_	_	LemmaId=109879|OccId=601346|Unsandhied=hi|UnsandhiedReconstructed=True
 3	bhavati	bhū	VERB	_	Tense=Pres|Mood=Ind|Person=3|Number=Sing	_	_	_	LemmaId=157250|OccId=601465|Unsandhied=bhavati
 4	mukhasya	mukha	NOUN	_	Case=Gen|Gender=Neut|Number=Sing	_	_	_	LemmaId=136827|OccId=601507|Unsandhied=mukhasya|UnsandhiedReconstructed=True
+5	bhavitavyam	bhū	VERB	_	Case=Nom|Gender=Neut|Number=Sing|VerbForm=Gdv	_	_	_	LemmaId=157250|OccId=603235|Unsandhied=bhavitavyam|UnsandhiedReconstructed=True
+6	spandanam	spandana	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=103525|OccId=605043|Unsandhied=spandanam|UnsandhiedReconstructed=True
+7	ca	ca	CONJ	_		_	_	_	LemmaId=157144|OccId=798830|Unsandhied=ca|UnsandhiedReconstructed=True
+8	gurusūtram	gurusūtra	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=173631|OccId=2500402|Unsandhied=gurusūtram|UnsandhiedReconstructed=True
 
 # text = gaṇanīyam
-# sent_id = 17113
+# sent_id = 17117
 # sent_counter = 3
 # sent_subcounter = 
 1	gaṇanīyam	gaṇay	VERB	_	Case=Nom|Gender=Neut|Number=Sing|VerbForm=Gdv	_	_	_	LemmaId=157603|OccId=3139180|Unsandhied=gaṇanīyam|UnsandhiedReconstructed=True
 
-# text = 'jñair strīpuruṣendriyadvayasaṃgharṣaja sarvaṃ āhādṛṣṭetyādi
-# sent_id = 17133
-# sent_counter = 4
-# sent_subcounter = 
-1-4	strīpuruṣendriyadvayasaṃgharṣaja	_	_	_	_	_	_	_	_
-1	sarvam	sarva	PRON	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=104444|OccId=600848|Unsandhied=sarvam|UnsandhiedReconstructed=True
-2	strī	strī	NOUN	_	Case=Cpd	_	_	_	LemmaId=102548|OccId=600955|Unsandhied=strī|UnsandhiedReconstructed=True
-3	āha	ah	VERB	_	Tense=Past|Mood=Ind|Person=3|Number=Sing	_	_	_	LemmaId=156124|OccId=601482|Unsandhied=āha
-4	ajñaiḥ	ajña	ADJ	_	Case=Ins|Gender=Masc|Number=Plur	_	_	_	LemmaId=6602|OccId=3112484|Unsandhied=ajñaiḥ|UnsandhiedReconstructed=True
-
 # text = strīpuruṣendriyadvayasaṃgharṣaja āhādṛṣṭetyādi
-# sent_id = 17141
+# sent_id = 17142
 # sent_counter = 4
 # sent_subcounter = 
 1-2	āhādṛṣṭetyādi	_	_	_	_	_	_	_	_
-1	puruṣa	puruṣa	NOUN	_	Case=Cpd	_	_	_	LemmaId=144647|OccId=600956|Unsandhied=puruṣa|UnsandhiedReconstructed=True
-2	adṛṣṭā	adṛṣṭa	ADJ	_	Case=Nom|Gender=Fem|Number=Sing	_	_	_	LemmaId=7607|OccId=601483|Unsandhied=adṛṣṭā|UnsandhiedReconstructed=True
+1	strī	strī	NOUN	_	Case=Cpd	_	_	_	LemmaId=102548|OccId=600955|Unsandhied=strī|UnsandhiedReconstructed=True
+2	āha	ah	VERB	_	Tense=Past|Mood=Ind|Person=3|Number=Sing	_	_	_	LemmaId=156124|OccId=601482|Unsandhied=āha
 
-# text = āhādṛṣṭetyādi
-# sent_id = 17146
+# text = aprāptābhilaṣitapadārthā āhādṛṣṭetyādi
+# sent_id = 17147
 # sent_counter = 4
 # sent_subcounter = 
+1-2	āhādṛṣṭetyādi	_	_	_	_	_	_	_	_
+1	adṛṣṭā	adṛṣṭa	ADJ	_	Case=Nom|Gender=Fem|Number=Sing	_	_	_	LemmaId=7607|OccId=601483|Unsandhied=adṛṣṭā|UnsandhiedReconstructed=True
+2	prāpta	prāp	VERB	_	Case=Cpd|VerbForm=Part	_	_	_	LemmaId=163158|OccId=5938993|Unsandhied=prāpta
+
+# text = ātmasaṃnidhānajātāni aprāptābhilaṣitapadārthā āhādṛṣṭetyādi
+# sent_id = 17150
+# sent_counter = 4
+# sent_subcounter = 
+1-3	aprāptābhilaṣitapadārthā	_	_	_	_	_	_	_	_
 1	ityādi	ityādi	ADJ	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=63350|OccId=601484|Unsandhied=ityādi|UnsandhiedReconstructed=True
+2	jātāni	jan	VERB	_	Case=Nom|Gender=Neut|Number=Plur|VerbForm=Part	_	_	_	LemmaId=156584|OccId=603440|Unsandhied=jātāni|UnsandhiedReconstructed=True
+3	abhilaṣita	abhilaṣ	VERB	_	Case=Cpd|VerbForm=Part	_	_	_	LemmaId=158931|OccId=5938994|Unsandhied=abhilaṣita
 

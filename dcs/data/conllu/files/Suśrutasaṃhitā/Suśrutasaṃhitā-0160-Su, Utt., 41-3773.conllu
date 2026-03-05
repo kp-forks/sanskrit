@@ -1250,8 +1250,10 @@
 7	ca	ca	CONJ	_		_	_	_	LemmaId=157144|OccId=1481263|Unsandhied=ca|UnsandhiedReconstructed=True
 8	hanyād	han	VERB	_	Tense=Pres|Mood=Opt|Person=3|Number=Sing	_	_	_	LemmaId=157282|OccId=1481264|Unsandhied=hanyāt
 9	api	api	PART	_		_	_	_	LemmaId=21365|OccId=1481265|Unsandhied=api|UnsandhiedReconstructed=True
-10	pāṇḍutāṃ	pāṇḍutā	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	_	_	_	LemmaId=93371|OccId=1481266|Unsandhied=pāṇḍutām|UnsandhiedReconstructed=True
-11	ca	ca	CONJ	_		_	_	_	LemmaId=157144|OccId=1481267|Unsandhied=ca|UnsandhiedReconstructed=True
+10-11	pāṇḍutāṃ	_	_	_	_	_	_	_	_
+10	pāṇḍu	pāṇḍu	ADJ	_	Case=Cpd	_	_	_	LemmaId=93361|OccId=6012400|Unsandhied=pāṇḍu
+11	tām	tā	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	_	_	_	LemmaId=203679|OccId=6012401|Unsandhied=tām
+12	ca	ca	CONJ	_		_	_	_	LemmaId=157144|OccId=1481267|Unsandhied=ca|UnsandhiedReconstructed=True
 
 # text = śakṛdrasā go'śvagajāvyajānāṃ kvāthā mitāścāpi tathaiva bhāgaiḥ
 # sent_id = 14627

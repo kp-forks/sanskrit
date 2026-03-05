@@ -4051,19 +4051,20 @@
 7	aruciḥ	aruci	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	_	_	_	LemmaId=32759|OccId=1471881|Unsandhied=aruciḥ|UnsandhiedReconstructed=True
 8	bhavet	bhū	VERB	_	Tense=Pres|Mood=Opt|Person=3|Number=Sing	_	_	_	LemmaId=157250|OccId=1471882|Unsandhied=bhavet
 
-# text = annakāle hyabhuñjānaḥ kṣīyate mriyate 'thavā
+# text = annakāle hy abhuñjānaḥ kṣīyate mriyate 'thavā
 # sent_id = 13824
 # sent_counter = 147
 # sent_subcounter = 1
 1-2	annakāle	_	_	_	_	_	_	_	_
 1	anna	anna	NOUN	_	Case=Cpd	_	_	_	LemmaId=20377|OccId=1471883|Unsandhied=anna|UnsandhiedReconstructed=True
 2	kāle	kāla	NOUN	_	Case=Loc|Gender=Masc|Number=Sing	_	_	_	LemmaId=22761|OccId=1471884|Unsandhied=kāle|UnsandhiedReconstructed=True
-3-4	hyabhuñjānaḥ	_	_	_	_	_	_	_	_
-3	hi	hi	PART	_		_	_	_	LemmaId=109879|OccId=1471885|Unsandhied=hi|UnsandhiedReconstructed=True
-4	abhuñjānaḥ	abhuñjāna	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=31254|OccId=1471886|Unsandhied=abhuñjānaḥ|UnsandhiedReconstructed=True
-5	kṣīyate	kṣi	VERB	_	Tense=Pres|Mood=Ind|Voice=Pass|Person=3|Number=Sing	_	_	_	LemmaId=156197|OccId=1471887|Unsandhied=kṣīyate
-6	mriyate	mṛ	VERB	_	Tense=Pres|Mood=Ind|Voice=Pass|Person=3|Number=Sing	_	_	_	LemmaId=157973|OccId=1471888|Unsandhied=mriyate
-7	'thavā	athavā	CONJ	_		_	_	_	LemmaId=7472|OccId=1471889|Unsandhied=athavā|UnsandhiedReconstructed=True
+3	hy	hi	PART	_		_	_	_	LemmaId=109879|OccId=6017991|Unsandhied=hi
+4-5	abhuñjānaḥ	_	_	_	_	_	_	_	_
+4	a	a	PART	_		_	_	_	LemmaId=213048|OccId=6017992|Unsandhied=a
+5	bhuñjānaḥ	bhuj	VERB	_	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part	_	_	_	LemmaId=157293|OccId=6017993|Unsandhied=bhuñjānaḥ
+6	kṣīyate	kṣi	VERB	_	Tense=Pres|Mood=Ind|Voice=Pass|Person=3|Number=Sing	_	_	_	LemmaId=156197|OccId=1471887|Unsandhied=kṣīyate
+7	mriyate	mṛ	VERB	_	Tense=Pres|Mood=Ind|Voice=Pass|Person=3|Number=Sing	_	_	_	LemmaId=157973|OccId=1471888|Unsandhied=mriyate
+8	'thavā	athavā	CONJ	_		_	_	_	LemmaId=7472|OccId=1471889|Unsandhied=athavā|UnsandhiedReconstructed=True
 
 # text = sa kṣīṇaḥ kṛcchratāṃ yāti yātyasādhyatvam eva ca
 # sent_id = 13825

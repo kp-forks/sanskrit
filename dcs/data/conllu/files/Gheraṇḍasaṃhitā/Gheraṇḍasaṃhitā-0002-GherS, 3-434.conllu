@@ -2001,8 +2001,10 @@
 4	ghore	ghora	ADJ	_	Case=Loc|Gender=Neut|Number=Sing	_	_	_	LemmaId=161205|OccId=2670304|Unsandhied=ghore|UnsandhiedReconstructed=True
 5	maraṇaṃ	maraṇa	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=36896|OccId=2670305|Unsandhied=maraṇam|UnsandhiedReconstructed=True
 6	tasya	tad	PRON	_	Case=Gen|Gender=Masc|Number=Sing	_	_	_	LemmaId=37875|OccId=2670306|Unsandhied=tasya|UnsandhiedReconstructed=True
-7	no	no	PART	_		_	_	_	LemmaId=171455|OccId=2670307|Unsandhied=no|UnsandhiedReconstructed=True
-8	bhavet	bhū	VERB	_	Tense=Pres|Mood=Opt|Person=3|Number=Sing	_	_	_	LemmaId=157250|OccId=2670308|Unsandhied=bhavet
+7-8	no	_	_	_	_	_	_	_	_
+7	na	na	PART	_		_	_	_	LemmaId=43432|OccId=6049440|Unsandhied=na
+8	u	u	PART	_		_	_	_	LemmaId=213150|OccId=6049441|Unsandhied=u
+9	bhavet	bhū	VERB	_	Tense=Pres|Mood=Opt|Person=3|Number=Sing	_	_	_	LemmaId=157250|OccId=2670308|Unsandhied=bhavet
 
 # text = iyaṃ tu paramā mudrā gopanīyā prayatnataḥ
 # sent_id = 383

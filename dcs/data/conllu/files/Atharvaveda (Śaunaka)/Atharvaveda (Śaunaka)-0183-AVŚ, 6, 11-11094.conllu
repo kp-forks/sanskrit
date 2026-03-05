@@ -3,67 +3,67 @@
 ## chapter: AVŚ, 6, 11
 ## chapter_id: 11094
 # text = śamīm aśvatthaḥ ārūḍhaḥ
-# sent_id = 628687_1
+# sent_id = 635797_1
 1	śamīm	śamī	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	3	obl:goal	_	LemmaId=115781|OccId=4687688|Unsandhied=śamīm|Annotator=Ol
 2	aśvatthaḥ	aśvattha	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	LemmaId=60390|OccId=4687689|Unsandhied=aśvatthaḥ|Annotator=Ol
 3	ārūḍhaḥ	āruh	VERB	_	Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	LemmaId=159897|OccId=4687690|Unsandhied=ārūḍhaḥ|Annotator=Ol|Punctuation=fullStop
 
 # text = tatra puṃsuvanam kṛtam
-# sent_id = 628687_2
+# sent_id = 635797_2
 1	tatra	tatra	ADV	_	_	3	advmod	_	LemmaId=95978|OccId=4687691|Unsandhied=tatra|Annotator=Ol
 2	puṃsuvanam	puṃsuvana	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	3	nsubj	_	LemmaId=143417|OccId=4687692|Unsandhied=puṃsuvanam|Annotator=Ol
 3	kṛtam	kṛ	VERB	_	Case=Nom|Gender=Neut|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	LemmaId=156168|OccId=4687693|Unsandhied=kṛtam|Annotator=Ol|Punctuation=fullStop
 
 # text = tat vai putrasya vedanam
-# sent_id = 628688_1
+# sent_id = 635798_1
 1	tat	tad	PRON	_	Case=Nom|Gender=Neut|Number=Sing	4	nsubj	_	LemmaId=37875|OccId=4687694|Unsandhied=tat|Annotator=Ol
 2	vai	vai	PART	_	_	4	discourse	_	LemmaId=118154|OccId=4687695|Unsandhied=vai|Annotator=Ol
 3	putrasya	putra	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	4	nmod	_	LemmaId=144475|OccId=4687696|Unsandhied=putrasya|Annotator=Ol|WordSem=48023
 4	vedanam	vedana	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	0	root	_	LemmaId=143090|OccId=4687697|Unsandhied=vedanam|Annotator=Ol|Punctuation=fullStop|WordSem=768
 
 # text = tat strīṣu ā bharāmasi
-# sent_id = 628688_2
+# sent_id = 635798_2
 1	tat	tad	PRON	_	Case=Acc|Gender=Neut|Number=Sing	4	obj	_	LemmaId=37875|OccId=4687698|Unsandhied=tat|Annotator=Ol
 2	strīṣu	strī	NOUN	_	Case=Loc|Gender=Fem|Number=Plur	4	obl:goal	_	LemmaId=102548|OccId=4687699|Unsandhied=strīṣu|Annotator=Ol
 3	ā	ā	ADP	_	_	4	advmod	_	LemmaId=213041|OccId=4687725|Unsandhied=ā|Annotator=Ol
 4	bharāmasi	bhṛ	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres	0	root	_	LemmaId=157419|OccId=4687700|Unsandhied=bharāmasi|Annotator=Ol|Punctuation=fullStop
 
 # text = puṃsi vai retaḥ bhavati
-# sent_id = 628689_1
+# sent_id = 635799_1
 1	puṃsi	puṃs	NOUN	_	Case=Loc|Gender=Masc|Number=Sing	4	obl:loc	_	LemmaId=143398|OccId=4687701|Unsandhied=puṃsi|Annotator=Ol
 2	vai	vai	PART	_	_	4	discourse	_	LemmaId=118154|OccId=4687702|Unsandhied=vai|Annotator=Ol
 3	retaḥ	retas	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	4	nsubj	_	LemmaId=79717|OccId=4687703|Unsandhied=retaḥ|Annotator=Ol
 4	bhavati	bhū	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	LemmaId=157250|OccId=4687704|Unsandhied=bhavati|Annotator=Ol|Punctuation=fullStop
 
 # text = tat striyām anu sicyate
-# sent_id = 628689_2
+# sent_id = 635799_2
 1	tat	tad	PRON	_	Case=Nom|Gender=Neut|Number=Sing	4	nsubj	_	LemmaId=37875|OccId=4687705|Unsandhied=tat|Annotator=Ol
 2	striyām	strī	NOUN	_	Case=Loc|Gender=Fem|Number=Sing	4	obl:goal	_	LemmaId=102548|OccId=4687706|Unsandhied=striyām|Annotator=Ol
 3	anu	anu	ADP	_	_	4	advmod	_	LemmaId=166836|OccId=4687707|Unsandhied=anu|Annotator=Ol
 4	sicyate	sic	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Pass	0	root	_	LemmaId=158080|OccId=4687726|Unsandhied=sicyate|Annotator=Ol|Punctuation=fullStop
 
 # text = tat vai putrasya vedanam
-# sent_id = 628690_1
+# sent_id = 635800_1
 1	tat	tad	PRON	_	Case=Nom|Gender=Neut|Number=Sing	4	nsubj	_	LemmaId=37875|OccId=4687708|Unsandhied=tat|Annotator=Ol
 2	vai	vai	PART	_	_	4	discourse	_	LemmaId=118154|OccId=4687709|Unsandhied=vai|Annotator=Ol
 3	putrasya	putra	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	4	nmod	_	LemmaId=144475|OccId=4687710|Unsandhied=putrasya|Annotator=Ol
 4	vedanam	vedana	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	0	root	_	LemmaId=143090|OccId=4687711|Unsandhied=vedanam|Annotator=Ol|Punctuation=fullStop
 
 # text = tat prajāpatiḥ abravīt
-# sent_id = 628690_2
+# sent_id = 635800_2
 1	tat	tad	PRON	_	Case=Acc|Gender=Neut|Number=Sing	3	obj	_	LemmaId=37875|OccId=4687712|Unsandhied=tat|Annotator=Ol
 2	prajāpatiḥ	prajāpati	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	LemmaId=151290|OccId=4687713|Unsandhied=prajāpatiḥ|Annotator=Ol
 3	abravīt	brū	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	LemmaId=157262|OccId=4687714|Unsandhied=abravīt|Annotator=Ol|Punctuation=fullStop
 
 # text = prajāpatiḥ anumatiḥ sinīvālī acīkﾱpat
-# sent_id = 628691_1
+# sent_id = 635801_1
 1	prajāpatiḥ	prajāpati	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	LemmaId=151290|OccId=4687715|Unsandhied=prajāpatiḥ|Annotator=Ol
 2	anumatiḥ	anumati	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	1	conj	_	LemmaId=11139|OccId=4687716|Unsandhied=anumatiḥ|Annotator=Ol
 3	sinīvālī	sinīvālī	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	1	conj	_	LemmaId=106302|OccId=4687717|Unsandhied=sinīvālī|Annotator=Ol
 4	acīkﾱpat	kﾱp	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	LemmaId=156176|OccId=4687718|Unsandhied=acīkﾱpat|Annotator=Ol|Punctuation=fullStop
 
 # text = straiṣūyam anyatra dadhat pumāṃsam u dadhat iha
-# sent_id = 628692_1
+# sent_id = 635802_1
 1	straiṣūyam	straiṣūya	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	3	obj	_	LemmaId=102716|OccId=4687719|Unsandhied=straiṣūyam|Annotator=Ol
 2	anyatra	anyatra	ADV	_	_	3	advmod	_	LemmaId=20511|OccId=4687720|Unsandhied=anyatra|Annotator=Ol
 3	dadhat	dhā	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres	0	root	_	LemmaId=157327|OccId=4687721|Unsandhied=dadhat|Annotator=Ol|Punctuation=fullStop
